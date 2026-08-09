@@ -16,7 +16,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
 
       - name: Install Global Dependencies
         run: |
@@ -24,7 +23,7 @@ jobs:
 
       - name: Install Project Dependencies
         run: |
-          npm install
+          npm install --package-lock=false
 
       - name: Add & Prepare iOS Platform
         run: |

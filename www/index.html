@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://www.youtube.com https://s.ytimg.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com; media-src *; img-src 'self' data: content: https: https://img.youtube.com https://i.ytimg.com; frame-src 'self' gap: https://www.youtube.com https://www.youtube-nocookie.com; connect-src * https://raw.githubusercontent.com https://www.googleapis.com;">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <title>Eternal Life - Book Reader</title>
+    <link rel="icon" type="image/png" href="the_eternal_life.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&family=Amiri:wght@400;700&family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@400;700&family=Noto+Sans+Oriya:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=5">
+    <link rel="stylesheet" href="scroll_restorer_assets/scroll_restorer.css?v=8">
+    <link rel="stylesheet" href="manna catch/manna_catch.css">
+    <link rel="stylesheet" href="css/onboarding.css">
+
+    <!-- Eruda Console for Mobile Debugging (DISABLED) -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/eruda"></script> -->
+    <!-- <script>eruda.init();</script> -->
+
+</head>
+
+
+<body>
+
+    <div class="toolbar">
+        <div class="header-top-row">
+            <div class="toolbar-group">
+                <div class="logo-area">
+                    <button class="icon-btn" onclick="toggleSettings()" title="Settings" data-i18n-title="settings">
+                        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#5f4b32" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="3" y1="12" x2="21" y2="12"></line>
+                            <line x1="3" y1="6" x2="21" y2="6"></line>
+                            <line x1="3" y1="18" x2="21" y2="18"></line>
+                        </svg>
+                    </button>
+                    <div class="logo-group">
+                        <span id="appTitle">Eternal Life</span>
+                        <div id="offlineBadge" class="offline-badge" style="display: none;">
+                            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor"
+                                stroke-width="2.5">
+                                <line x1="1" y1="1" x2="23" y2="23"></line>
+                                <path d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"></path>
+                                <path d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"></path>
+                                <path d="M10.71 5.05A16 16 0 0 1 22.58 9"></path>
+                                <path d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"></path>
+                                <path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path>
+                                <line x1="12" y1="20" x2="12.01" y2="20"></line>
+                            </svg>
+                            <span>Offline</span>
+                        </div>
+                    </div>
+                    <div class="utility-group">
+                        <button class="icon-btn book-icon" onclick="toggleBookSelectorSidebar()" title="Select Book"
+                            data-i18n-title="select_book"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#5f4b32" stroke-width="2">
+                                <path
+                                    d="M10 22C7.17157 22 5.75736 22 4.87868 21.1213C4 20.2426 4 18.8284 4 16V8C4 5.17157 4 3.75736 4.87868 2.87868C5.75736 2 7.17157 2 10 2H14C16.8284 2 18.2426 2 19.1213 2.87868C20 3.75736 20 5.17157 20 8M14 22C16.8284 22 18.2426 22 19.1213 21.1213C20 20.2426 20 18.8284 20 16V12"
+                                    stroke-linecap="round" />
+                                <path
+                                    d="M19.8978 16H7.89778C6.96781 16 6.50282 16 6.12132 16.1022C5.08604 16.3796 4.2774 17.1883 4 18.2235" />
+                                <path d="M7 16V9M7 2.5V5" stroke-linecap="round" />
+                                <path
+                                    d="M13 16V19.5309C13 19.8065 13 19.9443 12.9051 20C12.8103 20.0557 12.6806 19.9941 12.4211 19.8708L11.1789 19.2808C11.0911 19.2391 11.0472 19.2182 11 19.2182C10.9528 19.2182 10.9089 19.2391 10.8211 19.2808L9.57889 19.8708C9.31943 19.9941 9.18971 20.0557 9.09485 20C9 19.9443 9 19.8065 9 19.5309V16.45"
+                                    stroke-linecap="round" />
+                            </svg></button>
+
+                        <button class="icon-btn" onclick="toggleSearchPanel(true)" title="Search"
+                            data-i18n-title="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#5f4b32" stroke-width="2">
+                                <circle cx="11" cy="11" r="8" />
+                                <path d="m21 21-4.35-4.35" />
+                            </svg></button>
+
+                        <button class="icon-btn" onclick="toggleBookmarks()" title="Bookmarks"
+                            data-i18n-title="bookmarks"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#5f4b32" stroke-width="2">
+                                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+                            </svg></button>
+                        <button class="icon-btn" onclick="toggleGamesModal()" title="Bible Games"
+                            data-i18n-title="games"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#5f4b32" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M21.2206 8C20.5311 5.81603 19.4281 4.63486 18.0908 4.16059C17.7099 4.02549 17.3016 4 16.8974 4H16.2849C15.4074 4 14.5514 4.27225 13.8351 4.77922L13.3332 5.13441C12.9434 5.41029 12.4776 5.55844 12 5.55844C11.5225 5.55844 11.0567 5.41029 10.6669 5.13443L10.165 4.77922C9.44862 4.27225 8.59264 4 7.71504 4H7.10257C6.69838 4 6.29009 4.02549 5.90915 4.16059C3.52645 5.00566 1.88749 8.09504 2.00604 15.1026C2.02992 16.5145 2.3603 18.075 3.63423 18.6842C4.03121 18.8741 4.49667 19 5.02671 19C5.66273 19 6.1678 18.8187 6.55763 18.5632C7.47153 17.9642 8.14122 16.9639 9.11125 16.4609C9.69519 16.1581 10.3434 16 11.0011 16H12.9989C13.6566 16 14.3048 16.1581 14.8888 16.4609C15.8588 16.9639 16.5285 17.9642 17.4424 18.5632C17.8322 18.8187 18.3373 19 18.9733 19C19.5033 19 19.9688 18.8741 20.3658 18.6842C21.6397 18.075 21.9701 16.5145 21.994 15.1026C22.0132 13.9681 21.9863 12.9362 21.9176 12"
+                                    stroke-linecap="round" />
+                                <path d="M7.5 9V12M6 10.5L9 10.5" stroke-linecap="round" />
+                                <circle cx="18.25" cy="10.25" r="0.75" fill="#5f4b32" />
+                                <circle cx="15.25" cy="10.25" r="0.75" fill="#5f4b32" />
+                                <circle cx="16.75" cy="8.75" r="0.75" fill="#5f4b32" />
+                                <circle cx="16.75" cy="11.75" r="0.75" fill="#5f4b32" />
+                            </svg></button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bible-reference-display" id="bibleReferenceDisplay" style="font-size: 1.1rem;">
+            <!-- Current Bible reference will be displayed here -->
+        </div>
+    </div>
+
+    <!-- Sidebar Overlay (dark tint when side panels are open) -->
+    <div id="sidebarOverlay" class="sidebar-overlay" onclick="closeAllSidePanels()"></div>
+
+    <div id="settingsPanel" class="settings-panel">
+        <div class="settings-header">
+            <h3>Settings</h3>
+            <button class="icon-btn close-btn" onclick="closeSettings()" title="Close Settings">&times;</button>
+        </div>
+        <div class="settings-content">
+            <div class="setting-row">
+                <label data-i18n="theme">Reading Theme</label>
+                <div class="theme-dots">
+                    <div class="theme-dot light" onclick="setTheme('light')" title="Light Mode"></div>
+                    <div class="theme-dot sepia" onclick="setTheme('sepia')" title="Sepia Mode"></div>
+                    <div class="theme-dot dark" onclick="setTheme('dark')" title="Night Mode"></div>
+                </div>
+            </div>
+            <div class="setting-row">
+                <label for="fontSizeRange" data-i18n="font_size">Font Size</label>
+                <input type="range" id="fontSizeRange" min="14" max="32" value="19" class="range-input"
+                    oninput="setFontSize(this.value)">
+            </div>
+            <div class="setting-row">
+                <label for="pageWidthRange" data-i18n="page_width">Page Width</label>
+                <input type="range" id="pageWidthRange" min="500" max="1200" value="800" class="range-input"
+                    oninput="setPageWidth(this.value)">
+            </div>
+            <div class="setting-row">
+                <label for="typefaceSelect" data-i18n="typeface">Typeface</label>
+                <select id="typefaceSelect" onchange="setFontFamily(this.value)">
+                    <option value="'Georgia', serif">Georgia (Serif)</option>
+                    <option value="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">System Sans
+                    </option>
+                    <option value="'Courier New', monospace">Monospace</option>
+                </select>
+            </div>
+            <div class="setting-row">
+                <label for="preferredLangSelector" data-i18n="language">Preferred Language</label>
+                <select id="preferredLangSelector" onchange="setPreferredLanguage(this.value)">
+                    <option value="text">English (ylt)</option>
+                    <option value="text_arabic">Arabic (SVD)</option>
+                    <option value="text_assamese">Assamese (asm_irv)</option>
+                    <option value="text_bengali">Bengali (Bengali)</option>
+                    <option value="text_bhutanese">Bhutanese</option>
+                    <option value="text_burmese">Burmese (mya_jvb)</option>
+                    <option value="text_chinese">Chinese (cmn_cu1)</option>
+                    <option value="text_czech">Czech (CSP09)</option>
+                    <option value="text_dogri">Dogri (dgo_nt) [NT]</option>
+                    <option value="text_dutch">Dutch (NLD)</option>
+
+                    <option value="text_french">French (fra_lsg)</option>
+                    <option value="text_german">German (SCH)</option>
+                    <option value="text_greek">Greek</option>
+                    <option value="text_gujarati">Gujarati (Gujarati)</option>
+                    <option value="text_hebrew">Hebrew</option>
+                    <option value="text_hindi">Hindi (HINIRV)</option>
+                    <option value="text_hungarian">Hungarian (RUF)</option>
+                    <option value="text_igbo">Igbo (ibo_bib)</option>
+                    <option value="text_indonesian">Indonesian (TB)</option>
+                    <option value="text_italian">Italian (ita_riv)</option>
+                    <option value="text_japanese">Japanese (JPKJV)</option>
+                    <option value="text_kannada">Kannada (Kannada)</option>
+                    <option value="text_kashmiri">Kashmiri</option>
+                    <option value="text_konkani">Konkani</option>
+                    <option value="text_korean">Korean (kor_old)</option>
+                    <option value="text_malay">Malay</option>
+                    <option value="text_malayalam">Malayalam (mal_irv)</option>
+                    <option value="text_manipuri">Manipuri (mni_twf) [NT]</option>
+                    <option value="text_marathi">Marathi (Marathi)</option>
+                    <option value="text_mongolian">Mongolian</option>
+                    <option value="text_nagamese">Nagamese (nag_isv) [NT]</option>
+                    <option value="text_nepali">Nepali (NNRV)</option>
+                    <option value="text_norwegian">Norwegian (DNB)</option>
+                    <option value="text_odia">Oriya (Odia) (Oriya)</option>
+                    <option value="text_oromo">Oromo (gaz_bib)</option>
+
+                    <option value="text_polish">Polish (BG)</option>
+                    <option value="text_portuguese">Portuguese (por_blj)</option>
+                    <option value="text_punjabi">Punjabi (Punjabi)</option>
+
+                    <option value="text_rohingya">Rohingya</option>
+                    <option value="text_romanian">Romanian (VDCL)</option>
+                    <option value="text_russian">Russian (rus_syn)</option>
+                    <option value="text_sanskrit">Sanskrit (san_dev)</option>
+                    <option value="text_somali">Somali (som_sim)</option>
+                    <option value="text_spanish">Spanish (spa_r09)</option>
+                    <option value="text_swahili">Swahili (swh_ulb)</option>
+                    <option value="text_swedish">Swedish (SFB2015)</option>
+                    <option value="text_tagalog">Tagalog (tgl_ulb)</option>
+                    <option value="text_tamil">Tamil (Tamil)</option>
+                    <option value="text_telugu">Telugu (Telugu)</option>
+                    <option value="text_thai">Thai (tha_kjv)</option>
+                    <option value="text_tibetan">Tibetan</option>
+                    <option value="text_turkish">Turkish (tur_obt)</option>
+                    <option value="text_urdu">Urdu</option>
+                    <option value="text_vietnamese">Vietnamese (vie_1934)</option>
+                    <option value="text_yoruba">Yoruba (yor_bib)</option>
+                </select>
+            </div>
+            <div class="setting-row">
+                <div class="toggle-switch-container">
+                    <label data-i18n="enable_notifications">Daily Verse Notifications</label>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="notificationToggleSwitch"
+                            onchange="toggleNotifications(this.checked)" checked>
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="setting-row">
+                <div class="toggle-switch-container">
+                    <label>Video Bible</label>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="videoBibleToggle" onchange="toggleVideoBible(this.checked)">
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="setting-row">
+                <label for="notificationTime" data-i18n="notification_time">Notification Time</label>
+                <input type="time" id="notificationTime" value="08:00" class="time-input"
+                    onchange="setNotificationTime(this.value)"
+                    style="padding: 5px; border-radius: 5px; border: 1px solid #ccc; background: var(--bg-color); color: var(--text-color);">
+            </div>
+            <div class="setting-row" id="versionSelectorContainer" style="display:none;">
+                <label for="bibleVersionSelector">Bible Version</label>
+                <select id="bibleVersionSelector" onchange="setBibleVersion(this.value)">
+                    <!-- Options populated by JS -->
+                </select>
+            </div>
+
+
+            <div class="setting-row">
+                <button onclick="downloadCurrentBible()"
+                    style="width:100%; padding: 10px; margin-top: 10px; background-color: var(--highlight-color); border: none; border-radius: 5px; cursor: pointer; color: var(--text-color);">
+                    📥 Download Current Bible (Offline)
+                </button>
+            </div>
+
+            <div class="setting-row" style="display: none;">
+                <button onclick="clearBibleCache()"
+                    style="width:100%; padding: 10px; margin-top: 10px; background-color: #ff6b6b; border: none; border-radius: 5px; cursor: pointer; color: white; font-weight: bold;">
+                    🗑️ Clear Bible Cache (Fix Issues)
+                </button>
+                <p style="font-size: 0.85em; color: var(--text-color); margin-top: 5px; text-align: center;">
+                    Use this if verses show wrong numbers
+                </p>
+            </div>
+            <!-- Download Status Section -->
+            <div id="settingsDownloadStatus" class="setting-row"
+                style="display:none; margin-top: 15px; padding: 15px; background: var(--highlight-color); border-radius: 8px;">
+                <div style="margin-bottom: 10px;">
+                    <strong id="downloadStatusLang" style="color: var(--text-color);">Downloading...</strong>
+                </div>
+                <div style="background:#ddd; height:8px; border-radius:4px; overflow:hidden; margin-bottom: 8px;">
+                    <div id="settingsDownloadBar"
+                        style="width:0%; background:var(--accent-color); height:100%; transition:width 0.3s;"></div>
+                </div>
+                <p id="settingsDownloadText" style="font-size:0.85em; margin:0; color: var(--text-color);">
+                    Initializing...
+                </p>
+            </div>
+
+
+
+            <div class="setting-row">
+                <button onclick="replayTutorial()"
+                    style="width:100%; padding: 10px; margin-top: 10px; background-color: var(--highlight-color); border: none; border-radius: 5px; cursor: pointer; color: var(--text-color);">
+                    📖 Show Tutorial
+                </button>
+            </div>
+            <div class="setting-row">
+                <button onclick="manualCheckForUpdates()"
+                    style="width:100%; padding: 10px; margin-top: 10px; background-color: var(--highlight-color); border: none; border-radius: 5px; cursor: pointer; color: var(--text-color);">
+                    🔄 Check for Updates
+                </button>
+            </div>
+
+            <div class="setting-row" style="margin-top: 20px; text-align: center;">
+                <button onclick="showAbout()" class="about-btn"
+                    style="background:none; border:none; color: var(--text-color); text-decoration: underline; cursor: pointer;">About
+                    / Credits</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- About Modal -->
+    <div id="aboutPopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content about-modal-content">
+            <h3>About & Credits</h3>
+            <div id="aboutContent" class="about-content-area">
+                <!-- Content will be populated by JS -->
+            </div>
+            <div class="modal-actions" style="justify-content: center; margin-top: 15px;">
+                <button class="primary-btn" onclick="closeAboutPopup()">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <h3 id="sidebarTitle">Results</h3>
+            <button class="icon-btn close-btn" onclick="closeSidebar()">&times;</button>
+        </div>
+        <div id="sidebarContent"></div>
+    </div>
+
+    <div class="reader-container" id="scrollContainer">
+        <button class="nav-btn prev-btn" id="prevBtn" onclick="changeChapter(-1)">&#10094;</button>
+
+        <div class="book-wrapper">
+            <div id="bookPage" class="book-page">
+            </div>
+
+
+
+            <div id="chatContainer" class="chat-container" style="display:none;">
+                <div class="chat-header">
+                    <h3>Chat with Bible AI</h3>
+                    <div class="chat-actions">
+                        <button class="icon-btn" onclick="startNewChat()" title="New Conversation">➕</button>
+                        <button class="icon-btn" onclick="toggleChatHistoryPanel()" title="Chat History">📜</button>
+                    </div>
+                    <!-- Status moved inside or below, or just keep it -->
+                </div>
+                <!-- Chat Status Bar (separate row for layout) -->
+                <div class="chat-status-bar">
+                    <span id="chatStatusIndicator" class="chat-status offline"
+                        title="Using Offline Search">Offline</span>
+                    <span id="tokenCounter" class="token-counter" title="Daily AI query limit">20/20 tokens</span>
+                </div>
+
+                <!-- Chat History Panel (Hidden Overlay) -->
+                <div id="chatHistoryPanel" class="chat-history-panel" style="display:none;">
+                    <div class="panel-header">
+                        <h4>Conversation History</h4>
+                        <button onclick="toggleChatHistoryPanel()" class="icon-btn">❌</button>
+                    </div>
+                    <div id="chatHistoryList" class="history-list">
+                        <!-- History items will be injected here -->
+                    </div>
+                    <button onclick="clearAllChatHistory()" class="clear-history-btn">Clear All History</button>
+                </div>
+                <div id="chatHistory" class="chat-history">
+                    <div class="msg-system">Welcome! Ask a question and I will answer strictly according to the
+                        Bible.
+                    </div>
+                </div>
+                <div class="chat-input-area">
+                    <input type="text" id="chatInput" placeholder="Ask a biblical question..."
+                        onkeydown="handleChatKey(event)">
+                    <button id="chatSendBtn" onclick="sendChatMessage()">Send</button>
+                </div>
+
+                <!-- Floating Action Buttons (Hidden by default, show on scroll) -->
+                <div id="chatFABs" class="chat-fabs" style="display:none;">
+                    <button class="fab-btn" onclick="startNewChat()" title="New Conversation">➕</button>
+                    <button class="fab-btn" onclick="toggleChatHistoryPanel()" title="Chat History">📜</button>
+                </div>
+            </div>
+
+
+        </div>
+
+        <button class="nav-btn next-btn" id="nextBtn" onclick="changeChapter(1)">&#10095;</button>
+    </div>
+
+    <div class="progress-container">
+        <div id="progressBar" class="progress-bar"></div>
+    </div>
+
+    <div id="versePopup" class="verse-popup">
+        <div class="popup-header">
+            <span id="popupRef">Ref</span>
+            <span style="cursor:pointer; font-size: 1.2em;" onclick="closePopup()">&times;</span>
+        </div>
+        <p id="popupText" style="line-height: 1.6;">Text content...</p>
+        <div class="popup-actions">
+            <button onclick="bookmarkPopupVerse()">⭐ Bookmark</button>
+            <button onclick="copyPopupText()">📋 Copy Text</button>
+        </div>
+    </div>
+    <div id="bookSelectorSidebar" class="sidebar book-selector-sidebar">
+        <div class="sidebar-header">
+            <h2 id="bookSelectorTitle" data-i18n="select_book">Select a Book</h2>
+            <button class="icon-btn close-btn" onclick="toggleBookSelectorSidebar()">&times;</button>
+        </div>
+        <div class="sidebar-content" id="bookList">
+            <p>Loading books...</p>
+        </div>
+    </div>
+
+    <div id="searchPanel" class="search-panel" role="dialog" aria-modal="true" aria-labelledby="searchPanelTitle">
+        <div class="search-panel-header">
+            <h3 id="searchPanelTitle" data-i18n="search_title">Search in Book</h3>
+            <button class="icon-btn close-btn" onclick="toggleSearchPanel(false)"
+                aria-label="Close Search Panel">&times;</button>
+        </div>
+        <div class="search-panel-content">
+            <div class="search-input-section">
+                <input type="text" id="searchPanelInput" class="search-input" placeholder="Search in book..."
+                    aria-label="Search" data-i18n-placeholder="search_placeholder">
+                <button class="search-btn" onclick="executeSearch()" aria-label="Execute Search"
+                    data-i18n="search_button">Search</button>
+                <div id="searchSuggestions" class="search-suggestions"></div>
+            </div>
+            <div id="searchResults" class="search-results" role="region" aria-live="polite" aria-label="Search Results">
+                <p style="color: var(--text-color); margin-top: 20px;">Enter a word or phrase above to search the
+                    text.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div id="downloadProgress"
+        style="display:none; position:fixed; bottom:0; left:0; width:100%; background:#f0f0f0; padding:10px; border-top:1px solid #ccc; z-index:1000;">
+        <p id="downloadStatus">Downloading...</p>
+        <div style="width:100%; background:#ddd; height:10px;">
+            <div id="downloadBar" style="width:0%; background:green; height:100%;"></div>
+        </div>
+    </div>
+
+    <!-- Download Confirmation Popup -->
+    <div id="downloadPopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3>Download for Offline Use?</h3>
+            <p>Would you like to download the <span id="downloadLangTarget" style="font-weight:bold;">Current</span>
+                Bible to the Bible folder for offline reading?</p>
+
+            <div class="popup-progress-area" id="popupProgressArea" style="display:none; margin: 15px 0;">
+                <div class="progress-track" style="background:#eee; height:8px; border-radius:4px; overflow:hidden;">
+                    <div id="popupProgressBar"
+                        style="width:0%; background:var(--accent-color); height:100%; transition:width 0.3s;"></div>
+                </div>
+                <p id="popupProgressText" style="font-size:0.8em; text-align:center; margin-top:5px;">
+                    Initializing...
+                </p>
+            </div>
+
+            <div class="modal-actions" id="popupActions">
+                <button class="primary-btn" onclick="confirmDownloadBible()">Download</button>
+                <button class="secondary-btn" onclick="closeDownloadPopup()">Close</button>
+            </div>
+            <div class="modal-actions" id="popupHideAction" style="display:none;">
+                <button class="secondary-btn" onclick="hideDownloadPopup()">Hide</button>
+            </div>
+            <div class="modal-footer" id="popupFooter">
+                <button class="text-btn" onclick="dontShowDownloadAgain()">Don't Show This Again</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Unavailable Language Popup -->
+    <div id="unavailablePopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3>Translation Unavailable</h3>
+            <p id="unavailablePopupMessage">The selected translation is currently not available. The application
+                will
+                load the English Bible instead.</p>
+            <div class="modal-actions" style="justify-content: center;">
+                <button class="primary-btn" onclick="closeUnavailablePopup()">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Offline Popup -->
+    <div id="offlinePopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3>You are currently offline</h3>
+            <p id="offlineMessage">Please connect to the internet to download this content, or select a downloaded
+                Bible.</p>
+            <div id="offlineActions" class="modal-actions" style="justify-content: center;">
+                <button class="primary-btn" onclick="closeOfflinePopup()">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update Available Popup -->
+    <div id="updatePopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3>New Update Available</h3>
+            <p>A new version of the app is available on the Play Store.</p>
+
+            <div class="toggle-switch-container" style="margin: 15px 0; justify-content: center; gap: 10px;">
+                <span style="font-size: 0.9em;">Do not show again for this version</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="dontShowUpdateAgain">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+
+            <div class="modal-actions">
+                <button class="primary-btn" onclick="performInAppUpdate()">Update Now</button>
+                <button class="secondary-btn" onclick="closeUpdatePopup()">Later</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Games Selection Modal -->
+    <div id="gamesModal" class="modal-overlay" style="display: none;">
+        <div class="modal-content games-modal-content">
+            <div class="games-modal-header">
+                <h2>Choose Your Game</h2>
+                <button class="icon-btn close-btn" onclick="toggleGamesModal()" title="Close">&times;</button>
+            </div>
+            <div class="games-grid">
+                <div class="game-card" onclick="selectGame('quiz')">
+                    <img src="quiz/quiz_banner.jpg" alt="Who Wants to be a Disciple">
+                    <div class="game-card-title">Bible Quiz</div>
+                </div>
+                <div class="game-card" onclick="selectGame('scroll-restorer')">
+                    <img src="scroll_restorer_assets/The Scroll Restorer.jpg" alt="The Scroll Restorer">
+                    <div class="game-card-title">The Scroll Restorer</div>
+                </div>
+                <div class="game-card" onclick="selectGame('manna-catch')">
+                    <img src="manna catch/manna_catch_banner.jpg" alt="Manna Catch">
+                    <div class="game-card-title">Manna Catch</div>
+                    <div class="game-badge">Coming Soon</div>
+                </div>
+                <div class="game-card" onclick="selectGame('ark-balance')">
+                    <img src="Ark Balance/ark_balance_banner.jpg" alt="The Ark Balance">
+                    <div class="game-card-title">Ark Balance</div>
+                    <div class="game-badge">Coming Soon</div>
+                </div>
+                <div class="game-card" onclick="selectGame('sling-stone')">
+                    <img src="Sling & Stone/sling_stone_banner.jpg" alt="Sling & Stone">
+                    <div class="game-card-title">Sling & Stone</div>
+                    <div class="game-badge">Coming Soon</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Exit Confirmation Popup -->
+    <div id="exitPopup" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3>Exit App?</h3>
+            <p style="margin-bottom: 20px;">Are you sure you want to close the application?</p>
+
+            <div class="toggle-switch-container" style="margin-bottom: 20px; justify-content: center; gap: 10px;">
+                <span style="font-size: 0.9em; color: var(--text-color);">Do not show again</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="dontShowExitAgain">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+
+            <div class="modal-actions">
+                <button class="primary-btn" onclick="confirmExitApp()">Exit</button>
+                <button class="secondary-btn" onclick="closeExitPopup()">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="spinner"></div>
+        <p class="loading-text" id="loadingText">Loading...</p>
+    </div>
+
+    <div id="quizContainer" class="quiz-container" style="display:none;">
+
+        <button onclick="closeQuizToGameMenu()" class="close-btn" title="Close Quiz"
+            style="position: absolute; top: 15px; right: 20px; background: none; border: none; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 2.5em; cursor: pointer; color: white; z-index: 20001;">
+            &times;
+        </button>
+
+        <div id="quizHeader" class="quiz-header"
+            style="display: flex; justify-content: center; align-items: center; padding: 10px; background: transparent; margin-bottom: 10px; border-radius: 8px;">
+            <div id="quizScoreBoard" class="quiz-score-board" style="font-weight: bold; font-size: 1.1em;">
+                🪙 <span id="currentScore">0</span> &nbsp;|&nbsp; 🏆 Best: <span id="bestScore">0</span></div>
+        </div>
+        <div class="quiz-progress-container">
+            <div class="quiz-progress-bar">
+                <div id="quizProgressFill" class="progress-fill" style="width: 0%; background: hsl(120, 70%, 45%);">
+                </div>
+            </div>
+            <div class="quiz-progress-text" id="quizProgressText">Question 1 / 30</div>
+        </div>
+        <div class="money-ladder" id="moneyLadder"></div>
+        <div id="gamePlayArea">
+            <div class="question-box" id="questionText">Loading question...</div>
+            <div class="options-grid" id="optionsGrid"></div>
+            <button id="hintBtn" onclick="useHint()" class="hint-button" style="display: block; margin: 20px auto 0;">💡
+                Hint</button>
+            <div class="quiz-feedback-container">
+                <p id="quizFeedback" class="quiz-feedback-text"></p>
+            </div>
+            <button id="nextQuestionBtn" onclick="nextQuestion()" class="next-question-btn">Next Question
+                ➡</button>
+        </div>
+        <div id="gameOverArea" class="game-over-panel" style="display:none;">
+            <div id="gameOverIcon" style="font-size: 4rem; margin-bottom: 10px;">😞</div>
+            <h2 id="gameOverTitle" style="color:var(--quiz-accent);">GAME OVER</h2>
+            <p id="finalScoreText" style="font-size:1.5rem; margin:20px 0;">You won: $0</p>
+            <p id="bestScoreText" style="font-size:1rem; color: #aaa; margin-bottom: 20px;"></p>
+            <button onclick="startQuiz()"
+                style="background: var(--quiz-correct); color: white; border:none; padding:15px 30px; font-size:1.2rem; border-radius:30px; cursor:pointer;">Play
+                Again</button>
+        </div>
+    </div>
+
+    <!-- Scroll Restorer Game Container -->
+    <div id="scrollRestorerContainer" class="scroll-restorer-container" style="display:none;">
+        <div class="scroll-game-header">
+            <div class="ink-bar-container">
+                <img src="scroll_restorer_assets/ink_bottle.png" alt="Ink Bottle" class="ink-bottle-icon">
+                <div class="ink-bar-track">
+                    <div id="inkBarFill" class="ink-bar-fill" style="width: 100%;"></div>
+                </div>
+            </div>
+            <div id="levelTitle" class="level-title">Genesis: Creation</div>
+            <button onclick="toggleScrollHelp(true)" class="help-btn" title="How to Play">?</button>
+            <button onclick="renderLevelSelection()" class="close-btn" title="Back to Levels">&times;</button>
+        </div>
+
+        <div id="scrollGameArea" class="scroll-game-area">
+            <!-- Crossword Grid will be injected here -->
+            <div id="crosswordGrid" class="crossword-grid"></div>
+        </div>
+
+        <div class="clue-box">
+            <div class="hint-lamp" onclick="useScrollHint()">
+                <img src="scroll_restorer_assets/lamp_hint.png" alt="Hint">
+                <span class="hint-cost">-10%</span>
+            </div>
+            <div id="currentClue" class="current-clue">Select a word to reveal the clue...</div>
+        </div>
+
+        <!-- Hidden input for mobile keyboard -->
+        <input type="text" id="scrollKeyboardInput" class="scroll-keyboard-input" maxlength="1" autocomplete="off"
+            autocapitalize="characters">
+
+        <!-- Level Selection Screen Overlay -->
+        <div id="scrollLevelSelect" class="scroll-level-select">
+            <div class="level-header">
+                <button class="nav-back-btn" onclick="toggleScrollRestorer(false); toggleGamesModal();">
+                    <svg viewBox="0 0 24 24" width="40" height="40">
+                        <path d="M15 18l-6-6 6-6" stroke="#000000" stroke-width="3" stroke-linecap="round"
+                            stroke-linejoin="round" fill="none" />
+                    </svg>
+                </button>
+                <h2>The Scroll Restorer</h2>
+            </div>
+            <p>Select a Scroll to Restore</p>
+            <div id="levelGrid" class="level-grid"></div>
+        </div>
+
+        <!-- Win Popup -->
+        <div id="scrollWinPopup" class="scroll-win-popup" style="display:none;">
+            <h3>Scroll Restored!</h3>
+            <div id="restoredVerse" class="restored-verse"></div>
+            <button onclick="nextScrollLevel()" class="primary-btn">Next Scroll</button>
+            <button onclick="closeScrollWinPopup()" class="secondary-btn">Menu</button>
+        </div>
+
+        <!-- Help Modal -->
+        <div id="scrollHelpModal" class="scroll-help-modal" style="display:none;">
+            <div class="help-content">
+                <h3>How to Restore</h3>
+                <ul>
+                    <li>Tap a box to select a word.</li>
+                    <li><strong>Tap again</strong> to switch direction (Across/Down).</li>
+                    <li><strong>Ink Bottle 🧪</strong>: Shows your magic ink supply.</li>
+                    <li><strong>Lamp 🪔</strong>: Tap it to reveal a missing letter! (Costs 10% Ink)</li>
+                </ul>
+                <button onclick="toggleScrollHelp(false)" class="primary-btn">Got it!</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════════
+         SCRIPTURE IN MOTION — Full-Screen Panel
+         3 internal screens: #simScreenPicker / #simScreenList / #simScreenPlayer
+    ═══════════════════════════════════════════════════════════════ -->
+    <div id="simPanel" class="sim-panel" style="display:none;">
+
+        <!-- ── SCREEN 1: Verse Picker ─────────────────────────────── -->
+        <div id="simScreenPicker" class="sim-screen">
+            <div class="sim-header">
+                <button class="sim-back-btn" onclick="closeScriptureInMotion()">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 5l-7 7 7 7" />
+                    </svg>
+                </button>
+                <h2 class="sim-title">Scripture in Motion</h2>
+            </div>
+
+            <div class="sim-picker-body">
+                <p class="sim-subtitle">Select a verse to find matching videos</p>
+
+                <div class="sim-picker-row">
+                    <label class="sim-label">📖 Book</label>
+                    <select id="simBookSelect" class="sim-select"
+                        onchange="simOnBookChange(this.value, this.options[this.selectedIndex].text)">
+                        <option value="">— Choose a Book —</option>
+                    </select>
+                </div>
+
+                <div class="sim-picker-row">
+                    <label class="sim-label">📄 Chapter</label>
+                    <select id="simChapterSelect" class="sim-select" onchange="simOnChapterChange(this.value)" disabled>
+                        <option value="">— Choose a Chapter —</option>
+                    </select>
+                </div>
+
+                <div class="sim-picker-row">
+                    <label class="sim-label">✍️ Verse</label>
+                    <select id="simVerseSelect" class="sim-select" disabled>
+                        <option value="">— Choose a Verse —</option>
+                    </select>
+                </div>
+
+                <button id="simFindBtn" class="sim-find-btn" onclick="simFindVideos()" disabled>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round">
+                        <polygon points="5 3 19 12 5 21 5 3" />
+                    </svg>
+                    Find Videos
+                </button>
+            </div>
+        </div>
+
+        <!-- ── SCREEN 2: Video List ───────────────────────────────── -->
+        <div id="simScreenList" class="sim-screen" style="display:none;">
+            <div class="sim-header">
+                <button class="sim-back-btn" onclick="simGoBack('picker')">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 5l-7 7 7 7" />
+                    </svg>
+                </button>
+                <h2 class="sim-title" id="simListTitle">Videos</h2>
+            </div>
+
+            <div id="simFallbackBanner" class="sim-fallback-banner" style="display:none;">
+                ⚠️ No videos for this verse. Showing chapter videos instead.
+            </div>
+
+            <div id="simLoadingState" class="sim-loading-state">
+                <div class="sim-spinner"></div>
+                <p>Searching for videos…</p>
+            </div>
+
+            <div id="simVideoList" class="sim-video-list"></div>
+
+            <div id="simEmptyState" class="sim-empty-state" style="display:none;">
+                <div class="sim-empty-icon">🎬</div>
+                <p>No videos found for this verse.</p>
+                <p class="sim-empty-sub">Try a different verse or check your connection.</p>
+            </div>
+        </div>
+
+
+
+    </div>
+    <!-- END SCRIPTURE IN MOTION -->
+
+    <!-- Manna Catch Game Container -->
+    <div id="mannaCatchContainer">
+        <canvas id="mannaCanvas"></canvas>
+        <div class="manna-ui-overlay">
+            <div class="manna-header">
+                <div class="manna-score" id="mannaScoreDisplay">Manna: 0 | ❤️ 3</div>
+                <button class="manna-close-btn" onclick="toggleMannaCatch(false)">&times;</button>
+            </div>
+
+            <div class="manna-controls-touch" id="mannaTouchControls">
+                <div class="manna-dpad">
+                    <div class="manna-btn" id="mannaBtnLeft">←</div>
+                    <div class="manna-btn" id="mannaBtnRight">→</div>
+                </div>
+                <div class="manna-jump-area">
+                    <div class="manna-btn" id="mannaBtnJump">↑</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Menu -->
+        <div id="mannaMainMenu">
+            <h1 class="manna-title">Manna Catch</h1>
+            <button class="manna-menu-btn" onclick="MannaCatchGame.start()">Start Game</button>
+            <button class="manna-menu-btn" onclick="MannaCatchGame.showHelp()">Help</button>
+            <button class="manna-menu-btn" onclick="toggleMannaCatch(false)">Close</button>
+        </div>
+
+        <!-- Help Screen -->
+        <div id="mannaHelpScreen" style="display:none;">
+            <h2>How to Play</h2>
+            <p style="text-align:center; max-width: 600px; font-size: 1.2rem; line-height: 1.5;">
+                Catch the falling Manna from the sky!<br>
+                Use Left/Right arrows to move.<br>
+                Jump over Snakes, Scorpions, and Rocks.<br>
+                Collect as much Manna as you can!
+            </p>
+            <button class="manna-menu-btn" onclick="MannaCatchGame.hideHelp()">Back</button>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div id="mannaGameOverScreen" style="display:none;">
+            <h1 style="color:red;">GAME OVER</h1>
+            <h2>Score: <span id="finalScore">0</span></h2>
+            <button class="manna-menu-btn" onclick="MannaCatchGame.start()">Play Again</button>
+            <button class="manna-menu-btn" onclick="toggleMannaCatch(false)">Close</button>
+        </div>
+    </div>
+
+    <script>
+        // Only load cordova.js if it exists (for Cordova apps)
+        // This prevents 404 errors when running in a web browser
+        var cordovaScript = document.createElement('script');
+        cordovaScript.src = 'cordova.js';
+        cordovaScript.onerror = function () {
+            console.log('Cordova not available - running in browser mode');
+        };
+        document.head.appendChild(cordovaScript);
+
+    </script>
+    <script src="js/verse_videos_loader.js" charset="UTF-8"></script>
+    <script src="js/scripture_in_motion.js" charset="UTF-8"></script>
+    <script src="js/storage.js" charset="UTF-8"></script>
+    <script src="js/db.js" charset="UTF-8"></script>
+    <script src="js/api.js?v=13" charset="UTF-8"></script>
+    <script src="in_app_update.js" charset="UTF-8"></script>
+    <script src="js/notifications.js" charset="UTF-8"></script>
+    <!-- Core Logic -->
+    <script src="js/missing_functions.js"></script> <!-- Restored Utility Functions -->
+    <script src="script_v2.js?t=20260128104650" charset="UTF-8"></script>
+    <script src="scroll_restorer_assets/scroll_restorer.js?v=8" charset="UTF-8"></script>
+    <script src="manna catch/manna_catch.js"></script>
+    <script src="js/onboarding.js"></script>
+    <!-- Update Available Popup -->
+    <div id="updatePopup"
+        style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.7); z-index:99999; align-items:center; justify-content:center;">
+        <div
+            style="background:var(--bg-color, #1a1a2e); color:var(--text-color, #eee); border-radius:16px; padding:28px 24px; max-width:340px; width:90%; margin:auto; position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); box-shadow:0 8px 32px rgba(0,0,0,0.5); text-align:center;">
+            <div style="font-size:40px; margin-bottom:12px;">🔄</div>
+            <h3 style="margin:0 0 4px 0; font-size:18px;">Update Available</h3>
+            <p class="update-version" style="margin:0 0 8px 0; font-size:13px; opacity:0.7;"></p>
+            <p style="margin:0 0 12px 0; font-size:14px; opacity:0.85; line-height:1.5;">A new version of Eternal Life
+                is available with the latest features and improvements!</p>
+            <p class="update-notes"
+                style="display:none; margin:0 0 16px 0; font-size:13px; opacity:0.75; line-height:1.4; background:rgba(255,255,255,0.05); border-radius:8px; padding:10px 12px; text-align:left;">
+            </p>
+            <button onclick="performInAppUpdate()"
+                style="background:linear-gradient(135deg, #6366f1, #8b5cf6); color:white; border:none; border-radius:12px; padding:12px 28px; font-size:15px; font-weight:600; cursor:pointer; width:100%; margin-bottom:12px;">Update
+                Now</button>
+            <button onclick="closeUpdatePopup()"
+                style="background:transparent; color:var(--text-color, #eee); border:1px solid rgba(255,255,255,0.2); border-radius:12px; padding:10px 28px; font-size:14px; cursor:pointer; width:100%; margin-bottom:12px;">Later</button>
+            <label
+                style="display:flex; align-items:center; justify-content:center; gap:8px; font-size:12px; opacity:0.7; cursor:pointer;">
+                <input type="checkbox" id="dontShowUpdateAgain" style="accent-color:#6366f1;">
+                Don't remind me for this version
+            </label>
+        </div>
+    </div>
+</body>
+
+</html>
