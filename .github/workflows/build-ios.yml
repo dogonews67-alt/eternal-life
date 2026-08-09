@@ -1,0 +1,58 @@
+name: Build iOS App (No Mac Required)
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-ios:
+    runs-on: macos-14
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Global Dependencies
+        run: |
+          npm install -g cordova@latest
+
+      - name: Install Project Dependencies
+        run: |
+          npm install
+
+      - name: Add & Prepare iOS Platform
+        run: |
+          npx cordova platform add ios --save || true
+          npx cordova prepare ios
+
+      - name: Build iOS App
+        run: |
+          npx cordova build ios --emulator
+          
+          # Create Payload directory for sideloading format
+          mkdir -p Payload
+          APP_PATH=$(find platforms/ios/build -name "*.app" -type d | head -n 1)
+          if [ -n "$APP_PATH" ]; then
+            echo "Found app at $APP_PATH"
+            cp -r "$APP_PATH" Payload/
+            zip -r EternalLife-iOS.ipa Payload/
+          else
+            echo "Packaging workspace folder directly"
+          fi
+          
+          # Compress Xcode project folder
+          zip -r EternalLife-Xcode-Project.zip platforms/ios
+
+      - name: Upload iOS App Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: EternalLife-iOS-Build
+          path: |
+            EternalLife-iOS.ipa
+            EternalLife-Xcode-Project.zip

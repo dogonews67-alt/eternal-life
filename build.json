@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+            "keystore": "my-new-release-key.keystore",
+            "storePassword": "AppKeystorePass123!",
+            "alias": "my-key-alias",
+            "password": "AppKeystorePass123!",
+            "keystoreType": ""
+        }
+    }
+}
