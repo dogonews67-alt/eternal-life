@@ -1,0 +1,365 @@
+{
+  "title": "JIREENYA BARA BARAA",
+  "chapters": [
+    {
+      "title": "Fuula Duraa",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>JIREENYA BARA BARAA</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Jireenyi bara baraa</b> jireenya dhuma hin qabneedha, kana jechuun namni <b>matumaa hin du'u jechuudhaa</b>? Qaamaan du'uu qaba, garuu hafuuraan bara baraan <b>samii keessa jiraata yookiin</b> bara baraan si'ool keessatti dhiphata. Mataduree kana ifatti hubachuuf armaan gaditti gabaabinaan haa mari'annu."
+        },
+        {
+          "type": "header",
+          "text": "Man is a sinner"
+        },
+        {
+          "id": "Para 1",
+          "text": "Man is a sinner by birth, and in life he does sin in his actions, behaviours, hearing, speaking, seeing and thinking. In Matthew 5:28 Jesus says ‘But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.' Whoever commits a sin in ignorance is also counted as a sin, even if no one sees it. Many people think and say, \"What sin have I committed?\" Not only is it a sin to kill, to commit adultery, to steal, to rob, but also to lie, to cheat, to be proud, to be jealous, to be greedy, to gossip, to think evil of others. In fact, everyone is a sinner from birth."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=BBW' target='_blank'>Lallaba 7:20</a> 'Namni qajeelaan lafa irra jiraatu, inni gaarii hojjetu, cubbuus kan hin hojjenne tokko illee hin jiru.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=BBW' target='_blank'>Faarfannaa 51:5</a> 'Kunoo, ani yakkaan dhaladhe, haati tiyyas cubbuudhaan na ulfoofte.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=BBW' target='_blank'>1 Yohaannis 5:17</a> 'Jallinni hundinuu cubbuudha'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=BBW' target='_blank'>Roomaa 3:23</a> 'Hundinuu cubbuu hojjetaniiru, ulfinni Waaqayyoos isaan hir'ateera;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=BBW' target='_blank'>Roomaa 5:12</a> 'Kanaafis akkuma cubbuun karaa nama tokkoo biyya lafaatti dhufe, duuniis karaa cubbuu dhufe, akkasumas namoonni hundinuu waan cubbuu hojjetaniif duuni sanyii namaa hunda wal ga'e.'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=BBW' target='_blank'>Roomaa 6:23</a> 'Mindaan cubbuu du'a;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Namni hundinuu qaamaan du'uu qaba, garuu hafuuraan bara baraan jiraachuu qaba - <b>si'ool keessatti yookiin samii</b> keessatti, adaba bara baraa keessatti yookiin <b>jireenya bara baraa</b> keessatti, dhiphina bara baraa keessatti yookiin gammachuu bara baraa keessatti."
+        },
+        {
+          "id": "Para 3",
+          "text": "Namni hundinuu cubbuu hojjeteera, duunis hundaaf mirkana."
+        },
+        {
+          "type": "header",
+          "text": "Waaqayyo qulqulluudha, samiin qulqulluudha, kanaafuu gara samii seenuuf nuti qulqulluu ta'uu qabna."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=BBW' target='_blank'>Leewwota 19:2</a> 'Guutummaa yaa'ii Israa'eliin akkana jedhi: Ani Waaqayyo Gooftaan keessan qulqulluu waan ta'eef, isinis qulqulluu ta'aa.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=BBW' target='_blank'>1 Qorontos 6:9</a> 'Warri jal'oonni mootummaa Waaqayyoo akka hin dhaalne hin beektanii ree?'"
+        },
+        {
+          "type": "header",
+          "text": "Egaa namni akkamitti qajeelaa yookiin qulqulluu ta'uu danda'a?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Ibroota 9:22 'Akka seeraatti wanti hundinuu <b>dhiigaan qulqullaa'a; dhiigni yoo dhangala</b>'uu baate dhiifamni cubbuu hin jiru.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Cubbuu irraa dhiifama argachuun qulqulluu ta'uu yookiin qajeelaa ta'uudha."
+        },
+        {
+          "type": "header",
+          "text": "Dhiigni Maaliif Barbaachisa?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=BBW' target='_blank'>Leewwota 17:11</a> 'Lubbuun uumama foon uffatee dhiiga keessa jira; ani aarsaa lubbuu keessaniif ta'u iddoo aarsaa irratti akka dhiessitaniif dhiiga isiniif kenneera; dhiigni lubbuu of keessaa qaba waan ta'eef aarsaa cubbuu in ta'a.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Lubbuun dhiiga keessa waan jiruuf, namni kamiyyuu gatii lubbuu kaffaluu hin danda'u. Namni kamiyyuus ofii isaatiin yeroo xiqqoo takkaaf illee lubbuu dheereffachuu hin danda'u. Yesuus Kiristoos dhiiga isaa gati-jabeessa yookiin lubbuu isaa gati-jabeessa aarsaa gochuudhaan sanyii namaa furuuf karaa bane."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=BBW' target='_blank'>Ibroota 9:12</a> 'Inni yeroo hundumaaf takka ol seene; dhiiga re'ootaatii fi dhiiga jibootaatiin utuu hin ta'in, dhiiga ofii isaatiin iddoo isa hundumaa caalaa qulqulluu sana seene; kanaanis furii bara baraa argate.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Yesuus Kiristoos guutummaa sanyii namaatiif lubbuu isaa aarsaa gochuudhaan jaalala isaa argisiise. Yohaannis 15:13 irratti akka jedhutti - 'Namni lubbuu isaa firoota isaatiif dabarsee kennu caalaa jaalala guddaa qabu hin jiru.' Seenaa addunyaa keessatti jaalala gosa kanaa Yesuus Kiristoos malee fakkeenya biraa argachuu hin dandeenyu."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=BBW' target='_blank'>1 Yohaannis 1:7</a> 'Garuu akkuma inni ifa keessa jiru, nus ifa keessa yoo deddeebine, walii wajjin tokkummaa qabna; dhiigni ilma isaa Yesuusis <b>cubbuu hundumaa irraa nu qulqulleessa.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=BBW' target='_blank'>1 Qorontos 15:3</a> 'Wanta ani ofii kootii fudhadhe hundumaa dura isinitti dabarseera; innis: Akkuma Caaffata Qulqullaa'oo <b>keessatti barreeffame, Kiristoos</b> sababii cubbuu keenyaatiif du'e; awwaalamee, akkuma Caaffata Qulqullaa'oo keessatti barreeffames guyyaa sadaffaatti du'aa ka'e;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=BBW' target='_blank'>Mul'ata Yohaannis 1:5</a> 'Yesuus Kiristoos isa dhuga-baatuu amanamaa, isa warra du'an keessaa dura ka'ee, isa mootota lafaa irratti gooftummaa qabu irraas, ayyaannii fi nagaankee isiniif haa ta'u. Isa nu <b>jaallatutti, isa dhiiga isaatiin cubbuu keenya irraa nu dhiqetti,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=BBW' target='_blank'>Maatewos 9:2</a> 'Kunoo namootni, nama dhukubni laamshaaqee siree irra ciisu tokko gara isaa fidan. Yesuus amantii isaanii argee, namicha laamshaa'e sanaan, 'Yaa ilma ko, <b>jabaadhu; <b>cubbuun kee siif dhiifameera' jedhe.'</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "Dubbii kana keessatti Yesuus cubbuu namicha laamshaa'<b>ee sanaa kallattiidhaan</b> dhiifama godhaaf, sababiin isaas Yesuus cubbuu namaa dhiifama gochuu ni danda'a, yeroo wal fakkaataattis, Waaqayyo malee namni tokko illee cubbuu dhiifama gochuu waan hin dandeenyeef Ofii Isaa Waaqayyo ta'uu isaa labsa."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=BBW' target='_blank'>Hojii Ergamootaa 10:43</a> 'Namni isatti (Kiristoositti) amanu hundinuu maqaa isaatiin dhiifama cubbuu akka argatu raajonni hundinuu waa'ee isaa in dhugaa-ba'u.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=BBW' target='_blank'>Hojii Ergamootaa 4:12</a> 'Fayyinnii isaan malee kan biraatiin hin jiru. Maqaan kan biraa fayyuun itti nuuf kenname, waaqa jala hin jiru' Yesuus Kiristoos isa Naazireet malee."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Yohaannis 2:2 'Inni (Kiristoos) <b>aarsaa dhiifama cubbuu keenyaa ti; cubbuu guutummaa biyya lafaatiif malee, kan keenya duwwaaf miti.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=BBW' target='_blank'>Yohaannis 3:16</a> 'Waaqayyo (Uumaan) akkasitti tokkicha ilma isaa (Yesuus Kiristoos) hamma kennuufitti biyya lafaa (sanyii namaa) jaallate; kun immoo isatti kan amanu hundinuu <b>jireenya bara baraa haa qabaatuuf malee, haa baduuf miti.'</b>"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=BBW' target='_blank'>Yohaannis 1:12</a> 'Hamma isa (Yesuusin) simataniif immoo ijoollee Waaqayyoo akka ta'aniif aboo kenneef; isaanis warra maqaa isaatti (Yesuus) amananiidha.'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Jechi 'ijoollee Waaqayyoo' jedhu jecha salphaa miti, warri Yesuusin Gooftaa isaanii ta'uu isaa amananii fudhatan, akka lammiiwwan Samiitti lakkaa'amu, akka nama qulqulluutti lakkaa'amu, cubbuun isaanii hundinuu dhiifama argate."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=BBW' target='_blank'>Roomaa 8:1-2</a> 'Egaa amma warra Kiristoos Yesuusitti amananiif, itti gaafatamni hin jiru. Seerri hafuuraa inni Kiristoos Yesuus biraa jireenya kennu, seera cubbuu fi du'a jala baaseera.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=BBW' target='_blank'>Roomaa 5:9</a> 'Egaa amma dhiiga isaatiin (Yesuus) qajeelota erga taanee, hammam caalaa karaa isaa dheekkamsa jalaa oolla ree!'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=BBW' target='_blank'>Roomaa 3:24</a> 'Isaan ayyaana isaatiin (Yesuus), karaa furii Kiristoos Yesuusitti argameen, gatii malee qajeelota ta'aniiru.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=BBW' target='_blank'>Yohaannis 14:6</a> 'Yesuus, 'Karichi, dhugaan, jireenyis ana; anaan yoo ta'e malee, einyu iyyuu gara Abbaa (isa samii irraa) hin dhufu' jedheen.'"
+        },
+        {
+          "type": "header",
+          "text": "Warra Yesuus Kiristoositti amanan qofatu, isaan qofatu Samii seenuu danda'a, sun <b>JIREENYA BARA BARAA</b> jedhama."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=BBW' target='_blank'>Yohaannis 3:15</a> 'Inni (Yesuus) akka ol fuudhamee, namni isatti amanu hundinuu <b>jireenya bara baraa</b> akka qabaatuuf ta'e.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=BBW' target='_blank'>Roomaa 6:23</a> 'Mindaan cubbuu du'a; kennaan Waaqayyoo garuu, karaa Gooftaa keenyaa Kiristoos Yesuus <b>jireenya bara baraa</b> ti.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=BBW' target='_blank'>Yohaannis 5:24</a> Yesuus akkas jedha - 'Dhuguma, dhuguman <b>isinitti hima, namni dubbii koo</b> dhaga'ee isa na ergetti amanu'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=BBW' target='_blank'>Yohaannis 11:25-26</a> Yesuus, ''Du'aa ka'uun, jireenyis ana; namni anatti amanu yoo du'e iyyuu in jiraata. Namni jiraataan anatti amanu hundinuu immoo, bara baraan hin du'u; <b>kana in amantaa?' jedheen.</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=BBW' target='_blank'>Yohaannis 6:51</a> 'Buddeenichi jiraataan samii gad bu'e ana (Kiristoos). Namni kam iyyuu buddeena kana irraa <b>yoo nyaate, bara baraan in</b> jiraata; buddeenni ani biyyi lafaa akka jiraatuuf kennu, foon koo ti' jedhe.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Yesuus Wangeela Yohaannis keessatti jecha '<b>Jireenya Bara Baraa</b>' jedhu gara yeroo 17 fayyadameera, yeroo 12 yeroo ammaa agarsiisuuf fayyadame, yeroo 5 qofa yeroo egeree agarsiisuuf fayyadame. Baay'een keenya <b>jireenyi bara baraa</b> egeree qofaaf akka ta'e yaadna, garuu Kitaabni Qulqulluun yeroo ammaatiifis ta'e yeroo egereetiif akka ta'e ifatti dubbata. Warri Yesuus wajjin jiran hundinuu, warri Yesuusin Gooftaa fi Fayyisaa isaanii dhuunfaa ta'uu isaa amananii fudhatan, <b>JIREENYI BARA BARAA</b> isaan wajjin jira jechuu danda'u, isaan <b>durasjireenya Bara Baraatiin</b> eebbifamaniiru."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=BBW' target='_blank'>1 Yohaannis 5:11</a> 'Waaqayyo <b>jireenya bara baraa nuuf kenneera; jireenyi kunis ilma isaa (Kiristoos)</b> keessa jira; dhugaa-ba'umsichi isa kana.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=BBW' target='_blank'>Yohaannis 17:3</a> 'Si Waaqayyo hitiisaa tokkicha, Yesuus Kiristoosin isa ati ergites beekuun <b>jireenya bara baraa</b> ti.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=BBW' target='_blank'>Yohaannis 12:50</a> Yesuus akkas jedhe - 'Abboommiin isaa (Waaqayyoo) <b>jireenya bara baraa ta'uu isaa ani beeka; kanaafis</b> wanti ani dubbadhu akkuma Abbaan anatti hime dubbachuu koo ti.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=BBW' target='_blank'>1 Yohaannis 5:20</a> 'Ilmi Waaqayyoo akka dhufe, isa dhugaa sana beekuu akka dandeenyufis hubannaa akka nuuf kenne in beekna; nuyi isa dhugaa sana keessa, ilma isaa Yesuus Kiristoos keessas in jiraanna. Inni kun Waaqayyo isa dhugaa ti, <b>jireenya bara baraas</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=BBW' target='_blank'>Yohaannis 6:47</a> 'Dhuguma, dhuguman isinitti hima (Ani Kiristoos), namni anatti amanu <b>jireenya bara baraa</b> qaba.'"
+        },
+        {
+          "type": "header",
+          "text": "Amanuu jechuun maal jechuudha?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Hafuurotni hamoonis Yesuusitti ni amanu, kana jechuun garuu <b>jireenya bara baraa ni qabaatu jechuu miti. Yaaqoob</b> 2:19 Ati Waaqayyo tokko akka ta'e in amanta; gaarii in goota; hafuurotni hamoonis immoo akkasuma in amanu, in Hollatus."
+        },
+        {
+          "type": "header",
+          "text": "Cubbuu kee irraa qalbii diddiirrradhu, Waaqayyo Yesuus Kiristoosin warra du'an keessaa akka isa kaase afaan keetiin dhugaa ba'i, akkasumas Yesuus Kiristoosin akka fayyisaa fi Gooftaa kee dhuunfaatti fudhadhu. - kun Yesuus Kiristoositti amanuu jedhama."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=BBW' target='_blank'>Roomaa 10:9-10</a> 'Afaan keetiin 'Yesuus Gooftaa dha' jettee yoo dhugaa baate, Waaqayyo warra du'an keessaa akka isa kaases garaa keetti yoo amante, in fayyita. Namni garaa isaan amanee qajeelaa ta'a, afaan isaatiinis dhugaa ba'ee in fayya.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=BBW' target='_blank'>Maatewos 10:32-33</a> 'Egaa namni natti amanuu isaa namoota duratti dhugaa ba'u hundumaaf, anis abbaa koo isa samii irratti dhugaa nan ba'aaf. Namni namoota duratti na ganu hundumaa, anis abbaa koo isa samii irratti nan gana.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Fayyina yookiin dhiifama cubbuu argachuun furtuu <b>jireenya bara baraa ti. Yesuus Kiristoos qofatu sanyii namaa fayyisuu danda'a</b>, sababiin isaas addunyaa kana irratti Yesuus Kiristoos malee namni dhiiga isaa aarsaa godhe kan biraan hin jiru, Yesuus qofatu aarsaa isa dhumaa sanyii namaatiif ta'uuf dhiiga isaa Qulqulluu aarsaa godhe. Kanaafuu Inni guutummaa sanyii namaa fayyisuu ni danda'a."
+        },
+        {
+          "type": "header",
+          "text": "Barbaachisummaa Yesuus Kiristoos:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Dhaloota Isaa, adabamuu Isaa, du'a Isaa kan fannoo irratti, du'ee guyyaa sadaffaatti ka'uu Isaa fi kkf ilaalchisee waggoota 1700 Dh.K.D. fi 400 Dh.K.D. gidduutti raajiiwwan baay'eetu Yesuus Kiristoos irratti dubbatame. Hayyoonni akka tilmaamanitti Yesuus Kiristoos raajiiwwan Kakuu Moofaa 300 ol raawwateera. Erga du'aa ka'e boodas, Kiristoos barattoota wajjin jiraatee waa'ee mootummaa waaqaa lallabe, guyyaa 40ffaa du'aa ka'uu isaattis bifa qaamaatiin gara samiitti ol ba'e."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Kiristoos malee, seenaa addunyaa keessatti namni biraa, kan du'aa ka'ee fi qaamaan gara samiitti ol ba'e hin jiru."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Har'a, seenaan lafaa Kiristoos wajjin lakkaa'ama. Biyyoota addunyaa keessaa dhibbeentaa 88 kan ta'an Dilbata akka guyyaa ayyaanaatti eegu fi guyyaa du'aa ka'uu Kiristoos, guyyaa mo'ichaa, mo'icha du'aa fi cubbuu irratti kabaju."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Dirqamni keenya tokkichi Isatti baqachuu, afaan keenyaan Yesuus Gooftaa ta'uu isaa amanuu, garaa keenyatti Waaqayyo du'aa akka isa kaase amanuu, fi barattoota Isaa ta'uu fi ajajawwan Isaa hordofuu fi daandii jireenyaa irra deemuudha, yoz sana dhugumatti, inni/isheen mootummaa samii ni dhaalu."
+        },
+        {
+          "type": "header",
+          "text": "Barbaachisummaa Macaafa Qulqulluu"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Ani asitti waa'ee <b>Jireenya Bara Baraa</b> ibsuuf caqasoota Macaafa Qulqulluu <b>irraa wspadhee himeera.</b>"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Macaafni Qulqulluun maaliif kitaaba amanamadha? Macaafni Qulqulluun waggoota 1700 hanga 1800 gidduutti barreessitoota garaagaraa 40 ol ta'aniin baroota garaagaraa fi bakka garaagaraatti barreeffame."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Kitaaba Qulqulluu kitaaba tokko qofa miti, walitti qabama kitaabota 66 ti, Kiristoos dura kitaabonni 39 'Kakuu Moofaa' jedhaman barreeffaman, Kiristoos booda immoo kitaabonni 27 'Kakuu Haaraa' jedhaman barreeffaman. Kaayyoon barreessuu Kitaaba Qulqulluu barreessitoota hundaaf tokkuma, innis beekumsa Waaqummaa (Waaqayyo Abbaa, Waaqayyo Ilma Yesuus Kiristoos, fi Waaqayyo Hafuura Qulqulluu) mul'isuu, uumama Uumamaa fi seenaa sanyii namaa mul'isuudha. Akkasumas Kitaabni Qulqulluun qajeelfama Waaqayyoo, Seera, Seenaa, Raajii fi Mul'ata jedhamee beekama. Akkasumas Kitaabni Qulqulluun KITAABA <b>JIREENYA BARA BARAA</b> jedhamee beekama."
+        },
+        {
+          "id": "Para 14",
+          "text": "Kitaabni Qulqulluun nama tokko yookiin namoota 2-3in hin barreeffamne; garuu namoota adda addaa 40n ragaa seenaa qabuun barreeffame, kaayyoon hundaas wal fakkaata, kanaafuu Kitaabni Qulqulluun Kitaaba mirkanaa'aa fi amanamuu danda'uudha jechuu nan danda'a."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=BBW' target='_blank'>2 Ximotewos 3:16</a> 'Caaffanni Qulqulluun hundi geggeessaa hafuura Waaqayyootiin barreeffame; barsiisuuf, balleessaa hubachiisuuf, qajeelchuuf, qajeelummaattis leejjisuudhaaf dhimma in baasa.'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=BBW' target='_blank'>Yohaannis 20:31</a> 'Isin garuu Yesuus, Kiristoos, Ilma Waaqayyoo ta'uu isaa akka amantaniif, amanatanii immoo maqaa isaatiin jireenya (<b>jireenya bara baraa) akka qabaattaniif, kanneen barreeffamaniiru</b>.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Kitaabni Qulqulluun kan barreeffameef sanyiin namaa hundinuu Yesuus Kiristoositti amanuudhaan dhiifama cubbuu, fayyina fi <b>jireenya bara baraa</b> akka argataniif. Kitaabni Qulqulluun biyya murtaa'e tokkoof, gita murtaa'e tokkoof, afaan murtaa'e tokkoof, namoota halluu murtaa'e qabaniif qofa hin barreeffamne; Garuu namoota afaan hundumaa, gosa hundumaa, halluu hundumaa fi saba hundumaa lafa irra jiraniif barreeffame. Har'a Kitaabni Qulqulluun Kitaaba baay'inaan maxxanfame jedhamee beekama, Kitaabni Qulqulluunis afaanota guguddoo hunda keessatti argama."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Jireenyi baay'ee Gatii-jabeessa, <b>Jireenyi Bara Baraa</b> immoo Gatii hin qabu. Waaqayyo hunda keenyaatiif <b>Jireenya Bara Baraa</b> gatii tokko malee akka argannuuf karoora addaa baaseera. Kanaafuu, Jireenya Guutuu fi Bara Baraa haa qabaannu. Muuxannoo <b>jireenya bara baraa</b> keenyas warra kaaniif haa qoodnu, Gooftaan keenyas haa ulfaatu."
+        },
+        {
+          "id": "Blessing",
+          "text": "Gooftaan baay'isee si haa eebbisu, <b>jireenya barabaraan haa eebbifamtu, lammii</b> mootummaa SAMIIS haa taatu."
+        }
+      ],
+      "title": "Seensa",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "title": "ANONTO JIBON",
+  "chapters": [
+    {
+      "title": "Front Cover",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>ANONTO JIBON</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Anonto Jibon</b> hol ekta jibon jar kunu ses nai, yar mane ki manuh <b>ketiya no moribo</b> ne? Manuh sorir hisabe moribo lagibo, kintu atma hisabe tai <b>hodai zinda thakibo</b> sorgo te na hoile norok te hodai kosto pabo. Ahibi ei bishoye bujibo karone olop kotha patim."
+        },
+        {
+          "type": "header",
+          "text": "Man is a sinner"
+        },
+        {
+          "id": "Para 1",
+          "text": "Man is a sinner by birth, and in life he does sin in his actions, behaviours, hearing, speaking, seeing and thinking. In Matthew 5:28 Jesus says ‘But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.' Whoever commits a sin in ignorance is also counted as a sin, even if no one sees it. Many people think and say, \"What sin have I committed?\" Not only is it a sin to kill, to commit adultery, to steal, to rob, but also to lie, to cheat, to be proud, to be jealous, to be greedy, to gossip, to think evil of others. In fact, everyone is a sinner from birth."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=NIV' target='_blank'>Ecclesiastes 7:20</a> 'Hosa ke, prithibi te ene kunu dharmik manuh nai, ze hodai bhal kam kore aru ketiya paap no kore.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=NIV' target='_blank'>Psalm 51:5</a> 'Niscoy moi paap logot jonmo hoisilu, paap logot asilu jetiya mur maa muk petot loisil.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=NIV' target='_blank'>1st John 5:17</a> 'Sob beya kam paap hoi'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=NIV' target='_blank'>Romans 3:23</a> 'kionuw sob paap korise aru Isworor mohima pora komti hoise,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=NIV' target='_blank'>Romans 5:12</a> 'Eitu karone, zeneneke ekjon manuh dwara paap prithibi te humaile, aru paap dwara mritu, aru ei dorone, mritu sob manuh logot aahile, kionuw sob paap korise'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=NIV' target='_blank'>Romans 6:23</a> 'Kionuw paapor hajira hol mritu,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Protek manuh sorir hisabe moribo lagibo, kintu atma hisabe <b>hodai zinda thakibo</b> - norok te ba sorgo te, ononto sasti te ba <b>anonto jibon te</b>, ononto kosto te ba ononto anondo te."
+        },
+        {
+          "id": "Para 3",
+          "text": "Protek manuh paap korise, aru mritu sob karone niscoy ase."
+        },
+        {
+          "type": "header",
+          "text": "Iswor pobitro aru sorgo pobitro, to ami sorgo te humabo karone pobitro hobo lage."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=NIV' target='_blank'>Leviticus 19:2</a> 'Israel or pura jomat logot kotha kowk aru taik kowk: Tumi pobitro howk kionuw Moi, Probhu tumar Iswor, pobitro ase.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=NIV' target='_blank'>1st Corinthians 6:9</a> 'Tumi ki na jane ze beya kam kora/paapi Isworor raijyo pabo no?'"
+        },
+        {
+          "type": "header",
+          "text": "To ekjon keneke dharmik ba pobitro hobo pare?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hebrews 9:22 'Asolote, ain e koi ze pray sob bostu <b>tej dwara saf kora</b> zai, aru tej no pele mafi nai.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Paap mafi puwa hol pobitro howa ba dharmik howa."
+        },
+        {
+          "type": "header",
+          "text": "Tej kiyo zoruri ase?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=NIV' target='_blank'>Leviticus 17:11</a> 'Kionuw ekta jib jontur pran tejot thake, aru Moi iyak tumak disu bedi te tumar pranor karone prayschit koribo; ei tej ze ekjonor pranor karone prayschit kore.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Jetiya thik jibon tejot thake, keu jibonor dam di no pare. Aru kunu manuh tar nijor jibon ekkhon somoy karone barabo no pare nijor hokotot. Jisu Khristo manuh jati mukti rasta khuli dise tar kimoti tej ba kimoti jibon bolidan di."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=NIV' target='_blank'>Hebrews 9:12</a> 'kintu Tai (Jisu) Sobse Pobitro Jaga (Most Holy Place) ekbar karone humaile tar nijor tej dwara, ei hisabe ononto mukti hasil korise.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jisu Khristo tar morom dekhaise pura manuh jati karone tar jibon bolidan di. John 15:13 mote - 'Iyat ke dangor morom aru karu logot nai: nijor bondhu karone nijor jibon diya.' Ami prithibi itihasot eneka morom aru kunu udahoron napau Jisu Khristo sara."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=NIV' target='_blank'>1st John 1:7</a> 'Kintu jodi ami puhorot solu, zeneneke Tai puhorot ase, ami ekjon arekjon logot sobhagita ase, aru Jisu, Tar Putro, tej e <b>amrak sob paap pora saf kore</b>'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=NIV' target='_blank'>1st Corinthians 15:3</a> 'Kionuw moi zi paisu eitu tumak disu sobse zoruri hisabe ze Khristo amar <b>paapor</b> karone morile Sastro (Scriptures) mote, ze taik gata dise, aru taik tini dinot zinda kora hoise Sastro (Scriptures) mote,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=NIV' target='_blank'>Revelation 1:5</a> 'aru Jisu Khristo pora, ze bissashi sakhi, mura pora prothom zinda howa jon, aru prithibi roja bilakor sardar. Taik ze amrak morom kore aru amrak <b>amar paap pora mukto korise Tar tej dwara</b>,'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=NIV' target='_blank'>Matthew 9:2</a> 'Kisu manuhe tar logot ekjon lengra manuh anile, basonat huwai. Jetiya Jisu tarar bissash dekhile, tai lengra manuh jonk kole, 'Sahos kora, putro; <b>tumar paap maf kora hoise</b>.' '"
+        },
+        {
+          "id": "Para 7",
+          "text": "Ei Kothat, Jisu sidha lengra manuh jonor paap maf kori dise, kionuw Jisu manuhor paap maf koribo pare aru eki somoyot, Tai nijoke Iswor hisabe dabi korise, kionuw Iswor sara keu <b>paap</b> maf koribo no pare."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=NIV' target='_blank'>Acts 10:43</a> 'Sob bhabishhotvakta Tar (Khristo) bishoye sakhi dise ze ze keu Taik bissash kore tai Tar nam dwara paapor mafi pai.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=NIV' target='_blank'>Acts 4:12</a> 'Mukti aru karu logot pabo noari, kionuw sorgo tolot aru kunu nam diya nai manuh jatik jar dwara ami mukti pabo paru' Nazareth or Jisu Khristo sara."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1st John 2:2 'Tai (Khristo) hol <b>amar paapor prayschit</b>, aru shudu amar karone no kintu <b>pura prithibi paapor</b> karone u.'"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=NIV' target='_blank'>John 3:16</a> 'Kionuw Iswor (sristikorta) prithibik (manuh jati) eto morom korise ze tai Tar ek matro Putro (Jisu Khristo) ke di dise, zate ze keu tar upor bissash kore tai nosto no hoy kintu <b>anonto jibon</b> pai.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=NIV' target='_blank'>John 1:12</a> 'Tobu u zera Taik (Jisu) grohon korise, zera Tar (Jisu) Namor upor bissash korise, tarak tai Isworor santan howar odhikar dise'"
+        },
+        {
+          "id": "Para 8",
+          "text": "'Isworor santan' sobdo tu sadharon sobdo no, zera bissash korise aru Jisuk tarar Probhu hisabe grohon korise tarak Sorgo nagorik hisabe gona hoi, pobitro manuh hisabe gona hoi, tarar sob paap maf kori diya hoise."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=NIV' target='_blank'>Romans 8:1-2</a> 'Eitu karone, eitya kunu sasti nai tarar karone zera Jisu Khristo majot ase, kionuw Jisu Khristo majot Jibonor Atma ain e tumak paap aru mritu ain pora mukto kori dise.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=NIV' target='_blank'>Romans 5:9</a> 'Jetiya ami eitya Tar (Jisu) tej dwara dharmik hoisu, to ami kiman beshi Tar dwara Isworor krodh pora basi thakim!'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=NIV' target='_blank'>Romans 3:24</a> 'aru sob ke Tar (Jisu) anugrah loi bina mulye dharmik bana hoise mukti dwara zi Jisu Khristo loi aahise.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=NIV' target='_blank'>John 14:6</a> 'Jisu uttor dile, 'Moi Poth aru Satya aru Jibon. Keu Pitri (ze sorgo te ase) logot aahibo no pare Moi sara.''"
+        },
+        {
+          "type": "header",
+          "text": "Zera Jisu Khristo upor bissash kore tara shudu Sorgo te humabo pare, jak <b>Anonto Jibon</b> kowa zai."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=NIV' target='_blank'>John 3:15</a> 'zate ze keu bissash kore tai Tar (Khristo) majot <b>anonto jibon</b> pabo pare.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=NIV' target='_blank'>Romans 6:23</a> 'Kionuw paapor hajira hol mritu, kintu Isworor dan hol <b>anonto jibon Jisu Khristo amar Probhu majot</b>.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=NIV' target='_blank'>John 5:24</a> Jisu koi - 'Hosa hosa Moi tumak koisu, ze mur kotha hune aru Taik bissash kore ze Muk pothaise tar <b>anonto jibon</b> ase aru bisar kora no hobo kintu mritu pora jibonot par hoi dise.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=NIV' target='_blank'>John 11:25-26</a> Jisu taik kole, 'Moi hol punoruthhan aru jibon. Ze Muk bissash kore tai zinda thakibo, jodiug tai mori zai; aru ze keu zinda thake aru Muk bissash kore tai <b>ketiya no moribo</b>.' '"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=NIV' target='_blank'>John 6:51</a> 'Moi (Khristo) hol zinda ruti ze sorgo pora nami aahise. Ze keu ei ruti khay tai <b>hodai zinda thakibo</b>. Ei ruti hol mur mangsho, zi Moi prithibir jibon karone dim.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jisu '<b>Anonto Jibon</b>' sobdo tu John or Susamachar ot kom se kom 17 bar byobohar korise, 12 bar Tai byobohar korise bortoman somoy karone, shudu 5 bar Tai byobohar korise bhabishhot somoy karone. Amar beshi bhage bhabu ze <b>Anonto Jibon</b> shudu bhabishhot karone, kintu Sastro saf ke koi ze eitu bortoman aru bhabishhot duyu somoy karone. Zera Jisu logot ase, zera bissash korise aru Jisuk tarar nijor Probhu aru Muktidata hisabe grohon korise tara kobo pare ze <b>ANONTO JIBON</b> tarar logot ase, tara aage pora <b>Anonto Jibon</b> loi dhonno."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=NIV' target='_blank'>1st John 5:11</a> 'Aru sakhi eitu ze: Iswor amak <b>anonto jibon</b> dise, aru ei jibon Tar Putro (Khristo) majot ase.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=NIV' target='_blank'>John 17:3</a> 'Eitya eitu hol <b>anonto jibon</b>: ze tara tumak jane, ek matro satya Iswor, aru Jisu Khristo, jak tumi pothaise.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=NIV' target='_blank'>John 12:50</a> Jisu kole - 'Aru Moi janu ze Tar (Isworor) aagya <b>anonto jibon</b> loija. To, Moi zi kou eitu Pitri Muk zeneneke koise teneka kou.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=NIV' target='_blank'>1st John 5:20</a> 'Ami eitu'u janu ze Isworor Putro aahise aru amak bujisakti dise, zate ami Taik sinibo paru ze satya. Aru ami Tar majot asu ze satya Tar Putro Jisu Khristo majot thaki. Tai hol <b>satya Iswor aru anonto jibon</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=NIV' target='_blank'>John 6:47</a> 'Hosa hosa Moi (Khristo) tumak koisu, ze bissash kore tar <b>anonto jibon</b> ase.'"
+        },
+        {
+          "type": "header",
+          "text": "Bissash kora mane ki?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Bhoot e u Jisuk bissash kore eitu mane no ze tara <b>anonto jibon</b> pabo. James 2:19 Tumi bissash kora ze ek Iswor ase. Bhal! Bhoot e u bissash kore - aru kape."
+        },
+        {
+          "type": "header",
+          "text": "Tumar paapor karone mon ghura, sikar kora ze Iswor Jisu Khristok mritu pora zinda korise, aru Jisu Khristok tumar nijor muktidata aru Probhu hisabe grohon kora. - iyak Jisu Khristo upor bissash kora kowa zai."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=NIV' target='_blank'>Romans 10:9-10</a> 'Jodi tumi tumar mukhere sikar kora, 'Jisu Probhu,' aru tumar dilot bissash kora ze Iswor Taik mritu pora zinda korise, tumi mukti paba. Kionuw dilere tumi bissash kora aru dharmik howa, aru mukhere tumi tumar bissash kowa aru mukti puwa.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=NIV' target='_blank'>Matthew 10:32-33</a> 'Ze keu are manuh aagot Muk sikar kore, Moi u taik mur sorgo Pitri aagot sikar korim. Kintu ze keu are manuh aagot Muk osikar kore, Moi u mur sorgo Pitri aagot taik osikar korim.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Mukti ba paapor mafi hol <b>anonto jibonor sabi. Shudu Jisu Khristo manuh jatik sabibo pare</b>, kionuw prithibi te aru keu tar tej bolidan diya nai Jisu Khristo sara, Jisu shudu Tar Pobitro tej bolidan dise antim bolidan hisabe manuh jati karone. Eitu karone Tai sob manuh ke sabibo pare."
+        },
+        {
+          "type": "header",
+          "text": "Jisu Khristo zoruri:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Jisu Khristo bishoye bohut bhabishhotbaani asil 1700 BC pora 400 BC loike, Tar jonmo bishoye, Tar sasti bishoye, krusor upor Tar mritu bishoye, Tar mritu tritiyo dinot Tar <u>punoruthhan</u> bishoye, ityadi. Pondit bilake onuman kore ze Jisu Khristo Puran Niyomor 300 pora beshi bhabishhotbaani pura korise. Punoruthhan pisot u, Khristo sishyo bilak logot asil aru Sorgo raijyo bishoye prochar korise, aru Tar punoruthhan 40 dinot Tai sorir loi sorgo te uthi goise."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Khristo sara, prithibi itihasot aru kunu manuh nai, ze mritu pora zinda hoise aru sorir loi <u>sorgo te uthi goise</u>."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Aaji, prithibi itihas Khristo logot gona zai. Prithibi pray 88 shotangsho desh Deobar ke bondho hisabe rakhe aru Khristo punoruthhan din palon kore, joyor din, mritu aru paapor upor joy."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Amar ek matro kartobyo hol Tar logot ashroy lowa, amar mukhere sikar kora ze Jisu hol Probhu, amar dilot bissash kora ze Iswor Khristo ke mritu pora zinda korise, aru Tar sishyo howa aru Tar aagya mani sola aru jibonor pothot sola, tenete niscoy, tai sorgo raijyo pabo."
+        },
+        {
+          "type": "header",
+          "text": "Pobitro Sastror zoruri"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Moi iyat Pobitro Sastro pora hawala disu <b>Anonto Jibon</b> bishoye bujibo karone."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Aru Sastro kiyo bissash jogjo kitab? Sastro likha hoise 1700 pora 1800 bosoror bhitorot 40 jonor beshi lekhok dwara alag alag jugot aru alag alag jagat."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Sastro ekta kitab no, eitu hol 66 kitab or jura, Khristo aaha aagote 39 kitab likha hoise jak 'Puran Niyom' kowa zai aru Khristo aaha pisot 27 kitab likha hoise jak 'Notun Niyom' kowa zai. Pobitro Sastro likha uddeshya pray sob lekhok karone eki asil zi hol Isworor (Pitri Iswor, Putro Iswor Jisu Khristo, aru Pobitro Atma Iswor) gyan prokash kora, Srishti or prokriti aru manuh jati itihas prokash kora. Aru, Sastro ke Isworor aagya, Ain, Itihas, Bhabishhotbaani aru Prokashit Bakyo hisabe zana zai. Aru, Pobitro Sastro ke <b>ANONTO JIBONOR KITAB</b> hisabe zana zai."
+        },
+        {
+          "id": "Para 14",
+          "text": "Pobitro Sastro kunu ekjon ba 2-3 manuh loi likha no hoi; kintu eitu 40 alag alag manuh e likhise aitihasik sakhi logot aru sobore uddeshya pray eki, to moi kobo paru Pobitro Sastro hol ekta promanit aru bissash jogjo Kitab."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=NIV' target='_blank'>2nd Timothy 3:16</a> 'Sob Sastro (Bible) Iswor-niswasit aru eitu siksha, dhomok, thik kora aru dharmikota talim karone upkari.'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=NIV' target='_blank'>John 20:31</a> 'Kintu eibilak (Sastro) likha hoise zate tumi bissash kora ze Jisu e hol Khristo, Isworor Putro, aru zate bissash kora dwara tumi Tar name jibon (<b>anonto jibon</b>) pabo para.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Sastro likha hoise zate sob manuh jati paap mafi, mukti, aru <b>anonto jibon</b> pai Jisu Khristo upor bissash kora dwara. Pobitro Sastro shudu kunu khas desh, khas jati, khas bhasha, khas rong manuh karone likha no hoi; Kintu eitu likha hoise protek bhasha, protek kobilah, protek rong, aru prithibi protek jati manuh karone. Aaji, Pobitro Sastro ke sobse beshi safa kitab hisabe zana zai, aru Pobitro Sastro pray sob dangor bhasha te ase."
+        }
+      ]
+    },
+    {
+      "title": "Preface",
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Jibon hol beshi kimoti aru <b>Anonto Jibon</b> hol omulyo. Iswor amar protekjon karone ekta khas porikolpona korise <b>Anonto Jibon</b> pabo karone kunu mulya sara. To, aahok ami Jibon pau aru Hamesha thaku. Aru amar <b>Anonto Jibon</b> or obhig yota arekjon logot share kori aru amar Probhu ke Mohima kori."
+        },
+        {
+          "id": "Blessing",
+          "text": "Probhu tumak beshi kori asirbad korok, <b>anonto jibon</b> loi dhonno howk aru SORGO raijyo nagorik howk."
+        }
+      ],
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

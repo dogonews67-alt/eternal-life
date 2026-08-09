@@ -1,0 +1,365 @@
+{
+  "title": "EVIG LIV",
+  "chapters": [
+    {
+      "title": "Forside",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>EVIG LIV</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Evig liv</b> er et liv uten ende, betyr det at mennesket <b>aldri vil dø? Han</b> må dø fysisk, men åndelig vil han leve <b>evig i himmelen eller</b> lide evig i helvete. La oss diskutere dette kort nedenfor for å forstå dette emnet klart."
+        },
+        {
+          "type": "header",
+          "text": "Mennesket er en synder"
+        },
+        {
+          "id": "Para 1",
+          "text": "Mennesket er en synder fra fødselen av, og i livet synder det i sine handlinger, sin oppførsel, i å høre, tale, se og tenke. I Matteus 5:28 sier Jesus: 'Men jeg sier dere: Hver den som ser på en kvinne med begjær, har allerede begått ekteskapsbrudd med henne i sitt hjerte.' Den som synder i uvitenhet, regnes også som en synder, selv om ingen ser det. Mange mennesker tenker og sier: \"Hvilken synd har jeg vel gjort?\" Det er ikke bare en synd å drepe, drive hor, stjele eller rane, men også å lyve, bedra, være stolt, misunnelig, grisk, baktale og tenke ondt om andre. Faktisk er enhver en synder fra fødselen av."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=LB' target='_blank'>Forkynneren 7:20</a> 'For det er ikke noe menneske på jorden så rettferdig at han gjør godt og ikke synder.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=LB' target='_blank'>Salme 51:7</a> 'Se, jeg er født i misgjerning, og min mor har unnfanget meg i synd.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=LB' target='_blank'>1 Johannes 5:17</a> 'All urettferdighet er synd'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=LB' target='_blank'>Romerne 3:23</a> 'for alle har syndet og mangler Guds ære,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=LB' target='_blank'>Romerne 5:12</a> 'Derfor, likesom synden kom inn i verden ved ett menneske, og døden ved synden, og døden slik trengte gjennom til alle mennesker, fordi de alle syndet -'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=LB' target='_blank'>Romerne 6:23</a> 'For syndens lønn er døden,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Hvert menneske må dø fysisk, men åndelig <b>leve evig - i</b> helvete eller i himmelen, i evig straff eller <b>evig liv</b>, i evig lidelse eller evig glede."
+        },
+        {
+          "id": "Para 3",
+          "text": "Hvert menneske har syndet, og døden er sikker for alle."
+        },
+        {
+          "type": "header",
+          "text": "Gud er hellig og himmelen er hellig, så vi må være hellige for å komme inn i himmelen."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=LB' target='_blank'>3 Mosebok 19:2</a> 'Tal til hele Israels barns menighet og si til dem: Dere skal være hellige, for jeg, Herren deres Gud, er hellig.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=LB' target='_blank'>1 Korinterne 6:9</a> 'Eller vet dere ikke at de urettferdige ikke skal arve Guds rike? Ta ikke feil!'"
+        },
+        {
+          "type": "header",
+          "text": "Så hvordan kan et menneske bli rettferdig eller hellig?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hebreerne 9:22 'Og nesten alt blir etter loven renset <b>med blod, og uten at</b> blod blir utgytt, skjer ikke forlatelse.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Å bli tilgitt for synd er å være hellig eller å være rettferdig."
+        },
+        {
+          "type": "header",
+          "text": "Hvorfor er blod viktig?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=LB' target='_blank'>3 Mosebok 17:11</a> 'For kjødets sjel er i blodet, og jeg har gitt dere det på alteret til å gjøre soning for deres sjeler. For blodet er det som gjør soning, fordi sjelen er i det.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Siden livet er i blodet, kan ingen betale prisen for livet. Og intet menneske kan forlenge livet selv et øyeblikk ved egen kraft. Jesus Kristus åpnet veien for forløsningen av menneskeslekten ved å ofre sitt dyrebare blod eller sitt dyrebare liv."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=LB' target='_blank'>Hebreerne 9:12</a> 'ikke med blod av bukker og kalver, men med sitt eget blod, gikk han inn i helligdommen én gang for alle, og fant en evig forløsning.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jesus Kristus viste sin kjærlighet ved å ofre sitt liv for hele menneskeslekten. Ifølge Johannes 15:13 - 'Ingen har større kjærlighet enn denne, at han setter sitt liv til for sine venner.' Vi kan ikke finne noe annet eksempel i verdenshistorien på denne typen kjærlighet enn Jesus Kristus."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=LB' target='_blank'>1 Johannes 1:7</a> 'Men dersom vi vandrer i lyset, likesom han er i lyset, da har vi samfunn med hverandre, og Jesu, hans <b>Sønns blod renser oss fra all synd.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=LB' target='_blank'>1 Korinterne 15:3</a> 'For jeg overga dere blant de første ting det som jeg selv mottok: At Kristus <b>døde for våre</b> synder etter Skriftene, at han ble begravet, og at han sto opp på den tredje dag etter Skriftene,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=LB' target='_blank'>Johannes Åpenbaring 1:5</a> 'og fra Jesus Kristus, det troverdige vitne, den førstefødte av de døde og herskeren over kongene på jorden. Ham som <b>elsker oss og løste oss fra våre synder med sitt blod,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=LB' target='_blank'>Matteus 9:2</a> 'Og se, de bar til ham en som var lam og lå på en seng. Da Jesus så deres tro, sa han til den lamme: Vær frimodig, <b>min sønn! Dine synder er deg forlatt.'</b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "I denne uttalelsen tilgir Jesus direkte <b>syndene til den</b> lamme mannen, for Jesus er i stand til å tilgi menneskets synder, og samtidig erklærer han seg selv som Gud, for utenom Gud kan ingen tilgi synd."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=LB' target='_blank'>Apostlenes gjerninger 10:43</a> 'Ham (Kristus) er det alle profetene vitner om, at hver den som tror på ham, skal få syndenes forlatelse ved hans navn.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=LB' target='_blank'>Apostlenes gjerninger 4:12</a> 'Det er ikke frelse i noen annen, for det finnes ikke noe annet navn under himmelen, gitt blant mennesker, som vi kan bli frelst ved' enn Jesus Kristus av Nasaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Johannes 2:2 'Han (Kristus) <b>er en soning for våre synder, og det ikke bare for våre, men også for hele verdens.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=LB' target='_blank'>Johannes 3:16</a> 'For så har Gud (Skaperen) elsket verden (menneskeslekten) at han ga sin Sønn, den enbårne (Jesus Kristus), for at hver den som tror på ham, ikke skal fortapes, men ha <b>evig liv</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=LB' target='_blank'>Johannes 1:12</a> 'Men alle dem som tok imot ham (Jesus), dem ga han rett til å bli Guds barn, de som tror på hans (Jesus) navn.'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Ordet 'Guds barn' er ikke et enkelt ord. De som trodde og tok imot Jesus som sin Herre, regnes som borgere av Himmelen, regnes som en hellig person, alle deres synder er tilgitt."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=LB' target='_blank'>Romerne 8:1-2</a> 'Så er det da ingen fordømmelse for dem som er i Kristus Jesus. For livets Ånds lov har i Kristus Jesus frigjort meg fra syndens og dødens lov.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=LB' target='_blank'>Romerne 5:9</a> 'Mye mer skal vi da, etter at vi nå er rettferdiggjort ved hans (Jesus) blod, ved ham bli frelst fra vreden.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=LB' target='_blank'>Romerne 3:24</a> 'og de blir rettferdiggjort for intet av hans (Jesus) nåde ved forløsningen i Kristus Jesus.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=LB' target='_blank'>Johannes 14:6</a> 'Jesus sier til ham: Jeg er veien og sannheten og livet. Ingen kommer til Faderen (som er i himmelen) uten ved meg.'"
+        },
+        {
+          "type": "header",
+          "text": "Bare de som tror på Jesus Kristus, bare de kan komme inn i Himmelen, det kalles <b>Evig Liv</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=LB' target='_blank'>Johannes 3:15</a> 'for at hver den som <b>tror på ham, skal ha evig liv</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=LB' target='_blank'>Romerne 6:23</a> 'For syndens lønn er døden, men Guds nådegave er <b>evig liv</b> i Kristus Jesus, vår Herre.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=LB' target='_blank'>Johannes 5:24</a> Jesus sier - 'Sannelig, sannelig sier jeg dere: <b>Den som hører mitt ord</b> og tror ham som har sendt meg'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=LB' target='_blank'>Johannes 11:25-26</a> Jesus sa til henne: Jeg er oppstandelsen og livet. Den som tror på meg, skal leve om han enn dør. Og hver den som lever og tror på meg, skal aldri i <b>evighet dø. Tror du dette?</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=LB' target='_blank'>Johannes 6:51</a> 'Jeg er (Kristus) det levende brød som er kommet ned fra himmelen. Om noen eter av dette brød, <b>skal han leve i evighet.</b> Og det brød som jeg vil gi, er mitt kjød, som jeg vil gi for verdens liv.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jesus brukte ordet '<b>Evig Liv</b>' i Johannesevangeliet ca 17 ganger, 12 ganger brukte han det for nåtid, bare 5 ganger brukte han det for fremtid. De fleste av oss tror at <b>evig liv</b> bare er for fremtiden, men Bibelen sier klart at det er for både nåtid og fremtid. De som alle er med Jesus, de som trodde og tok imot Jesus som sin personlige Herre og Frelser, de kan si at <b>EVIG LIV</b> er med dem, de er allerede velsignet med <b>Evig Liv</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=LB' target='_blank'>1 Johannes 5:11</a> 'Og dette er vitnesbyrdet at Gud har gitt oss <b>evig liv</b>, og dette livet er i hans Sønn (Kristus).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=LB' target='_blank'>Johannes 17:3</a> 'Og dette <b>er det evige liv, at</b> de kjenner deg, den eneste sanne Gud, og ham du utsendte, Jesus Kristus.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=LB' target='_blank'>Johannes 12:50</a> Jesus sa - 'Og jeg vet at hans (Gud) bud er <b>evig liv</b>. Det jeg taler, det taler jeg da slik som Faderen har sagt meg.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=LB' target='_blank'>1 Johannes 5:20</a> 'Vi vet at Guds Sønn er kommet, og han har gitt oss forstand så vi kjenner Den Sanne. Og vi er i Den Sanne, i hans Sønn, Jesus Kristus. Han er <b>den sanne Gud og det evige liv.'</b>"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=LB' target='_blank'>Johannes 6:47</a> 'Sannelig, sannelig sier jeg dere: {Den som tror på meg (Kristus), har <b>evig liv</b>.}'"
+        },
+        {
+          "type": "header",
+          "text": "Hva betyr det å tro?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Demoner tror også på Jesus, det betyr ikke at de vil få <b>evig liv</b>. Jakob 2:19 Du tror at Gud er én. Du gjør vel! Også de onde ånder tror det - og skjelver."
+        },
+        {
+          "type": "header",
+          "text": "Vend om fra din synd, bekjenn at Gud reiste Jesus Kristus opp fra de døde, og ta imot Jesus Kristus som din personlige frelser og Herre. - det kalles å tro på Jesus Kristus."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=LB' target='_blank'>Romerne 10:9-10</a> 'For dersom du med din munn bekjenner at Jesus er Herre, og i ditt hjerte tror at Gud reiste ham opp fra de døde, da skal du bli frelst. For med hjertet tror en til rettferdighet, og med munnen bekjenner en til frelse.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=LB' target='_blank'>Matteus 10:32-33</a> 'Hver den som kjennes ved meg for menneskene, ham skal også jeg kjennes ved for min Far i himmelen. Men den som fornekter meg for menneskene, ham skal også jeg fornekte for min Far i himmelen.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Frelse eller syndenes forlatelse er nøkkelen til <b>evig liv. Bare Jesus Kristus kan frelse menneskeslekten</b>, for ingen andre i verden ofret sitt blod enn Jesus Kristus, Jesus alene ofret sitt hellige blod som et endelig offer for menneskeslekten. Derfor er Han i stand til å frelse hele menneskeheten."
+        },
+        {
+          "type": "header",
+          "text": "Viktigheten av Jesus Kristus:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Det var mange profetier om Jesus Kristus mellom 1700 f.Kr. og 400 f.Kr., om hans fødsel, om hans straff, om hans død på korset, om hans oppstandelse på den tredje dag etter hans død osv. Forskere anslår at Jesus Kristus oppfylte mer enn 300 profetier i Det gamle testamente. Selv etter oppstandelsen, Kristus levde sammen med disiplene og forkynte om himmelriket, og på den 40. dagen etter sin oppstandelse fór han opp til himmelen i sin kroppslige form."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Utenom Kristus er det ingen annen person i verdenshistorien som har gjenoppstått og steget opp til himmelen fysisk."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "I dag regnes jordens historie med Kristus. Omtrent 88 prosent av verdens land holder søndag som helligdag og feirer dagen for Kristi oppstandelse, seiersdagen, seieren over døden og synden."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Vår eneste plikt er å ta tilflukt til Ham, å bekjenne med vår munn at Jesus er Herre, å tro i våre hjerter at Gud oppreiste Kristus fra de døde, og å være Hans disipler og følge Hans bud og vandre på livets vei, da vil han/hun helt sikkert eie himmelriket."
+        },
+        {
+          "type": "header",
+          "text": "Betydningen av Den Hellige Bibel"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Jeg har her nevnt referansene fra Den Hellige Bibel for å forklare om <b>Evig liv</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Og hvorfor er Bibelen en pålitelig bok? Bibelen ble skrevet i løpet av 1700 til 1800 år av mer enn 40 forskjellige forfattere i forskjellige tidsaldre og på forskjellige steder."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Bibelen ikke en enkelt bok, det er en kombinasjon av 66 bøker, før Kristus ble 39 bøker skrevet som kalles 'Det gamle testamente' og etter Kristus ble 27 bøker skrevet som kalles 'Det nye testamente'. Formålet med å skrive den hellige bibel er nesten det samme for alle forfatterne, det er å åpenbare kunnskapen om Guddommen (Gud Faderen, Gud Sønnen Jesus Kristus, og Gud Den Hellige Ånd), for å åpenbare skapelsens natur og menneskehetens historie. Også Bibelen er kjent som Guds instruksjoner, lover, historie, profeti og åpenbaring. Også den hellige bibel er kjent som BOKEN OM <b>EVIG LIV</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "Den hellige bibel er ikke skrevet av en enkelt eller 2-3 personer; men skrevet av 40 forskjellige personer med historisk bevis, og formålet til alle er nesten det samme, så jeg kan si at den hellige bibel er en bevist og pålitelig bok."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=LB' target='_blank'>2 Timoteus 3:16</a> 'Hele Skriften (Bibelen) er innåndet av Gud og nyttig til lærdom, til overbevisning, til rettledning, til opptuktelse i rettferdighet,'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=LB' target='_blank'>Johannes 20:31</a> 'Men disse (Bibelen) er skrevet for at dere skal tro at Jesus er Messias, Guds Sønn, og for at dere ved troen skal ha liv (<b>evig liv</b>) i hans navn.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Bibelen er skrevet for at hele menneskeheten skal motta syndenes forlatelse, frelse og <b>evig liv</b> gjennom tro på Jesus Kristus. Den hellige bibel er ikke skrevet bare for et bestemt land, en bestemt klasse, et bestemt språk, folk med bestemt farge; Men den er skrevet for folk av alle språk, alle stammer, alle farger og alle nasjoner på jorden. I dag er den hellige bibel kjent som den mest trykte boken, og den hellige bibel er tilgjengelig på nesten alle hovedspråk."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Livet er så verdifullt og <b>evig liv</b> er uvurderlig. Gud har lagt en spesiell plan for hver enkelt av oss for å ha <b>evig liv</b> uten kostnad. Så la oss ha liv i overflod og evig. Og dele vår erfaring av <b>evig liv</b> med andre og la vår Herre bli herliggjort."
+        },
+        {
+          "id": "Blessing",
+          "text": "Må Herren velsigne deg rikelig, bli velsignet <b>med det evige liv og</b> være en borger av HIMMELENS rike."
+        }
+      ],
+      "title": "Forord",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}
