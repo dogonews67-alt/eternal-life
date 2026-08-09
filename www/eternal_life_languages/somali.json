@@ -1,0 +1,365 @@
+{
+  "title": "NOLOSHA DAIMIGA AH",
+  "chapters": [
+    {
+      "title": "Jaldiga",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>NOLOSHA DAIMIGA AH</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Nolosha daa'imka ah</b> waa nolol aan dhammaad lahayn, miyayna micnaheedu ahayn in ninku <b>aanu waligii dhimanayn</b>? Waa inuu jidh ahaan u dhinto, laakiin ruux ahaan <b>wuxuu weligiis ku noolaan</b> doonaa jannada ama wuxuu weligiis ku silcin doonaa cadaabta. Aynu si kooban uga hadalno arrintan hoos si aynu u fahamno mawduucan si cad."
+        },
+        {
+          "type": "header",
+          "text": "Man is a sinner"
+        },
+        {
+          "id": "Para 1",
+          "text": "Man is a sinner by birth, and in life he does sin in his actions, behaviours, hearing, speaking, seeing and thinking. In Matthew 5:28 Jesus says ‘But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.' Whoever commits a sin in ignorance is also counted as a sin, even if no one sees it. Many people think and say, \"What sin have I committed?\" Not only is it a sin to kill, to commit adultery, to steal, to rob, but also to lie, to cheat, to be proud, to be jealous, to be greedy, to gossip, to think evil of others. In fact, everyone is a sinner from birth."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=SOM' target='_blank'>Wacdiyaha 7:20</a> 'Hubaal dhulka ma joogo nin xaq ah oo wanaag fala oo aan dembaabin.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=SOM' target='_blank'>Sabuurrada 51:5</a> 'Bal eeg, aniga waxaa laygu qaabeeyey xumaan, Oo hooyadayna dembi bay igu uuraysatay.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=SOM' target='_blank'>1 Yooxana 5:17</a> 'Xaqdarro oo dhammu waa dembi'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=SOM' target='_blank'>Rooma 3:23</a> 'waayo, dhammaan way wada dembaabeen, oo gaadhi waayeen ammaanta Ilaah;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=SOM' target='_blank'>Rooma 5:12</a> 'Sidaas daraaddeed, sida dembigu nin keliya dunida ugu soo galay, dhimashaduna dembiga ku soo gashay, sidaasoo kalena dhimashadu dadka oo dhan u gaadhay, waayo, dadka oo dhammu way wada dembaabeen'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=SOM' target='_blank'>Rooma 6:23</a> 'Waayo, mushaarka dembigu waa dhimasho;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Bini'aadam kastaa waa inuu jidh ahaan dhinto, laakiin ruux <b>ahaan u noolaado weligiis</b> - cadaabta ama jannada, ciqaab weligeed ah ama <b>nolosha weligeed ah, dhibaato</b> weligeed ah ama farxad weligeed ah."
+        },
+        {
+          "id": "Para 3",
+          "text": "Qof kastaa wuu dembaabay, dhimashaduna waa hubaal dadka oo dhan."
+        },
+        {
+          "type": "header",
+          "text": "Ilaah waa quduus jannaduna waa quduus, markaa si aynu jannada u galno waa inaynu quduus ahaanno."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=SOM' target='_blank'>Laawi 19:2</a> 'La hadal shirka reer binu Israa'iil oo dhan, oo waxaad ku tidhaahdaa, Waa inaad quduus ahaataan, waayo, anigoo Rabbiga Ilaahiinna ah ayaa quduus ah.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=SOM' target='_blank'>1 Korintos 6:9</a> 'Miyaydnaan ogayn inaan kuwa aan xaqa ahayni dhaxli doonin boqortooyada Ilaah? Ha is-kidhinnina'"
+        },
+        {
+          "type": "header",
+          "text": "Haddaba sidee qofku ku noqon karaa mid xaq ah ama quduus ah?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Cibraaniyada 9:22 'Oo sharciga waxaa ku dhow in wax <b>walba dhiig lagu daahiriyo, oo</b> haddii aan dhiig la daadinna dembidhaaf ma jiro.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "In dembiga lagaa cafiyo waa inaad noqoto quduus ama inaad noqoto xaq."
+        },
+        {
+          "type": "header",
+          "text": "Maxuu dhiiggu muhiim u yahay?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=SOM' target='_blank'>Laawi 17:11</a> 'waayo, hilibka noloshiisu dhiigga bay ku jirtaa, oo waxaan idiinku siiyey meesha allabariga dusheeda inaad nafafkiinna ugu kafaaragguddaan, waayo, dhiigga ayaa naf ku kafaaragguda.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Maadaama noloshu dhiigga ku jirto, cidina ma bixin karto qiimaha nolosha. Ninnana nolosha ma dheerayn karo xitaa daqiiqad isagoo xooggiisa adeegsanaya. Ciise Masiix wuxuu furay jidka furashada aadanaha isagoo u huray dhiiggiisa qaaliga ah ama Noloshiisa qaaliga ah."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=SOM' target='_blank'>Cibraaniyada 9:12</a> 'oo aan ku gelin dhiigga orgiyo iyo weiylo toona, laakiin mar keliya Meesha Quduuska ah ku galay dhiiggiisa, oo furasho weligeed ah inoo helay.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Ciise Masiix wuxuu muujiyey jacaylkiisa isagoo u huray noloshiisa aadanaha oo dhan. Sida ku xusan Yooxana 15:13 - 'Ninna ma leh jacayl kan ka weyn inuu naftiisa u bixiyo saaxiibbadiis.' Kama heli karno taariikhda adduunka tusaale kale oo jacayl noocan oo kale ah marka laga reebo Ciise Masiix."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=SOM' target='_blank'>1 Yooxana 1:7</a> 'laakiin haddaynu iftiinka ku soconno sida uu isaguba iftiinka ugu jiro, weynu wada hadalnaa, oo dhiigga Wiilkiisa Ciise <b>wuxuu inaga nadiifiyaa dembi oo dhan.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=SOM' target='_blank'>1 Korintos 15:3</a> 'Waayo, waxaan idiin soo dhiibay ugu horrayntii wixii aan anna helay, oo ahaa in Masiixu <b>dembiyadeennii u dhintay</b> sida Qorniinku leeyahay, iyo in la aasay, iyo inuu maalintii saddexaad soo sara kacay sida Qorniinku leeyahay,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=SOM' target='_blank'>Muujintii 1:5</a> 'iyo xagga Ciise Masiix oo ah markhaatiga aaminka ah iyo curadka kuwii dhintay iyo taliyaha boqorrada dhulka. Kan <b>ina jecel oo dhiiggiisa kaga furay dembiyadeenna,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=SOM' target='_blank'>Matayos 9:2</a> 'Oo bal eeg, waxay u keeneen nin curyaan ah oo sariir ku jiifa, oo Ciise markuu rumaysadkoodii arkay wuxuu ninkii curyaanka ahaa ku yidhi, <b>Wiilkaygiiyow, kalsoonow, <b>dembiyadaadii waa la cafiyey.'</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "Odhaahdan Ciise wuxuu si toos ah u cafiyey <b>dembiyada ninka curyaanka</b> ah, sababtoo ah Ciise wuu awoodaa inuu cafiyo dembiga ninka, isla mar ahaantaana Wuxuu iclaamiyey Naftiisa inuu yahay Ilaah, sababtoo ah cidina marka laga reebo Ilaah ma cafin karto dembi."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=SOM' target='_blank'>Falimaha Rasuullada 10:43</a> 'Isaga (Masiixa) nebiyada oo dhammu way u markhaati furaan in mid kasta oo isaga rumaystaa magiciisa ku helayo dembidhaaf.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=SOM' target='_blank'>Falimaha Rasuullada 4:12</a> 'Oo mid kale badbaado laguma helo, waayo, samada hoosteeda ma jiro magac kale oo dadka la siiyey oo aynu ku badbaadno' marka laga reebo Ciise Masiix reer Naasaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Yooxana 2:2 'Oo <b>isagu (Masiixu) waa kafaaraggudka dembiyadeenna, mana aha kuweenna oo keliya laakiin waa kuwa dunida oo dhan.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=SOM' target='_blank'>Yooxana 3:16</a> 'Ilaah (Abuuraha) dunida (Aadanaha) sidaasuu u jeclaa isagoo siiyey Wiilkiisa keliya ee dhashay (Ciise Masiix), in mid kastoo isaga rumaystaa aanu dhiman laakiin uu <b>lahaado nolosha weligeed ah.'</b>"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=SOM' target='_blank'>Yooxana 1:12</a> 'Laakiin in alla intii aqbashay, wuxuu siiyey amar ay ku noqdaan carruurta Ilaah, kuwaasoo ah kuwa magiciisa (Ciise) rumaysan,'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Ereyga 'carruurta Ilaah' ma aha erey fudud, kuwa rumaystay oo aqbalay Ciise inuu yahay Rabbigooda, waxaa lagu tiriyaa muwaadiniinta Jannada, waxaa lagu tiriyaa dad quduus ah, dembiyadoodii oo dhanna waa la cafiyey."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=SOM' target='_blank'>Rooma 8:1-2</a> 'Sidaas daraaddeed hadda xukumid ma jirto kuwa Ciise Masiix ku jira. Waayo, sharciga Ruuxa nolosha ee ku jira Ciise Masiix ayaa iga xoreeyey sharciga dembiga iyo dhimashada.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=SOM' target='_blank'>Rooma 5:9</a> 'Haddaba in kastoo intan in ka badan dhiiggiisa (Ciise) laynagu xaq dhigay, ayaynu isaga kaga badbaadi doonnaa cadhada Ilaah.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=SOM' target='_blank'>Rooma 3:24</a> 'iyagoo hadiyad ahaan lagu xaq dhigay nimcadiisa (Ciise) xagga furashada Ciise Masiix ku jirta;'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=SOM' target='_blank'>Yooxana 14:6</a> 'Ciise wuxuu ku yidhi, Anigu waxaan ahay jidka iyo runta iyo nolosha; ninna Aabbaha (ee jannada ku jira) uma yimaado, xaggayguu ku yimaado mahee.'"
+        },
+        {
+          "type": "header",
+          "text": "Kaliya kuwa rumaysta Ciise Masiix, kaliya iyaga ayaa geli kara Jannada, taas waxaa la yidhaahdaa <b>Nolosha Daa'imka ah</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=SOM' target='_blank'>Yooxana 3:15</a> 'in mid kastoo isaga <b>rumaystaa uu lahaado nolosha weligeed</b> ah.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=SOM' target='_blank'>Rooma 6:23</a> 'laakiin hadiyadda Ilaah waa nolosha <b>weligeed ah oo ku jirta Rabbigeenna Ciise Masiix.'</b>"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=SOM' target='_blank'>Yooxana 5:24</a> Ciise wuxuu yidhi - 'Runtii, runtii, waxaan idinku <b>leeyahay, Ku alla kii eraygayga</b> maqla oo rumaysta kii i soo diray'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=SOM' target='_blank'>Yooxana 11:25-26</a> Ciise wuxuu ku yidhi, Anigu waxaan ahay sarakicidda iyo nolosha; kii i rumaystaa, in kastoo uu dhinto, wuu noolaan doonaa; oo ku alla kii nool oo i rumaystaa, weligiis ma dhiman <b>doono. Waxan ma rumaysan tahay?</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=SOM' target='_blank'>Yooxana 6:51</a> 'Anigu (Masiixa) waxaan ahay kibista nool oo samada ka soo degtay; haddii qof uun kibistan <b>cuno, weligiis wuu noolaan doonaa;</b> oo kibista aan siin doono waa jidhkayga aan dunida nolosheeda u siinayo.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Ciise wuxuu isticmaalay ereyga '<b>Nolosha Daa'imka ah</b>' Injiilka Yooxana ku dhawaad 17 jeer, 12 jeer wuxuu u isticmaalay waqtiga xaadirka ah, kaliya 5 jeer wuxuu u isticmaalay mustaqbalka. Inta badan innaga waxaynu u malaynaynaa in nolosha weligeed ah ay tahay kaliya mustaqbalka, laakiin Kitaabku wuxuu si cad u sheegayaa inay tahay xaadirka iyo mustaqbalka labadaba. Kuwa dhammaantood la jira Ciise, kuwa rumaystay oo aqbalay Ciise inuu yahay Rabbigooda iyo Badbaadiyahooda gaarka ah, waxay dhihi karaan <b>NOLOSHA DAA'IMKA AH</b> ayaa la jirta, mar hore ayaa lagu barakeeyey <b>Nolosha Daa'imka ah</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=SOM' target='_blank'>1 Yooxana 5:11</a> 'Oo markhaatifurku waa kan, oo ah in Ilaah ina siiyey <b>nolosha weligeed ah, oo noloshaasuna</b> ay Wiilkiisa (Masiixa) ku jirto.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=SOM' target='_blank'>Yooxana 17:3</a> 'Oo nolosha <b>weligeed ah waa inay ku</b> gartaan, adoo ah Ilaaha runta ah oo keliya, iyo Ciise Masiix, kii aad soo dirtay.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=SOM' target='_blank'>Yooxana 12:50</a> Ciise wuxuu yidhi - 'Oo waxaan ogahay in amarkiisu (Ilaah) yahay nolosha <b>weligeed ah; haddaba waxaan ku</b> hadlo, sida Aabbuhu iigu sheegay, sidaasoo kale ayaan u ku hadlaa.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=SOM' target='_blank'>1 Yooxana 5:20</a> 'Oo waxaynu og nahay in Wiilka Ilaah yimid, oo uu inasiiyey garasho aynu ku garanno kan runta ah, oo waxaynu ku jirnaa kan runta ah, kaasoo ah Wiilkiisa Ciise Masiix. Kanu waa <b>Ilaaha runta ah iyo nolosha weligeed ah.'</b>"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=SOM' target='_blank'>Yooxana 6:47</a> 'Runtii, runtii, waxaan idinku leeyahay, Kii i (Masiixa) rumaysta <b>nolosha weligeed ah ayuu leeyahay.'</b>"
+        },
+        {
+          "type": "header",
+          "text": "Waa maxay macnaha in la rumaysto?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Jinka sidoo kale wuu rumaysan yahay Ciise, macnaheedu maaha inay heli doonaan <b>nolosha weligeed ah. Yacquub</b> 2:19 Adigu waxaad rumaysan tahay in Ilaah yahay mid keliya; waad yeeshay: jinniyaduna way rumaystaan oo gariiraan."
+        },
+        {
+          "type": "header",
+          "text": "Ka toobad keen dembigaaga, qiro in Ilaah Ciise Masiix ka soo sara kiciyey kuwii dhintay, oo aqbal Ciise Masiix inuu yahay badbaadiyahaaga gaarka ah iyo Rabbigaaga. - taas waxaa la yidhaahdaa in la rumaysto Ciise Masiix."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=SOM' target='_blank'>Rooma 10:9-10</a> 'maxaa yeelay, haddaad afkaaga ka qiratid in Ciise yahay Rabbi, oo aad qalbigaaga ka rumaysatid in Ilaah isaga ka soo sara kiciyey kuwii dhintay, waad badbaadi doontaa; waayo, qalbiga waxa laga rumaystaa xagga xaqnimada, afkana waxa laga qiraa xagga badbaadada.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=SOM' target='_blank'>Matayos 10:32-33</a> 'Sidaas daraaddeed ku alla kii qirta dadka hortiisa, aniguna waxaan ka qiran doonaa Aabbahayga jannada ku jira hortiisa. Laakiin ku alla kii dadka hortiisa iga inkira, aniguna waan ka inkiri doonaa Aabbahayga jannada ku jira hortiisa.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Badbaadada ama dembidhaafka dembigu waa furaha nolosha weligeed ah. <b><b>Kaliya Ciise Masiix ayaa badbaadin kara aadanaha</b>, sababtoo ah cid</b> kale oo adduunka joogta oo dhiiggiisa u hurtay ma jirto marka laga reebo Ciise Masiix, Ciise oo keliya ayaa u huray Dhiiggiisa Quduuska ah allabari kama-dambays ah oo aadanaha loo sameeyo. Taasi waa sababta uu u awoodo inuu badbaadiyo dhammaan aadanaha."
+        },
+        {
+          "type": "header",
+          "text": "Muhiimadda Ciise Masiix:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Waxaa jiray waxyaabo badan oo la sii sheegay oo ku saabsan Ciise Masiix intii u dhaxaysay 1700 B.C. ilaa 400 B.C., oo ku saabsan dhalashadiisa, ciqaabtiisa, dhimashadiisa iskutallaabta, sarakiciddiisa maalintii saddexaad dhimashadiisa ka dib iwm. Culimadu waxay qiyaasayaan in Ciise Masiix uu fuliyay in ka badan 300 oo wax sii sheegid oo Axdigii Hore ah. Xitaa sarakicidda ka dib, Masiixu wuxuu la noolaa xertii, wuxuuna ka wacdiyey boqortooyadii jannada, maalintii 40aad ee sarakinkiisana samada ayuu aaday isagoo jidh ah."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Ciise Masiix mooyee, ma jiro qof kale oo taariikhda adduunka soo maray, oo soo noolaaday oo jidh ahaan samada u aaday."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Maanta, taariikhda dhulka waxaa lagu tiriyaa Masiixa. Qiyaastii 88 boqolkiiba wadamada aduunka ayaa axada ka dhigta maalin fasax ah waxayna xusaan maalinta soo kicinta Masiixa, maalinta guusha, guusha laga gaaray dhimashada iyo dembiga."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Waajibka kaliya ee ina saaran waa inaan isaga magangalo, inaan afkeena ka qirno in Ciise yahay Rabbiga, inaan qalbiyadeena ka rumaysnaano in Ilaah Masiixa ka soo sara kiciyey kuwii dhintay, iyo inaan noqono xertiisa oo aan raacno amradiisa iyo inaan ku socono jidka nolosha, markaas hubaal, isaga/iyada waxay dhaxli doonaan boqortooyada jannada."
+        },
+        {
+          "type": "header",
+          "text": "Muhiimadda Kitaabka Quduuska ah"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Waxaan halkan ku xusay tixraacyada Kitaabka Quduuska ah si aan u sharaxo waxa ku <b>saabsan Nolosha weligeed ah.</b>"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Iyo sababta Kitaabka Quduuska ah uu u yahay buug la isku halayn karo? Kitaabka Quduuska ah waxaa qoray in ka badan 40 qorayaal oo kala duwan muddo 1700 ilaa 1800 sano ah, xilliyo kala duwan iyo meelo kala duwan."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Kitaabka Quduuska Ah ma aha hal buug, waa isku-darka 66 buug, Masiixa ka hor 39 buug ayaa la qoray oo la yidhaahdo 'Axdigii Hore' Masiixa ka dibna 27 buug ayaa la qoray oo la yidhaahdo 'Axdiga Cusub'. Ujeedada qorista Kitaabka Qudduuska ahi waa isku mid dhammaan qorayaasha, waa in la muujiyo aqoonta Ilaahnimada (Ilaaha Aabbaha ah, Ilaaha Wiilka Ciise Masiix, iyo Ilaaha Ruuxa Quduuska ah), in la muujiyo dabeecadda Abuurista iyo taariikhda aadanaha. Sidoo kale Kitaabka waxaa loo yaqaan tilmaamaha Ilaah, Sharciyada, Taariikhda, Wax sii sheegidda iyo Muujinta. Sidoo kale Kitaabka Qudduuska ah waxaa loo yaqaan BUUGGA <b>NOLOSHA DAA'IMKA AH</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "Kitaabka Qudduuska ah ma qorin hal ama 2-3 qof; laakiin waxaa qoray 40 qof oo kala duwan oo leh caddayn taariikhi ah ujeedada dhammaantoodna waa isku mid, markaa waxaan dhihi karaa Kitaabka Qudduuska ah waa Buug la caddeeyey oo la aamini karo."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=SOM' target='_blank'>2 Timoteyos 3:16</a> 'Qorniinka oo dhan Ilaah baa aftuufay, oo wuxuu faa'iido u leeyahay waxbaridda, iyo canaanashada, iyo hagaajinta, iyo edbinta xaqnimada ku jirta;'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=SOM' target='_blank'>Yooxana 20:31</a> 'Laakiin waxaa waxan loo qoray inaad rumaysataan in Ciise yahay Masiixa, oo ah Wiilka Ilaah, iyo inaad idinkoo rumaysanaya nolosha (nolosha <b>weligeed ah) ku leedihiin magiciisa</b>.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Kitaabka waxaa loo qoray in aadanaha oo dhammu helo dembidhaafka dembiga, badbaadada iyo <b>nolosha weligeed ah iyada oo</b> la rumaysanayo Ciise Masiix. Kitaabka Qudduuska ah looma qorin oo keliya waddan gaar ah, dabaqad gaar ah, luqad gaar ah, dad midab gaar ah leh; Laakiin waxaa loo qoray dadka luqad kasta, qabiil kasta, midab kasta iyo qaran kasta oo dhulka jooga. Maanta Kitaabka Qudduuska ah waxaa loo yaqaan Buugga ugu daabacaadda badan, Kitaabka Qudduuska ahna wuxuu ku qoran yahay ku dhawaad luqad kasta oo weyn."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Noloshu waa qaali <b>Nolosha Daa'imka ahna</b> waa qiimo la'aan. Ilaah wuxuu qorshe gaar ah u sameeyey mid kasta oo inaga mid ah si uu u helo <b>Nolosha Daa'imka ah</b> kharash la'aan. Haddaba, aan lahaanno Nolol Badan oo Daa'im ah. Oo aan la wadaagno khibradeena nolosha weligeed ah dadka kale oo Rabbigeenna ha la ammaano."
+        },
+        {
+          "id": "Blessing",
+          "text": "Rabbigu aad ha kuugu barakeeyo,ana laguugu barakeeyo <b>nolosha weligeed ah, oo aad</b> noqoto muwaadin boqortooyada JANADA."
+        }
+      ],
+      "title": "Hordhac",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}
