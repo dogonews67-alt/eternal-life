@@ -1,0 +1,365 @@
+{
+  "title": "BUHAY NA WALANG HANGGAN",
+  "chapters": [
+    {
+      "title": "Pabalat",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>BUHAY NA WALANG HANGGAN</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "Ang <b>Buhay na Walang Hanggan</b> ay buhay na walang katapusan, ibig sabihin ba nito ay hindi <b>na mamamatay ang tao?</b> Dapat siyang mamatay sa pisikal, ngunit sa espiritu ay <b>mabubuhay siya magpakailanman sa</b> langit o magdurusa magpakailanman sa impiyerno. Talakayin natin ito nang maikli sa ibaba upang maunawaan nang malinaw ang paksang ito."
+        },
+        {
+          "type": "header",
+          "text": "Ang tao ay isang makasalanan"
+        },
+        {
+          "id": "Para 1",
+          "text": "Ang tao ay makasalanan sa kapanganakan, at sa buhay siya ay nagkakasala sa kanyang mga gawa, pag-uugali, pakikinig, pagsasalita, pagtingin at pag-iisip. Sa Mateo 5:28 sinabi ni Jesus, 'Ngunit sinasabi ko sa inyo na ang sinumang tumingin sa isang babae nang may pagnanasa ay nagkasala na ng pangangalunya sa kanya sa kanyang puso.' Ang sinumang nagkakasala sa kamangmangan ay ibibilang ding kasalanan, kahit walang nakakakita nito. Maraming tao ang nag-iisip at nagsasabing, \"Anong kasalanan ang aking nagawa?\" Hindi lamang kasalanan ang pumatay, mangalunya, magnakaw, o mangholdap, kundi pati na rin ang magsinungaling, mandaya, maging mapagmataas, mainggitin, sakim, magtsismis, at mag-isip ng masama sa iba. Sa katunayan, ang bawat isa ay makasalanan mula sa kapanganakan."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=FSV' target='_blank'>Eclesiastes 7:20</a> 'Tunay na walang taong matuwid sa lupa, na gumagawa ng mabuti at hindi nagkakasala.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=FSV' target='_blank'>Mga Awit 51:5</a> 'Narito, ako'y ipinanganak sa kasamaan; at sa kasalanan ay ipinaglihi ako ng aking ina.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=FSV' target='_blank'>1 Juan 5:17</a> 'Lahat ng gawang di-matuwid ay kasalanan'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=FSV' target='_blank'>Roma 3:23</a> 'sapagkat ang lahat ay nagkasala, at hindi nakaabot sa kaluwalhatian ng Diyos;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=FSV' target='_blank'>Roma 5:12</a> 'Kaya't kung paanong ang kasalanan ay pumasok sa sanlibutan sa pamamagitan ng isang tao, at ang kamatayan ay sa pamamagitan ng kasalanan, at sa gayo'y ang kamatayan ay lumaganap sa lahat ng tao, sapagkat ang lahat ay nagkasala'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=FSV' target='_blank'>Roma 6:23</a> 'Sapagkat ang kabayaran ng kasalanan ay kamatayan;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Ang bawat tao ay dapat mamatay sa pisikal, ngunit sa espiritu ay <b>mabubuhay magpakailanman - sa</b> impiyerno o sa langit, sa walang hanggang kaparusahan o <b>walang hanggang buhay, sa</b> walang hanggang pagdurusa o walang hanggang kagalakan."
+        },
+        {
+          "id": "Para 3",
+          "text": "Ang bawat tao ay nagkasala, at ang kamatayan ay tiyak para sa lahat."
+        },
+        {
+          "type": "header",
+          "text": "Ang Diyos ay banal at ang langit ay banal, kaya upang makapasok sa langit tayo ay dapat maging banal."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=FSV' target='_blank'>Levitico 19:2</a> 'Magsalita ka sa buong kapulungan ng mga anak ni Israel, at sabihin mo sa kanila: Kayo'y magpakabanal; sapagkat akong PANGINOON ninyong Diyos ay banal.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=FSV' target='_blank'>1 Corinto 6:9</a> 'O hindi ba ninyo nalalaman na ang mga di-matuwid ay hindi magmamana ng kaharian ng Diyos? Huwag kayong padaya:'"
+        },
+        {
+          "type": "header",
+          "text": "Kaya paano magiging matuwid o banal ang isang tao?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hebreo 9:22 'At ayon sa kautusan, ay halos masasabing lahat ng mga <b>bagay ay nililinis ng dugo,</b> at malibang may pagkabuhos ng dugo ay walang kapatawaran.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Ang mapatawad sa kasalanan ay ang maging banal o maging matuwid."
+        },
+        {
+          "type": "header",
+          "text": "Bakit mahalaga ang dugo?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=FSV' target='_blank'>Levitico 17:11</a> 'Sapagkat ang buhay ng laman ay nasa dugo; at ibinigay ko ito sa inyo sa ibabaw ng dambana upang ipantubos sa inyong mga kaluluwa; sapagkat ang dugo ang siyang tumutubos dahil sa buhay.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Sapagkat ang buhay ay nasa dugo, walang makakapagbayad ng halaga ng buhay. At walang tao ang makakapagpahaba ng buhay kahit isang sandali sa pamamagitan ng kanyang sariling lakas. Binuksan ni Hesukristo ang daan para sa pagtubos ng sangkatauhan sa pamamagitan ng pag-aalay ng Kanyang mahalagang dugo o Kanyang mahalagang Buhay."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=FSV' target='_blank'>Hebreo 9:12</a> 'at hindi rin sa pamamagitan ng dugo ng mga kambing at ng mga guyang baka, kundi sa pamamagitan ng kanyang sariling dugo, ay pumasok siya na minsan magpakailanman sa dakong banal, na pagkakamit ng walang hanggang pagtubos.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Ipinakita ni Hesukristo ang Kanyang pag-ibig sa pamamagitan ng pag-aalay ng Kanyang buhay para sa buong lahi ng tao. Ayon sa Juan 15:13 - 'Walang may higit na dakilang pag-ibig kaysa rito, na ibigay ng isang tao ang kanyang buhay para sa kanyang mga kaibigan.' Wala tayong makikitang iba pang halimbawa sa kasaysayan ng mundo ng ganitong uri ng pag-ibig maliban kay Hesukristo."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=FSV' target='_blank'>1 Juan 1:7</a> 'ngunit kung lumalakad tayo sa liwanag, gaya niya na nasa liwanag, ay may pakikisama tayo sa isa't isa, at ang dugo ni Hesus na kanyang Anak ay <b>lumilinis sa atin sa lahat ng kasalanan.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=FSV' target='_blank'>1 Corinto 15:3</a> 'Sapagkat ibinigay ko sa inyo una sa lahat, ang akin namang tinanggap: na si Cristo ay namatay dahil <b>sa ating mga</b> kasalanan, ayon sa mga Kasulatan, at siya'y inilibing, at muling binuhay nang ikatlong araw, ayon sa mga Kasulatan;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=FSV' target='_blank'>Pahayag 1:5</a> 'at mula kay Hesukristo na siyang saksing tapat, ang panganay sa mga patay, at ang pinuno ng mga hari sa lupa. Sa kanya na umiibig sa atin at sa nagpalaya sa <b>atin <b>sa ating mga</b> kasalanan sa pamamagitan ng kanyang dugo,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=FSV' target='_blank'>Mateo 9:2</a> 'At narito, dinala nila sa kanya ang isang paralitiko na nakahiga sa isang higaan. At nang makita ni Hesus ang kanilang pananampalataya, sinabi niya sa paralitiko, Lakasan mo ang iyong loob, <b>anak; ang iyong mga kasalanan ay ipinatawad</b> na.'"
+        },
+        {
+          "id": "Para 7",
+          "text": "Sa pahayag na ito, direktang pinatawad ni Hesus ang <b>mga kasalanan ng</b> taong paralitiko, dahil kaya ni Hesus na magpatawad ng kasalanan ng tao, at kasabay nito ay ipinapahayag Niya ang Kanyang sarili bilang Diyos, dahil walang makakapagpatawad ng kasalanan maliban sa Diyos."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=FSV' target='_blank'>Mga Gawa 10:43</a> 'Siya (Kristo) ang pinatotohanan ng lahat ng mga propeta, na ang bawat sumasampalataya sa kanya ay tatanggap ng kapatawaran sa mga kasalanan sa pamamagitan ng kanyang pangalan.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=FSV' target='_blank'>Mga Gawa 4:12</a> 'At sa kanino pa man ay walang kaligtasan; sapagkat walang ibang pangalan sa silong ng langit na ibinigay sa mga tao na sukat nating ikaligtas' maliban kay Hesukristo ng Nazaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Juan 2:2 'at siya (Kristo) ang <b>kabayaran para <b>sa ating mga</b> kasalanan, at</b> hindi lamang para sa atin <b>kundi para din sa buong sanlibutan.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=FSV' target='_blank'>Juan 3:16</a> 'Sapagkat gayon na lamang ang pag-ibig ng Diyos (ang Maylalang) sa sanlibutan (sangkatauhan), na ibinigay niya ang kanyang bugtong na Anak (Si Hesukristo), upang ang sinumang sa kanya'y sumampalataya ay huwag mapahamak kundi magkaroon ng <b>buhay na walang hanggan</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=FSV' target='_blank'>Juan 1:12</a> 'Subalit ang lahat ng tumanggap sa kanya (si Hesus), na sumampalataya sa kanyang pangalan (Hesus), ay binigyan niya ng karapatang maging mga anak ng Diyos,'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Ang salitang 'mga anak ng Diyos' ay hindi simpleng salita, ang mga naniwala at tumanggap kay Hesus bilang kanilang Panginoon, ay ibinibilang na mamamayan ng Langit, ay ibinibilang na mga banal na tao, ang lahat ng kanilang mga kasalanan ay pinatawad na."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=FSV' target='_blank'>Roma 8:1-2</a> 'Kaya't ngayon ay wala nang kahatulan sa mga na kay Cristo Hesus. Sapagkat ang kautusan ng Espiritu ng buhay na kay Cristo Hesus ay nagpalaya sa akin mula sa kautusan ng kasalanan at kamatayan.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=FSV' target='_blank'>Roma 5:9</a> 'Lubha pa nga ngayong inaring-ganap sa pamamagitan ng kanyang dugo (Hesus), ay maliligtas tayo sa galit ng Diyos sa pamamagitan niya.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=FSV' target='_blank'>Roma 3:24</a> 'sila ay pinawawalang-sala ng kanyang biyaya (Hesus) bilang kaloob, sa pamamagitan ng pagtubos na na kay Cristo Hesus;'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=FSV' target='_blank'>Juan 14:6</a> 'Sinabi sa kanya ni Hesus, Ako ang daan, at ang katotohanan, at ang buhay; sinuman ay di makaparoroon sa Ama (na nasa langit), kundi sa pamamagitan ko.'"
+        },
+        {
+          "type": "header",
+          "text": "Ang mga sumasampalataya lamang kay Hesukristo, sila lang ang makakapasok sa Langit, yan ang tinatawag na <b>Buhay na Walang Hanggan</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=FSV' target='_blank'>Juan 3:15</a> 'upang ang sinumang sumampalataya sa kanya ay magkaroon ng <b>buhay na walang hanggan</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=FSV' target='_blank'>Roma 6:23</a> 'Sapagkat ang kabayaran ng kasalanan ay kamatayan; datapuwat ang kaloob na walang bayad ng Diyos ay <b>buhay na walang hanggan</b> kay Cristo Hesus na Panginoon natin.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=FSV' target='_blank'>Juan 5:24</a> Sinasabi ni Hesus - 'Katotohanan, katotohanang sinasabi ko sa inyo, <b>Ang dumirinig ng aking salita,</b> at sumasampalataya sa kanya na nagsugo sa akin'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=FSV' target='_blank'>Juan 11:25-26</a> Sinabi sa kanya ni Hesus, Ako ang muling pagkabuhay at ang buhay; ang sumasampalataya sa akin, bagaman siya'y mamatay, ay mabubuhay; at ang sinumang nabubuhay at sumasampalataya sa akin ay hindi mamamatay kailanman. <b>Sinasampalatayanan mo ba ito?</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=FSV' target='_blank'>Juan 6:51</a> 'Ako (Kristo) ang tinapay na buhay na bumabang galing sa langit; kung ang sinuman ay kumain ng tinapay na ito, <b>siya ay mabubuhay magpakailanman; at</b> ang tinapay na aking ibibigay ay ang aking laman, alang-alang sa buhay ng sanlibutan.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Ginamit ni Hesus ang salitang '<b>Buhay na Walang Hanggan</b>' sa Ebanghelyo ni Juan nang mga 17 beses, 12 beses Niyang ginamit ito para sa kasalukuyang panahon, 5 beses lang Niyang ginamit ito para sa hinaharap. Karamihan sa atin ay nag-iisip na ang <b>buhay na walang hanggan</b> ay para lamang sa hinaharap, ngunit ang Bibliya ay malinaw na nagsasabi na ito ay para sa kasalukuyan at hinaharap din. Ang mga kasama ni Hesus, ang mga naniwala at tumanggap kay Hesus bilang kanilang pansariling Panginoon at Tagapagligtas, masasabi nila na ang <b>BUHAY NA WALANG HANGGAN</b> ay nasa kanila, sila ay pinagpala na ng <b>Buhay na Walang Hanggan</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=FSV' target='_blank'>1 Juan 5:11</a> 'At ito ang patotoo, na tayo'y binigyan ng Diyos ng <b>buhay na walang hanggan</b>, at ang buhay na ito ay nasa kanyang Anak (Kristo).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=FSV' target='_blank'>Juan 17:3</a> 'At ito ang <b>buhay na walang hanggan</b>, na ikaw ay makilala nila na iisang Diyos na tunay, at si Hesukristo na iyong sinugo.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=FSV' target='_blank'>Juan 12:50</a> Sinabi ni Hesus - 'At alam ko na ang kanyang utos (ng Diyos) ay <b>buhay na walang hanggan; ang mga bagay nga na</b> aking sinasalita, ayon sa sinabi sa akin ng Ama, ay gayon ko sinasalita.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=FSV' target='_blank'>1 Juan 5:20</a> 'At nalalaman natin na naparito ang Anak ng Diyos, at tayo'y binigyan ng pagkaunawa, upang ating makilala siya na totoo; at tayo ay nasa kanya na totoo, sa kanyang Anak na si Hesukristo. Ito ang tunay na Diyos, at ang <b>buhay na walang hanggan</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=FSV' target='_blank'>Juan 6:47</a> 'Katotohanan, katotohanang sinasabi ko sa inyo, Ang sumasampalataya (sa Kristo) ay may <b>buhay na walang hanggan</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Ano ang ibig sabihin ng maniwala?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Ang mga demonyo ay naniniwala rin kay Hesus, hindi ibig sabihin nito ay magkakaroon sila ng <b>buhay na walang hanggan</b>. Santiago 2:19 Ikaw ay sumasampalataya na ang Diyos ay iisa; mabuti ang iyong ginagawa. Ang mga demonyo man ay sumasampalataya, at nanginginig."
+        },
+        {
+          "type": "header",
+          "text": "Magsisi sa iyong kasalanan, ipahayag na binuhay ng Diyos si Hesukristo mula sa mga patay, at Tanggapin si Hesukristo bilang iyong personal na tagapagligtas at Panginoon. - ito ay tinatawag na paniniwala kay Hesukristo."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=FSV' target='_blank'>Roma 10:9-10</a> 'sapagkat kung ipapahayag mo sa pamamagitan ng iyong bibig si Hesus na Panginoon, at sasampalataya ka sa iyong puso na binuhay siyang muli ng Diyos mula sa mga patay, ay maliligtas ka. Sapagkat sa puso ang tao ay sumasampalataya kaya't itinuturing na ganap, at sa pamamagitan ng bibig ay nagpapahayag kaya't naliligtas.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=FSV' target='_blank'>Mateo 10:32-33</a> 'Kaya't ang bawat kumilala sa akin sa harap ng mga tao, ay kikilalanin ko rin naman sa harap ng aking Ama na nasa langit. Ngunit sinumang magkaila sa akin sa harap ng mga tao, ay ikakaila ko rin naman sa harap ng aking Ama na nasa langit.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Ang kaligtasan o kapatawaran ng kasalanan ay ang susi sa <b>buhay na walang hanggan. Si Hesukristo lamang ang makapagliligtas sa sangkatauhan</b>, sapagkat walang iba sa mundo na nag-alay ng kanyang dugo maliban kay Hesukristo, si Hesus lamang ang nag-alay ng Kanyang Banal na Dugo bilang huling sakripisyo para sa sangkatauhan. Iyon ang dahilan kung bakit Siya ay may kakayahang iligtas ang buong sangkatauhan."
+        },
+        {
+          "type": "header",
+          "text": "Kahalagahan ni Hesukristo:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Mayroong maraming mga propesiya tungkol kay Hesukristo sa pagitan ng 1700 B.C. at 400 B.C., tungkol sa Kanyang kapanganakan, tungkol sa Kanyang kaparusahan, tungkol sa Kanyang kamatayan sa krus, tungkol sa Kanyang muling pagkabuhay sa ikatlong araw pagkatapos ng Kanyang kamatayan atbp. Tinatantya ng mga iskolar na tinupad ni Hesukristo ang higit sa 300 mga propesiya ng Lumang Tipan. Kahit pagkatapos ng muling pagkabuhay, si Kristo namuhay kasama ang mga disipulo at nangaral tungkol sa kaharian ng langit, at sa ika-40 araw ng Kanyang muling pagkabuhay ay umakyat sa langit sa Kanyang anyong katawan."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Maliban kay Kristo, walang ibang tao sa kasaysayan ng mundo ang muling nabuhay at umakyat sa langit nang pisikal."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Ngayon, ang kasaysayan ng mundo ay binibilang kasama si Kristo. Humigit-kumulang 88 porsiyento ng mga bansa sa mundo ang nagpapanatili ng Linggo bilang holiday at ipinagdiriwang ang araw ng pagkabuhay na mag-uli ni Kristo, ang araw ng tagumpay, tagumpay laban sa kamatayan at kasalanan."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Ang tanging tungkulin natin ay ang magkubli sa Kanya, ipahayag ng ating mga bibig na si Hesus ay Panginoon, maniwala <b>sa ating mga</b> puso na binuhay ng Diyos si Kristo mula sa mga patay, at maging Kanyang mga disipulo at sundin ang Kanyang mga utos at lumakad sa daan ng buhay, kung gayon sigurado, aariin niya ang kaharian ng langit."
+        },
+        {
+          "type": "header",
+          "text": "Ang Kahalagahan ng Banal na Bibliya"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Binanggit ko rito ang mga sanggunian mula sa Banal na Bibliya upang ipaliwanag ang tungkol sa <b>Buhay na Walang Hanggan</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "At bakit ang Bibliya ay isang maaasahang aklat? Ang Bibliya ay isinulat sa loob ng 1700 hanggang 1800 taon ng higit sa 40 iba't ibang may-akda sa iba't ibang panahon at sa iba't ibang lugar."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Ang Biblia hindi isang solong aklat, ito ay kumbinasyon ng 66 na mga aklat, bago si Kristo 39 na mga aklat ang naisulat na tinatawag na 'Lumang Tipan' at pagkatapos ni Kristo 27 na mga aklat ang naisulat na tinatawag na 'Bagong Tipan'. Ang layunin ng pagsusulat ng Banal na Bibliya ay halos pareho para sa lahat ng mga may-akda, ito ay upang ihayag ang kaalaman ng Diyos (Diyos Ama, Diyos Anak na si Hesukristo, at Diyos Espiritu Santo), upang ihayag ang kalikasan ng Paglikha at kasaysayan ng sangkatauhan. Ang Bibliya ay kilala rin bilang mga tagubilin ng Diyos, Mga Batas, Kasaysayan, Propesiya at Pahayag. Ang Banal na Bibliya ay kilala rin bilang AKLAT NG <b>BUHAY NA WALANG HANGGAN</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "Ang Banal na Bibliya ay hindi isinulat ng iisa o 2-3 tao; ngunit isinulat ng 40 magkakaibang tao na may makasaysayang patunay at ang layunin ng lahat ay halos pareho, kaya masasabi ko na ang Banal na Bibliya ay isang Aklat na napatunayan at mapagkakatiwalaan."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=FSV' target='_blank'>2 Timoteo 3:16</a> 'Ang lahat ng mga kasulatan (Bibliya) ay kinasihan ng Diyos, at mapapakinabangan sa pagtuturo, sa pagsaway, sa pagtutuwid, at sa pagsasanay sa katuwiran;'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=FSV' target='_blank'>Juan 20:31</a> 'ngunit ang mga ito (Bibliya) ay isinulat, upang kayo'y sumampalataya na si Hesus ang Cristo, ang Anak ng Diyos; at sa inyong pagsampalataya ay magkaroon kayo ng buhay (<b>buhay na walang hanggan</b>) sa kanyang pangalan.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Ang Bibliya ay isinulat upang ang buong sangkatauhan ay tumanggap ng kapatawaran ng kasalanan, kaligtasan at <b>buhay na walang hanggan</b> sa pamamagitan ng pananampalataya kay Hesukristo. Ang Banal na Bibliya ay hindi isinulat para sa isang partikular na bansa, partikular na uri, partikular na wika, mga taong may partikular na kulay lamang; Kundi ito ay isinulat para sa mga tao ng bawat wika, bawat tribo, bawat kulay at bawat bansa sa lupa. Ngayon ang Banal na Bibliya ay kilala bilang ang Aklat na pinaka-inilimbag, at ang Banal na Bibliya ay makukuha sa halos bawat pangunahing wika."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Ang Buhay ay napakahalaga at ang <b>Buhay na Walang Hanggan</b> ay hindi matatawaran. Gumawa ang Diyos ng isang espesyal na plano para sa bawat isa sa atin upang magkaroon ng <b>Buhay na Walang Hanggan</b> nang walang anumang gastos. Kaya, magkaroon tayo ng Saganang Buhay at Walang Hanggan. At ibahagi ang ating karanasan sa <b>buhay na walang hanggan</b> sa iba at nawa'y luwalhatiin ang ating Panginoon."
+        },
+        {
+          "id": "Blessing",
+          "text": "Pagpalain ka nawa ng Panginoon nang sagana, pagpalain ng <b>buhay na walang hanggan</b> at maging mamamayan ng kaharian ng LANGIT."
+        }
+      ],
+      "title": "Paunang Salita",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}
