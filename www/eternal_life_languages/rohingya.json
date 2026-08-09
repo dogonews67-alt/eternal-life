@@ -1,0 +1,365 @@
+{
+  "title": "ANONTO JIBON",
+  "chapters": [
+    {
+      "title": "Front Cover",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>ANONTO JIBON</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Anonto Jibon</b> oilede ekka jibon jianor kono ses nai, yanor maane ki insan <b>khonodin no moribo</b> ne? Manush sorir loiya moron poribo, kintu ruhani hisabe he <b>hamesha zinda thakibo</b> beheshtot othoba hamesha azabot thakibo dozokhot. Aiyo eh bisoye bujibar la bhalo gori niset hamon gori."
+        },
+        {
+          "type": "header",
+          "text": "Man is a sinner"
+        },
+        {
+          "id": "Para 1",
+          "text": "Man is a sinner by birth, and in life he does sin in his actions, behaviours, hearing, speaking, seeing and thinking. In Matthew 5:28 Jesus says ‘But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.' Whoever commits a sin in ignorance is also counted as a sin, even if no one sees it. Many people think and say, \"What sin have I committed?\" Not only is it a sin to kill, to commit adultery, to steal, to rob, but also to lie, to cheat, to be proud, to be jealous, to be greedy, to gossip, to think evil of others. In fact, everyone is a sinner from birth."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=NIV' target='_blank'>Ecclesiastes 7:20</a> 'Soi kotha, duniyat ehon kununekzon nekkar manush nai, ze hamesha bhalo kam gore ar khonodin goona no gore.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=NIV' target='_blank'>Psalm 51:5</a> 'Albot, ai goona loi foida hoiyi, goona loi asi zehon ottu mor ma are petot dhoijje.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=NIV' target='_blank'>1st John 5:17</a> 'Beggun na-insafi oilede goona'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=NIV' target='_blank'>Romans 3:23</a> 'kiolla hoile beggune goona goijje ar Allahr shaan ottu niche pori giye,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=NIV' target='_blank'>Romans 5:12</a> 'Ehtolla, zemon ekzon manushor zuriya goona duniyat hamail, ar goonar zuriya maut, ar eh hisabe, maut beggun manushor kase aiyye, kiolla hoile beggune goona goijje'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=NIV' target='_blank'>Romans 6:23</a> 'Kiolla hoile goonar mozoori oilde moron,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Prottek manush sorir loi moron lagibo, kintu ruhani hisabe <b>hamesha zinda thakibo</b> - dozokhot naki beheshtot, hameshar azabot naki <b>anonto jibonot</b>, hameshar koshtot naki hameshar shantit."
+        },
+        {
+          "id": "Para 3",
+          "text": "Prottek manush goona goijje, ar maut beggunor lay thik."
+        },
+        {
+          "type": "header",
+          "text": "Allah pak ar behesht pak, to amrare beheshtot hamibar lay pak howa zoruri."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=NIV' target='_blank'>Leviticus 19:2</a> 'Israel or pura zomator loge kotha ho ar tare kho: Tora pak ho kiolla hoile Ai, Rabbul Alamin torar Allah, pak.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=NIV' target='_blank'>1st Corinthians 6:9</a> 'Tora ki no zano ze harab kam goroya/gunagar Allahr badshahirat paibo no?'"
+        },
+        {
+          "type": "header",
+          "text": "To ekzon kengori nekkar ba pak oito pare?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hebrews 9:22 'Asolot, ain e khoite chay ze pray beggun ginish borj <b>lou loi saf gora</b> za, ar lou no feli le mafi nai.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Goonar mafi paon oilede pak howa orthoba nekkar howa."
+        },
+        {
+          "type": "header",
+          "text": "Lou kiolla zoruri?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=NIV' target='_blank'>Leviticus 17:11</a> 'Kiolla hoile ekkhan jaanowaror jan thake lour majhe, ar Ai ibare torare diyi kurbanir zagat torar janor lay kafara diblla; eh lou ziyan e ekzonor janor lay kafara de.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Zehon thik jibon thake lour bitorot, keu jibonor dam di no paribo. Ar kunu manush tar nijor jibonore ekkhana shomoyor laywo barai no paribo nizor hokotot. Isa Mosiye manush jatir nazator rasta khuli diye tar kimoti lou ba kimoti jibon kurbani di."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=NIV' target='_blank'>Hebrews 9:12</a> 'kintu He (Isa) Sobcheye Pak Zagat (Most Holy Place) ekbaror lay hamail tar nizor lou loi, eh hisabe anonto nazat hasil goijje.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Isa Mosiye tar mohobbot dehaiye pura manush zatir lay tar jibon kurbani di. John 15:13 mutabek - 'Eyan ottu boro mohobbot ar haro kase nai: nizor bondur lay nizor jibon diya.' Aara duniyar itihasot endilla mohobbir ar kunu misal no pai Isa Mosi sara."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=NIV' target='_blank'>1st John 1:7</a> 'Kintu zodi aara foorot soli, zemon He foorot ase, aara ekzon arekzonor loge shorik asi, ar Isa, Tar Putor, louwe <b>aamrare beggun goona ottu saf gore</b>'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=NIV' target='_blank'>1st Corinthians 15:3</a> 'Kiolla hoile ai zi yan paiyi eyan torare diyi sobcheye zoruri hisabe ze Mosi aamrar <b>goonar</b> lay mara giye Kitab (Scriptures) mutabek, ze tare matti diya hoiye, ar tare tin dinor মাথায় zinda gora hoiye Kitab (Scriptures) mutabek,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=NIV' target='_blank'>Revelation 1:5</a> 'ar Isa Mosir turof ottu, ze bissashi shakhi, murda ottu fela zinda howa ibon, ar duniyar rajahokolor sardar. Tare ze aamrare mohobbot gore ar aamrare <b>aamrar goona ottu azad goijje Tar lou loi</b>,'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=NIV' target='_blank'>Matthew 9:2</a> 'Kisu manushe tar hase ekzon lengra manush anil, fatiorot huwaiya. Zehon Isaye tarar iman dehil, he lengra manush ibare hlo, 'Himmat goro, put; <b>tor goona maf gora hoiye</b>.' '"
+        },
+        {
+          "id": "Para 7",
+          "text": "Eh Khotat, Isa shida lengra manush ibar goona maf gori diyer, kiolla hoile Isa manushor goona maf gori fare ar ekki shomoyot, He nizore Allah hisabe dabi gorer, kiolla hoile Allah sare keu <b>goona</b> maf gori no fare."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=NIV' target='_blank'>Acts 10:43</a> 'Beggun nobiye Tar (Mosi) babote shakkhi diyer ze ze keu Tare bissash gore he Tar namor zuriya goonar mafi pay.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=NIV' target='_blank'>Acts 4:12</a> 'Nazat ar honor hase fawa no zai, kiolla hoile asmanor niche ar kunu nam diya no oiye manush zatire zar zuriya aara nazat faitam fari' Nazareth or Isa Mosi sara."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1st John 2:2 'He (Mosi) oilede <b>aamrar goonar kafara</b>, ar shudu aamrar lay no kintu <b>pura duniyar goonar</b> lay wo.'"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=NIV' target='_blank'>John 3:16</a> 'Kiolla hoile Allah (paida goroya) duniyare (manush zati) eto mohobbot goijje ze he Tar ek matro Put (Isa Mosi) re di diyi, zate ze keu tar uffor iman ane he dhongsho no oy kintu <b>anonto jibon</b> pay.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=NIV' target='_blank'>John 1:12</a> 'Taw-wo zera Tare (Isa) kobul goijje, zera Tar (Isa) Namor uffore iman eniye, tarare he Allahr hoin howar hok diye'"
+        },
+        {
+          "id": "Para 8",
+          "text": "'Allahr hoin' hobdegan shadharon hobdo no, zera iman eniye ar Isare tarar Rabb hisabe kobul goijje tarare Beheshtor nagorik hisabe gona oiye, pak manush hisabe gona oiye, tarar beggun goona maf gori diya hoiye."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=NIV' target='_blank'>Romans 8:1-2</a> 'Ehtolla, ehon kunu shaza nai tarar lay zera Isa Mosir majhe ase, kiolla hoile Isa Mosir majhe Ruhani jibonor ain e toware goona ar mautor ain ottu azad gori diye.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=NIV' target='_blank'>Romans 5:9</a> 'Zehon aamra ehon Tar (Isa) lour zuriya bekosur hoyi, to aara koto beshi Tar zuriya Allahr gossha ottu basi thakium!'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=NIV' target='_blank'>Romans 3:24</a> 'ar beggun re Tar (Isa) rohomot loi magna bekosur bana giye nazator zuriya ziyan Isa Mosi loi aiyye.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=NIV' target='_blank'>John 14:6</a> 'Isaye zuwab dil, 'Ai rasta ar hottho (hoqq) ar jibon. Keu Baf (ze beheshtot ase) or hase aiyyi no fare Ai sara.''"
+        },
+        {
+          "type": "header",
+          "text": "Zera Isa Mosir uffore iman ane tara shudu Beheshtot hamito fare, zare <b>Anonto Jibon</b> howa za."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=NIV' target='_blank'>John 3:15</a> 'zate ze keu bissash gore he Tar (Mosi) majhe <b>anonto jibon</b> fato fare.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=NIV' target='_blank'>Romans 6:23</a> 'Kiolla hoile goonar mozoori oilde moron, kintu Allahr dan oilde <b>anonto jibon Isa Mosi aamrar Rabb or majhe</b>.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=NIV' target='_blank'>John 5:24</a> Isaye kho - 'Hosa hosa Ai torare khoiyar, ze aiyer hottha hune ar Tare bissash gore ze Aare fatiye tar <b>anonto jibon</b> ase ar bishar gora no oibo kintu moron ottu jibonot far oi giye.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=NIV' target='_blank'>John 11:25-26</a> Isaye tare khoilo, 'Ai oilde zinda uthon ar jibon. Ze Aare bissash gore he zinda thakibo, zodiwo he mori za; ar ze keu zinda thake ar Aare bissash gore he <b>khonodin no moribo</b>.' '"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=NIV' target='_blank'>John 6:51</a> 'Ai (Mosi) oilde zinda ruti ziyan asman ottu nami eshe. Ze keu eh ruti hay he <b>hamesha zinda thakibo</b>. Eh ruti oilde ar goshto, ziyan Ai duniyar jibonor lay dium.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Isaye '<b>Anonto Jibon</b>' hobdegan John or Injil ot kom se kom 17 bar estemal goijje, 12 bar He estemal goijje hazir shomoyor lay, shudu 5 bar He estemal goijje bhabishhot or shomoyor lay. Aamrar beshi bhage bhabi ze <b>Anonto Jibon</b> shudu bhabishhot or lay, kintu Kitabe saf gori kho ze eyan hazir ar bhabishhot duyun shomoyor lay. Zera Isa loi ase, zera bissash goijje ar Isare nizor Rabb ar Nazat Dita hisabe kobul goijje tara khoito fare ze <b>ANONTO JIBON</b> tarar loge ase, tara agey ottu <b>Anonto Jibon</b> loi dhonno."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=NIV' target='_blank'>1st John 5:11</a> 'Ar shakkhi eyan ze: Allah amrare <b>anonto jibon</b> diye, ar eh jibon Tar Fut (Mosi) or majhe ase.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=NIV' target='_blank'>John 17:3</a> 'Ehon eyan oilde <b>anonto jibon</b>: ze tara tumare zane, ek matro hottho Allah, ar Isa Mosi, zare tui fatiyo.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=NIV' target='_blank'>John 12:50</a> Isaye khoilo - 'Ar Ai zani ze Tar (Allahr) hukum <b>anonto jibonor</b> dikka loi zay. To, Ai zi hoi eyan Baf e Aare ziyan hoi thik enka hok.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=NIV' target='_blank'>1st John 5:20</a> 'Aara eyan wo zani ze Allahr Fut aiyye ar aamrare buz diye, zate aara Tare sinito fari ze hottho. Ar aara Tar majhe asi ze hottho Tar Fut Isa Mosir majhe thaki. He oilde <b>hottho Allah ar anonto jibon</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=NIV' target='_blank'>John 6:47</a> 'Hosa hosa Ai (Mosi) torare khoiyar, ze bissash gore tar <b>anonto jibon</b> ase.'"
+        },
+        {
+          "type": "header",
+          "text": "Bissash goron or mane ki?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Bhoot e wo Isare bissash gore eyanor mane no ze tara <b>anonto jibon</b> faibo. James 2:19 Tui bissash goros ze ek Allah ase. Bhalo! Bhoot e wo bissash gore - ar hafe."
+        },
+        {
+          "type": "header",
+          "text": "Tor goonar lay toba goro, kobul goro ze Allah Isa Mosire murda thaki zinda goijje, ar Isa Mosire tor nizor nazat dita ar Rabb hisabe kobul goro. - eyare Isa Mosir uffore bissash gora kho."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=NIV' target='_blank'>Romans 10:9-10</a> 'Zodi tui tor muk loi sikar goros, 'Isa Rabb,' ar tor dil or bitorot bissash goros ze Allah Tare murda ottu zinda goijje, tui nazat fabi. Kiolla hoile dil loi tui bissash goros ar bekosur hos, ar muk loi tui tor iman or kotha khos ar nazat for.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=NIV' target='_blank'>Matthew 10:32-33</a> 'Ze keu are manush or samne sikar gore, Ai wo tare mor asmani Bafor samne sikar gorium. Kintu ze keu are manush or samne oshikar gore, Ai wo mor asmani Bafor samne tare oshikar gorium.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Nazat ba goonar mafi oilde <b>anonto jibonor sawi. Shudu Isa Mosi manush zatire basaito fare</b>, kiolla hoile duniyat ar keu tar lou kurbani no de Isa Mosi sara, Isa shudu Tar Pak lou kurbani diyi manush zatir lay aheri kurbani hisabe. Ehtolla He beggun manush re basaito fare."
+        },
+        {
+          "type": "header",
+          "text": "Isa Mosir zorurot:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Isa Mosir babote beshi bhabishhotbaani asil 1700 BC ottu 400 BC porjonto, Tar jonmo loi, Tar shaza loi, krus or uffore Tar maut loi, Tar mautor titoyo dinot Tar <u>zinda uthon</u> loi, wagara. Alemole andaza gore ze Isa Mosi Puran Niyomor 300 ottu beshi bhabishhotbaani fura goijje. Zinda uthon or fore wo, Mosi shagred okolor loge asil ar Asmani badshahirat or babote toblig goijje, ar Tar zinda uthon or 40 dinot He sorir loiya asmanot uthi giye."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Mosi sara, duniyar itihasot ar kunu manush nai, ze maut ottu zinda oiye ar sorir loi <u>asmanot uthi giye</u>."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Aiz, duniyar itihas Mosi loi gona za. Duniyar pray 88 shotangsho desh Robibar re chuti hisabe rahe ar Mosir zinda uthon or din palon gore, zit or din, maut ar goonar uffore zit."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Aamrar ek matro kaamm oilde Tar hase ashroy lowa, aamrar muk loi sikar gora ze Isa oilde Rabb, aamrar dil ot bissash gora ze Allah Mosi re murda ottu zinda goijje, ar Tar shagred howa ar Tar hukum mani sola ar jibonor rastat sola, to thik, he/tai asmani badshahirat faibo."
+        },
+        {
+          "type": "header",
+          "text": "Pak Kitabor zorurot"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Ai endat Pak Kitab ottu hawala diyi <b>Anonto Jibon</b> or babote buzaibor lay."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Ar Kitab kiyan bissashor laayek kitab? Kitab leha oiye 1700 ottu 1800 bosoror bhitorot 40 zonor beshi lekhokor zuriya alag alag zomanat ar alag alag zagat."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Kitab ekan kitab no, eyan oilde 66 kitab or zura, Mosi aiyyonor agey 39 kitab leha oiye ziyan re 'Puran Niyom' kowa za ar Mosi aiyyonor fore 27 kitab leha oiye ziyan re 'Noya Niyom' kowa za. Pak Kitab lekhonor maksul pray beggun lekhokor lay ekki asil ziyan oilde Khoda (Baf Allah, Put Allah Isa Mosi, ar Pak Ruh Allah) or elem zahir gora, Srishti or halot ar manush zatir itihas zahir gora. Arwo, Kitab re Allahr hukum, Ain, Itihas, Bhabishhotbaani ar Ohi hisabe zana za. Arwo, Pak Kitab re <b>ANONTO JIBONOR KITAB</b> hisabe zana za."
+        },
+        {
+          "id": "Para 14",
+          "text": "Pak Kitab kunu ekzon ba 2-3 manush loiya leha no oiye; kintu eyan 40 alag alag manushe likki itihashik shakkhi loi ar beggunor maksul pray ekki, to ai khoito fari Pak Kitab oilde ekkan sabut ola ar bissashor laayek Kitab."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=NIV' target='_blank'>2nd Timothy 3:16</a> 'Beggun Sahifa (Kitab) Allahr-fuk diya ar eyan shikkha, dhomok, thik gora ar nekarir talim or lay foida ola.'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=NIV' target='_blank'>John 20:31</a> 'Kintu eyin (Kitab) leha oiye zate tora bissash goro ze Isa oilde Mosi, Allahr Put, ar zate bissash goronor zuriya tora Tar name jibon (<b>anonto jibon</b>) fato faro.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Kitab leha oiye zate pura manush zati goonar mafi, nazat, ar <b>anonto jibon</b> pay Isa Mosir uffore iman anor zuriya. Pak Kitab shudu kunu khas desh, khas zat, khas bhasha, khas rongor manushor lay leha no oiye; Kintu eyan leha oiye prottek bhashar, prottek kobilah, prottek rong, ar duniyar prottek zati manushor lay. Aiz, Pak Kitab re sobcheye beshi safa kitab hisabe zana za, ar Pak Kitab pray beggun dangor bhasha ot ase."
+        }
+      ]
+    },
+    {
+      "title": "Preface",
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Jibon oilde beshi kimoti ar <b>Anonto Jibon</b> oilde dam sara. Allah aamrar prottekzonor lay ekka khas plan bana giye <b>Anonto Jibon</b> faibar lay kunu dam sara. To, aiyo aara Jibon fook ar Hamesha thakkum. Ar aamrar <b>Anonto Jibon</b> or oiggota arekzonor loge sheyar gori ar aamrar Rabb re Tarif gori."
+        },
+        {
+          "id": "Blessing",
+          "text": "Rabb e toware beshi gori borokot de, <b>anonto jibon</b> loi dhonno ho ar BEHESHT or badshahirat or nagorik ho."
+        }
+      ],
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

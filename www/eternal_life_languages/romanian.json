@@ -1,0 +1,365 @@
+{
+  "title": "VIAȚA VEȘNICĂ",
+  "chapters": [
+    {
+      "title": "Copertă",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>VIAȚA VEȘNICĂ</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Viața veșnică</b> este o viață fără sfârșit, înseamnă asta că omul nu <b>va muri niciodată? El</b> trebuie să moară fizic, dar spiritual va <b>trăi veșnic în ceruri</b> sau va suferi veșnic în iad. Să discutăm acest lucru pe scurt mai jos pentru a înțelege clar acest subiect."
+        },
+        {
+          "type": "header",
+          "text": "Omul este păcătos"
+        },
+        {
+          "id": "Para 1",
+          "text": "Omul este păcătos din naștere, iar în viață păcătuiește prin faptele, comportamentul, auzul, vorbirea, privirea și gândurile sale. În Matei 5:28 Isus spune: 'Dar Eu vă spun că oricine se uită la o femeie ca s-o poftească a și preacurvit cu ea în inima lui.' Cine comite un păcat din neștiință este de asemenea socotit vinovat de păcat, chiar dacă nimeni nu îl vede. Mulți oameni gândesc și spun: \"Ce păcat am făcut eu?\" Nu este un păcat doar să ucizi, să preacurvești, să furi sau să jefuiești, ci și să minți, să înșeli, să fii mândru, invidios, lacom, să bârfești și să gândești răul despre alții. De fapt, fiecare om este păcătos încă de la naștere."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=RMNN' target='_blank'>Eclesiastul 7:20</a> 'Fiindcă pe pământ nu este niciun om fără prihană, care să facă binele fără să păcătuiască.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=RMNN' target='_blank'>Psalmul 51:5</a> 'Iată că sunt născut în nelegiuire, și în păcat m-a zămislit mama mea.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=RMNN' target='_blank'>1 Ioan 5:17</a> 'Orice nelegiuire este păcat,'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=RMNN' target='_blank'>Romani 3:23</a> 'Căci toți au păcătuit și sunt lipsiți de slava lui Dumnezeu.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=RMNN' target='_blank'>Romani 5:12</a> 'De aceea, după cum printr-un singur om a intrat păcatul în lume, și prin păcat a intrat moartea, și astfel moartea a trecut asupra tuturor oamenilor, din pricină că toți au păcătuit'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=RMNN' target='_blank'>Romani 6:23</a> 'Fiindcă plata păcatului este moartea,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Fiecare ființă umană trebuie să moară fizic, dar <b>spiritual să trăiască veșnic</b> - în iad sau în rai, în pedeapsă veșnică <b>sau viață veșnică, în</b> suferință veșnică sau bucurie veșnică."
+        },
+        {
+          "id": "Para 3",
+          "text": "Fiecare persoană a păcătuit, iar moartea este sigură pentru toți."
+        },
+        {
+          "type": "header",
+          "text": "Dumnezeu este sfânt și cerul este sfânt, așa că pentru a intra în cer trebuie să fim sfinți."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=RMNN' target='_blank'>Leviticul 19:2</a> 'Vorbește întregii adunări a copiilor lui Israel și spune-le: 'Fiți sfinți, căci Eu sunt sfânt, Eu, Domnul Dumnezeul vostru.''"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=RMNN' target='_blank'>1 Corinteni 6:9</a> 'Nu știți că cei nedrepți nu vor moșteni Împărăția lui Dumnezeu? Nu vă înșelați în privința aceasta:'"
+        },
+        {
+          "type": "header",
+          "text": "Deci, cum poate o persoană să fie dreaptă sau sfântă?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Evrei 9:22 'Și, după Lege, aproape totul <b>este curățat cu sânge; și</b> fără vărsare de sânge nu este iertare.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "A fi iertat de păcat înseamnă a fi sfânt sau a fi neprihănit."
+        },
+        {
+          "type": "header",
+          "text": "De ce este important sângele?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=RMNN' target='_blank'>Leviticul 17:11</a> 'Căci viața trupului este în sânge. Vi l-am dat ca să-l puneți pe altar, ca să slujească de ispășire pentru sufletele voastre, căci prin viața din el face sângele ispășire.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Deoarece viața este în sânge, nimeni nu poate plăti prețul vieții. Și niciun om nu poate prelungi viața nici măcar pentru o clipă prin propria sa putere. Isus Hristos a deschis calea pentru răscumpărarea omenirii, sacrificându-Și sângele prețios sau viața Sa prețioasă."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=RMNN' target='_blank'>Evrei 9:12</a> 'a intrat o dată pentru totdeauna în Locul Preasfânt, nu cu sânge de țapi și de viței, ci cu însuși sângele Său, după ce a căpătat o răscumpărare veșnică.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Isus Hristos Și-a arătat dragostea sacrificându-Și viața pentru întreaga rasă umană. Conform Ioan 15:13 - 'Nu este mai mare dragoste decât să-și dea cineva viața pentru prietenii săi.' Nu putem găsi niciun alt exemplu în istoria lumii de acest fel de dragoste, în afară de Isus Hristos."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=RMNN' target='_blank'>1 Ioan 1:7</a> 'Dar, dacă umblăm în lumină, după cum El însuși este în lumină, avem părtășie unii cu alții; și sângele lui Isus Hristos, <b>Fiul Lui, ne curăță de orice păcat.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=RMNN' target='_blank'>1 Corinteni 15:3</a> 'V-am învățat înainte de toate, așa cum am primit și eu: că Hristos <b>a murit pentru</b> păcatele noastre, după Scripturi; că a fost îngropat, și a înviat a treia zi, după Scripturi;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=RMNN' target='_blank'>Apocalipsa 1:5</a> 'și din partea lui Isus Hristos, Martorul credincios, Cel întâi născut din morți, Domnul împăraților pământului! A Lui, care ne iubește, <b>care ne-a spălat de păcatele noastre cu sângele Său'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=RMNN' target='_blank'>Matei 9:2</a> 'Și iată că I-au adus un slăbănog, care zăcea într-un pat. Isus le-a văzut credința și a zis slăbănogului: '<b>Îndrăznește, <b>fiule! Păcatele îți sunt iertate!''</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "În această declarație, Isus iartă direct <b>păcatele omului paralitic</b>, pentru că Isus este capabil să ierte păcatul omului și, în același timp, Se declară Dumnezeu, pentru că nimeni în afară de Dumnezeu nu poate ierta păcatul."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=RMNN' target='_blank'>Faptele Apostolilor 10:43</a> 'Toți prorocii mărturisesc despre El (Hristos) că oricine crede în El capătă, prin Numele Lui, iertarea păcatelor.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=RMNN' target='_blank'>Faptele Apostolilor 4:12</a> 'În nimeni altul nu este mântuire: căci nu este sub cer niciun alt Nume dat oamenilor în care trebuie să fim mântuiți' în afară de Isus Hristos din Nazaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Ioan 2:2 'El (Hristos) <b>este jertfa de ispășire pentru păcatele noastre;</b> și nu numai pentru ale <b>noastre, ci pentru ale întregii lumi.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=RMNN' target='_blank'>Ioan 3:16</a> 'Fiindcă atât de mult a iubit Dumnezeu (Creatorul) lumea (omenirea), că a dat pe singurul Lui Fiu (Isus Hristos), pentru ca oricine crede în El să <b>nu piară, ci să aibă viața veșnică</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=RMNN' target='_blank'>Ioan 1:12</a> 'Dar tuturor celor ce L-au primit (pe Isus), adică celor ce cred în Numele Lui (Isus), le-a dat dreptul să se facă copii ai lui Dumnezeu;'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Cuvântul 'copii ai lui Dumnezeu' nu este un cuvânt simplu, cei care au crezut și L-au acceptat pe Isus ca Domn al lor, sunt considerați cetățeni ai Cerului, sunt considerați persoane sfinte, toate păcatele le sunt iertate."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=RMNN' target='_blank'>Romani 8:1-2</a> 'Acum, dar, nu este nicio osândire pentru cei ce sunt în Hristos Isus, care nu trăiesc după îndemnurile firii pământești, ci după îndemnurile Duhului. În adevăr, legea Duhului de viață în Hristos Isus m-a izbăvit de legea păcatului și a morții.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=RMNN' target='_blank'>Romani 5:9</a> 'Deci, cu atât mai mult acum, când suntem socotiți neprihăniți prin sângele Lui (Isus), vom fi mântuiți prin El de mânia lui Dumnezeu.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=RMNN' target='_blank'>Romani 3:24</a> 'și sunt socotiți neprihăniți, fără plată, prin harul Său (Isus), prin răscumpărarea care este în Hristos Isus.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=RMNN' target='_blank'>Ioan 14:6</a> 'Isus i-a zis: 'Eu sunt Calea, Adevărul și Viața. Nimeni nu vine la Tatăl (care este în ceruri) decât prin Mine.''"
+        },
+        {
+          "type": "header",
+          "text": "Numai cei care cred în Isus Hristos, numai ei pot intra în Cer, asta se numește Viață Veșnică."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=RMNN' target='_blank'>Ioan 3:15</a> 'pentru ca oricine crede în El să <b>nu piară, ci să aibă viața veșnică</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=RMNN' target='_blank'>Romani 6:23</a> 'Fiindcă plata păcatului este moartea, dar darul fără plată al lui Dumnezeu este <b>viața veșnică</b> în Isus Hristos, Domnul nostru.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=RMNN' target='_blank'>Ioan 5:24</a> Isus spune - 'Adevărat, adevărat vă spun că <b>cine ascultă cuvintele Mele</b> și crede în Cel ce M-a trimis'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=RMNN' target='_blank'>Ioan 11:25-26</a> Isus i-a zis: 'Eu sunt Învierea și Viața. Cine crede în Mine, chiar dacă ar fi murit, va trăi. Și oricine trăiește și crede în Mine nu va muri <b>niciodată. Crezi lucrul acesta?'</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=RMNN' target='_blank'>Ioan 6:51</a> 'Eu sunt (Hristos) Pâinea vie care s-a coborât din cer. Dacă mănâncă cineva din pâinea aceasta, va <b>trăi în veac; și pâinea</b> pe care o voi da Eu este trupul Meu pe care Îl voi da pentru viața lumii.''"
+        },
+        {
+          "id": "Para 9",
+          "text": "Isus a folosit <b>cuvântul 'Viață Veșnică</b>' în Evanghelia după Ioan de aproximativ 17 ori, de 12 ori L-a folosit pentru prezent, doar de 5 ori L-a folosit pentru viitor. Cei mai mulți dintre noi cred că <b>viața veșnică</b> este doar pentru viitor, dar Biblia spune clar că este atât pentru prezent, cât și pentru viitor. Cei care sunt toți cu Isus, cei care au crezut și L-au acceptat pe Isus ca Domn și Mântuitor personal, pot spune că <b>VIAȚA VEȘNICĂ</b> este cu ei, sunt deja binecuvântați cu <b>Viața Veșnică</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=RMNN' target='_blank'>1 Ioan 5:11</a> 'Și mărturisirea este aceasta: Dumnezeu ne-a dat <b>viața veșnică</b>, și această viață este în Fiul Său (Hristos).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=RMNN' target='_blank'>Ioan 17:3</a> 'Și <b>viața veșnică</b> este aceasta: să Te cunoască pe Tine, singurul Dumnezeu adevărat, și pe Isus Hristos pe care L-ai trimis Tu.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=RMNN' target='_blank'>Ioan 12:50</a> Isus a spus - 'Și știu că porunca Lui (Dumnezeu) este <b>viața veșnică</b>. De aceea lucrurile pe care le spun Eu, le spun așa cum Mi le-a spus Tatăl.''"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=RMNN' target='_blank'>1 Ioan 5:20</a> 'Știm că Fiul lui Dumnezeu a venit și ne-a dat pricepere să cunoaștem pe Cel Adevărat. Și noi suntem în Cel Adevărat, adică în Isus Hristos, Fiul Lui. El este Dumnezeul adevărat și <b>viața veșnică</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=RMNN' target='_blank'>Ioan 6:47</a> 'Adevărat, adevărat vă spun că cine crede în Mine (Hristos) are <b>viața veșnică</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Ce înseamnă a crede?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Demonii cred și ei în Isus, asta nu înseamnă că vor avea <b>viață veșnică. Iacov</b> 2:19 Tu crezi că Dumnezeu este unul și bine faci. Dar și dracii cred și se înfioară!"
+        },
+        {
+          "type": "header",
+          "text": "Pocăiește-te de păcatul tău, mărturisește că Dumnezeu L-a înviat pe Isus Hristos din morți și acceptă-L pe Isus Hristos ca Mântuitor și Domn personal. - asta se numește a crede în Isus Hristos."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=RMNN' target='_blank'>Romani 10:9-10</a> 'Dacă mărturisești deci cu gura ta pe Isus ca Domn și dacă crezi în inima ta că Dumnezeu L-a înviat din morți, vei fi mântuit. Căci prin credința din inimă se capătă neprihănirea, și prin mărturisirea cu gura se ajunge la mântuire,'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=RMNN' target='_blank'>Matei 10:32-33</a> 'De aceea, pe oricine Mă va mărturisi înaintea oamenilor, îl voi mărturisi și Eu înaintea Tatălui Meu care este în ceruri; dar de oricine se va lepăda de Mine înaintea oamenilor, Mă voi lepăda și Eu înaintea Tatălui Meu care este în ceruri.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Mântuirea sau iertarea păcatului este cheia vieții <b>veșnice. <b>Numai Isus Hristos poate salva omenirea</b>, pentru că nimeni</b> altcineva în lume nu și-a sacrificat sângele cu excepția lui Isus Hristos, Isus singur și-a sacrificat Sângele Sfânt ca jertfă finală pentru omenire. De aceea El este capabil să salveze întreaga omenire."
+        },
+        {
+          "type": "header",
+          "text": "Importanța lui Isus Hristos:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Au existat multe profeții despre Isus Hristos între 1700 î.Hr. și 400 î.Hr., despre nașterea Sa, despre pedeapsa Sa, despre moartea Sa pe cruce, despre învierea Sa în a treia zi după moartea Sa etc. Cărturarii estimează că Isus Hristos a împlinit peste 300 de profeții din Vechiul Testament. Chiar și după înviere, Hristos a trăit cu ucenicii și a propovăduit despre împărăția cerurilor, iar în a 40-a zi de la învierea Sa s-a înălțat la cer în forma Sa trupească."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "În afară de Hristos, nu există nicio altă persoană în istoria lumii care să fi înviat și să se fi înălțat la cer în trup."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Astăzi, istoria pământului este numărată cu Hristos. Aproximativ 88 la sută din țările lumii păstrează duminica ca sărbătoare și observă ziua învierii lui Hristos, ziua victoriei, victoria asupra morții și a păcatului."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Singura noastră datorie este să ne refugiem în El, să mărturisim cu gura noastră că Isus este Domnul, să credem în inima noastră că Dumnezeu L-a înviat pe Hristos din morți și să fim ucenicii Lui și să urmăm poruncile Lui și să mergem pe calea vieții, atunci cu siguranță, el/ea va poseda împărăția cerurilor."
+        },
+        {
+          "type": "header",
+          "text": "Importanța Sfintei Scripturi"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Am menționat aici referințele din Sfânta Scriptură pentru a explica despre <b>Viața veșnică</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Și de ce Biblia este o carte de încredere? Biblia a fost scrisă într-un interval de 1700 până la 1800 de ani de peste 40 de autori diferiți în epoci diferite și în locuri diferite."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Biblia nu este o singură carte, este o combinație de 66 de cărți, înainte de Hristos au fost scrise 39 de cărți numite 'Vechiul Testament' și după Hristos au fost scrise 27 de cărți numite 'Noul Testament'. Scopul scrierii Sfintei Biblii este aproape același pentru toți autorii, este de a dezvălui cunoașterea Divinității (Dumnezeu Tatăl, Dumnezeu Fiul Isus Hristos și Dumnezeu Duhul Sfânt), de a dezvălui natura Creației și istoria omenirii. De asemenea, Biblia este cunoscută sub numele de instrucțiuni de la Dumnezeu, Legi, Istorie, Profeție și Revelație. De asemenea, Sfânta Biblie este cunoscută sub <b>numele de CARTEA VIEȚII VEȘNICE.</b>"
+        },
+        {
+          "id": "Para 14",
+          "text": "Sfânta Biblie nu este scrisă de o singură persoană sau de 2-3 persoane; ci scrisă de 40 de persoane diferite cu dovezi istorice și scopul tuturor este aproape același, așa că pot spune că Sfânta Biblie este o Carte dovedită și de încredere."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=RMNN' target='_blank'>2 Timotei 3:16</a> 'Toată Scriptura (Biblia) este insuflată de Dumnezeu și de folos ca să învețe, să mustre, să îndrepte, să dea înțelepciune în neprihănire,'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=RMNN' target='_blank'>Ioan 20:31</a> 'Dar lucrurile acestea (Biblia) au fost scrise, pentru ca voi să credeți că Isus este Hristosul, Fiul lui Dumnezeu; și crezând, să aveți viața (<b>viața veșnică</b>) în Numele Lui.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Biblia este scrisă pentru ca întreaga omenire să primească iertarea păcatului, mântuirea și <b>viața veșnică</b> prin credința în Isus Hristos. Sfânta Biblie nu este scrisă doar pentru o anumită țară, o anumită clasă, o anumită limbă, oameni de o anumită culoare; Ci este scrisă pentru oamenii de orice limbă, orice trib, orice culoare și orice națiune de pe pământ. Astăzi Sfânta Biblie este cunoscută ca fiind cea mai tipărită Carte, iar Sfânta Biblie este disponibilă în aproape fiecare limbă majoră."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Viața este atât de Prețioasă și <b>Viața Veșnică</b> este Neprețuită. Dumnezeu a făcut un plan special pentru ca fiecare dintre noi să aibă <b>Viața Veșnică</b> fără niciun cost. Așadar, să avem Viață din Belșug și Veșnică. Și să împărtășim experiența noastră de viață veșnică cu alții și Domnul nostru să fie glorificat."
+        },
+        {
+          "id": "Blessing",
+          "text": "Domnul să te binecuvânteze din belșug, să fii binecuvântat cu <b>viața veșnică</b> și să fii cetățean al împărăției CERURILOR."
+        }
+      ],
+      "title": "Prefață",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}
