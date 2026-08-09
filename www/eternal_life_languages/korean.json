@@ -1,0 +1,365 @@
+{
+  "title": "영생",
+  "chapters": [
+    {
+      "title": "표지",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>영생</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>영생은 끝이 없는 삶인데, 이것은 인간이 결코 죽지 않는다는 것을 의미합니까? 육체적으로는</b> 죽어야 하지만, 영적으로는 천국에서 <b>영원히 살거나</b> 지옥에서 영원히 고통받을 것입니다. 이 주제를 명확히 이해하기 위해 아래에서 간단히 논의해 보겠습니다."
+        },
+        {
+          "type": "header",
+          "text": "모든 사람은 죄인입니다"
+        },
+        {
+          "id": "Para 1",
+          "text": "사람은 날 때부터 죄인이며, 삶 속에서 행위, 행동, 듣는 것, 말하는 것, 보는 것, 생각하는 것으로 죄를 짓습니다. 마태복음 5장 28절에서 예수님은 '나는 너희에게 이르노니 음욕을 품고 여자를 보는 자마다 마음에 이미 간음하였느니라'고 말씀하십니다. 무지함으로 지은 죄도 아무도 보지 못했을지라도 죄로 간주됩니다. 많은 사람들이 \"내가 무슨 죄를 지었는가?\"라고 생각하고 말합니다. 살인, 간음, 도둑질, 강도질만 죄가 아니라 거짓말, 속임, 교만, 질투, 탐욕, 험담, 타인에 대한 악한 생각 또한 죄입니다. 실제로 모든 사람은 날 때부터 죄인입니다."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=KRV' target='_blank'>전도서 7:20</a> '선을 행하고 <b>죄를</b> 범치 아니하는 의인은 세상에 아주 없느니라.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=KRV' target='_blank'>시편 51:5</a> '내가 <b>죄악 중에 출생하였음이여 모친이 죄</b> 중에 나를 잉태하였나이다.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=KRV' target='_blank'>요한일서 5:17</a> '모든 불의가 <b>죄로다</b>'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=KRV' target='_blank'>로마서 3:23</a> '모든 사람이 <b>죄를</b> 범하였으매 하나님의 영광에 이르지 못하더니'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=KRV' target='_blank'>로마서 5:12</a> '이러므로 한 사람으로 말미암아 <b>죄가 세상에 들어오고 죄로</b> 말미암아 사망이 왔나니 이와 같이 모든 사람이 <b>죄를</b> 지었으므로 사망이 모든 사람에게 이르렀느니라'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=KRV' target='_blank'>로마서 6:23</a> '<b>죄의</b> 삯은 사망이요'"
+        },
+        {
+          "id": "Para 2",
+          "text": "모든 인간은 육체적으로 죽어야 하지만, 영적으로는 <b>영원히 살아야</b> 합니다 - 지옥에서 또는 천국에서, 영원한 형벌 속에서 또는 <b>영생</b> 속에서, 영원한 고통 속에서 또는 영원한 기쁨 속에서."
+        },
+        {
+          "id": "Para 3",
+          "text": "모든 사람이 <b>죄를</b> 범하였고, 죽음은 모든 사람에게 확실합니다."
+        },
+        {
+          "type": "header",
+          "text": "하나님은 거룩하시고 천국은 거룩하니, 우리가 천국에 들어가려면 거룩해야 합니다."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=KRV' target='_blank'>레위기 19:2</a> '너는 이스라엘 자손의 온 회중에게 고하여 이르라 너희는 거룩하라 나 여호와 너희 하나님이 거룩함이니라'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=KRV' target='_blank'>고린도전서 6:9</a> '불의한 자가 하나님의 나라를 유업으로 받지 못할 줄을 알지 못하느냐'"
+        },
+        {
+          "type": "header",
+          "text": "그럼 어떻게 사람이 의롭거나 거룩해질 수 있습니까?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "히브리서 9:22 '율법을 좇아 거의 모든 물건이 <b>피로써 정결케 되나니 피흘림이</b> 없은즉 사함이 없느니라'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "<b>죄</b> 사함을 받는다는 것은 거룩해지거나 의로워지는 것입니다."
+        },
+        {
+          "type": "header",
+          "text": "왜 <b>피가</b> 중요한가?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=KRV' target='_blank'>레위기 17:11</a> '육체의 생명은 <b>피에 있음이라 내가 이 피를</b> 너희에게 주어 단에 뿌려 너희의 생명을 위하여 속하게 하였나니 생명이 <b>피에 있으므로 피가 죄를</b> 속하느니라'"
+        },
+        {
+          "id": "Para 5",
+          "text": "생명은 <b>피에</b> 있기 때문에, 아무도 생명의 값을 지불할 수 없습니다. 그리고 어떤 사람도 혼자 힘으로 단 한 순간도 생명을 연장할 수 없습니다. 예수 그리스도께서는 그분의 보혈이나 그분의 귀중한 생명을 희생함으로써 인류 구속의 길을 여셨습니다."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=KRV' target='_blank'>히브리서 9:12</a> '염소와 송아지의 <b>피로 아니하고 오직 자기 피로 영원한 속죄를</b> 이루사 단번에 성소에 들어가셨느니라'"
+        },
+        {
+          "id": "Para 6",
+          "text": "예수 그리스도께서는 전 인류를 위해 자신의 생명을 희생함으로써 당신의 사랑을 보여주셨습니다. 요한복음 15:13에 따르면 - '사람이 친구를 위하여 자기 목숨을 버리면 이에서 더 큰 사랑이 없나니.' 우리는 세계 역사에서 예수 그리스도 외에 이런 종류의 사랑의 다른 예를 찾을 수 없습니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=KRV' target='_blank'>요한일서 1:7</a> '저가 빛 가운데 계신것 같이 우리도 빛 가운데 행하면 우리가 서로 사귐이 있고 그 아들 예수의 <b>피가 우리를 모든 죄에서</b> 깨끗하게 하실 것이요'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=KRV' target='_blank'>고린도전서 15:3</a> '내가 받은 것을 먼저 너희에게 전하였노니 이는 <b>성경대로 그리스도께서 우리 죄를</b> 위하여 죽으시고 장사 지낸바 되었다가 성경대로 사흘만에 다시 살아나사'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=KRV' target='_blank'>요한계시록 1:5</a> '또 충성된 증인으로 죽은 자들 가운데서 먼저 나시고 땅의 임금들의 머리가 되신 예수 그리스도로 말미암아 은혜와 평강이 너희에게 있기를 원하노라 우리를 사랑하사 그의 <b>피로 우리 죄에서</b> 우리를 해방하시고'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=KRV' target='_blank'>마태복음 9:2</a> '침상에 누운 중풍병자를 사람들이 데리고 오거늘 예수께서 저희의 믿음을 보시고 중풍병자에게 이르시되 소자야 안심하라 네 <b>죄</b> 사함을 받았느니라'"
+        },
+        {
+          "id": "Para 7",
+          "text": "이 말씀에서 예수님은 중풍병자의 <b>죄를</b> 직접 용서하시는데, 이는 예수님께서 사람의 <b>죄를</b> 용서하실 수 있으며 동시에 하나님 외에는 아무도 <b>죄를</b> 용서할 수 없기 때문에 자신을 하나님이라고 선언하시는 것입니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=KRV' target='_blank'>사도행전 10:43</a> '저에 대하여 모든 선지자도 증거하되 저를 믿는 사람들이 다 그 이름을 힘입어 <b>죄</b> 사함을 받는다 하였느니라'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=KRV' target='_blank'>사도행전 4:12</a> '다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라 하였더라' 나사렛 예수 그리스도 외에는."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "요한일서 2:2 '저는(그리스도) 우리 <b>죄를</b> 위한 화목 제물이니 우리만 위할뿐 아니요 온 세상의 <b>죄를</b> 위하심이라'"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=KRV' target='_blank'>요한복음 3:16</a> '하나님이(창조주) 세상을(인류) 이처럼 사랑하사 독생자를(예수 그리스도) 주셨으니 이는 저를 믿는 자마다 멸망치 않고 <b>영생을</b> 얻게 하려 하심이니라'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=KRV' target='_blank'>요한복음 1:12</a> '영접하는 자(예수) 곧 그 이름을(예수) 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니'"
+        },
+        {
+          "id": "Para 8",
+          "text": "'하나님의 자녀'라는 말은 단순한 말이 아닙니다. 예수님을 자신의 주님으로 믿고 영접한 사람들은 천국 시민으로 간주되고, 거룩한 사람으로 간주되며, 모든 <b>죄가</b> 사해진 것입니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=KRV' target='_blank'>로마서 8:1-2</a> '그러므로 이제 그리스도 예수 안에 있는 자에게는 결코 <b>정죄함이</b> 없나니 이는 그리스도 예수 안에 있는 생명의 성령의 법이 <b>죄와</b> 사망의 법에서 너를 해방하였음이라'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=KRV' target='_blank'>로마서 5:9</a> '그러면 이제 우리가 그 <b>피를</b>(예수) 인하여 의롭다 하심을 얻었은즉 더욱 그로 말미암아 진노하심에서 구원을 얻을 것이니'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=KRV' target='_blank'>로마서 3:24</a> '그리스도 예수 안에 있는 구속으로 말미암아 하나님의 은혜로 값 없이 의롭다 하심을 얻은 자 되었느니라'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=KRV' target='_blank'>요한복음 14:6</a> '예수께서 가라사대 내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로(천국에 계신) 올 자가 없느니라'"
+        },
+        {
+          "type": "header",
+          "text": "오직 예수 그리스도를 믿는 자만이 천국에 들어갈 수 있으며, 그것을 <b>영생이라고</b> 합니다."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=KRV' target='_blank'>요한복음 3:15</a> '이는 저를 믿는 자마다 <b>영생을</b> 얻게 하려 하심이니라'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=KRV' target='_blank'>로마서 6:23</a> '<b>죄의</b> 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 <b>영생이니라</b>'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=KRV' target='_blank'>요한복음 5:24</a> 예수께서 가라사대 - '내가 진실로 진실로 <b>너희에게 이르노니 내 말을 듣고</b> 또 나 보내신 이를 믿는 자는'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=KRV' target='_blank'>요한복음 11:25-26</a> 예수께서 가라사대 나는 부활이요 생명이니 나를 믿는 자는 죽어도 살겠고 무릇 살아서 나를 믿는 자는 영원히 죽지 <b>아니하리니 이것을 네가 믿느냐</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=KRV' target='_blank'>요한복음 6:51</a> '나는(그리스도) 하늘로서 내려온 산 떡이니 사람이 이 떡을 먹으면 <b>영생하리라</b> 나의 줄 떡은 곧 세상의 생명을 위한 내 살이로라 하시니라'"
+        },
+        {
+          "id": "Para 9",
+          "text": "예수님께서는 요한복음에서 '<b>영생</b>'이라는 단어를 약 17번 사용하셨는데, 현재형으로 12번 사용하셨고, 미래형으로는 단 5번만 사용하셨습니다. 우리 대부분은 <b>영생이</b> 미래만을 위한 것이라고 생각하지만, 성경은 그것이 현재와 미래 모두를 위한 것이라고 분명히 말합니다. 예수님과 함께하는 모든 사람들, 예수님을 개인적인 주님과 구세주로 믿고 영접한 사람들은 <b>영생이</b> 그들과 함께 있다고 말할 수 있으며, 그들은 이미 <b>영생으로</b> 축복받았습니다."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=KRV' target='_blank'>요한일서 5:11</a> '또 증거는 이것이니 하나님이 우리에게 <b>영생을 주신 것과 이 생명이 그의</b> 아들 안에(그리스도) 있는 그것이니라'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=KRV' target='_blank'>요한복음 17:3</a> '<b>영생은</b> 곧 유일하신 참 하나님과 그의 보내신 자 예수 그리스도를 아는 것이니이다'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=KRV' target='_blank'>요한복음 12:50</a> 예수께서 말씀하시길 - '나는 그의(하나님) 명령이 <b>영생인줄</b> 아노라 그러므로 나의 이르는 것은 내 아버지께서 내게 말씀하신 그대로 이르노라 하시니라'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=KRV' target='_blank'>요한일서 5:20</a> '또 아는 것은 하나님의 아들이 이르러 우리에게 지각을 주사 우리로 참된 자를 알게 하신 것과 또한 우리가 참된 자 곧 그의 아들 예수 그리스도 안에 있는 것이니 그는 참 하나님이시요 <b>영생이시라</b>'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=KRV' target='_blank'>요한복음 6:47</a> '진실로 진실로 너희에게 이르노니(나 그리스도) 믿는 자는 <b>영생을</b> 가졌나니'"
+        },
+        {
+          "type": "header",
+          "text": "믿는다는 것은 무엇을 의미합니까?"
+        },
+        {
+          "id": "Para 10",
+          "text": "귀신들도 예수님을 믿지만, 그것이 그들이 <b>영생을 얻는다는 의미는 아닙니다. 야고보서</b> 2:19 네가 하나님은 한 분이신 줄을 믿느냐 잘하는도다 귀신들도 믿고 떠느니라."
+        },
+        {
+          "type": "header",
+          "text": "당신의 <b>죄를</b> 회개하고, 하나님께서 예수 그리스도를 죽은 자 가운데서 살리신 것을 시인하며, 예수 그리스도를 당신의 개인적인 구세주와 주님으로 영접하십시오. - 이것을 예수 그리스도를 믿는 것이라고 합니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=KRV' target='_blank'>로마서 10:9-10</a> '네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 얻으리니 사람이 마음으로 믿어 의에 이르고 입으로 시인하여 구원에 이르느니라'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=KRV' target='_blank'>마태복음 10:32-33</a> '누구든지 사람 앞에서 나를 시인하면 나도 하늘에 계신 내 아버지 앞에서 저를 시인할 것이요 누구든지 사람 앞에서 나를 부인하면 나도 하늘에 계신 내 아버지 앞에서 저를 부인하리라'"
+        },
+        {
+          "id": "Para 11",
+          "text": "구원 또는 <b>죄 사함은 영생의 열쇠입니다. 오직 예수 그리스도만이 인류를 구원하실 수 있습니다. 왜냐하면 예수 그리스도 외에는 세상의 어느 누구도 자신의 피를</b> 희생하지 않았기 때문입니다. 오직 예수님만이 인류를 위한 마지막 희생으로 당신의 거룩한 <b>피를</b> 희생하셨습니다. 그렇기 때문에 그분은 모든 인류를 구원하실 수 있습니다."
+        },
+        {
+          "type": "header",
+          "text": "예수 그리스도의 중요성:"
+        },
+        {
+          "id": "Para 12",
+          "text": "기원전 1700년에서 기원전 400년 사이에 예수 그리스도에 대한 많은 예언이 있었습니다. 그분의 탄생, 형벌, 십자가에서의 죽음, 죽음 후 3일 만의 부활 등에 관한 것입니다. 학자들은 예수 그리스도께서 구약의 300가지 이상의 예언을 성취하셨다고 추정합니다. 부활 후에도 그리스도는 제자들과 함께 지내며 천국에 대해 전파하시고, 부활하신 지 40일째 되는 날 육신을 입고 하늘로 승천하셨습니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "그리스도 외에는 부활하여 육체적으로 승천한 사람이 세계 역사상 아무도 없습니다."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "오늘날, 지구의 역사는 그리스도와 함께 계산됩니다. 전 세계 국가의 약 88%가 일요일을 공휴일로 지키며 그리스도의 부활의 날, 승리의 날, 죽음과 <b>죄에</b> 대한 승리의 날을 기념합니다."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "우리의 유일한 의무는 그분께 <b>피하고</b>, 입으로 예수가 주님이라고 시인하고, 마음으로 하나님께서 그리스도를 죽은 자 가운데서 살리셨다는 것을 믿고, 그분의 제자가 되어 그분의 계명을 따르고 생명의 길을 걷는 것입니다. 그러면 확실히 그 사람은 천국을 소유하게 될 것입니다."
+        },
+        {
+          "type": "header",
+          "text": "성경의 중요성"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "나는 여기서 <b>영생에 대해 설명하기 위해 성경의 구절들을 언급했습니다.</b>"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "그리고 왜 성경은 신뢰할 수 있는 책입니까? 성경은 1700년에서 1800년 사이에 40명 이상의 다른 저자들에 의해 다른 시대와 다른 장소에서 기록되었습니다."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "성경 단 한 권의 책이 아니라 66권의 책이 결합된 것입니다. 그리스도 이전에 기록된 39권의 책을 '구약성경'이라 부르고, 그리스도 이후에 기록된 27권의 책을 '신약성경'이라 부릅니다. 성경을 기록한 목적은 모든 저자가 거의 동일한데, 그것은 신성(성부 하나님, 성자 하나님 예수 그리스도, 성령 하나님)에 대한 지식을 드러내고, 창조의 본질과 인류의 역사를 드러내는 것입니다. 또한 성경은 하나님의 지시, 율법, 역사, 예언 및 계시로 알려져 있습니다. 또한 성경은 <b>영생의</b> 책으로 알려져 있습니다."
+        },
+        {
+          "id": "Para 14",
+          "text": "성경은 한 명 또는 2-3명이 기록한 것이 아니라, 역사적 증거를 가진 40명의 서로 다른 사람들이 기록했으며, 모든 사람의 목적이 거의 동일하므로 성경은 입증되고 신뢰할 수 있는 책이라고 말할 수 있습니다."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=KRV' target='_blank'>디모데후서 3:16</a> '모든 성경은(바이블) 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=KRV' target='_blank'>요한복음 20:31</a> '오직 이것을(바이블) 기록함은 너희로 예수께서 하나님의 아들 그리스도이심을 믿게 하려 함이요 또 너희로 믿고 그 이름을 힘입어 생명을(<b>영생</b>) 얻게 하려 함이니라'"
+        },
+        {
+          "id": "Para 15",
+          "text": "성경은 모든 인류가 예수 그리스도를 믿음으로 <b>죄 사함과 구원과 영생을</b> 받도록 기록되었습니다. 성경은 특정 국가, 특정 계급, 특정 언어, 특정 인종을 위해서만 기록된 것이 아닙니다. 지구상의 모든 언어, 모든 부족, 모든 <b>피부색</b>, 모든 민족을 위해 기록되었습니다. 오늘날 성경은 가장 많이 인쇄된 책으로 알려져 있으며, 성경은 거의 모든 주요 언어로 제공됩니다."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "삶은 매우 소중하며 <b>영생은</b> 값을 매길 수 없습니다. 하나님은 우리 각자가 아무런 대가 없이 <b>영생을</b> 얻도록 특별한 계획을 세우셨습니다. 그러므로 풍성하고 영원한 생명을 누립시다. 그리고 우리의 <b>영생의</b> 경험을 다른 사람들과 나누고 우리 주님께 영광을 돌립시다."
+        },
+        {
+          "id": "Blessing",
+          "text": "주님께서 당신에게 풍성히 복을 주시고, <b>영생의</b> 복을 누리며 천국의 시민이 되시기를 빕니다."
+        }
+      ],
+      "title": "서문",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}
