@@ -1,0 +1,686 @@
+/* The Scroll Restorer - Ancient Parchment Aesthetic */
+
+.scroll-restorer-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url('scroll_bg.png') center/cover;
+    z-index: 10000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.scroll-game-header {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.ink-bar-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.ink-bottle-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.ink-bar-track {
+    width: 150px;
+    height: 20px;
+    background: rgba(93, 64, 55, 0.3);
+    border-radius: 10px;
+    border: 2px solid #5d4037;
+    overflow: hidden;
+}
+
+.ink-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #1a1a1a, #333);
+    transition: width 0.3s ease;
+}
+
+.level-title {
+    font-family: Georgia, serif;
+    font-size: 1.5rem;
+    color: #ff8c00;
+    text-align: center;
+    flex: 1;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.scroll-game-header .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: transparent;
+    border: none;
+    font-size: 2.5rem;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.scroll-game-header .help-btn {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 40px;
+    height: 40px;
+    background: #f4e4bc;
+    border: 2px solid #5d4037;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    color: #5d4037;
+    cursor: pointer;
+    font-weight: bold;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.scroll-game-area {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+}
+
+.crossword-grid {
+    display: inline-grid;
+    gap: 2px;
+    padding: 20px;
+    background: rgba(244, 228, 188, 0.5);
+    border-radius: 10px;
+    border: 3px solid #5d4037;
+}
+
+.crossword-cell {
+    width: 60px;
+    height: 60px;
+    background: #f4e4bc;
+    border: 2px solid #5d4037;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #5d4037;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.crossword-cell.empty {
+    background: transparent;
+    border: none;
+    cursor: default;
+}
+
+.crossword-cell.active {
+    background: #fff8dc;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.crossword-cell.highlighted {
+    background: #fffacd;
+}
+
+.crossword-cell.correct {
+    background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+    animation: goldenGlow 0.5s ease;
+}
+
+.word-number {
+    position: absolute;
+    top: 3px;
+    left: 4px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: #5d4037;
+    z-index: 1;
+}
+
+.cell-letter {
+    font-size: 1.6rem;
+    font-weight: bold;
+    z-index: 2;
+}
+
+@keyframes glow {
+
+    0%,
+    100% {
+        text-shadow: 0 0 5px #ffd700;
+    }
+
+    50% {
+        text-shadow: 0 0 20px #ffd700;
+    }
+}
+
+.clue-box {
+    width: 100%;
+    max-width: 800px;
+    background: rgba(244, 228, 188, 0.9);
+    border: 2px solid #5d4037;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.hint-lamp {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hint-lamp img {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.2s;
+}
+
+.hint-lamp:hover img {
+    transform: transformScale(1.1);
+}
+
+.hint-cost {
+    font-size: 0.8rem;
+    color: #d32f2f;
+    font-weight: bold;
+}
+
+.current-clue {
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+    color: #5d4037;
+    flex: 1;
+}
+
+/* Hidden keyboard input for mobile */
+.scroll-keyboard-input {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+}
+
+/* Stone keyboard - hidden on mobile */
+.stone-keyboard {
+    display: none;
+}
+
+/* Level Selection */
+.scroll-level-select {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f4e4bc;
+    /* Fully opaque background */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    /* Changed from center to allow scrolling from top */
+    z-index: 10001;
+    overflow-y: auto;
+    /* Enable vertical scrolling */
+    padding-top: 20px;
+    /* Add some top padding */
+    -webkit-overflow-scrolling: touch;
+}
+
+.level-header {
+    width: 100%;
+    max-width: 800px;
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 40px;
+    /* Add padding to prevent text from hitting the back button */
+    box-sizing: border-box;
+    min-height: 50px;
+}
+
+.nav-back-btn {
+    position: absolute;
+    left: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    transition: transform 0.2s;
+}
+
+.nav-back-btn:hover {
+    transform: scale(1.1);
+}
+
+.scroll-level-select h2 {
+    font-family: Georgia, serif;
+    font-size: 2.5rem;
+    color: #5d4037;
+    margin: 0;
+}
+
+.scroll-level-select p {
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+    color: #8d6e63;
+    margin-bottom: 30px;
+}
+
+.level-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    max-width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.level-card {
+    background: rgba(255, 255, 255, 0.8);
+    border: 3px solid #5d4037;
+    border-radius: 10px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+    text-align: center;
+    position: relative;
+}
+
+.level-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    background: rgba(255, 248, 220, 0.9);
+}
+
+.level-card.locked {
+    opacity: 0.7;
+    background: rgba(200, 200, 200, 0.6);
+    cursor: not-allowed;
+    filter: grayscale(0.8);
+}
+
+.level-card.locked:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+.level-card h3 {
+    font-family: Georgia, serif;
+    font-size: 1.3rem;
+    color: #5d4037;
+    margin: 0;
+}
+
+/* Win Popup */
+.scroll-win-popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.98);
+    border: 4px solid #ffd700;
+    border-radius: 15px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+    width: 90%;
+    max-width: 500px;
+    min-width: 280px;
+    z-index: 10002;
+    animation: popupFadeIn 0.3s ease-out;
+}
+
+@keyframes popupFadeIn {
+    from {
+        transform: translate(-50%, -60%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translate(-50%, -50%);
+        opacity: 1;
+    }
+}
+
+.scroll-win-popup h3 {
+    font-family: Georgia, serif;
+    font-size: 2rem;
+    color: #ffd700;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px #ffd700;
+}
+
+.restored-verse {
+    font-family: Georgia, serif;
+    font-size: 1.1rem;
+    color: #5d4037;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: rgba(244, 228, 188, 0.5);
+    border-radius: 8px;
+}
+
+.scroll-win-popup button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.primary-btn {
+    background: #ffd700;
+    border: 2px solid #5d4037;
+    color: #5d4037;
+}
+
+.secondary-btn {
+    background: #f4e4bc;
+    border: 2px solid #5d4037;
+    color: #5d4037;
+}
+
+/* Desktop - Multiple columns for level selection */
+@media (min-width: 769px) {
+    .level-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        max-width: 800px;
+        gap: 20px;
+    }
+}
+
+/* Responsive - Mobile Optimized */
+@media (max-width: 768px) {
+    .scroll-restorer-container {
+        padding: 5px;
+        justify-content: flex-start;
+    }
+
+    .scroll-game-header {
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 5px;
+    }
+
+    .ink-bar-container {
+        order: 2;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .ink-bar-track {
+        flex: 1;
+        max-width: 200px;
+    }
+
+    .level-title {
+        order: 1;
+        font-size: 1.1rem;
+    }
+
+    .scroll-game-header .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 40px;
+        height: 40px;
+        font-size: 2rem;
+    }
+
+    .scroll-game-area {
+        max-width: 100%;
+        padding: 0;
+        overflow-x: hidden;
+        /* Prevent scrolling if we fit perfectly */
+        display: block;
+        text-align: center;
+    }
+
+    .crossword-grid {
+        padding: 10px;
+        gap: 1px;
+        display: inline-grid;
+        margin: 0 auto;
+        /* Dynamic width to fit screen */
+        width: 95vw;
+        max-width: 500px;
+    }
+
+    .crossword-cell {
+        /* Calculate optimal size: (Viewport Width - Margins) / Column Count */
+        /* But cap it at 44px so small grids don't look huge */
+        --cell-size: clamp(20px, 44px, calc((92vw - 24px) / var(--col-count)));
+
+        width: var(--cell-size);
+        height: var(--cell-size);
+        font-size: calc(var(--cell-size) * 0.6);
+        border: 2px solid #5d4037;
+    }
+
+    .cell-letter {
+        font-size: inherit;
+    }
+
+    .word-number {
+        font-size: calc(var(--cell-size) * 0.3);
+        top: 2px;
+    }
+
+    .cell-letter {
+        font-size: 1.2rem;
+    }
+
+    .clue-box {
+        flex-direction: column;
+        padding: 10px;
+        margin: 5px 0;
+        gap: 10px;
+    }
+
+    .hint-lamp img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .current-clue {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .stone-keyboard {
+        grid-template-columns: repeat(7, 1fr);
+        gap: 3px;
+        padding: 5px;
+    }
+
+    .stone-key {
+        font-size: 1rem;
+    }
+
+    .level-header {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav-back-btn {
+        position: fixed;
+        /* Changed to fixed to stay at top left */
+        left: 10px;
+        top: 10px;
+        transform: none;
+        z-index: 10005;
+        /* Ensure above modal content */
+    }
+
+    .scroll-level-select {
+        padding-top: 60px;
+        /* Space for the fixed header area */
+    }
+
+    .scroll-level-select h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        /* Standard spacing below the top area */
+    }
+
+    .scroll-level-select p {
+        font-size: 1rem;
+    }
+
+    .scroll-win-popup {
+        max-width: 90%;
+        padding: 20px;
+    }
+
+    .scroll-win-popup h3 {
+        font-size: 1.5rem;
+    }
+
+    .restored-verse {
+        font-size: 1rem;
+    }
+
+    .scroll-game-header .help-btn {
+        top: 10px;
+        left: 10px;
+        width: 35px;
+        height: 35px;
+        font-size: 1.2rem;
+    }
+}
+
+/* Help Modal */
+.scroll-help-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 20000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(3px);
+    animation: fadeIn 0.3s;
+}
+
+.help-content {
+    background: #fff8dc;
+    border: 4px solid #5d4037;
+    border-radius: 15px;
+    padding: 25px;
+    width: 85%;
+    max-width: 400px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    font-family: Georgia, serif;
+    color: #5d4037;
+}
+
+.help-content h3 {
+    text-align: center;
+    color: #8d6e63;
+    margin-top: 0;
+    border-bottom: 2px solid #5d4037;
+    padding-bottom: 10px;
+}
+
+.help-content ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.help-content li {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    position: relative;
+    font-size: 1.05rem;
+}
+
+.help-content li::before {
+    content: "📜";
+    position: absolute;
+    left: 0;
+    top: 2px;
+    font-size: 0.8rem;
+}
+
+.help-content .primary-btn {
+    width: 100%;
+    margin-top: 15px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Landscape mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .crossword-cell {
+        width: 38px;
+        height: 38px;
+        font-size: 1.2rem;
+    }
+
+    .word-number {
+        font-size: 0.55rem;
+    }
+
+    .cell-letter {
+        font-size: 1.2rem;
+    }
+
+    .stone-keyboard {
+        grid-template-columns: repeat(13, 1fr);
+    }
+}

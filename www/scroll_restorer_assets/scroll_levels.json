@@ -1,0 +1,291 @@
+{
+    "levels": [
+        {
+            "id": 1,
+            "title": "Genesis: Creation",
+            "verse": "In the beginning God created the heaven and the earth. (Genesis 1:1)",
+            "verseReference": "Genesis 1:1",
+            "grid": [
+                "GOD...",
+                "......",
+                "..E...",
+                "HEAVEN",
+                "..R...",
+                "..T...",
+                "..H..."
+            ],
+            "words": [
+                {
+                    "word": "GOD",
+                    "clue": "The Creator",
+                    "startX": 0,
+                    "startY": 0,
+                    "orientation": "across"
+                },
+                {
+                    "word": "HEAVEN",
+                    "clue": "God created the _____ and the earth",
+                    "startX": 0,
+                    "startY": 3,
+                    "orientation": "across"
+                },
+                {
+                    "word": "EARTH",
+                    "clue": "The planet we live on",
+                    "startX": 2,
+                    "startY": 2,
+                    "orientation": "down"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Genesis: The Garden",
+            "verse": "And the Lord God planted a garden eastward in Eden. (Genesis 2:8)",
+            "verseReference": "Genesis 2:8",
+            "grid": [
+                "........",
+                "......E.",
+                "......D.",
+                ".PLANTED",
+                "......N.",
+                "........",
+                "........"
+            ],
+            "words": [
+                {
+                    "word": "EDEN",
+                    "clue": "Name of the garden",
+                    "startX": 6,
+                    "startY": 1,
+                    "orientation": "down"
+                },
+                {
+                    "word": "PLANTED",
+                    "clue": "God _____ a garden",
+                    "startX": 1,
+                    "startY": 3,
+                    "orientation": "across"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Genesis: The Ark",
+            "verse": "Make thee an ark of gopher wood. (Genesis 6:14)",
+            "verseReference": "Genesis 6:14",
+            "grid": [
+                "....A..",
+                "....R..",
+                "....K..",
+                ".GOPHER",
+                ".......",
+                ".......",
+                "......."
+            ],
+            "words": [
+                {
+                    "word": "ARK",
+                    "clue": "Large boat built by Noah",
+                    "startX": 4,
+                    "startY": 0,
+                    "orientation": "down"
+                },
+                {
+                    "word": "GOPHER",
+                    "clue": "Type of wood used for the ark",
+                    "startX": 1,
+                    "startY": 3,
+                    "orientation": "across"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Genesis: The Promise",
+            "verse": "I will make of thee a great nation. (Genesis 12:2)",
+            "verseReference": "Genesis 12:2",
+            "grid": [
+                "....N.",
+                ".GREAT",
+                "....T.",
+                "....I.",
+                "....O.",
+                "....N.",
+                "......"
+            ],
+            "words": [
+                {
+                    "word": "NATION",
+                    "clue": "A large body of people",
+                    "startX": 4,
+                    "startY": 0,
+                    "orientation": "down"
+                },
+                {
+                    "word": "GREAT",
+                    "clue": "God promised to make Abram a _____ nation",
+                    "startX": 1,
+                    "startY": 1,
+                    "orientation": "across"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Genesis: Joseph's Coat",
+            "verse": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours. (Genesis 37:3)",
+            "verseReference": "Genesis 37:3",
+            "grid": [
+                ".C...C",
+                ".O...O",
+                ".A...L",
+                ".T...O",
+                ".....U",
+                ".....R",
+                ".....S"
+            ],
+            "words": [
+                {
+                    "word": "COAT",
+                    "clue": "Gift from Jacob to Joseph",
+                    "startX": 1,
+                    "startY": 0,
+                    "orientation": "down"
+                },
+                {
+                    "word": "COLOURS",
+                    "clue": "Joseph's coat had many of these",
+                    "startX": 5,
+                    "startY": 0,
+                    "orientation": "down"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Exodus: Burning Bush",
+            "verse": "And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush. (Exodus 3:2)",
+            "verseReference": "Exodus 3:2",
+            "grid": [
+                ".B.......",
+                ".U.......",
+                ".S.......",
+                ".H....A..",
+                "......N..",
+                "......G..",
+                "......E..",
+                "......L..",
+                ".........",
+                "....FIRE.",
+                "....L....",
+                "....A....",
+                "....M....",
+                "....E...."
+            ],
+            "words": [
+                {
+                    "word": "BUSH",
+                    "clue": "God spoke from a burning _____",
+                    "startX": 1,
+                    "startY": 0,
+                    "orientation": "down"
+                },
+                {
+                    "word": "ANGEL",
+                    "clue": "The _____ of the Lord appeared",
+                    "startX": 6,
+                    "startY": 3,
+                    "orientation": "down"
+                },
+                {
+                    "word": "FIRE",
+                    "clue": "The bush was on _____",
+                    "startX": 4,
+                    "startY": 9,
+                    "orientation": "across"
+                },
+                {
+                    "word": "FLAME",
+                    "clue": "In a _____ of fire",
+                    "startX": 4,
+                    "startY": 9,
+                    "orientation": "down"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Leviticus: Offering",
+            "verse": "If any man of you bring an offering unto the Lord, ye shall bring your offering of the cattle. (Leviticus 1:2)",
+            "verseReference": "Leviticus 1:2",
+            "grid": [
+                "OFFERING",
+                "........",
+                "........",
+                "....C...",
+                "....A...",
+                "....T...",
+                "....T...",
+                "....L...",
+                "....E..."
+            ],
+            "words": [
+                {
+                    "word": "OFFERING",
+                    "clue": "A gift brought to the Lord",
+                    "startX": 0,
+                    "startY": 0,
+                    "orientation": "across"
+                },
+                {
+                    "word": "CATTLE",
+                    "clue": "Animal used for the offering",
+                    "startX": 4,
+                    "startY": 3,
+                    "orientation": "down"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Numbers: The Spies",
+            "verse": "Send thou men, that they may search the land of Canaan. (Numbers 13:2)",
+            "verseReference": "Numbers 13:2",
+            "grid": [
+                "........S.",
+                "........E.",
+                "........A.",
+                "........R.",
+                "........C.",
+                ".LAND...H.",
+                "..........",
+                "..........",
+                "...CANAAN."
+            ],
+            "words": [
+                {
+                    "word": "SEARCH",
+                    "clue": "The spies were sent to _____ the land",
+                    "startX": 8,
+                    "startY": 0,
+                    "orientation": "down"
+                },
+                {
+                    "word": "LAND",
+                    "clue": "The promised _____",
+                    "startX": 1,
+                    "startY": 5,
+                    "orientation": "across"
+                },
+                {
+                    "word": "CANAAN",
+                    "clue": "The name of the promised land",
+                    "startX": 3,
+                    "startY": 8,
+                    "orientation": "across"
+                }
+            ]
+        }
+    ]
+}
