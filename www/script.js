@@ -2650,6 +2650,10 @@ async function renderChapter(scrollPosition = 0) {
                     html += `<h2 class="chapter-title">${chapter.title}</h2>`;
                 }
 
+                const isTtsSupported = (typeof TextToSpeech !== 'undefined' && typeof TextToSpeech.isLanguageSupported === 'function')
+                    ? TextToSpeech.isLanguageSupported(state.currentLang || 'text')
+                    : false;
+
                 chapter.verses.forEach((v, index) => {
                     if (v.type === 'header') {
                         html += `<h2 class="section-header">${getVerseText(v)}</h2>`;
@@ -2700,7 +2704,10 @@ async function renderChapter(scrollPosition = 0) {
 
                         // Sanitize content before rendering
                         let safeText = cleanHTML(processedText);
-                        html += `<span class="verse-text">${safeText}</span><button class="verse-speaker-btn" onclick="toggleVerseSpeech(event, this)" title="Read Aloud" aria-label="Listen to paragraph"><svg viewBox="0 0 24 24" class="speaker-icon"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg><svg viewBox="0 0 24 24" class="stop-icon"><path d="M6 6h12v12H6z"/></svg></button></div>`;
+                        const speakerBtnHtml = isTtsSupported
+                            ? `<button class="verse-speaker-btn" onclick="toggleVerseSpeech(event, this)" title="Read Aloud" aria-label="Listen to paragraph"><svg viewBox="0 0 24 24" class="speaker-icon"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg><svg viewBox="0 0 24 24" class="stop-icon"><path d="M6 6h12v12H6z"/></svg></button>`
+                            : '';
+                        html += `<span class="verse-text">${safeText}</span>${speakerBtnHtml}</div>`;
                     }
                 });
 

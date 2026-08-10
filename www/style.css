@@ -823,10 +823,14 @@ h2.chapter-title {
     position: relative;
     cursor: pointer;
     transition: background-color 0.2s;
-    padding: 2px 38px 2px 0;
+    padding: 2px 0;
     margin-bottom: 15px;
     text-indent: 30px;
     line-height: 1.8;
+}
+
+.verse:has(.verse-speaker-btn) {
+    padding-right: 38px;
 }
 
 #AuthorInfo {
@@ -951,8 +955,8 @@ h2.chapter-title {
 }
 
 /* RTL Language Support for Speaker Button */
-[dir="rtl"] .verse,
-.rtl .verse {
+[dir="rtl"] .verse:has(.verse-speaker-btn),
+.rtl .verse:has(.verse-speaker-btn) {
     padding-right: 0;
     padding-left: 38px;
 }
