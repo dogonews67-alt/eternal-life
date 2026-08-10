@@ -38,16 +38,28 @@ const books = {
 let bookReferencesCache = {}; // Cache for references to improve performance
 let highlightTimeout = null; // Timeout for verse highlighting
 
+let _isDeviceReady = false;
+document.addEventListener('deviceready', () => {
+    _isDeviceReady = true;
+}, false);
+
 /**
  * Helper to ensure Cordova is ready before fetching local assets
  */
 function waitForDeviceReady() {
+    if (_isDeviceReady || !window.cordova) {
+        return Promise.resolve();
+    }
     return new Promise(resolve => {
-        if (window.cordova) {
-            document.addEventListener('deviceready', resolve, false);
-        } else {
+        const timer = setTimeout(() => {
+            _isDeviceReady = true;
             resolve();
-        }
+        }, 1500);
+        document.addEventListener('deviceready', () => {
+            clearTimeout(timer);
+            _isDeviceReady = true;
+            resolve();
+        }, { once: true });
     });
 }
 
@@ -3130,25 +3142,31 @@ async function selectBook(bookId) {
         return;
     }
 
-    // 2. Load the new book content
-    await loadBook(bookId); // Wait for data to load
-
-    // 3. EXPLICITLY RESET to start of book only on manual selection
+    // 2. EXPLICITLY RESET to start of book only on manual selection
     state.currentBookKey = bookId;
     state.currentChapterIndex = 0;
     state.currentVerseNumber = 0;
 
-    // Update selectors (hide/show version selector)
-    updateBibleSelectors();
+    // 3. Load the new book content
+    await loadBook(bookId); // Wait for data to load
+
+    // 4. Update toolbar/selectors
+    if (bookId === 'bible') {
+        updateBibleSelectors();
+    } else {
+        removeBibleNavigationToolbar();
+    }
 
     // Update language dropdown visibility based on the new book context
     disableUnavailableLanguages();
 
-    // 4. Render and Save
-    renderChapter(0);
+    // 5. Render and Save
+    if (bookId !== 'quiz' && bookId !== 'chat') {
+        await renderChapter(0);
+    }
     saveReadingState(); // Save immediately so a refresh keeps this new book
 
-    // 5. Update UI
+    // 6. Update UI
     toggleBookSelectorSidebar();
     document.querySelectorAll('.book-link').forEach(el => el.classList.remove('active'));
     const activeLink = document.querySelector(`#bookList [data-book-id="${bookId}"]`);
