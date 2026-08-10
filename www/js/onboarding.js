@@ -58,7 +58,7 @@ const ONBOARDING_LANGUAGES = [
 ];
 
 let onboardingCurrentSlide = 0;
-const TOTAL_SLIDES = 2;
+const TOTAL_SLIDES = 1;
 let selectedOnboardingLang = localStorage.getItem('myReaderPreferredLang') || 'text';
 let onboardingStartTime = Date.now();
 
@@ -97,34 +97,16 @@ function showOnboarding() {
     overlay.innerHTML = `
         <div class="onboarding-slides" id="onboardingSlides">
 
-            <!-- SLIDE 1: Welcome -->
+            <!-- SINGLE WELCOME SCREEN -->
             <div class="onboarding-slide active">
                 <img src="the_eternal_life.png" alt="Eternal Life" class="onboarding-cover-img">
                 <h1 class="onboarding-title">Welcome to Eternal Life</h1>
                 <p class="onboarding-subtitle">Your personal Bible companion for reading, learning, and growing in faith.</p>
                 <div class="onboarding-btn-row">
-                    <button class="onboarding-btn primary" data-action="slide" data-slide="1">Get Started →</button>
+                    <button class="onboarding-btn primary" data-action="finish">Get Started →</button>
                 </div>
-                <button class="onboarding-btn skip" data-action="skip">Skip</button>
             </div>
 
-            <!-- SLIDE 2: You're All Set -->
-            <div class="onboarding-slide">
-                <div class="onboarding-icon" style="font-size: 48px;">✨</div>
-                <h2 class="onboarding-slide-title">You're All Set!</h2>
-                <p class="onboarding-slide-text">You can read Bible and play games</p>
-                <div class="onboarding-highlight-box">
-                    <span class="arrow">💡</span>
-                    <span class="instruction">You can replay this tutorial anytime from <strong>Settings → Show Tutorial</strong>.</span>
-                </div>
-                <!-- Back button removed -->
-                <button class="onboarding-btn start" data-action="finish">Start Reading →</button>
-            </div>
-        </div>
-
-        <!-- Progress Dots -->
-        <div class="onboarding-dots" id="onboardingDots">
-            ${Array.from({ length: TOTAL_SLIDES }, (_, i) => `<div class="onboarding-dot ${i === 0 ? 'active' : ''}" data-action="slide" data-slide="${i}"></div>`).join('')}
         </div>
     `;
 
