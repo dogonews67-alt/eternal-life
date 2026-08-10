@@ -1311,51 +1311,47 @@ function hideLoading() {
 
 // --- READING STATE PERSISTENCE ---
 function saveReadingState() {
+    const scrollPos = dom.scrollContainer ? dom.scrollContainer.scrollTop : (state.savedScrollPosition || 0);
     const readingState = {
-        currentBookKey: state.currentBookKey,
-        currentChapterIndex: state.currentChapterIndex,
-        currentVerseNumber: state.currentVerseNumber,
-        scrollPosition: dom.scrollContainer ? dom.scrollContainer.scrollTop : 0,
-        currentLang: state.currentLang,
-        theme: state.theme,
-        fontSize: state.fontSize,
-        preferredLang: state.preferredLang,
-        bookmarks: state.bookmarks,
-        swipeEnabled: state.swipeEnabled,
-        swipeSensitivity: state.swipeSensitivity,
-        quizIndex: state.quizIndex,
-        quizScore: state.quizScore,
-        quizIndex: state.quizIndex,
-        quizScore: state.quizScore,
-        quizIndex: state.quizIndex,
-        quizScore: state.quizScore,
-        previousBookKey: state.previousBookKey,
-        quizScore: state.quizScore,
-        previousBookKey: state.previousBookKey,
-        longPressBookmark: state.longPressBookmark,
-        currentTranslationId: state.currentTranslationId // FIX: Save translation ID
+        currentBookKey: state.currentBookKey || 'eternal_life',
+        currentChapterIndex: (typeof state.currentChapterIndex === 'number') ? state.currentChapterIndex : 0,
+        currentVerseNumber: state.currentVerseNumber || 0,
+        scrollPosition: scrollPos,
+        currentLang: state.currentLang || 'text',
+        theme: state.theme || 'sepia',
+        fontSize: state.fontSize || 19,
+        preferredLang: state.preferredLang || 'text',
+        bookmarks: state.bookmarks || [],
+        swipeEnabled: state.swipeEnabled !== undefined ? state.swipeEnabled : true,
+        swipeSensitivity: state.swipeSensitivity || 100,
+        quizIndex: state.quizIndex || 0,
+        quizScore: state.quizScore || 0,
+        previousBookKey: state.previousBookKey || null,
+        longPressBookmark: state.longPressBookmark === true,
+        currentTranslationId: state.currentTranslationId || null
     };
 
-    if (state.currentBookKey === 'bible' && books['bible']) {
+    if (state.currentBookKey === 'bible' && books['bible'] && books['bible'].chapters) {
         const chapter = books['bible'].chapters[state.currentChapterIndex];
         if (chapter) {
             readingState.bibleBookName = chapter.bookName;
             readingState.bibleChapterNumber = chapter.chapterNumber || parseInt(chapter.title.split(' ').pop()) || 1;
+            state.lastBibleBookName = readingState.bibleBookName;
+            state.lastBibleChapterNumber = readingState.bibleChapterNumber;
         }
     } else {
         // If not in Bible, persist the last known Bible location
-        readingState.bibleBookName = state.lastBibleBookName;
-        readingState.bibleChapterNumber = state.lastBibleChapterNumber;
+        readingState.bibleBookName = state.lastBibleBookName || null;
+        readingState.bibleChapterNumber = state.lastBibleChapterNumber || null;
     }
 
     // Save all state to localStorage
     try {
         localStorage.setItem('readingState', JSON.stringify(readingState));
-        localStorage.setItem('myReaderBookmarks', JSON.stringify(state.bookmarks));
+        localStorage.setItem('myReaderBookmarks', JSON.stringify(state.bookmarks || []));
         localStorage.setItem('myReaderTheme', state.theme);
         localStorage.setItem('myReaderFontSize', state.fontSize);
         localStorage.setItem('myReaderPreferredLang', state.preferredLang);
-        localStorage.setItem('myReaderSwipeEnabled', state.swipeEnabled);
         localStorage.setItem('myReaderSwipeEnabled', state.swipeEnabled);
         localStorage.setItem('myReaderSwipeSensitivity', state.swipeSensitivity);
         localStorage.setItem('myReaderLongPress', state.longPressBookmark);
@@ -1372,10 +1368,8 @@ function loadReadingState() {
 
             // Load all persistent state
             state.currentBookKey = readingState.currentBookKey || 'eternal_life';
-            // state.currentLang = readingState.currentLang || 'text'; // REPLACED: Prioritize simple key
             state.theme = readingState.theme || 'sepia';
             state.fontSize = readingState.fontSize || 19;
-            // state.preferredLang = readingState.preferredLang || 'text'; // REPLACED: Prioritize simple key
 
             // FIX: Prioritize the individually saved preference key, as readingState JSON might be stale if save failed
             const simplePrefLang = localStorage.getItem('myReaderPreferredLang');
@@ -1387,17 +1381,13 @@ function loadReadingState() {
                 state.currentLang = readingState.currentLang || 'text';
             }
 
-            // state.bookmarks = readingState.bookmarks || []; // FIX: Do not overwrite, use myReaderBookmarks source of truth
             state.swipeEnabled = readingState.swipeEnabled !== undefined ? readingState.swipeEnabled : true;
             state.swipeSensitivity = readingState.swipeSensitivity || 100;
             state.quizIndex = readingState.quizIndex || 0;
-            state.quizIndex = readingState.quizIndex || 0;
-            state.quizScore = readingState.quizScore || 0;
-            state.previousBookKey = readingState.previousBookKey || null;
             state.quizScore = readingState.quizScore || 0;
             state.previousBookKey = readingState.previousBookKey || null;
             state.longPressBookmark = readingState.longPressBookmark === true;
-            state.currentTranslationId = readingState.currentTranslationId || null; // FIX: Restore translation ID
+            state.currentTranslationId = readingState.currentTranslationId || null;
 
             // Apply loaded settings
             document.documentElement.setAttribute('data-theme', state.theme);
@@ -1406,28 +1396,20 @@ function loadReadingState() {
             // Always set verse number if available
             state.currentVerseNumber = readingState.currentVerseNumber || 0;
 
-            if (readingState.currentBookKey === 'bible') {
-                // For Bible, defer chapter index setting until data is loaded
-                state.currentChapterIndex = 0; // Temporary, will be set after loading
-                state.savedBibleBookName = readingState.bibleBookName;
-                state.savedBibleChapterNumber = readingState.bibleChapterNumber;
-                // Also restore to state for subsequent saves
-                state.lastBibleBookName = readingState.bibleBookName;
-                state.lastBibleChapterNumber = readingState.bibleChapterNumber;
-                return readingState.scrollPosition || 0;
-            } else if (books[readingState.currentBookKey]) {
-                // Restore last Bible location even if not currently in Bible
-                state.lastBibleBookName = readingState.bibleBookName;
-                state.lastBibleChapterNumber = readingState.bibleChapterNumber;
+            // Store saved chapter index and scroll position
+            state.savedScrollPosition = (typeof readingState.scrollPosition === 'number') ? readingState.scrollPosition : 0;
+            state.savedChapterIndex = (typeof readingState.currentChapterIndex === 'number') ? readingState.currentChapterIndex : 0;
+            state.currentChapterIndex = state.savedChapterIndex;
 
-                // Standard validation for other books
-                if (readingState.currentChapterIndex >= 0 && readingState.currentChapterIndex < books[state.currentBookKey].chapters.length) {
-                    state.currentChapterIndex = readingState.currentChapterIndex;
-                } else {
-                    state.currentChapterIndex = 0;
-                }
-                return readingState.scrollPosition || 0;
+            state.lastBibleBookName = readingState.bibleBookName || null;
+            state.lastBibleChapterNumber = readingState.bibleChapterNumber || null;
+
+            if (readingState.currentBookKey === 'bible') {
+                state.savedBibleBookName = readingState.bibleBookName || null;
+                state.savedBibleChapterNumber = readingState.bibleChapterNumber || null;
             }
+
+            return state.savedScrollPosition;
         }
     } catch (e) {
         console.error('Error loading reading state from localStorage:', e);
@@ -2729,10 +2711,18 @@ async function renderChapter(scrollPosition = 0) {
                 dom.page.innerHTML = html;
             }
 
-            dom.scrollContainer.scrollTop = scrollPosition;
+            if (dom.scrollContainer) {
+                dom.scrollContainer.scrollTop = scrollPosition;
+                if (scrollPosition > 0) {
+                    setTimeout(() => {
+                        if (dom.scrollContainer && dom.scrollContainer.scrollTop !== scrollPosition) {
+                            dom.scrollContainer.scrollTop = scrollPosition;
+                        }
+                    }, 50);
+                }
+            }
             dom.page.classList.remove('fade-out');
             dom.page.classList.add('fade-in');
-            updateProgressBar();
             updateProgressBar();
             updateRTL();
             updateBibleSelectors();
@@ -3987,7 +3977,7 @@ function setupScrollListener() {
     if (!scrollContainer || !toolbar) return;
 
     // Debounced save reading state on scroll
-    const debouncedSave = debounce(saveReadingState, 500);
+    const debouncedSave = debounce(saveReadingState, 250);
 
     scrollContainer.addEventListener('scroll', () => {
         const scrollTop = scrollContainer.scrollTop;
@@ -5786,7 +5776,7 @@ function removeBibleNavigationToolbar() {
     }
 }
 
-async function restoreBibleNavigation() {
+async function restoreBibleNavigation(scrollPosition = 0) {
     // Only proceed if we have saved Bible state and Bible data is loaded
     if (!state.savedBibleBookName || !state.savedBibleChapterNumber || !books['bible']) return;
 
@@ -5818,8 +5808,9 @@ async function restoreBibleNavigation() {
         // Update the dropdowns to match
         updateBibleNavigationToolbar();
 
-        // Render the restored chapter
-        await renderChapter();
+        // Render the restored chapter with saved scroll position
+        const targetScroll = (typeof scrollPosition === 'number') ? scrollPosition : (state.savedScrollPosition || 0);
+        await renderChapter(targetScroll);
 
         // Restore verse highlight if a verse number was saved
         if (state.currentVerseNumber > 0) {
@@ -6209,14 +6200,17 @@ function renderBibleNavigation() {
 function navigateBibleBook(startIndex) {
     state.currentChapterIndex = parseInt(startIndex);
     state.currentVerseNumber = 0;
+    state.savedScrollPosition = 0;
     renderChapter();
+    saveReadingState();
 }
-
 
 function navigateBibleChapter(absIndex) {
     state.currentChapterIndex = parseInt(absIndex);
     state.currentVerseNumber = 0;
+    state.savedScrollPosition = 0;
     renderChapter();
+    saveReadingState();
 }
 
 function showAbout() {
@@ -7632,7 +7626,8 @@ window.initApp = async function () {
     // console.log("Initializing Eternal Life Book Reader...");
 
     // Load state
-    loadReadingState();
+    const savedScrollPos = loadReadingState();
+    state.savedScrollPosition = savedScrollPos;
 
     // Setup UI
     try {
@@ -7657,6 +7652,14 @@ window.initApp = async function () {
     updateNetworkStatus();
     window.addEventListener('online', updateNetworkStatus);
     window.addEventListener('offline', updateNetworkStatus);
+
+    // Save state on unload / visibility change / pause for both web and Cordova
+    window.addEventListener('beforeunload', () => saveReadingState());
+    window.addEventListener('pagehide', () => saveReadingState());
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'hidden') saveReadingState();
+    });
+    document.addEventListener('pause', () => saveReadingState(), false);
 
     // --- NEW: Refresh Notifications on Resume ---
     document.addEventListener('resume', () => {
@@ -7709,10 +7712,18 @@ window.initApp = async function () {
                 timeout
             ]);
 
-            // Render the current chapter after book loads
+            // Render the current chapter after book loads (for non-bible, non-quiz, non-chat)
             // Skip if notification launch — the notification handler will render the correct chapter
-            if (state.currentBookKey !== 'quiz' && state.currentBookKey !== 'chat' && !window.isNotificationLaunch) {
-                await renderChapter();
+            if (state.currentBookKey !== 'quiz' && state.currentBookKey !== 'chat' && state.currentBookKey !== 'bible' && !window.isNotificationLaunch) {
+                const currentBook = books[state.currentBookKey];
+                if (currentBook && currentBook.chapters && currentBook.chapters.length > 0) {
+                    if (state.savedChapterIndex !== undefined && state.savedChapterIndex >= 0 && state.savedChapterIndex < currentBook.chapters.length) {
+                        state.currentChapterIndex = state.savedChapterIndex;
+                    } else if (state.currentChapterIndex < 0 || state.currentChapterIndex >= currentBook.chapters.length) {
+                        state.currentChapterIndex = 0;
+                    }
+                }
+                await renderChapter(state.savedScrollPosition || 0);
             }
         } catch (err) {
             console.error("Critical Error during Init:", err);
@@ -7729,7 +7740,11 @@ window.initApp = async function () {
         // Skip if notification launch — the notification handler will navigate
         if (state.currentBookKey === 'bible' && !window.isNotificationLaunch) {
             if (state.savedBibleBookName && state.savedBibleChapterNumber) {
-                if (typeof restoreBibleNavigation === 'function') await restoreBibleNavigation();
+                if (typeof restoreBibleNavigation === 'function') {
+                    await restoreBibleNavigation(state.savedScrollPosition || 0);
+                }
+            } else {
+                await renderChapter(state.savedScrollPosition || 0);
             }
         }
 
