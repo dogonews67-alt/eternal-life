@@ -1,0 +1,1036 @@
+[
+  {
+    "question": "What is the shortest book in the Old Testament?",
+    "options": [
+      "Obadiah",
+      "Nahum",
+      "Haggai",
+      "Joel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the first judge of Israel?",
+    "options": [
+      "Othniel",
+      "Ehud",
+      "Gideon",
+      "Samson"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "What woman drove a tent peg through Sisera's head?",
+    "options": [
+      "Jael",
+      "Deborah",
+      "Rahab",
+      "Delilah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the only female judge?",
+    "options": [
+      "Deborah",
+      "Jael",
+      "Esther",
+      "Ruth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "What judge was left-handed?",
+    "options": [
+      "Ehud",
+      "Shamgar",
+      "Barak",
+      "Jephthah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who killed 600 Philistines with an oxgoad?",
+    "options": [
+      "Shamgar",
+      "Samson",
+      "Gideon",
+      "David"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who asked God for a sign with a fleece?",
+    "options": [
+      "Gideon",
+      "Samson",
+      "Barak",
+      "Jephthah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "How many men did Gideon have to fight the Midianites?",
+    "options": [
+      "300",
+      "3000",
+      "30000",
+      "10000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was Gideon's son who made himself king?",
+    "options": [
+      "Abimelech",
+      "Jotham",
+      "Gaal",
+      "Zebul"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who vowed to sacrifice the first thing that came out of his house?",
+    "options": [
+      "Jephthah",
+      "Gideon",
+      "Samson",
+      "Barak"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the strongest man?",
+    "options": [
+      "Samson",
+      "Goliath",
+      "David",
+      "Hercules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "What animal did Samson kill with his bare hands?",
+    "options": [
+      "Lion",
+      "Bear",
+      "Wolf",
+      "Tiger"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What did Samson find in the lion's carcass?",
+    "options": [
+      "Honey",
+      "Gold",
+      "Water",
+      "Wine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "How did Samson kill 1000 Philistines?",
+    "options": [
+      "Jawbone of a donkey",
+      "Sword",
+      "Spear",
+      "Rock"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who betrayed Samson?",
+    "options": [
+      "Delilah",
+      "Jezebel",
+      "Rahab",
+      "Bathsheba"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "How did Samson die?",
+    "options": [
+      "Collapsed the temple",
+      "Beheaded",
+      "Old age",
+      "In battle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was Ruth's mother-in-law?",
+    "options": [
+      "Naomi",
+      "Orpah",
+      "Mara",
+      "Sarah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was Ruth's great-grandson?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Jesse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the kinsman-redeemer for Ruth?",
+    "options": [
+      "Boaz",
+      "Mahlon",
+      "Chilion",
+      "Elimelech"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the last judge of Israel?",
+    "options": [
+      "Samuel",
+      "Eli",
+      "Samson",
+      "Gideon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was Samuel's mother?",
+    "options": [
+      "Hannah",
+      "Peninnah",
+      "Sarah",
+      "Rachel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the priest who raised Samuel?",
+    "options": [
+      "Eli",
+      "Phinehas",
+      "Hophni",
+      "Aaron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Why did the people want a king?",
+    "options": [
+      "To be like other nations",
+      "God told them to",
+      "Samuel was bad",
+      "They wanted war"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first king of Israel?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Jonathan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "What tribe was Saul from?",
+    "options": [
+      "Benjamin",
+      "Judah",
+      "Levi",
+      "Ephraim"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "What did Saul do to lose the kingdom?",
+    "options": [
+      "Offered sacrifice unlawfully",
+      "Killed David",
+      "Worshiped idols",
+      "Stole money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who anointed David?",
+    "options": [
+      "Samuel",
+      "Nathan",
+      "Eli",
+      "Saul"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What was David's job?",
+    "options": [
+      "Shepherd",
+      "Carpenter",
+      "Fisherman",
+      "Soldier"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "How many stones did David take to fight Goliath?",
+    "options": [
+      "5",
+      "1",
+      "3",
+      "7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was David's best friend?",
+    "options": [
+      "Jonathan",
+      "Saul",
+      "Abner",
+      "Joab"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the wife of Nabal who became David's wife?",
+    "options": [
+      "Abigail",
+      "Michal",
+      "Bathsheba",
+      "Ahinoam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who touched the Ark and died?",
+    "options": [
+      "Uzzah",
+      "Ahio",
+      "Obed-Edom",
+      "David"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who danced before the Lord with all his might?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Samuel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who despised David for dancing?",
+    "options": [
+      "Michal",
+      "Abigail",
+      "Bathsheba",
+      "Maacah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the prophet who confronted David about Bathsheba?",
+    "options": [
+      "Nathan",
+      "Samuel",
+      "Gad",
+      "Elijah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the son of David and Bathsheba who died?",
+    "options": [
+      "Unnamed infant",
+      "Solomon",
+      "Absalom",
+      "Adonijah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was the son of David and Bathsheba who became king?",
+    "options": [
+      "Solomon",
+      "Absalom",
+      "Adonijah",
+      "Amnon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who caught his hair in a tree?",
+    "options": [
+      "Absalom",
+      "David",
+      "Joab",
+      "Amnon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who killed Absalom?",
+    "options": [
+      "Joab",
+      "David",
+      "Abishai",
+      "Benaiah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "What did Solomon ask God for?",
+    "options": [
+      "Wisdom",
+      "Riches",
+      "Long life",
+      "Military victory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who built the first temple?",
+    "options": [
+      "Solomon",
+      "David",
+      "Moses",
+      "Abraham"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "How many wives did Solomon have?",
+    "options": [
+      "700",
+      "300",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "How many concubines did Solomon have?",
+    "options": [
+      "300",
+      "700",
+      "100",
+      "500"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who turned Solomon's heart away from God?",
+    "options": [
+      "His foreign wives",
+      "His riches",
+      "His wisdom",
+      "His enemies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who fed Elijah by the brook Cherith?",
+    "options": [
+      "Ravens",
+      "Angels",
+      "Widow",
+      "Lions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What miracle did Elijah perform for the widow of Zarephath?",
+    "options": [
+      "Flour and oil did not run out",
+      "Multiplied bread",
+      "Healed her leprosy",
+      "Raised her from dead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who raised the widow's son?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Jesus",
+      "Paul"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "How many prophets of Baal did Elijah challenge?",
+    "options": [
+      "450",
+      "400",
+      "100",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Where did the contest with Baal's prophets take place?",
+    "options": [
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Horeb",
+      "Mount Zion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who threatened to kill Elijah?",
+    "options": [
+      "Jezebel",
+      "Ahab",
+      "Baal",
+      "Athaliah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "How did God speak to Elijah at Horeb?",
+    "options": [
+      "Still small voice",
+      "Earthquake",
+      "Wind",
+      "Fire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who succeeded Elijah?",
+    "options": [
+      "Elisha",
+      "Gehazi",
+      "Jonah",
+      "Amos"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "How was Elijah taken to heaven?",
+    "options": [
+      "Chariot of fire/Whirlwind",
+      "Died naturally",
+      "Buried by God",
+      "Walked into light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What did Elisha ask for?",
+    "options": [
+      "Double portion of Elijah's spirit",
+      "Wealth",
+      "Wisdom",
+      "Power"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who had leprosy healed by dipping in Jordan?",
+    "options": [
+      "Naaman",
+      "Gehazi",
+      "Miriam",
+      "Uzziah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who made the axe head float?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Moses",
+      "Jesus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was swallowed by a great fish?",
+    "options": [
+      "Jonah",
+      "Job",
+      "Jeremiah",
+      "Peter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Where was Jonah sent?",
+    "options": [
+      "Nineveh",
+      "Tarshish",
+      "Babylon",
+      "Joppa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Why did Jonah run away?",
+    "options": [
+      "He hated Nineveh",
+      "He was scared",
+      "He was busy",
+      "He didn't believe God"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What plant gave Jonah shade?",
+    "options": [
+      "Gourd/Vine",
+      "Oak",
+      "Palm",
+      "Fig"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "What ate the plant?",
+    "options": [
+      "A worm",
+      "A locust",
+      "A goat",
+      "A bird"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who were the first two apostles called?",
+    "options": [
+      "Peter and Andrew",
+      "James and John",
+      "Philip and Nathaniel",
+      "Matthew and Thomas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What was Peter's original name?",
+    "options": [
+      "Simon",
+      "Cephas",
+      "Saul",
+      "Levi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What does Peter mean?",
+    "options": [
+      "Rock",
+      "Stone",
+      "Pebble",
+      "Boulder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What does Cephas mean?",
+    "options": [
+      "Stone",
+      "Rock",
+      "Sand",
+      "Mountain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who walked on water?",
+    "options": [
+      "Jesus and Peter",
+      "Jesus only",
+      "All disciples",
+      "Peter only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who denied Jesus?",
+    "options": [
+      "Peter",
+      "Judas",
+      "Thomas",
+      "John"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "How many times did Peter deny Jesus?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "What happened after Peter denied Jesus?",
+    "options": [
+      "Rooster crowed",
+      "Earthquake",
+      "Lightning",
+      "Temple veil tore"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who doubted the resurrection?",
+    "options": [
+      "Thomas",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the 'Sons of Thunder'?",
+    "options": [
+      "James and John",
+      "Peter and Andrew",
+      "Paul and Barnabas",
+      "Jacob and Esau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was the first apostle martyred?",
+    "options": [
+      "James",
+      "Peter",
+      "Stephen",
+      "John"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was exiled to Patmos?",
+    "options": [
+      "John",
+      "Paul",
+      "Peter",
+      "Luke"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote Revelation?",
+    "options": [
+      "John",
+      "Paul",
+      "Peter",
+      "James"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "What is the last command in the Bible?",
+    "options": [
+      "Come Lord Jesus",
+      "Go preach",
+      "Love one another",
+      "Repent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "What city came down from heaven?",
+    "options": [
+      "New Jerusalem",
+      "Babylon",
+      "Rome",
+      "Zion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What are the streets of heaven made of?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Diamond",
+      "Pearl"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who is the Lamb of God?",
+    "options": [
+      "Jesus",
+      "Peter",
+      "Paul",
+      "John"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Who takes away the sin of the world?",
+    "options": [
+      "The Lamb of God",
+      "The High Priest",
+      "The Angels",
+      "The Law"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "How many books in the Bible?",
+    "options": [
+      "66",
+      "27",
+      "39",
+      "72"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "How many books in the Old Testament?",
+    "options": [
+      "39",
+      "27",
+      "66",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "How many books in the New Testament?",
+    "options": [
+      "27",
+      "39",
+      "66",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "What is the longest verse?",
+    "options": [
+      "Esther 8:9",
+      "John 11:35",
+      "Genesis 1:1",
+      "Psalm 119:1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 8
+  },
+  {
+    "question": "What is the shortest verse?",
+    "options": [
+      "John 11:35 (Jesus wept)",
+      "1 Thessalonians 5:16",
+      "Luke 1:1",
+      "Job 3:2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Where is the love chapter?",
+    "options": [
+      "1 Corinthians 13",
+      "Romans 8",
+      "Psalm 23",
+      "Matthew 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Where are the Beatitudes?",
+    "options": [
+      "Matthew 5",
+      "John 3",
+      "Romans 12",
+      "Exodus 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Where are the Ten Commandments?",
+    "options": [
+      "Exodus 20",
+      "Genesis 1",
+      "Leviticus 1",
+      "Numbers 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Where is the Lord's Prayer?",
+    "options": [
+      "Matthew 6",
+      "John 17",
+      "Psalm 23",
+      "Luke 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Where is the Great Commission?",
+    "options": [
+      "Matthew 28",
+      "Mark 16",
+      "Acts 1",
+      "Romans 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Where is the story of Creation?",
+    "options": [
+      "Genesis 1-2",
+      "John 1",
+      "Revelation 21",
+      "Job 38"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Where is the story of the Flood?",
+    "options": [
+      "Genesis 6-9",
+      "Exodus 14",
+      "Job 40",
+      "Matthew 24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Where is the story of the Fall?",
+    "options": [
+      "Genesis 3",
+      "Romans 5",
+      "Revelation 12",
+      "Isaiah 14"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first man to die?",
+    "options": [
+      "Abel",
+      "Adam",
+      "Cain",
+      "Lamech"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who built the ark?",
+    "options": [
+      "Noah",
+      "Moses",
+      "David",
+      "Jesus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

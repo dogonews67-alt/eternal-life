@@ -1,0 +1,365 @@
+{
+  "title": "ÖRÖK ÉLET",
+  "chapters": [
+    {
+      "title": "Előlap",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>ÖRÖK ÉLET</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "Az <b>örök élet</b> olyan élet, amelynek nincs vége, ez azt jelenti, hogy az <b>ember soha nem hal</b> meg? Fizikailag meg kell halnia, de lelkileg örökké <b>fog élni a mennyben,</b> vagy örökké szenvedni fog a pokolban. Beszéljük meg ezt röviden az alábbiakban, hogy tisztán megértsük ezt a témát."
+        },
+        {
+          "type": "header",
+          "text": "Az ember bűnös"
+        },
+        {
+          "id": "Para 1",
+          "text": "Az ember születésétől fogva bűnös, és életében vétkezik tetteiben, viselkedésében, hallásában, beszédében, látásában és gondolataiban. Máté 5:28-ban Jézus ezt mondja: 'Én pedig azt mondom nektek, hogy aki kívánsággal tekint egy asszonyra, már házasságtörést követett el vele a szívében.' Aki tudatlanságból követ el bűnt, az is bűnösnek számít, még akkor is, ha senki sem látja. Sokan gondolják és mondják: \"Miféle bűnt követtem el?\" Nemcsak az a bűn, ha valaki öl, házasságtörést követ el, lop vagy rabol, hanem az is, ha hazudik, csal, büszke, irigy, kapzsi, pletykál és rosszat gondol másokról. Valójában mindenki születésétől fogva bűnös."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=KAR' target='_blank'>Prédikátor 7:20</a> 'Mert nincs a földön olyan igaz ember, aki jót cselekedne és nem vétkezne.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=KAR' target='_blank'>Zsoltárok 51:7</a> 'Ímé, én vétekben fogantattam, és bűnben melengetett engem az anyám.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=KAR' target='_blank'>1 János 5:17</a> 'Minden igazságtalanság bűn'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=KAR' target='_blank'>Róma 3:23</a> 'Mert mindnyájan vétkeztek, és szűkölködnek az Isten dicsősége nélkül;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=KAR' target='_blank'>Róma 5:12</a> 'Annakokáért, miképpen egy ember által jött be a világra a bűn és a bűn által a halál, és akképpen a halál minden emberre elhatott, mivelhogy mindenek vétkeztek;'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=KAR' target='_blank'>Róma 6:23</a> 'Mert a bűn zsoldja halál;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Minden embernek meg kell halnia fizikailag, de lelkileg <b>örökké élnie - a</b> pokolban vagy a mennyben, az örök büntetésben vagy az <b>örök életben</b>, az örök szenvedésben vagy az örök örömben."
+        },
+        {
+          "id": "Para 3",
+          "text": "Minden ember vétkezett, és a halál mindenki számára biztos."
+        },
+        {
+          "type": "header",
+          "text": "Isten szent és a menny szent, tehát szentnek kell lennünk ahhoz, hogy belépjünk a mennybe."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=KAR' target='_blank'>3 Mózes 19:2</a> 'Szólj Izráel fiainak egész gyülekezetével, és mondd nékik: Szentek legyetek, mert én, az Úr, a ti Istenetek szent vagyok.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=KAR' target='_blank'>1 Korinthus 6:9</a> 'Avagy nem tudjátok-é, hogy igazságtalanok nem örökölhetik Istennek országát?'"
+        },
+        {
+          "type": "header",
+          "text": "Akkor hogyan lehet az ember igaz vagy szent?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Zsidók 9:22 'És majdnem minden vérrel tisztíttatik <b>meg a törvény szerint, és</b> vérontás nélkül nincsen bűnbocsánat.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "A bűn megbocsátása azt jelenti, hogy szentnek vagy igaznak lenni."
+        },
+        {
+          "type": "header",
+          "text": "Miért fontos a vér?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=KAR' target='_blank'>3 Mózes 17:11</a> 'Mert a testnek élete a vérben van, én pedig az oltárra adtam azt néktek, hogy engesztelést szerezzen a ti lelketekért; mert a vér a benne levő élet által szerez engesztelést.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Mivel az élet a vérben van, senki sem fizetheti meg az élet árát. És senki sem hosszabbíthatja meg az életet még egy pillanatra sem egyedül. Jézus Krisztus utat nyitott az emberi faj megváltására azzal, hogy feláldozta drága vérét vagy drága életét."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=KAR' target='_blank'>Zsidók 9:12</a> 'És nem bakok és tulkok vére által, hanem az ő tulajdon vére által ment be egyszer s mindenkorra a szentélybe, örök váltságot szerezve.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jézus Krisztus kimutatta szeretetét azzal, hogy feláldozta életét az egész emberi fajért. János 15:13 szerint - 'Nincsen senkiben nagyobb szeretet annál, mintha valaki életét adja az ő barátaiért.' Nem találunk más példát a világtörténelemben erre a fajta szeretetre Jézus Krisztuson kívül."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=KAR' target='_blank'>1 János 1:7</a> 'Ha pedig a világosságban járunk, amint ő maga a világosságban van: közösségünk van egymással, és Jézus Krisztusnak, az ő Fiának <b>vére megtisztít minket minden bűntől.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=KAR' target='_blank'>1 Korinthus 15:3</a> 'Mert azt adtam előtökbe főképpen, amit én is úgy vettem, hogy a Krisztus meghalt <b>a mi bűneinkért</b> az írások szerint; És hogy eltemettetett; és hogy feltámadott a harmadik napon az írások szerint;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=KAR' target='_blank'>Jelenések 1:5</a> 'És a Jézus Krisztustól, aki a hű tanúbizonyság, a halottak közül az elsőszülött, és a föld királyainak fejedelme. Annak, aki minket szeretett, és <b>megmosott bennünket a mi bűneinkből az ő vére által,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=KAR' target='_blank'>Máté 9:2</a> 'És ímé, hoznak vala hozzá egy ágyban fekvő gutaütöttet. És látva Jézus az ő hitüket, monda a gutaütöttnek: Bízzál <b>fiam! Megbocsáttattak néked a te bűneid.'</b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "Ebben a kijelentésben Jézus közvetlenül <b>megbocsátja a béna</b> ember bűneit, mert Jézus képes megbocsátani az ember bűneit, és ugyanakkor Istennek nyilvánítja magát, mert Istenen kívül senki sem bocsáthatja meg a bűnt."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=KAR' target='_blank'>Apostolok Cselekedetei 10:43</a> 'Erről a próféták mind bizonyságot tesznek, hogy bűneinek bocsánatát veszi az ő neve által mindenki, aki hisz ő benne.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=KAR' target='_blank'>Apostolok Cselekedetei 4:12</a> 'És nincsen senkiben másban üdvösség: mert nem is adatott emberek között az ég alatt más név, mely által kellene nékünk megtartatnunk' a Názáreti Jézus Krisztuson kívül."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 János 2:2 'És ő (Krisztus) <b>engesztelő áldozat <b>a mi bűneinkért</b>; de nemcsak a miénkért, hanem az egész világ bűneiért is.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=KAR' target='_blank'>János 3:16</a> 'Mert úgy szerette Isten (a teremtő) e világot (az emberi fajt), hogy az ő egyszülött Fiát (Jézus Krisztust) adta, hogy valaki hiszen ő benne, el ne vesszen, hanem <b>örök élete</b> legyen.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=KAR' target='_blank'>János 1:12</a> 'Valakik pedig befogadák őt (Jézust), hatalmat ada azoknak, hogy Isten fiaivá legyenek, azoknak, akik az ő (Jézus) nevében hisznek;'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Az 'Isten gyermekei' kifejezés nem egyszerű szó, azok, akik hittek és elfogadták Jézust Uruknak, a Menny állampolgárainak számítanak, szent személynek számítanak, minden bűnük megbocsáttatott."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=KAR' target='_blank'>Róma 8:1-2</a> 'Nincsen azért immár semmi kárhoztatásuk azoknak, akik Krisztus Jézusban vannak, kik nem test szerint járnak, hanem Lélek szerint. Mert a Jézus Krisztusban való élet lelkének törvénye megszabadított engem a bűn és a halál törvényétől.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=KAR' target='_blank'>Róma 5:9</a> 'Minekutána azért most megigazultunk az ő (Jézus) vére által, sokkal inkább megtartatunk általa a haragtól.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=KAR' target='_blank'>Róma 3:24</a> 'Megigazulván ingyen az ő (Jézus) kegyelméből a Krisztus Jézusban való váltság által;'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=KAR' target='_blank'>János 14:6</a> 'Monda néki Jézus: Én vagyok az út, az igazság és az élet; senki sem mehet az Atyához (aki a mennyben van), hanemha én általam.'"
+        },
+        {
+          "type": "header",
+          "text": "Csak azok, akik hisznek Jézus Krisztusban, léphetnek be a Mennybe, ezt hívják <b>Örök Életnek</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=KAR' target='_blank'>János 3:15</a> 'Hogy valaki hiszen ő benne, el ne vesszen, hanem <b>örök élete</b> legyen.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=KAR' target='_blank'>Róma 6:23</a> 'Mert a bűn zsoldja halál; az Isten kegyelmi ajándéka pedig <b>örök élet</b> a mi Urunk Krisztus Jézusban.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=KAR' target='_blank'>János 5:24</a> Jézus mondja - 'Bizony, bizony mondom néktek, hogy <b>aki az én beszédemet hallja</b> és hisz annak, aki engem elbocsátott"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=KAR' target='_blank'>János 11:25-26</a> Monda néki Jézus: Én vagyok a feltámadás és az élet: aki hisz én bennem, ha meghal is, él; És aki csak él és hisz én bennem, soha meg <b>nem hal. Hiszed-é ezt?</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=KAR' target='_blank'>János 6:51</a> 'Én vagyok (Krisztus) az az élő kenyér, amely a mennyből szállott alá; ha valaki eszik e kenyérből, <b>él örökké. És az a</b> kenyér pedig, amelyet én adok, az én testem, amelyet én adok a világ életéért.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jézus mintegy <b>17 alkalommal használta az 'Örök Élet</b>' szót a János evangéliumában, 12 alkalommal jelen időben, csak 5 alkalommal jövő időben. A legtöbben úgy gondoljuk, hogy az <b>örök élet</b> csak a jövőre vonatkozik, de a Biblia egyértelműen azt mondja, hogy a jelenre és a jövőre is. Azok, akik mind Jézussal vannak, akik hittek és elfogadták Jézust személyes Uruknak és Megváltójuknak, elmondhatják, hogy az <b>ÖRÖK ÉLET</b> velük van, ők már megáldattak az <b>Örök Élettel</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=KAR' target='_blank'>1 János 5:11</a> 'És ez az a bizonyságtétel, hogy <b>örök életet adott nékünk az Isten és ez</b> az élet az ő Fiában (Krisztusban) van.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=KAR' target='_blank'>János 17:3</a> 'Az pedig az <b>örök élet</b>, hogy megismerjenek téged, az egyedül igaz Istent, és akit elküldtél, a Jézus Krisztust.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=KAR' target='_blank'>János 12:50</a> Jézus mondta - 'És tudom, hogy az ő (Isten) parancsolata <b>örök élet</b>. Amiket azért én beszélek, úgy beszélem, amint az Atya mondotta vala nékem.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=KAR' target='_blank'>1 János 5:20</a> 'De tudjuk azt is, hogy az Isten Fia eljött, és értelmet adott nékünk arra, hogy megismerjük az igazat, és hogy mi az igazban, az ő Fiában, a Jézus Krisztusban vagyunk. Ez az igaz Isten és az <b>örök élet</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=KAR' target='_blank'>János 6:47</a> 'Bizony, bizony mondom néktek: (Én Krisztus) Aki én bennem hisz, <b>örök élete</b> van annak.'"
+        },
+        {
+          "type": "header",
+          "text": "Mit jelent hinni?"
+        },
+        {
+          "id": "Para 10",
+          "text": "A démonok is hisznek Jézusban, ez nem jelenti azt, hogy <b>örök életük</b> lesz. Jakab 2:19 Te hiszed, hogy az Isten egy; jól teszed. Az ördögök is hiszik, és rettegnek."
+        },
+        {
+          "type": "header",
+          "text": "Térj meg bűnodből, valld meg, hogy Isten feltámasztotta Jézus Krisztust a halálból, és fogadd el Jézus Krisztust személyes megváltódnak és Uradnak. - ezt hívják Jézus Krisztusba vetett hitnek."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=KAR' target='_blank'>Róma 10:9-10</a> 'Mert ha a te száddal vallást teszel az Úr Jézusról, és szívedben hiszed, hogy az Isten feltámasztotta őt a halálból, megtartatol. Mert szívvel hiszünk az igazságra, szájjal teszünk pedig vallást az üdvösségre.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=KAR' target='_blank'>Máté 10:32-33</a> 'Valaki azért vallást tesz én rólam az emberek előtt, én is vallást teszek arról az én mennyei Atyám előtt; Aki pedig megtagad engem az emberek előtt, én is megtagadom azt az én mennyei Atyám előtt.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Az üdvösség vagy a bűnbocsánat a kulcsa az <b>örök életnek. Csak Jézus Krisztus mentheti meg az emberi fajt</b>, mert senki más a világon nem áldozta fel a vérét Jézus Krisztuson kívül, egyedül Jézus áldozta fel Szent vérét végső áldozatként az emberi fajért. Ezért képes megmenteni az egész emberiséget."
+        },
+        {
+          "type": "header",
+          "text": "Jézus Krisztus fontossága:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Sok prófécia volt Jézus Krisztusról i.e. 1700 és i.e. 400 között, születéséről, büntetéséről, kereszthaláláról, halála harmadik napján való feltámadásáról stb. A tudósok becslése szerint Jézus Krisztus több mint 300 próféciát teljesített be az Ószövetségből. Még a feltámadás után is Krisztus a tanítványokkal élt és hirdette a mennyek országát, és feltámadásának 40. napján testi alakjában mennybe ment."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Krisztuson kívül nincs más személy a világtörténelemben, aki feltámadt és testileg mennybe ment volna."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Ma a föld történelmét Krisztussal számítják. A világ országainak mintegy 88 százaléka ünnepként tartja a vasárnapot, és megünnepli Krisztus feltámadásának napját, a győzelem napját, a halál és a bűn feletti győzelmet."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Egyetlen kötelességünk, hogy menedéket vegyünk Őnála, szánkkal valljuk, hogy Jézus az Úr, szívünkben higgyük, hogy Isten feltámasztotta Krisztust a halálból, és legyünk az Ő tanítványai, kövessük parancsolatait és járjunk az élet útján, akkor biztosan övé lesz a mennyek országa."
+        },
+        {
+          "type": "header",
+          "text": "A Szent Biblia jelentősége"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Itt említettem a Szent Bibliából származó hivatkozásokat, hogy elmagyarázzam az <b>Örök életet</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "És miért megbízható könyv a Biblia? A Bibliát 1700-1800 év alatt írta több mint 40 különböző szerző különböző korokban és különböző helyeken."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Szent Biblia nem egyetlen könyv, hanem 66 könyv kombinációja, Krisztus előtt 39 könyvet írtak, amelyeket 'Ószövetségnek' neveznek, Krisztus után pedig 27 könyvet írtak, amelyeket 'Újszövetségnek' neveznek. A Szent Biblia megírásának célja majdnem ugyanaz minden szerzőnél, ez pedig az, hogy felfedje az Istenség (Atya Isten, Fiú Isten Jézus Krisztus és Szentlélek Isten) ismeretét, felfedje a Teremtés természetét és az emberiség történetét. Továbbá a Biblia Isten utasításai, Törvényei, Történelem, Prófécia és Kinyilatkoztatás néven ismert. Továbbá a Szent Biblia AZ <b>ÖRÖK ÉLET</b> KÖNYVEKÉNT ismert."
+        },
+        {
+          "id": "Para 14",
+          "text": "A Szent Bibliát nem egyetlen vagy 2-3 személy írta; hanem 40 különböző ember írta történelmi bizonyítékokkal, és mindenkinek a célja majdnem ugyanaz, így elmondhatom, hogy a Szent Biblia egy bizonyított és megbízható Könyv."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=KAR' target='_blank'>2 Timótheus 3:16</a> 'A teljes írás (Biblia) Istentől ihletett és hasznos a tanításra, a feddésre, a megjobbításra, az igazságban való nevelésre,'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=KAR' target='_blank'>János 20:31</a> 'Ezek (Biblia) pedig azért írattak meg, hogy higgyétek, hogy Jézus a Krisztus, az Istennek Fia, és hogy ezt hívén, életetek (<b>örök életetek</b>) legyen az ő nevében.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "A Biblia azért íródott, hogy az egész emberiség bűnbocsánatot, üdvösséget és <b>örök életet</b> kapjon a Jézus Krisztusba vetett hit által. A Szent Biblia nem csak egy bizonyos országnak, egy bizonyos osztálynak, egy bizonyos nyelvnek, bizonyos színű embereknek íródott; Hanem a föld minden nyelvének, minden törzsének, minden színének és minden nemzetének íródott. Ma a Szent Biblia a legmagasabb példányszámban nyomtatott könyv, és a Szent Biblia szinte minden főbb nyelven elérhető."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Az élet olyan drága, és az <b>örök élet</b> megfizethetetlen. Isten különleges tervet készített mindannyiunk számára, hogy költségek nélkül elnyerjük az <b>örök életet</b>. Tehát legyen életünk bőségesen és örökké. És osszuk meg az <b>örök élet</b> tapasztalatát másokkal, és dicsőítsük meg Urunkat."
+        },
+        {
+          "id": "Blessing",
+          "text": "Az Úr áldjon meg téged bőségesen, légy megáldva az <b>örök élettel</b>, és légy a MENNYEK országának polgára."
+        }
+      ],
+      "title": "Előszó",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

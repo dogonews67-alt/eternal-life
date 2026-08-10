@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Chestionar Biblic",
+  "questions": [
+    {
+      "question": "Cine a construit arca?",
+      "options": [
+        "Moise",
+        "Noe",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce hrană neobișnuită mânca Ioan Botezătorul în pustiu?",
+      "options": [
+        "Lăcuste și miere sălbatică",
+        "Pâine și pește",
+        "Smochine și măsline",
+        "Miel și ierburi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ce om a fost atât de puternic încât a ucis un leu cu mâinile goale?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliat",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine avea o tunică pestriță (colorată) de care frații săi erau geloși?",
+      "options": [
+        "Beniamin",
+        "Iosif",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce mare a despărțit Moise pentru a fugi de egipteni?",
+      "options": [
+        "Marea Moartă",
+        "Galileea",
+        "Marea Roșie",
+        "Mediterana"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Cine a fost înghițit de un pește mare?",
+      "options": [
+        "Iona",
+        "Petru",
+        "Pavel",
+        "Noe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce femeie s-a transformat într-un stâlp de sare pentru că s-a uitat înapoi?",
+      "options": [
+        "Sara",
+        "Soția lui Lot",
+        "Rebeca",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine l-a învins pe uriașul luptător Goliat folosind o praștie?",
+      "options": [
+        "Saul",
+        "Ionatan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce om scund de statură s-a suit într-un dud pentru a-L vedea pe Isus?",
+      "options": [
+        "Bartimeu",
+        "Zacheu",
+        "Matei",
+        "Nicuodem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce animal i-a vorbit prorocului Balaam?",
+      "options": [
+        "Un leu",
+        "O oaie",
+        "Un măgar",
+        "O cămilă"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a fost primul ucigaș din Biblie?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Set",
+        "Lameh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a fost aruncat în groapa cu lei, dar a supraviețuit?",
+      "options": [
+        "Daniel",
+        "Iosif",
+        "Șadrac",
+        "Ieremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce judecător stângaci l-a ucis pe un rege gras cu o sabie ascunsă?",
+      "options": [
+        "Ghedeon",
+        "Ehud",
+        "Samson",
+        "Iefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Cine L-a vândut pe Isus pentru 30 de arginți?",
+      "options": [
+        "Petru",
+        "Iuda Iscarioteanul",
+        "Ponțiu Pilat",
+        "Caiafa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce băiat tânăr a auzit pe Dumnezeu strigându-i numele noaptea în timp ce dormea?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isac",
+        "Iosif"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine a mers pe apă ca să-L întâmpine pe Isus?",
+      "options": [
+        "Iacov",
+        "Ioan",
+        "Petru",
+        "Andrei"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ce cădea din cer pentru a-i hrăni pe israeliți în pustiu?",
+      "options": [
+        "Pâine",
+        "Prepelite",
+        "Mană",
+        "Smochine"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine este cunoscut drept cel mai puternic om din Biblie?",
+      "options": [
+        "Goliat",
+        "Samson",
+        "Boaz",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce regină a salvat poporul evreu de un complot pentru uciderea lor?",
+      "options": [
+        "Rut",
+        "Estera",
+        "Izabela",
+        "Batșeba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine s-a lepădat de Isus de trei ori înainte de a cânta cocoșul?",
+      "options": [
+        "Toma",
+        "Iuda",
+        "Petru",
+        "Filip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce minune a făcut Isus la nunta din Cana?",
+      "options": [
+        "A vindecat un orb",
+        "A transformat apa în vin",
+        "A mers pe apă",
+        "A înmulțit pâinea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Zidurile cărui oraș au căzut după ce israeliții l-au înconjurat?",
+      "options": [
+        "Ierusalim",
+        "Ierihon",
+        "Ai",
+        "Babilon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine a fost „prorocul plângerilor”?",
+      "options": [
+        "Isaia",
+        "Ieremia",
+        "Ezechiel",
+        "Osea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Cui i-a tăiat Dalila părul, făcându-l să-și piardă puterea?",
+      "options": [
+        "Samson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Care ucenic a fost vameș înainte de a-L urma pe Isus?",
+      "options": [
+        "Luca",
+        "Matei",
+        "Marcu",
+        "Ioan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine a fost prima persoană care L-a văzut pe Isus după ce a înviat din morți?",
+      "options": [
+        "Petru",
+        "Ioan",
+        "Maria Magdalena",
+        "Mama Sa, Maria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ce regină rea a fost mâncată de câini?",
+      "options": [
+        "Estera",
+        "Izabela",
+        "Atalia",
+        "Irodiada"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Cine a ascuns doi spioni sub tije de in pe acoperișul ei?",
+      "options": [
+        "Rut",
+        "Rahav",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "La ce instrument cânta David pentru a-l liniști pe regele Saul?",
+      "options": [
+        "Trompetă",
+        "Harfă/Liră",
+        "Flaut",
+        "Tamburină"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a fost orbit pe drumul spre Damasc?",
+      "options": [
+        "Petru",
+        "Ștefan",
+        "Saul (Pavel)",
+        "Barnaba"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce proroc a fost hrănit de corbi?",
+      "options": [
+        "Elisei",
+        "Ilie",
+        "Isaia",
+        "Ieremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine a furat zeii (idolii) casei tatălui ei?",
+      "options": [
+        "Lea",
+        "Rahela",
+        "Rebeca",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Cine a căzut de la fereastră pentru că Pavel a propovăduit prea mult timp?",
+      "options": [
+        "Timotei",
+        "Eutih",
+        "Tihic",
+        "Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ce bebeluș a fost găsit într-un coș pe râul Nil?",
+      "options": [
+        "Aaron",
+        "Moise",
+        "Iosua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Cine s-a luptat cu Dumnezeu (sau un înger) toată noaptea?",
+      "options": [
+        "Avraam",
+        "Isac",
+        "Iacov",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine I-a cerut lui Dumnezeu înțelepciune în loc de o viață lungă sau bogății?",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Ezechia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine s-a atins de poala hainei lui Isus și s-a vindecat?",
+      "options": [
+        "Un lepros",
+        "Femeia cu scurgere de sânge",
+        "Un orb",
+        "Un paralizat"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ce rege a înnebunit și a mâncat iarbă ca un bou?",
+      "options": [
+        "Belșazar",
+        "Nebucadnețar",
+        "Dariu",
+        "Cirus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Cine L-a mințit pe Duhul Sfânt cu privire la bani și a căzut mort?",
+      "options": [
+        "Anania și Safira",
+        "Priscila și Aquila",
+        "Adam și Eva",
+        "Ahab și Izabela"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Cine a fost ucenicul „necredincios”?",
+      "options": [
+        "Petru",
+        "Toma",
+        "Filip",
+        "Andrei"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce a adus porumbelul înapoi la arca lui Noe?",
+      "options": [
+        "O frunză de smochin",
+        "O ramură de măslin",
+        "Un vierme",
+        "Un trandafir"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a avut 700 de soții și 300 de țiitoare?",
+      "options": [
+        "David",
+        "Solomon",
+        "Roboam",
+        "Avraam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine și-a vândut dreptul de întâi născut pentru un blid de linte?",
+      "options": [
+        "Iacov",
+        "Esau",
+        "Iosif",
+        "Isac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ce proroc a făcut să plutească un topor de fier pe apă?",
+      "options": [
+        "Ilie",
+        "Elisei",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Cine L-a recunoscut pe Isus ca fiind Mesia când era încă bebeluș?",
+      "options": [
+        "Simeon",
+        "Iosif",
+        "Nicuodem",
+        "Petru"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Cine a poruncit soarelui și lunii să se oprească?",
+      "options": [
+        "Moise",
+        "Iosua",
+        "David",
+        "Ghedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Care ucenic i-a tăiat urechea slujitorului marelui preot?",
+      "options": [
+        "Iacov",
+        "Ioan",
+        "Petru",
+        "Iuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a urcat pe Muntele Sinai pentru a primi Cele Zece Porunci?",
+      "options": [
+        "Aaron",
+        "Iosua",
+        "Moise",
+        "Avraam"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Cine a fost primul rege al lui Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ce om bogat L-a îngropat pe Isus în propriul său mormânt?",
+      "options": [
+        "Nicuodem",
+        "Iosif din Arimateea",
+        "Simon din Cirene",
+        "Lazăr"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Cum se numea vipera care l-a mușcat pe Pavel pe insula Malta?",
+      "options": [
+        "Cobră",
+        "Viperă",
+        "Piton",
+        "Șarpe cu clopoței"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Cine a fost mama lui Ioan Botezătorul?",
+      "options": [
+        "Maria",
+        "Elisabeta",
+        "Marta",
+        "Ana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine i-a învins pe madianiți cu doar 300 de oameni, trâmbițe și ulcioare?",
+      "options": [
+        "Samson",
+        "Ghedeon",
+        "Barac",
+        "Iefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a refuzat să se închine chipului de aur și a fost aruncat în cuptor?",
+      "options": [
+        "Daniel",
+        "Șadrac, Meșac și Abed-Nego",
+        "Ezra și Neemia",
+        "Pavel și Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine și-a spălat mâinile pentru a-și declara nevinovăția în moartea lui Isus?",
+      "options": [
+        "Irod",
+        "Caiafa",
+        "Ponțiu Pilat",
+        "Iuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine era cunoscut ca „prietenul lui Dumnezeu”?",
+      "options": [
+        "Moise",
+        "Avraam",
+        "David",
+        "Noe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ce proroc a fost înghițit de o balenă (un pește mare)?",
+      "options": [
+        "Iona",
+        "Mica",
+        "Naum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Cine a interpretat scrierea de pe perete?",
+      "options": [
+        "Iosif",
+        "Daniel",
+        "Ezechiel",
+        "Isaia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Cine a fost femeia judecător care a condus Israelul?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Estera",
+        "Maria"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a readus un băiat la viață întinzându-se peste el de trei ori?",
+      "options": [
+        "Ilie",
+        "Elisei",
+        "Petru",
+        "Pavel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Care fiu al regelui David s-a încurcat cu părul său lung într-un copac și a fost ucis?",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Adonia",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Prin ce i-a vorbit Dumnezeu lui Moise în pustiu?",
+      "options": [
+        "Un rug aprins",
+        "Un nor",
+        "Un vârtej de vânt",
+        "Un măgar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "În pilda bunului samaritean, cine a ajutat omul rănit?",
+      "options": [
+        "Un preot",
+        "Un levit",
+        "Un samaritean",
+        "Un soldat roman"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine a fost cel mai bătrân om din Biblie, trăind 969 de ani?",
+      "options": [
+        "Noe",
+        "Adam",
+        "Metusala",
+        "Enoh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Care ucenic a încercat să meargă pe apă, dar a început să se scufunde?",
+      "options": [
+        "Iacov",
+        "Ioan",
+        "Petru",
+        "Andrei"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce oraș a distrus Dumnezeu cu foc și pucioasă din cauza răutății lui?",
+      "options": [
+        "Ierihon",
+        "Ninive",
+        "Sodoma",
+        "Babilon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a visat o scară care ajungea până la cer și îngerii urcau și coborau pe ea?",
+      "options": [
+        "Avraam",
+        "Isac",
+        "Iacov",
+        "Iosif"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a fost primul om creat de Dumnezeu?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Adam",
+        "Noe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Cine a fost prima femeie, creată din coasta lui Adam?",
+      "options": [
+        "Sara",
+        "Eva",
+        "Maria",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce proroc a fost aruncat într-o groapă cu noroi (închisoare)?",
+      "options": [
+        "Isaia",
+        "Ieremia",
+        "Ezechiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Cine era cunoscut drept „cel mai înțelept rege” care a trăit vreodată?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Ezechia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ce au pus israeliții pe ușiorii ușilor pentru a scăpa de a 10-a urgie în Egipt?",
+      "options": [
+        "Sânge de miel",
+        "Ulei de măsline",
+        "Apă",
+        "Cenușă"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine i-a poruncit unei văduve să-i coacă pâine din ultima ei fărâmă de făină și de ulei?",
+      "options": [
+        "Ilie",
+        "Elisei",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Care ucenic era doctor?",
+      "options": [
+        "Matei",
+        "Luca",
+        "Marcu",
+        "Ioan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine L-a ajutat pe Isus să-și ducă crucea?",
+      "options": [
+        "Simon din Cirene",
+        "Iosif din Arimateea",
+        "Petru",
+        "Ioan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Cu ce a hrănit Isus cei 5.000 de oameni?",
+      "options": [
+        "Mană și prepelițe",
+        "5 pâini și 2 pești",
+        "7 pâini și câțiva pești",
+        "Pâine și vin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce soți au murit pentru că au mințit cu privire la prețul pământului lor?",
+      "options": [
+        "Anania și Safira",
+        "Aquila și Priscila",
+        "Ahab și Izabela",
+        "Avraam și Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Cine a fost uriașul vânător cunoscut ca „un viteaz vânător înaintea Domnului”?",
+      "options": [
+        "Goliat",
+        "Nimrod",
+        "Esau",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Cine i-a tăiat urechea slujitorului marelui preot în grădina Ghetsemani?",
+      "options": [
+        "Ioan",
+        "Iacov",
+        "Petru",
+        "Iuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine a fost primul martir creștin ucis cu pietre?",
+      "options": [
+        "Iacov",
+        "Ștefan",
+        "Pavel",
+        "Barnaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ce rege a propus să taie un bebeluș în două pentru a rezolva o ceartă între două mame?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Irod"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine a fost femeia egipteancă care i-a născut lui Avraam primul său fiu, Ismael?",
+      "options": [
+        "Sara",
+        "Agar",
+        "Chetura",
+        "Rebeca"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Cine a fost primul mare preot al lui Israel?",
+      "options": [
+        "Moise",
+        "Aaron",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ce a iubit tânărul domnitor bogat mai mult decât pe Isus?",
+      "options": [
+        "Familia lui",
+        "Puterea lui",
+        "Banii/posesiunile lui",
+        "Reputația lui"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a spus faimoasele cuvinte: „Sunt eu păzitorul fratelui meu?”",
+      "options": [
+        "Abel",
+        "Cain",
+        "Esau",
+        "Frații lui Iosif"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Cine i-a condus pe israeliți în Țara Făgăduinței după ce a murit Moise?",
+      "options": [
+        "Caleb",
+        "Iosua",
+        "Aaron",
+        "Ghedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce meserie a luat Fiul Risipitor când a rămas fără bani?",
+      "options": [
+        "Păzitor de porci",
+        "Constructor de case",
+        "Pescar",
+        "Cerșetor"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a fost guvernatorul roman care l-a condamnat pe Isus la moarte ?",
+      "options": [
+        "Irod Antipa",
+        "Ponțiu Pilat",
+        "Cezar August",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ce este „Regula de aur”?",
+      "options": [
+        "Iubește-L pe Dumnezeu cu toată inima ta",
+        "Tot ce voiți să vă facă vouă oamenii, faceți-le și voi la fel",
+        "Crede în Domnul Isus",
+        "Cinstește pe părinții tăi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Pe cine a înviat Isus din morți după ce stătuse în mormânt timp de patru zile?",
+      "options": [
+        "Fiica lui Iair",
+        "Fiul văduvei",
+        "Lazăr",
+        "Tabita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ce s-a întâmplat cu regele Irod când nu I-a dat slavă lui Dumnezeu?",
+      "options": [
+        "A fost lovit de trăsnet",
+        "A fost mâncat de viermi",
+        "A orbit",
+        "A căzut de pe tronul său"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Cine a făcut un vițel de aur pentru ca israeliții să se închine la el?",
+      "options": [
+        "Moise",
+        "Aaron",
+        "Iosua",
+        "Maria"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Pe cine a uns Samuel ca al doilea rege al lui Israel?",
+      "options": [
+        "Saul",
+        "David",
+        "Solomon",
+        "Iese"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Care a fost numele turnului unde Dumnezeu a încurcat limbile?",
+      "options": [
+        "Turnul lui David",
+        "Turnul Babel",
+        "Turnul Siloamului",
+        "Turnul Sihemului"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine a fost mama lui Isus?",
+      "options": [
+        "Elisabeta",
+        "Maria",
+        "Marta",
+        "Salomeea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Care profet a fugit de Dumnezeu și s-a urcat pe o corabie spre Tarsis?",
+      "options": [
+        "Iona",
+        "Amos",
+        "Mica",
+        "Osea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Cine a fost fratele păros al lui Iacov?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismael",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Cine a fost omul paralizat vindecat de Petru la poarta Frumoasă?",
+      "options": [
+        "Un om olog din naștere",
+        "Un cerșetor orb",
+        "Un lepros",
+        "Un surd"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Pe cine a numit Isus „vulpe”?",
+      "options": [
+        "Pilat",
+        "Irod",
+        "Caiafa",
+        "Iuda"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Cine a fost soacra lui Rut?",
+      "options": [
+        "Orpa",
+        "Noemi",
+        "Mara",
+        "Ana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

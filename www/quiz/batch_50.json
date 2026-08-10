@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Who made a golden calf for the Israelites to worship?",
+    "options": [
+      "Moses",
+      "Aaron",
+      "Joshua",
+      "Miriam"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who did Samuel anoint as the second King of Israel?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Jesse"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What was the name of the tower where God confused the languages?",
+    "options": [
+      "Tower of David",
+      "Tower of Babel",
+      "Tower of Siloam",
+      "Tower of Shechem"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the mother of Jesus?",
+    "options": [
+      "Elizabeth",
+      "Mary",
+      "Martha",
+      "Salome"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Which prophet ran away from God and got on a boat to Tarshish?",
+    "options": [
+      "Jonah",
+      "Amos",
+      "Micah",
+      "Hosea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the hairy brother of Jacob?",
+    "options": [
+      "Laban",
+      "Esau",
+      "Ishmael",
+      "Isaac"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the paralyzed man healed by Peter at the Beautiful Gate?",
+    "options": [
+      "A man lame from birth",
+      "A blind beggar",
+      "A leper",
+      "A deaf man"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who did Jesus call a 'fox'?",
+    "options": [
+      "Pilate",
+      "Herod",
+      "Caiaphas",
+      "Judas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 8
+  },
+  {
+    "question": "Who was Ruth's mother-in-law?",
+    "options": [
+      "Orpah",
+      "Naomi",
+      "Mara",
+      "Hannah"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who were the first two disciples called by Jesus?",
+    "options": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Nathaniel",
+      "Matthew and Thomas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "What did the soldiers place on Jesus' head?",
+    "options": [
+      "A gold crown",
+      "A crown of thorns",
+      "A helmet",
+      "A laurel wreath"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the 'beloved physician' who traveled with Paul?",
+    "options": [
+      "Mark",
+      "Luke",
+      "Barnabas",
+      "Silas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who had a vision of a sheet filled with animals coming down from heaven?",
+    "options": [
+      "Paul",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "Who fell at Jesus' feet and anointed them with perfume?",
+    "options": [
+      "Mary of Bethany",
+      "Martha",
+      "Mary the mother of Jesus",
+      "Salome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was the king who threw Daniel into the lion's den?",
+    "options": [
+      "Nebuchadnezzar",
+      "Darius",
+      "Cyrus",
+      "Belshazzar"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Which prophet saw a valley of dry bones come to life?",
+    "options": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the first person to see the risen Jesus?",
+    "options": [
+      "Peter",
+      "John",
+      "Mary Magdalene",
+      "Thomas"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the short tax collector who climbed a tree?",
+    "options": [
+      "Matthew",
+      "Zacchaeus",
+      "Levi",
+      "Simon"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Which disciple was a 'Son of Thunder' along with his brother James?",
+    "options": [
+      "Peter",
+      "John",
+      "Andrew",
+      "Philip"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "Who prayed in the belly of a fish?",
+    "options": [
+      "Jonah",
+      "Noah",
+      "Moses",
+      "Paul"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Who killed the enemy general Sisera by driving a tent peg through his temple?",
+    "options": [
+      "Deborah",
+      "Jael",
+      "Rahab",
+      "Delilah"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 8
+  },
+  {
+    "question": "What happened to the idol of Dagon when the Ark of the Covenant was placed next to it?",
+    "options": [
+      "It glowed",
+      "It fell on its face and broke",
+      "It spoke",
+      "It turned to gold"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the lame son of Jonathan whom David showed kindness to?",
+    "options": [
+      "Mephibosheth",
+      "Absalom",
+      "Solomon",
+      "Joab"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who touched the Ark of the Covenant to steady it and died immediately?",
+    "options": [
+      "Uzzah",
+      "Aaron",
+      "David",
+      "Samuel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Which prophet was told to marry a prostitute named Gomer?",
+    "options": [
+      "Isaiah",
+      "Hosea",
+      "Jeremiah",
+      "Amos"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "Who visited the Witch of Endor to speak to the dead spirit of Samuel?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Ahab"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 7
+  },
+  {
+    "question": "What did the prophet Elisha use to purify a pot of poisonous stew?",
+    "options": [
+      "Salt",
+      "Flour",
+      "Oil",
+      "A branch"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 8
+  },
+  {
+    "question": "Who had a contest with 450 prophets of Baal on Mount Carmel?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Moses",
+      "Samuel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What took Elijah up to heaven?",
+    "options": [
+      "A golden eagle",
+      "A whirlwind and chariot of fire",
+      "A stairway",
+      "A cloud"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the greedy servant of Elisha who was struck with leprosy?",
+    "options": [
+      "Gehazi",
+      "Baruch",
+      "Ziba",
+      "Onesimus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Which king was killed by an arrow shot at random that hit him between his armor plates?",
+    "options": [
+      "Saul",
+      "Ahab",
+      "David",
+      "Josiah"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 8
+  },
+  {
+    "question": "Who found a coin in the mouth of a fish to pay the temple tax?",
+    "options": [
+      "Peter",
+      "John",
+      "Matthew",
+      "Jesus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "What was the name of the demon-possessed man who lived among the tombs?",
+    "options": [
+      "Legion",
+      "Goliath",
+      "Beelzebub",
+      "Judas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who fell asleep while Peter was in prison, allowing Peter to escape?",
+    "options": [
+      "The guards",
+      "The jailer",
+      "Herod",
+      "The other prisoners"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who was the sorcerer who tried to buy the power of the Holy Spirit from the apostles?",
+    "options": [
+      "Simon Magus",
+      "Elymas",
+      "Bar-Jesus",
+      "Diotrephes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who was the seller of purple cloth who became a believer in Philippi?",
+    "options": [
+      "Lydia",
+      "Priscilla",
+      "Phoebe",
+      "Dorcas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 6
+  },
+  {
+    "question": "Who made clothes for the poor and was raised from the dead by Peter?",
+    "options": [
+      "Mary",
+      "Dorcas (Tabitha)",
+      "Lydia",
+      "Martha"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "What happened to the ship Paul was on while traveling to Rome?",
+    "options": [
+      "It was attacked by pirates",
+      "It was shipwrecked",
+      "It caught fire",
+      "It was swallowed by a whale"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the young man who ran away naked when Jesus was arrested?",
+    "options": [
+      "Peter",
+      "Mark",
+      "John",
+      "James"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 9
+  },
+  {
+    "question": "Which disciple was a Zealot (a political revolutionary)?",
+    "options": [
+      "Simon",
+      "Judas",
+      "Matthew",
+      "Thomas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who was the High Priest who tore his clothes during Jesus' trial?",
+    "options": [
+      "Annas",
+      "Caiaphas",
+      "Nicodemus",
+      "Gamaliel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 6
+  },
+  {
+    "question": "What was the name of the garden where Jesus sweat drops of blood?",
+    "options": [
+      "Eden",
+      "Gethsemane",
+      "Golgotha",
+      "Olives"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who carried the cross for Jesus?",
+    "options": [
+      "Simon of Cyrene",
+      "Joseph of Arimathea",
+      "Peter",
+      "John"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What was written on the sign above Jesus' cross?",
+    "options": [
+      "King of the Jews",
+      "Son of God",
+      "Messiah",
+      "Traitor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the thief released instead of Jesus?",
+    "options": [
+      "Barabbas",
+      "Barnabas",
+      "Bartimaeus",
+      "Bartholomew"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Who went to the tomb early on Sunday morning and found the stone rolled away?",
+    "options": [
+      "Peter and John",
+      "Mary Magdalene and other women",
+      "The Roman guards",
+      "Joseph of Arimathea"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Which two disciples ran a footrace to Jesus' empty tomb?",
+    "options": [
+      "Peter and John",
+      "James and John",
+      "Peter and Andrew",
+      "Thomas and Philip"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Who did Jesus meet on the road to Emmaus?",
+    "options": [
+      "Two disciples",
+      "Peter",
+      "Mary",
+      "Paul"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "What happened to Judas Iscariot after he betrayed Jesus?",
+    "options": [
+      "He became a leader",
+      "He hanged himself",
+      "He was stoned",
+      "He fled to Egypt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who was chosen to replace Judas as the 12th disciple?",
+    "options": [
+      "Matthias",
+      "Paul",
+      "Barnabas",
+      "Silas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  }
+]

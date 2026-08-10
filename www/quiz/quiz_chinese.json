@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "圣经知识测验",
+  "questions": [
+    {
+      "question": "谁建造了方舟？",
+      "options": [
+        "摩西",
+        "诺亚",
+        "大卫",
+        "所罗门"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "施洗约翰在旷野吃的是什么奇特的食物？",
+      "options": [
+        "蝗虫和野蜜",
+        "饼和鱼",
+        "无花果和橄榄",
+        "羊肉和草药"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "谁力大无穷，曾徒手打死一只狮子？",
+      "options": [
+        "大卫",
+        "参孙",
+        "歌利亚",
+        "迦勒"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "谁有一件彩衣，引来他兄弟们的嫉妒？",
+      "options": [
+        "便雅悯",
+        "约瑟",
+        "流便",
+        "但"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "摩西为了躲避埃及人使哪片海分开了？",
+      "options": [
+        "死海",
+        "加利利海",
+        "红海",
+        "地中海"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "谁被一条大鱼吞进了肚子？",
+      "options": [
+        "约拿",
+        "彼得",
+        "保罗",
+        "诺亚"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "哪个女人因为回头看而变成了一根盐柱？",
+      "options": [
+        "撒拉",
+        "罗得的妻子",
+        "利百加",
+        "利亚"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "谁用机弦战胜了巨人勇士歌利亚？",
+      "options": [
+        "扫罗",
+        "约拿单",
+        "大卫",
+        "撒母耳"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "谁是个身材矮小的人，为了看耶稣而爬上了桑树？",
+      "options": [
+        "巴底买",
+        "撒该",
+        "马太",
+        "尼哥底母"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "哪种动物对先知巴兰开口说话了？",
+      "options": [
+        "狮子",
+        "羊",
+        "驴",
+        "骆驼"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "圣经中的第一个杀人犯是谁？",
+      "options": [
+        "该隐",
+        "亚伯",
+        "塞特",
+        "拉麦"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "谁被扔进狮子坑却平安无事？",
+      "options": [
+        "但以理",
+        "约瑟",
+        "沙得拉",
+        "耶利米"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "哪位左手便利的士师用隐藏的剑刺杀了一位肥胖的国王？",
+      "options": [
+        "基甸",
+        "以笏",
+        "参孙",
+        "耶弗他"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "谁为了30块银币出卖了耶稣？",
+      "options": [
+        "彼得",
+        "加略人犹大",
+        "本丢·彼拉多",
+        "该亚法"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "哪个少年在晚上睡觉时听到上帝呼唤他的名字？",
+      "options": [
+        "大卫",
+        "撒母耳",
+        "以撒",
+        "约瑟"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁走在水面上迎接耶稣？",
+      "options": [
+        "雅各",
+        "约翰",
+        "彼得",
+        "安得烈"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "在旷野里，什么东西从天而降喂饱了以色列人？",
+      "options": [
+        "饼",
+        "鹌鹑",
+        "吗哪",
+        "无花果"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "谁被认为是圣经中最强壮的人？",
+      "options": [
+        "歌利亚",
+        "参孙",
+        "波阿斯",
+        "以扫"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "哪位王后从杀害犹大人的阴谋中解救了她的子民？",
+      "options": [
+        "路得",
+        "以斯帖",
+        "耶洗别",
+        "拔示巴"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "在鸡叫以前，谁三次不认耶稣？",
+      "options": [
+        "多马",
+        "犹大",
+        "彼得",
+        "腓力"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "耶稣在迦拿的婚礼上行了什么神迹？",
+      "options": [
+        "治好瞎补",
+        "变水为酒",
+        "在水面上行走",
+        "让饼增多"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "以色列人绕城行走后，哪座城的城墙倒塌了？",
+      "options": [
+        "耶路撒冷",
+        "耶利哥",
+        "艾城",
+        "巴比伦"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "谁是“哀哭的先知”？",
+      "options": [
+        "以赛亚",
+        "耶利米",
+        "以西结",
+        "何西阿"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "大力士参孙被大力士剪掉头发后失去了力量，是谁剪掉的？",
+      "options": [
+        "大力士",
+        "大利拉",
+        "亚比该",
+        "米甲"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "哪位门徒在跟随耶稣之前是税吏？",
+      "options": [
+        "路加",
+        "马太",
+        "马可",
+        "约翰"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "耶稣从死里复活后，谁是第一个见到他的人？",
+      "options": [
+        "彼得",
+        "约翰",
+        "抹大拉的马利亚",
+        "他的母亲马利亚"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "哪位邪恶的王后被狗吃掉了？",
+      "options": [
+        "以斯帖",
+        "耶洗别",
+        "亚他利雅",
+        "希罗底"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "谁在房顶上用麻秸藏匿了两个探子？",
+      "options": [
+        "路得",
+        "喇合",
+        "撒拉",
+        "底波拉"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "大卫弹奏什么乐器来安抚扫罗王？",
+      "options": [
+        "小号",
+        "竖琴/里拉琴",
+        "长笛",
+        "铃鼓"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "谁在去大马士革的路上眼睛失明了？",
+      "options": [
+        "彼得",
+        "司提反",
+        "扫罗（保罗）",
+        "巴拿巴"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "哪位先知曾由乌鸦供养？",
+      "options": [
+        "以利沙",
+        "以利亚",
+        "以赛亚",
+        "耶利米"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁偷走了她父亲的神像？",
+      "options": [
+        "利亚",
+        "拉结",
+        "利百加",
+        "底拿"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "谁因为保罗讲论太久，从窗户掉下去摔死了？",
+      "options": [
+        "提摩太",
+        "犹推古",
+        "推基古",
+        "西拉"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "哪个婴儿是在尼罗河的篮子里被发现的？",
+      "options": [
+        "亚伦",
+        "摩西",
+        "约书亚",
+        "撒母耳"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "谁整夜与上帝（或天使）摔跤？",
+      "options": [
+        "亚伯拉罕",
+        "以撒",
+        "雅各",
+        "以扫"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "谁恳求上帝赐予智慧，而非长寿和财富？",
+      "options": [
+        "大卫",
+        "所罗门",
+        "扫罗",
+        "希西家"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "谁摸了耶稣的衣裳繸子就痊愈了？",
+      "options": [
+        "一个长大麻风的",
+        "患血漏的女人",
+        "一个瞎子",
+        "一个瘫子"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "哪位国王发了疯，像牛一样吃草？",
+      "options": [
+        "伯沙撒",
+        "尼布甲尼撒",
+        "大流士",
+        "居鲁士"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "谁在钱财上欺哄圣灵，结果倒地而死？",
+      "options": [
+        "亚拿尼亚和撒非喇",
+        "百基拉和亚居拉",
+        "亚当和夏娃",
+        "亚哈和耶洗别"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "谁是那个“多疑”的门徒？",
+      "options": [
+        "彼得",
+        "多马",
+        "腓力",
+        "安得烈"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "鸽子衔了什么回到诺亚方舟？",
+      "options": [
+        "一片无花果叶",
+        "一个橄榄枝子",
+        "一条虫子",
+        "一朵玫瑰"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "谁有700个妻子和300个妃嫔？",
+      "options": [
+        "大卫",
+        "所罗门",
+        "罗波安",
+        "亚伯拉罕"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁为了一碗红豆汤出卖了长子的名分？",
+      "options": [
+        "雅各",
+        "以扫",
+        "约瑟",
+        "以撒"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "哪位先知使铁斧头从水里漂上来？",
+      "options": [
+        "以利亚",
+        "以利沙",
+        "撒母耳",
+        "拿单"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "耶稣还是婴儿时，谁认出他是弥赛亚？",
+      "options": [
+        "西面",
+        "约瑟",
+        "尼哥底母",
+        "彼得"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "谁命令太阳和月亮停住？",
+      "options": [
+        "摩西",
+        "约书亚",
+        "大卫",
+        "基甸"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "哪位门徒砍掉的大祭司仆人的耳朵？",
+      "options": [
+        "雅各",
+        "约翰",
+        "彼得",
+        "犹大"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "谁登上西奈山领取了十诫？",
+      "options": [
+        "亚伦",
+        "约书亚",
+        "摩西",
+        "亚伯拉罕"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "以色列的第一位国王是谁？",
+      "options": [
+        "大卫",
+        "扫罗",
+        "所罗门",
+        "撒母耳"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "哪位财主把耶稣安葬在自己的新坟墓里？",
+      "options": [
+        "尼哥底母",
+        "亚利马太的约瑟",
+        "古利奈人西门",
+        "拉撒路"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "保罗在马耳他岛上被什么毒蛇咬了？",
+      "options": [
+        "眼镜蛇",
+        "毒蛇（蝰蛇）",
+        "蟒蛇",
+        "响尾蛇"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "施洗约翰的母亲是谁？",
+      "options": [
+        "马利亚",
+        "以利沙伯",
+        "马大",
+        "亚拿"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁仅用300人和号角、瓶子击败了米甸人？",
+      "options": [
+        "参孙",
+        "基甸",
+        "巴拉",
+        "耶弗他"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "谁拒绝拜金像而被扔进烈火炉子？",
+      "options": [
+        "但以理",
+        "沙得拉、米煞、亚伯尼歌",
+        "以斯拉和尼希米",
+        "保罗和西拉"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁洗手声明在处死耶稣的事上自己是无辜的？",
+      "options": [
+        "希律",
+        "该亚法",
+        "本丢·彼拉多",
+        "犹大"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "谁被称为“上帝的朋友”？",
+      "options": [
+        "摩西",
+        "亚伯拉罕",
+        "大卫",
+        "诺亚"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "哪位先知被鲸鱼（大鱼）吞了？",
+      "options": [
+        "约拿",
+        "弥迦",
+        "那鸿",
+        "阿摩司"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "谁解释了墙上的文字？",
+      "options": [
+        "约瑟",
+        "但以理",
+        "以西结",
+        "以赛亚"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "谁是领导以色列的女性士师？",
+      "options": [
+        "路得",
+        "底波拉",
+        "以斯帖",
+        "米利暗"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "谁三次伏在孩子身上，使他复活？",
+      "options": [
+        "以利亚",
+        "以利沙",
+        "彼得",
+        "保罗"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "大卫王的哪个儿子因为长发被缠在树上而被杀？",
+      "options": [
+        "所罗门",
+        "押沙龙",
+        "亚多尼雅",
+        "暗嫩"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "在旷野，上帝通过什么对摩西说话？",
+      "options": [
+        "荆棘火焰",
+        "云彩",
+        "旋风",
+        "驴"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "在好撒马利亚人的比喻中，是谁救助了受伤的人？",
+      "options": [
+        "祭司",
+        "利未人",
+        "撒马利亚人",
+        "罗马兵丁"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "圣经中最长寿的人是谁，他活了969岁？",
+      "options": [
+        "诺亚",
+        "亚当",
+        "玛土撒拉",
+        "以诺"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "哪位门徒尝试走在水面上却开始下沉？",
+      "options": [
+        "雅各",
+        "约翰",
+        "彼得",
+        "安得烈"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "上帝因为哪座城的邪恶而用火与硫磺将其毁灭？",
+      "options": [
+        "耶利哥",
+        "尼尼微",
+        "所多玛",
+        "巴比伦"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "谁梦见一把天梯，有天使在上面上去下来？",
+      "options": [
+        "亚伯拉罕",
+        "以撒",
+        "雅各",
+        "约瑟"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "上帝创造的第一个人是谁？",
+      "options": [
+        "该隐",
+        "亚伯",
+        "亚当",
+        "诺亚"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "谁是第一个女人，是用亚当的肋骨造成的？",
+      "options": [
+        "撒拉",
+        "夏娃",
+        "马利亚",
+        "路得"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "哪位先知被扔进淤泥坑（牢狱）中？",
+      "options": [
+        "以赛亚",
+        "耶利米",
+        "以西结",
+        "但以理"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "谁被公认为史上“最智慧的国王”？",
+      "options": [
+        "大卫",
+        "扫罗",
+        "所罗门",
+        "希西家"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "以色列人在门框上涂了什么，以躲避埃及的第十个灾难？",
+      "options": [
+        "羔羊的血",
+        "橄榄油",
+        "水",
+        "灰"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "希律王令施洗约翰被如何处死？",
+      "options": [
+        "钉十字架",
+        "斩首",
+        "绞刑",
+        "石刑"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "哪位门徒是医生？",
+      "options": [
+        "马太",
+        "路加",
+        "马可",
+        "约翰"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "谁帮耶稣背十字架？",
+      "options": [
+        "古利奈人西门",
+        "亚利马太的约瑟",
+        "彼得",
+        "约翰"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "耶稣用什么喂饱了5000人？",
+      "options": [
+        "吗哪和鹌鹑",
+        "五饼二鱼",
+        "七饼和几条鱼",
+        "饼和酒"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "哪对夫妇因为谎报地价而死？",
+      "options": [
+        "亚拿尼亚和撒非喇",
+        "亚居拉和百基拉",
+        "亚哈和耶洗别",
+        "亚伯拉罕和撒拉"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "谁是圣经中著名的英勇猎户，“在耶和华面前是个英勇的猎户”？",
+      "options": [
+        "歌利亚",
+        "宁录",
+        "以扫",
+        "参孙"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "谁在客西马尼园砍掉的大祭司仆人的耳朵？",
+      "options": [
+        "约翰",
+        "雅各",
+        "彼得",
+        "犹大"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "谁是第一位被石头打死的基督徒殉道者？",
+      "options": [
+        "雅各",
+        "司提反",
+        "保罗",
+        "巴拿巴"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "哪位国王建议将一个婴儿劈成两半，以解决两位母亲的争端？",
+      "options": [
+        "大卫",
+        "扫罗",
+        "所罗门",
+        "希律"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "亚伯拉罕的长子以实玛利，是谁生的那个埃及妇人生的？",
+      "options": [
+        "撒拉",
+        "夏甲",
+        "基土拉",
+        "利百加"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "谁是以色列的第一位大祭司？",
+      "options": [
+        "摩西",
+        "亚伦",
+        "以利亚撒",
+        "以利"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "那个富有的年轻官员爱什么胜过爱耶稣？",
+      "options": [
+        "他的家人",
+        "他的权力",
+        "他的钱财/财产",
+        "他的名声"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "谁曾说出那句名言：“我岂是看守我兄弟的吗？”",
+      "options": [
+        "亚伯",
+        "该隐",
+        "以扫",
+        "约瑟的兄弟们"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "摩西死后，谁带领以色列人进入应许之地？",
+      "options": [
+        "迦勒",
+        "约书亚",
+        "亚伦",
+        "基甸"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "浪子在没钱的时候做了什么工作？",
+      "options": [
+        "放猪",
+        "盖房子",
+        "打鱼",
+        "乞讨"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "谁是判处耶稣死刑的罗马巡抚？",
+      "options": [
+        "希律·安提帕",
+        "本丢·彼拉多",
+        "凯撒·奥古斯都",
+        "腓力斯"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "什么是“黄金法则”？",
+      "options": [
+        "尽心爱主你的神",
+        "你们愿意人怎样待你们，你们也要怎样待人",
+        "信主耶稣",
+        "孝敬父母"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "耶稣在拉撒路进坟墓四天后，叫他从死里复活的是谁？",
+      "options": [
+        "睚鲁的女儿",
+        "寡妇的儿子",
+        "拉撒路",
+        "多加"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "希律王因为没有归荣耀给神，结果发生了什么？",
+      "options": [
+        "他被雷劈了",
+        "他被虫子咬死",
+        "他瞎了",
+        "他从宝座上摔了下来"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "谁为以色列人造了一个金牛犊供他们拜？",
+      "options": [
+        "摩西",
+        "亚伦",
+        "约书亚",
+        "米利暗"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "撒母耳膏立的以色列第二任国王是谁？",
+      "options": [
+        "扫罗",
+        "大卫",
+        "所罗门",
+        "耶西"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "神变乱各国语言的那座塔叫什么名字？",
+      "options": [
+        "大卫塔",
+        "巴别塔",
+        "西罗亚塔",
+        "示剑塔"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "耶稣的母亲叫什么名字？",
+      "options": [
+        "伊利莎白",
+        "马利亚",
+        "马大",
+        "撒罗米"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "哪位先锋躲避神，上了去他施的船？",
+      "options": [
+        "约拿",
+        "阿摩司",
+        "弥迦",
+        "何西阿"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "雅各那个浑身是毛的哥哥是谁？",
+      "options": [
+        "拉班",
+        "以扫",
+        "以实玛利",
+        "以撒"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "彼得在美门口医好的那个瘸子是谁？",
+      "options": [
+        "一个生来就瘸腿的人",
+        "一个瞎眼讨饭的",
+        "一个长大麻风的",
+        "一个耳聋的人"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "耶稣把谁称为“狐狸”？",
+      "options": [
+        "彼拉多",
+        "希律",
+        "该亚法",
+        "犹大"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "路得的婆婆是谁？",
+      "options": [
+        "俄珥巴",
+        "拿俄米",
+        "玛拉",
+        "哈拿"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

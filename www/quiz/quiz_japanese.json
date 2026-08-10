@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "聖書クイズ",
+  "questions": [
+    {
+      "question": "方舟を造ったのは誰ですか？",
+      "options": [
+        "モーセ",
+        "ノア",
+        "ダビデ",
+        "ソロモン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "洗礼者ヨハネが荒れ野で食べていた珍しい食べ物は何ですか？",
+      "options": [
+        "いなごと野蜜",
+        "パンと魚",
+        "いちじくとオリーブ",
+        "子羊とハーブ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "素手でライオンを殺すほど力が強かったのは誰ですか？",
+      "options": [
+        "ダビデ",
+        "サムソン",
+        "ゴリアテ",
+        "カレブ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "兄弟たちから妬まれる原因となった、色とりどりの着物を持っていたのは誰ですか？",
+      "options": [
+        "ベニヤミン",
+        "ヨセフ",
+        "ルベン",
+        "ダン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "モーセがエジプト人から逃れるために分けた海はどこですか？",
+      "options": [
+        "死海",
+        "ガリラヤ湖",
+        "紅海",
+        "地中海"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "大きな魚に飲み込まれたのは誰ですか？",
+      "options": [
+        "ヨナ",
+        "ペトロ",
+        "パウロ",
+        "ノア"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "後ろを振り返ったために塩の柱になった女性は誰ですか？",
+      "options": [
+        "サラ",
+        "ロトの妻",
+        "リベカ",
+        "レア"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "石投げで巨人戦士ゴリアテを倒したのは誰ですか？",
+      "options": [
+        "サウル",
+        "ヨナタン",
+        "ダビデ",
+        "サムエル"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "イエスを見るために、いちじく桑の木に登った背の低い男は誰ですか？",
+      "options": [
+        "バルティマイ",
+        "ザアカイ",
+        "マタイ",
+        "ニコデモ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "預言者バラムに語りかけた動物は何ですか？",
+      "options": [
+        "ライオン",
+        "羊",
+        "ろば",
+        "らくだ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "聖書で最初の殺人者は誰ですか？",
+      "options": [
+        "カイン",
+        "アベル",
+        "セト",
+        "レメク"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "ライオンの洞窟に投げ込まれながらも生き延びたのは誰ですか？",
+      "options": [
+        "ダニエル",
+        "ヨセフ",
+        "シャドラク",
+        "エレミヤ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "隠し持った剣で太った王を殺した左利きの士師は誰ですか？",
+      "options": [
+        "ギデオン",
+        "エフド",
+        "サムソン",
+        "エフタ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "銀貨30枚でイエスを裏切ったのは誰ですか？",
+      "options": [
+        "ペトロ",
+        "イスカリオテのユダ",
+        "ポンティオ・ピラト",
+        "カイアファ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "眠っている間に神が自分の名を呼ぶのを聞いた少年は誰ですか？",
+      "options": [
+        "ダビデ",
+        "サムエル",
+        "イサク",
+        "ヨセフ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "イエスに会うために水の上を歩いたのは誰ですか？",
+      "options": [
+        "ヤコブ",
+        "ヨハネ",
+        "ペトロ",
+        "アンデレ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "荒野でイスラエルの人々を養うために天から降ってきたものは何ですか？",
+      "options": [
+        "パン",
+        "うずら",
+        "マナ",
+        "いちじく"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "聖書の中で最も力が強い男として知られているのは誰ですか？",
+      "options": [
+        "ゴリアテ",
+        "サムソン",
+        "ボアズ",
+        "エサウ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "ユダヤ人を殺そうとする陰謀から救った王妃は誰ですか？",
+      "options": [
+        "ルツ",
+        "エステル",
+        "イゼベル",
+        "バト・シェバ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "鶏が鳴く前に、三度イエスを否定したのは誰ですか？",
+      "options": [
+        "トマス",
+        "ユダ",
+        "ペトロ",
+        "フィリポ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "カナの婚礼でイエスが行った奇跡は何ですか？",
+      "options": [
+        "盲人を癒した",
+        "水をワインに変えた",
+        "水の上を歩いた",
+        "パンを増やした"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "イスラエルの人々が周囲を回った後、崩れ落ちたのはどの町の城壁ですか？",
+      "options": [
+        "エルサレム",
+        "エリコ",
+        "アイ",
+        "バビロン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "「涙の預言者」として知られるのは誰ですか？",
+      "options": [
+        "イザヤ",
+        "エレミヤ",
+        "エゼキエル",
+        "ホセア"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "デリラによって髪を切り落とされ、力を失ったのは誰ですか？",
+      "options": [
+        "サムソン",
+        "ダビデ",
+        "アブサロム",
+        "サウル"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "イエスに従う前、徴税人だった弟子は誰ですか？",
+      "options": [
+        "ルカ",
+        "マタイ",
+        "マルコ",
+        "ヨハネ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "イエスが死から復活した後、最初にイエスを見たのは誰ですか？",
+      "options": [
+        "ペトロ",
+        "ヨハネ",
+        "マグダラのマリア",
+        "母マリア"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "犬に食い尽くされた邪悪な王妃は誰ですか？",
+      "options": [
+        "エステル",
+        "イゼベル",
+        "アタリヤ",
+        "ヘロデア"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "二人の斥候を屋根の亜麻の茎の下に隠したのは誰ですか？",
+      "options": [
+        "ルツ",
+        "ラハブ",
+        "サラ",
+        "デボラ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "サウル王の心を静めるために、ダビデは何の楽器を奏でましたか？",
+      "options": [
+        "ラッパ",
+        "竪琴（ハープ）",
+        "笛",
+        "タンバリン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "ダマスコへの途上で目がくらんだのは誰ですか？",
+      "options": [
+        "ペトロ",
+        "ステファノ",
+        "サウロ（パウロ）",
+        "バルナバ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "烏（からす）から食べ物を運ばれた預言者は誰ですか？",
+      "options": [
+        "エリシャ",
+        "エリヤ",
+        "イザヤ",
+        "エレミヤ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "父親の家の神像を盗んだのは誰ですか？",
+      "options": [
+        "レア",
+        "拉结",
+        "リベカ",
+        "ディナ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "パウロの話が長すぎたため、窓から落ちてしまったのは誰ですか？",
+      "options": [
+        "ティモテ",
+        "エウティコ",
+        "ティキコ",
+        "シラス"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "ナイル川の籠の中で見つかった赤ん坊は誰ですか？",
+      "options": [
+        "アロン",
+        "モーセ",
+        "ヨシュア",
+        "サムエル"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "一晩中、神（または御使い）と格闘したのは誰ですか？",
+      "options": [
+        "アブラハム",
+        "イサク",
+        "ヤコブ",
+        "エサウ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "長寿や富ではなく、知恵を神に求めたのは誰ですか？",
+      "options": [
+        "ダビデ",
+        "ソロモン",
+        "サウル",
+        "ヒゼキヤ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "イエスの服の裾に触れて癒やされたのは誰ですか？",
+      "options": [
+        "重い皮膚病の人",
+        "長血を患っていた女性",
+        "盲人",
+        "体が麻痺していた人"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "気が狂って、牛のように草を食べた王は誰ですか？",
+      "options": [
+        "ベルシャザル",
+        "ネブカドネツァル",
+        "ダレイオス",
+        "キュロス"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "お金のことで聖霊を欺き、倒れて死んだのは誰ですか？",
+      "options": [
+        "アナニアとサフィラ",
+        "プリスキラとアキラ",
+        "アダムとエバ",
+        "アハブとイゼベル"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "「疑い深い」と言われる弟子は誰ですか？",
+      "options": [
+        "ペトロ",
+        "トマス",
+        "フィリポ",
+        "アンデレ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "鳩がノアの方舟に持ち帰ったものは何ですか？",
+      "options": [
+        "いちじくの葉",
+        "オリーブの枝",
+        "虫",
+        "バラ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "妻を700人、そばめを300人持っていたのは誰ですか？",
+      "options": [
+        "ダビデ",
+        "ソロモン",
+        "レハブアム",
+        "アブラハム"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "レンズ豆の煮物一杯で、長子の権利を売ったのは誰ですか？",
+      "options": [
+        "ヤコブ",
+        "エサウ",
+        "ヨセフ",
+        "イサク"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "鉄の斧を水面に浮かび上がらせた預言者は誰ですか？",
+      "options": [
+        "エリヤ",
+        "エリシャ",
+        "サムエル",
+        "ナタン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "イエスがまだ赤ん坊の時、メシアであると認めたのは誰ですか？",
+      "options": [
+        "シメオン",
+        "ヨセフ",
+        "ニコデモ",
+        "ペトロ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "太陽と月にとどまるよう命じたのは誰ですか？",
+      "options": [
+        "モーセ",
+        "ヨシュア",
+        "ダビデ",
+        "ギデオン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "大祭司の従者の耳を切り落とした弟子は誰ですか？",
+      "options": [
+        "ヤコブ",
+        "ヨハネ",
+        "ペトロ",
+        "ユダ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "十戒を受け取るためにシナイ山に登ったのは誰ですか？",
+      "options": [
+        "アロン",
+        "ヨシュア",
+        "モーセ",
+        "アブラハム"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "イスラエルの最初の王は誰ですか？",
+      "options": [
+        "ダビデ",
+        "サウル",
+        "ソロモン",
+        "サムエル"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "自分の墓にイエスを葬った裕福な男は誰ですか？",
+      "options": [
+        "ニコデモ",
+        "アリマタヤのヨセフ",
+        "キレネのシモン",
+        "ラザロ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "マルタ島でパウロを噛んだ毒蛇は何ですか？",
+      "options": [
+        "コブラ",
+        "まむし（バイパー）",
+        "ニシキヘビ",
+        "ガラガラヘビ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "洗礼者ヨハネの母は誰ですか？",
+      "options": [
+        "マリア",
+        "エリサベト",
+        "マルタ",
+        "アンナ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "わずか300人の兵、ラッパ、瓶でミディアン人を破ったのは誰ですか？",
+      "options": [
+        "サムソン",
+        "ギデオン",
+        "バラク",
+        "エフタ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "金の像を拝むのを拒み、燃え盛る炉に投げ込まれたのは誰ですか？",
+      "options": [
+        "ダニエル",
+        "シャドラク、メシャク、アベド・ネゴ",
+        "エズラとネヘミヤ",
+        "パウロとシラス"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "イエスの死に対して、自分は無実であることを示すために手を洗ったのは誰ですか？",
+      "options": [
+        "ヘロデ",
+        "カイアファ",
+        "ポンティオ・ピラト",
+        "ユダ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "「神の友」と呼ばれたのは誰ですか？",
+      "options": [
+        "モーセ",
+        "アブラハム",
+        "ダビデ",
+        "ノア"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "鯨（大きな魚）に飲み込まれた預言者は誰ですか？",
+      "options": [
+        "ヨナ",
+        "ミカ",
+        "ナホム",
+        "アモス"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "壁に書かれた文字を解き明かしたのは誰ですか？",
+      "options": [
+        "ヨセフ",
+        "ダニエル",
+        "エゼキエル",
+        "イザヤ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "イスラエルを導いた女性の士師は誰ですか？",
+      "options": [
+        "ルツ",
+        "デボラ",
+        "エステル",
+        "ミリアム"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "三度子供の上に身を伏せることで、その子供を生き返らせたのは誰ですか？",
+      "options": [
+        "エリヤ",
+        "エリシャ",
+        "ペトロ",
+        "パウロ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "ダビデ王の息子で、長い髪が木に引っかかって殺されたのは誰ですか？",
+      "options": [
+        "ソロモン",
+        "アブサロム",
+        "アドニヤ",
+        "阿姆嫩"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "荒野で神は何を通してモーセに語りかけましたか？",
+      "options": [
+        "燃える柴",
+        "云",
+        "旋风",
+        "ろば"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "「善いサマリア人」のたとえ話で、怪我人を助けたのは誰ですか？",
+      "options": [
+        "祭司",
+        "レビ人",
+        "サマリア人",
+        "罗马兵丁"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "聖書の中で最も長生きし、969歳まで生きたのは誰ですか？",
+      "options": [
+        "ノア",
+        "亚当",
+        "メトセラ",
+        "エノク"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "水の上を歩こうとして沈み始めた弟子は誰ですか？",
+      "options": [
+        "ヤコブ",
+        "ヨハネ",
+        "ペトロ",
+        "アンデレ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "神がその邪悪さゆえに、火と硫黄で滅ぼした町はどこですか？",
+      "options": [
+        "エリコ",
+        "尼尼微",
+        "所多玛",
+        "バビロン"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "天に届く階段の上を天使が上り下りしている夢を見たのは誰ですか？",
+      "options": [
+        "アブラハム",
+        "イサク",
+        "ヤコブ",
+        "ヨセフ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "神が最初に創造した人間は誰ですか？",
+      "options": [
+        "カイン",
+        "亚伯",
+        "亚当",
+        "ノア"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "アダムの肋骨から造られた最初の女性は誰ですか？",
+      "options": [
+        "撒拉",
+        "夏娃",
+        "马利亚",
+        "路得"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "泥だらけの井戸（牢獄）に投げ込まれた預言者は誰ですか？",
+      "options": [
+        "イザヤ",
+        "エレミヤ",
+        "エゼキエル",
+        "ダニエル"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "史上「最も賢い王」として知られるのは誰ですか？",
+      "options": [
+        "ダビデ",
+        "サウル",
+        "ソロモン",
+        "ヒゼキヤ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "エジプトでの第10の災いを避けるために、イスラエルの人々は門の柱に何を塗りましたか？",
+      "options": [
+        "小羊の血",
+        "オリーブオイル",
+        "水",
+        "灰"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "最後の一握りの粉と油でパンを焼いて持ってくるよう、未亡人に命じたのは誰ですか？",
+      "options": [
+        "エリヤ",
+        "エリシャ",
+        "サムエル",
+        "ナタン"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "医者であった弟子は誰ですか？",
+      "options": [
+        "马太",
+        "ルカ",
+        "马可",
+        "ヨハネ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "イエスの十字架を担ぐのを手伝ったのは誰ですか？",
+      "options": [
+        "キレネのシモン",
+        "アリマタヤのヨセフ",
+        "ペトロ",
+        "ヨハネ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "イエスは5,000人の人々を何で養いましたか？",
+      "options": [
+        "吗哪和鹌鹑",
+        "5つのパンと2匹の魚",
+        "7つのパンと数匹の魚",
+        "パンとワイン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "土地の代金について嘘をついたために死んだ夫婦は誰ですか？",
+      "options": [
+        "アナニアとサフィラ",
+        "アキラとプリスキラ",
+        "アハブとイゼベル",
+        "アブラハムとサラ"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "「主の前に力ある狩人」として知られる巨大な狩人は誰ですか？",
+      "options": [
+        "歌利亚",
+        "ニムロデ",
+        "以扫",
+        "サムソン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "ゲツセマネの園で、大祭司の従者の耳を切り落としたのは誰ですか？",
+      "options": [
+        "ヨハネ",
+        "ヤコブ",
+        "ペトロ",
+        "ユダ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "石打ちにされて殺された最初のキリスト教殉教者は誰ですか？",
+      "options": [
+        "ヤコブ",
+        "ステファノ",
+        "パウロ",
+        "バルナバ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "二人の母親の争いを解決するために、赤ん坊を真っ二つに切るよう提案した王は誰ですか？",
+      "options": [
+        "ダビデ",
+        "サウル",
+        "ソロモン",
+        "ヘロデ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "アブラハムの最初の息子、イシュマエルを産んだエジプト人女性は誰ですか？",
+      "options": [
+        "撒拉",
+        "夏甲",
+        "ケトラ",
+        "利百加"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "イスラエルの最初の代祭司は誰でしたか？",
+      "options": [
+        "モーセ",
+        "アロン",
+        "エレアザル",
+        "エリ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "金持ちの若い役人は、イエスよりも何を愛していましたか？",
+      "options": [
+        "家族",
+        "権力",
+        "富・財産",
+        "名声"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "「私は自分の弟の番人でしょうか」という有名な言葉を言ったのは誰ですか？",
+      "options": [
+        "アベル",
+        "カイン",
+        "エサウ",
+        "ヨセフの兄弟たち"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "モーセの死後、イスラエルの人々を約束の地に導いたのは誰ですか？",
+      "options": [
+        "カレブ",
+        "ヨシュア",
+        "アロン",
+        "ギデオン"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "放蕩息子は、お金がなくなったとき、どのような仕事に就きましたか？",
+      "options": [
+        "豚の世話",
+        "家を建てること",
+        "漁師",
+        "物乞い"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "イエスに死刑を宣告したローマの総督は誰でしたか？",
+      "options": [
+        "ヘロデ・アンティパス",
+        "ポンテオ・ピラト",
+        "カイザル・アウグスト",
+        "フェリクス"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "「黄金律」とは何ですか？",
+      "options": [
+        "心を尽くして神を愛せよ",
+        "人からしてほしいと思うことを、その通りに人にもせよ",
+        "主イエスを信ぜよ",
+        "父母を敬え"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "イエスが墓の中に四日間いた後、死者の中からよみがえらせたのは誰ですか？",
+      "options": [
+        "ヤイロの娘",
+        "未亡人の息子",
+        "ラザロ",
+        "タビタ"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "ヘロデ王が神に栄光を帰さなかったとき、彼に何が起こりましたか？",
+      "options": [
+        "雷に打たれた",
+        "虫に食い殺された",
+        "盲目になった",
+        "王座から転げ落ちた"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "イスラエルの人々のために拝むための金の仔牛を作ったのは誰ですか？",
+      "options": [
+        "モーセ",
+        "アロン",
+        "ヨシュア",
+        "ミリヤム"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "サムエルがイスラエルの二番目の王として油を注いだのは誰ですか？",
+      "options": [
+        "サウル",
+        "ダビデ",
+        "ソロモン",
+        "エッサイ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "神が言葉を混乱させた塔の名前は何でしたか？",
+      "options": [
+        "ダビデの塔",
+        "バベルの塔",
+        "シロアムの塔",
+        "シケムの塔"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "イエスの母の名前は何でしたか？",
+      "options": [
+        "エリサベツ",
+        "マリヤ",
+        "マルタ",
+        "サロメ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "神から逃げ出し、タルシシュ行きの船に乗った預言者は誰ですか？",
+      "options": [
+        "ヨナ",
+        "アモス",
+        "ミカ",
+        "ホセア"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "ヤコブの毛深い兄は誰でしたか？",
+      "options": [
+        "ラバン",
+        "エサウ",
+        "イシュマエル",
+        "イサク"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "「美しい扉」のところでペテロに癒された、足の不自由な人は誰でしたか？",
+      "options": [
+        "生まれつき足の不自由な男",
+        "盲目の乞食",
+        "、らい病患者",
+        "耳の聞こえない人"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "イエスが「きつね」と呼んだのは誰ですか？",
+      "options": [
+        "ピラト",
+        "ヘロデ",
+        "カヤパ",
+        "ユダ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "ルツのしゅうとめは誰でしたか？",
+      "options": [
+        "オルパ",
+        "ナオミ",
+        "マラ",
+        "ハンナ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

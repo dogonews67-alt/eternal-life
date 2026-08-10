@@ -1,0 +1,1094 @@
+{
+  "quizTitle": "Bible Quiz",
+  "questions": [
+    {
+      "question": "Ark honé banaiye?",
+      "options": [
+        "Musa",
+        "Nuh",
+        "Daud",
+        "Sulaiman"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "John the Baptist ki oinno kisimor khana khaiye?",
+      "options": [
+        "Foring ar Modu",
+        "Ruti ar Mas",
+        "Dumur ar Zolfoi",
+        "Mera ar Ghas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Hon manush eto shokti asil ze hali hate ekkhan shingho mari felaiye?",
+      "options": [
+        "Daud",
+        "Samson",
+        "Goliath",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kar buut rongor coat asil ziballa tar bhai ol jolos oiyye?",
+      "options": [
+        "Benjamin",
+        "Yusuf",
+        "Reuben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Musa hon doriyare duibhag gori Egyptians ore basaiye?",
+      "options": [
+        "Mora Doriya",
+        "Galilee",
+        "Nali Doriya",
+        "Mediterranean"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kare ekkhan boro mas e gili felaiye?",
+      "options": [
+        "Yunus",
+        "Peter",
+        "Paul",
+        "Nuh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Hon meilapua pise saibar karone nunor khamba oi giye?",
+      "options": [
+        "Sarah",
+        "Lot or bou",
+        "Rebekah",
+        "Leah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Honé giant Goliath ore sling di harai diye?",
+      "options": [
+        "Talut",
+        "Jonathan",
+        "Daud",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Hon baccu manush sycamore gasot uthiye Isa re saibolla?",
+      "options": [
+        "Bartimaeus",
+        "Zacchaeus",
+        "Matthew",
+        "Nicodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki janwar prophet Balaam or loge khota khoiye?",
+      "options": [
+        "Ekkhan Shingho",
+        "Ekkhan Mera",
+        "Ekkhan Gadha",
+        "Ekkhan Ut"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kitabot foila khuni hon asil?",
+      "options": [
+        "Kabil",
+        "Habil",
+        "Seth",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kare shinghor gartat felai diye kintu basi giye?",
+      "options": [
+        "Daniyol",
+        "Yusuf",
+        "Shadrach",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Hon baura judge ekkhan mota roja re lukai thaka sword di mari felaiye?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Honé Isa re 30 silver piece or lai thokiye?",
+      "options": [
+        "Peter",
+        "Judas Iscariot",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hon juan fua raite ghumor majhe Khodae tar nam daka huniye?",
+      "options": [
+        "Daud",
+        "Samuel",
+        "Ishaq",
+        "Yusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Honé fanir uore ati Isa r loge mile?",
+      "options": [
+        "Yakub",
+        "Yahiya",
+        "Peter",
+        "Andrew"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Moru majhe Israelites ore khawaibolla asman ottu ki foriye?",
+      "options": [
+        "Ruti",
+        "Quail",
+        "Manna",
+        "Dumur"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kitabot sob cheye shoktishali manush hon?",
+      "options": [
+        "Goliath",
+        "Samson",
+        "Boaz",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Hon Rani Yahudi manush ore maribar plan ottu basaiye?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Jezebel",
+        "Bathsheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Murug dakibar age honé tin bar Isa re nosine khoiye?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Peter",
+        "Philip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Cana biyat Isa ki keramot dekhaiye?",
+      "options": [
+        "Andha manush bhal goriye",
+        "Fani re shorob banaiye",
+        "Fanir uore atiye",
+        "Ruti barai diyi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Israelites ghuribar fore hon shohor or dewal fori giye?",
+      "options": [
+        "Jerusalem",
+        "Jericho",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hon 'Kanda Prophet' asil?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Delilah kar sul kati diye ar tar shokti hari giye?",
+      "options": [
+        "Samson",
+        "Daud",
+        "Absalom",
+        "Talut"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa fishe zaibar age hon disciple tax collector asil?",
+      "options": [
+        "Luke",
+        "Matthew",
+        "Mark",
+        "Yahiya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Isa uthibar fore foila manush hon tare dekhiye?",
+      "options": [
+        "Peter",
+        "Yahiya",
+        "Mary Magdalene",
+        "Tar ma Maryam"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Hon kharap Rani re kukur khai felaiye?",
+      "options": [
+        "Esther",
+        "Jezebel",
+        "Athaliah",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Honé dui spy re tar sador uore lukai rakhiye?",
+      "options": [
+        "Ruth",
+        "Rahab",
+        "Sarah",
+        "Deborah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Roja Saul re shanti dibolla Daud ki instrument bazaiye?",
+      "options": [
+        "Trumpet",
+        "Harp/Lyre",
+        "Flute",
+        "Tambourine"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Damascus rasta t hon andha oi giye?",
+      "options": [
+        "Peter",
+        "Stephen",
+        "Saul (Paul)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ádomer sórurer boñíc nám ki?",
+      "options": [
+        "Kabil",
+        "Habil",
+        "Set",
+        "Enos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Nuh e kisman disór banaiyé?",
+      "options": [
+        "Kát",
+        "Goru",
+        "Gaas",
+        "Kisti"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 1
+    },
+    {
+      "question": "Ibrahim or fúra nám ki?",
+      "options": [
+        "Lot",
+        "Ismail",
+        "Ishak",
+        "Yakub"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Musa Nobi or baiyén nám ki?",
+      "options": [
+        "Miriam",
+        "Sefora",
+        "Hanna",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Daud e Jalut ó kun diyé marise?",
+      "options": [
+        "Torobari",
+        "Tir",
+        "Gulatir ar fattor",
+        "Lathi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih kun shahor ót foida óise?",
+      "options": [
+        "Nazaret",
+        "Baitul Laham",
+        "Urusalem",
+        "Kafarnahum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih or shagird koto zon asíl?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "70"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih or sórurer muciza ki asíl?",
+      "options": [
+        "Andó ó faal goráise",
+        "Faní ó angur ros banaiyé",
+        "Rogi ó faal goráise",
+        "Misa ó kana goráise"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kitab ót koto kitab asé?",
+      "options": [
+        "39",
+        "46",
+        "66",
+        "72"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Foilá ahód ót koto kitab asé?",
+      "options": [
+        "27",
+        "39",
+        "46",
+        "66"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Notún ahód ót koto kitab asé?",
+      "options": [
+        "27",
+        "31",
+        "39",
+        "49"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih koto din or forot jinda óise?",
+      "options": [
+        "1 din",
+        "2 din",
+        "3 din",
+        "7 din"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Yunus Nobi ó kun mác gilaiyé?",
+      "options": [
+        "Dolpin",
+        "Sap",
+        "Boró mác",
+        "Timinggila"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kitab or sórurer gom ki?",
+      "options": [
+        "Foida",
+        "Shúrú",
+        "Ahód",
+        "Niyom"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kabil e Habil ó kia gorise?",
+      "options": [
+        "Marise",
+        "Lukaiyé",
+        "Bicesé",
+        "Darise"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ibrahim or dada nám ki?",
+      "options": [
+        "Nuh",
+        "Tara",
+        "Lot",
+        "Ismail"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yakub or koto fúa asíl?",
+      "options": [
+        "5",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Yusuf ó or baiyéra ki gorise?",
+      "options": [
+        "Bicesé",
+        "Foinggaiyé",
+        "Marise",
+        "Lukaiyé"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Musa Nobi e lal doriya ó ki gorise?",
+      "options": [
+        "Furise",
+        "Sisaiyé",
+        "Bag gorise",
+        "Dúi bag gorise"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 2
+    },
+    {
+      "question": "Khodá e Musa ó kon faad or ufor ot hokum dise?",
+      "options": [
+        "Hermon",
+        "Sinai",
+        "Karmel",
+        "Sion"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa Almasih ó kun dhoraiyé dise?",
+      "options": [
+        "Fiter",
+        "Tomas",
+        "Judas Iskariot",
+        "Yahanná"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih koto foisa or laigí bicrí óise?",
+      "options": [
+        "10 taka rúfa",
+        "20 taka rúfa",
+        "30 taka rúfa",
+        "50 taka rúfa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa Almasih ó kun baptisma dise?",
+      "options": [
+        "Fiter",
+        "Ful",
+        "Yahanná Baptismadáta",
+        "Andria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih e koto din rooza rakkise?",
+      "options": [
+        "7 din",
+        "21 din",
+        "30 din",
+        "40 din"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 2
+    },
+    {
+      "question": "Ful Rasul ó agé ki kór koise?",
+      "options": [
+        "Mác dorise",
+        "Misa ó sikkaise",
+        "Masihí ó turise",
+        "Gor banaiyé"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ful Rasul or ager nám ki asíl?",
+      "options": [
+        "Simon",
+        "Sul",
+        "Sefas",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sul ó kon rasta ót andó óise?",
+      "options": [
+        "Urusalem or rasta",
+        "Damaskus or rasta",
+        "Roum or rasta",
+        "Atens or rasta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa Almasih e Lusar ó jinda gorise, Lusar or baiyén nám ki?",
+      "options": [
+        "Marta ar Mariam",
+        "Rut ar Naomi",
+        "Sara ar Hagar",
+        "Elisabet ar Mariam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih or dugobála or baré ót ki asíl?",
+      "options": [
+        "Goru ar gaas",
+        "Soná ar rúfa",
+        "Kaás ar gan",
+        "Dudh ar mosol"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Zaboor kitab ó kun likhise?",
+      "options": [
+        "Sulaiman",
+        "Daud",
+        "Musa",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Injil ót koto zon or likha asé?",
+      "options": [
+        "2 zon",
+        "3 zon",
+        "4 zon",
+        "5 zon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Sórurer Injil ó kun likhise?",
+      "options": [
+        "Moti",
+        "Markus",
+        "Luk",
+        "Yahanná"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih e 5000 misa ó kia diyé kanaiyé?",
+      "options": [
+        "3 ruti ar 2 mác",
+        "5 ruti ar 2 mác",
+        "7 ruti ar 3 mác",
+        "2 ruti ar 5 mác"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Nuh or kisti ót koto zon misa giraise?",
+      "options": [
+        "4 zon",
+        "6 zon",
+        "8 zon",
+        "10 zon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih e kon faani ó angur ros banaiyé?",
+      "options": [
+        "Urusalem",
+        "Kana",
+        "Nazaret",
+        "Kafarnahum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Samson or sakti or ras ki asíl?",
+      "options": [
+        "Or áat",
+        "Or sua",
+        "Or súl",
+        "Or khúr"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Danial ó kon gorda ót falaiyé dise?",
+      "options": [
+        "Sap or gorda",
+        "Singh or gorda",
+        "Bág or gorda",
+        "Mác or gorda"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Rut e or sassuri ó ki koise?",
+      "options": [
+        "Sarise",
+        "Logót thaiyé geise",
+        "Logót geise",
+        "Cinnaise"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ibrahim or baiyén nám ki?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih e sulí ót ki koise?",
+      "options": [
+        "Kandise",
+        "Maaf diyé",
+        "Gussa gorise",
+        "Cuí thaiyé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa Almasih kon din ót jinda óise?",
+      "options": [
+        "Sukrobar",
+        "Sonibar",
+        "Robibar",
+        "Sombar"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Khodá e Ádom ó ki diyé banaiyé?",
+      "options": [
+        "Faní",
+        "Matti",
+        "Ar",
+        "Baissa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Khodá e Hawa ó ki diyé banaiyé?",
+      "options": [
+        "Matti",
+        "Faní",
+        "Ádomer fasli",
+        "Ádomer ar"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Aden bagan ót koto nodi asíl?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 4
+    },
+    {
+      "question": "Kitab or gom lik ók ki?",
+      "options": [
+        "Foida",
+        "Exodus",
+        "Zaboor",
+        "Injil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kitab or ses lik ók ki?",
+      "options": [
+        "Malaki",
+        "Judas",
+        "Fokashito Bak",
+        "3 Yahanná"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Foilá ahód or ses lik ók ki?",
+      "options": [
+        "Malaki",
+        "Daniel",
+        "Isaiah",
+        "Duitio Biboron"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Sulaiman or keto baiyén asíl?",
+      "options": [
+        "100",
+        "300",
+        "700",
+        "1000"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Isa Almasih or bók ót ki nám asíl?",
+      "options": [
+        "Ibrahim or fúa",
+        "Daud or fúa",
+        "Ádom or fúa",
+        "Musa or fúa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Fiter Rasul kun diyé Isa ó 3 bar man gorise?",
+      "options": [
+        "Judas",
+        "Tomas",
+        "Fiter",
+        "Yahanná"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Isa Almasih e kon faad or furot upodesiya dise?",
+      "options": [
+        "Sinai faad",
+        "Sion faad",
+        "Jaitun faad",
+        "Ek faad"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 4
+    },
+    {
+      "question": "Musa or baiyén koto zon asíl?",
+      "options": [
+        "1 zon",
+        "2 zon",
+        "3 zon",
+        "4 zon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Isa Almasih or sórurer agamola ki asíl?",
+      "options": [
+        "Isaiah",
+        "Sulaiman",
+        "Musa",
+        "Yunus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Injil ót Isa Almasih or ses gom ki?",
+      "options": [
+        "Dúnia or ses osso",
+        "Aism gifo",
+        "Dúnia or ufor jái",
+        "Asomano ót jái"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kitab or moddé lik ók ki?",
+      "options": [
+        "Zaboor",
+        "Hitopodés",
+        "Isaiah",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Isa Almasih or sórurer aiyát ki? (Yahanná 3:16)",
+      "options": [
+        "Khodá e dúnia ó ittu valobaise",
+        "Asa ittá baikka fáinó",
+        "Tui fóil",
+        "Bismillah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Yakub or nám ki badlaiyé dise Khodá?",
+      "options": [
+        "Ibrahim",
+        "Israel",
+        "Yusuf",
+        "Daud"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Musa or bái nám ki?",
+      "options": [
+        "Harun",
+        "Yehosua",
+        "Kaleb",
+        "Seth"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Sap or gorot ót kon Nobi falaiyé dise?",
+      "options": [
+        "Musa",
+        "Ibrahim",
+        "Daniel",
+        "Yunus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kabil e Habil ó kia laigí marise?",
+      "options": [
+        "Foisa laigí",
+        "Jomi laigí",
+        "Dúsra laigí",
+        "Korbani laigí"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih or 12 shagird or modde ót kun agé asíl?",
+      "options": [
+        "Yahanná",
+        "Fiter",
+        "Andria",
+        "Yakub"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Isa Almasih e andó misa ó ki gorise?",
+      "options": [
+        "Kana gorise",
+        "Sikkaise",
+        "Faani dise",
+        "Faal goráise"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 2
+    },
+    {
+      "question": "Sulaiman e Khodá or tain ki mangise?",
+      "options": [
+        "Foisa",
+        "Sakti",
+        "Hikmat",
+        "Lambi umir"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Samson ó kun or súl kataiyé?",
+      "options": [
+        "Or maa",
+        "Delila",
+        "Or baiyén",
+        "Or baiyén or ami"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Rut or sassuri nám ki?",
+      "options": [
+        "Sara",
+        "Rebeka",
+        "Naomi",
+        "Hanna"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Isa Almasih e kon din ót asmano ót geise?",
+      "options": [
+        "30 din for",
+        "40 din for",
+        "50 din for",
+        "70 din for"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Fentekost ót ki óise?",
+      "options": [
+        "Jomi halaiyé",
+        "Ar falaiyé",
+        "Ruhul Kudus aise",
+        "Isa aise"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ibrahim ó Khodá e koto bocor boisé ót fúa dise?",
+      "options": [
+        "50",
+        "75",
+        "90",
+        "100"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 3
+    },
+    {
+      "question": "Ester rani kon jati or asíl?",
+      "options": [
+        "Misori",
+        "Babeli",
+        "Yahudi",
+        "Roumi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    }
+  ]
+}

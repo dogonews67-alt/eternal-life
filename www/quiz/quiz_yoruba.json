@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Idanwo Bíbélì",
+  "questions": [
+    {
+      "question": "Ta ni ó kan ọkọ̀ áàkì?",
+      "options": [
+        "Mósè",
+        "Nóà",
+        "Dáfídì",
+        "Sólómọ́nì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Oúnjẹ àjèjì wo ni Jòhánù Oníbatisí máa ń jẹ ní aginjù?",
+      "options": [
+        "Eṣú àti oyin ìgàn",
+        "Àkàrà àti ẹja",
+        "Èso ọ̀pọ̀tọ́ àti ólífì",
+        "Ọ̀dọ́ àgùntàn àti ewébẹ̀"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Okùnrin wo ni ó lágbára tó bẹ́ẹ̀ gẹ́ẹ́ tí ó fi ọwọ́ lásán pa kìnnìún?",
+      "options": [
+        "Dáfídì",
+        "Sámúsìn",
+        "Gòláyátì",
+        "Kálébù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni ó ní agbádá aláràbarà tí àwọn ẹ̀gbọ́n rẹ̀ kórìíra nítorí rẹ̀?",
+      "options": [
+        "Bẹ́ńjámínì",
+        "Jósẹ́fù",
+        "Rúbẹ́nì",
+        "Dánì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Òkun wo ni Mósè pín sí méjì láti sá fún àwọn ará Ejìptì?",
+      "options": [
+        "Òkun Òkú",
+        "Gálílì",
+        "Òkun Pupa",
+        "Mẹditaréníà"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ta ni ẹja ńlá gbe mì?",
+      "options": [
+        "Jónà",
+        "Pétérù",
+        "Pọ́ọ̀lù",
+        "Nóà"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Obìnrin wo ni ó padà di ọ̀wọ̀n iyọ̀ nítorí pé ó wo ẹ̀yìn?",
+      "options": [
+        "Sárà",
+        "Ìyàwó Lọ́ọ̀tì",
+        "Rèbékà",
+        "Léà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó ṣẹ́gun Gòláyátì jagunjagun òmìrán pẹ̀lú kànnakànna?",
+      "options": [
+        "Sọ́ọ̀lù",
+        "Jónátánì",
+        "Dáfídì",
+        "Sámúẹ́lì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Okùnrin kúkúrú wo ni ó gun orí igi sikámórè láti rí Jésù?",
+      "options": [
+        "Bátíméọ́sì",
+        "Sákéọ́sì",
+        "Mátíù",
+        "Nìkọdémù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ẹranko wo ni ó bá wòlíì Báláámù sọ̀rọ̀?",
+      "options": [
+        "Kìnnìún",
+        "Àgùntàn",
+        "Kẹ́tẹ́kẹ́tẹ́",
+        "Ràkúnmí"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni apànìyàn àkọ́kọ́ nínú Bíbélì?",
+      "options": [
+        "Kéènì",
+        "Ébẹ́lì",
+        "Sẹ́ẹ̀tì",
+        "Lámẹ́kì"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni wọ́n jù sínú ihò kìnnìún ṣùgbọ́n tí ó là á jámọ́?",
+      "options": [
+        "Dáníẹ́lì",
+        "Jósẹ́fù",
+        "Ṣádírákì",
+        "Jeremáyà"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Onídàájọ́ osì wo ni ó fi idà pa ọba sísanra kan ní bòó?",
+      "options": [
+        "Gídíónì",
+        "Éhúdù",
+        "Sámúsìn",
+        "Jẹ́fútà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ta ni ó da Jésù fún ọgbọ̀n ẹyọ fàdákà?",
+      "options": [
+        "Pétérù",
+        "Júdásì Iskaríọ́tù",
+        "Pọ́ńtìú Pílátù",
+        "Káyáfà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ọmọdékùnrin wo ni ó gbọ́ tí Ọlọ́run ń pe orúkọ rẹ̀ lálẹ́ nígbà tí ó sùn?",
+      "options": [
+        "Dáfídì",
+        "Sámúẹ́lì",
+        "Aísíìkì",
+        "Jósẹ́fù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ọmọ-ẹ̀yìn wo ni ó rìn lórí omi láti pàdé Jésù?",
+      "options": [
+        "Jákọ́bù",
+        "Jòhánù",
+        "Pétérù",
+        "Áńdérù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kí ni Ọlọ́run rán sí àwọn ọmọ Ísírẹ́lì láti jẹ ní aginjù?",
+      "options": [
+        "Àkàrà",
+        "Aparò",
+        "Mánà",
+        "Èso ọ̀pọ̀tọ́"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni a kà sí ẹni tí ó lágbára jùlọ nínú Bíbélì?",
+      "options": [
+        "Gòláyátì",
+        "Sámúsìn",
+        "Bóásì",
+        "Ésọ̀"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ayaba wo ni ó gba àwọn ènìyàn rẹ̀ là kúrò nínú ìparun?",
+      "options": [
+        "Rúùtù",
+        "Ẹ́sítà",
+        "Jẹ́sébẹ́lì",
+        "Bátísébà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó sẹ́ Jésù lẹ́mẹ́ta kí akùkọ tó kọ?",
+      "options": [
+        "Tọ́másì",
+        "Júdásì",
+        "Pétérù",
+        "Fílípì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Iṣẹ́ ìyanu àkọ́kọ́ wo ni Jésù ṣe ní ibi ìgbéyàwó ní Kánà?",
+      "options": [
+        "Mímú afọ́jú ríran",
+        "Sísọ omi di wáìnì",
+        "Rìn lórí omi",
+        "Bíbọ́ ẹgbẹ̀rún márùn-ún ènìyàn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ìlú wo ni odi rẹ̀ wó lulẹ̀ lẹ́yìn tí àwọn ọmọ Ísírẹ́lì yí i ká ní ìgbà méje?",
+      "options": [
+        "Jerúsálẹ́mù",
+        "Jẹ́ríkò",
+        "Áì",
+        "Bábílónì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni a mọ̀ sí 'Wòlíì tí ń sunkún'?",
+      "options": [
+        "Aísáyà",
+        "Jeremáyà",
+        "Ẹ́sẹ́kíẹ́lì",
+        "Hósíà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ta ni ó gé irun Sámúsìn tí ó sì jẹ́ kí agbára rẹ̀ rọlẹ̀?",
+      "options": [
+        "Dẹ́lílà",
+        "Sárà",
+        "Míkálì",
+        "Ábígaílì"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kí ni iṣẹ́ Mátíù kí ó tó di ọmọ-ẹ̀yìn Jésù?",
+      "options": [
+        "Apẹja",
+        "Olùgba-owó-odì",
+        "Gbẹ́nàgbẹ́nà",
+        "Olùṣọ́-àgùntàn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ẹni àkọ́kọ́ tí ó rí Jésù lẹ́yìn àjíǹde rẹ̀?",
+      "options": [
+        "Pétérù",
+        "Jòhánù",
+        "Màríà Magnálínì",
+        "Màríà ìyá rẹ̀"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ayaba búburú wo ni àwọn ajá jẹ?",
+      "options": [
+        "Ẹ́sítà",
+        "Jẹ́sébẹ́lì",
+        "Ataláíà",
+        "Hẹrọ́díásì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ta ni ó fi àwọn amí méjì pamọ́ sí orí òrùlé ilé rẹ̀?",
+      "options": [
+        "Rúùtù",
+        "Ráhábù",
+        "Sárà",
+        "Dẹ́bórà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ilu ohun èlò orin wo ni Dáfídì tẹ̀ láti tu Ọba Sọ́ọ̀lù nínú?",
+      "options": [
+        "Fèrè",
+        "Durù",
+        "Fèrè àpótí",
+        "Ìlù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni afọ́jú ní ọ̀nà Dámásíkù?",
+      "options": [
+        "Pétérù",
+        "Sítéfánù",
+        "Sọ́ọ̀lù (Pọ́ọ̀lù)",
+        "Bárínábà"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wòlíì wo ni àwọn ẹyẹ ìwò ń bọ́?",
+      "options": [
+        "Ẹlíṣà",
+        "Ẹlíjà",
+        "Aísáyà",
+        "Jeremáyà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó jí òrìṣà baba rẹ̀?",
+      "options": [
+        "Léà",
+        "Rákẹ́lì",
+        "Rèbékà",
+        "Dínà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ta ni ó já bọ́ láti ojú fèrèsé tí ó sì kú nígbà tí Pọ́ọ̀lù ń wàásù fún ìgbà pípẹ́?",
+      "options": [
+        "Tímótì",
+        "Yútíkọ́sì",
+        "Tíkíkọ́sì",
+        "Sílásì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ọmọ-ọwọ́ wo ni wọ́n rí nínú agbọ̀n kan ní odò Náílì?",
+      "options": [
+        "Áárónì",
+        "Mósè",
+        "Jóṣúà",
+        "Sámúẹ́lì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ta ni ó bá áńgẹ́lì gba gídí lọ́gànjọ́ òru?",
+      "options": [
+        "Ábúráhámù",
+        "Aísíìkì",
+        "Jákọ́bù",
+        "Ésọ̀"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni ó tọrọ ọgbọ́n lọ́wọ́ Ọlọ́run dípò ọrọ̀ tàbí ẹ̀mí gígùn?",
+      "options": [
+        "Dáfídì",
+        "Sólómọ́nì",
+        "Sọ́ọ̀lù",
+        "Hẹsekáyà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Obìnrin wo ni ó rí ìwòsàn nípa fífọwọ́kan etí aṣọ Jésù?",
+      "options": [
+        "Kò sí",
+        "Obìnrin onísun ẹ̀jẹ̀",
+        "Obìnrin afọ́jú",
+        "Obìnrin arọ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ọba wo ni ó ya dínú tí ó sì jẹ koríko bíi màlúù?",
+      "options": [
+        "Bẹliṣásà",
+        "Nẹbukadinẹsari",
+        "Dáríọ́sì",
+        "Kírúsì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Tọkọtaya wo ni ó kú nítorí pípòrọ́ fún Ẹ̀mí Mímọ́ nípa owó?",
+      "options": [
+        "Ananíà àti Sáfírà",
+        "Pírísílà àti Ákúílà",
+        "Áhábù àti Jẹ́sébẹ́lì",
+        "Ábúráhámù àti Sárà"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Ọmọ-ẹ̀yìn wo ni a mọ̀ sí 'Aláìgbàgbọ́'?",
+      "options": [
+        "Pétérù",
+        "Tọ́másì",
+        "Fílípì",
+        "Áńdérù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kí ni ẹyẹ àdàbà mú padà wá fún Nóà sínú áàkì?",
+      "options": [
+        "Ewé ọ̀pọ̀tọ́",
+        "Ẹ̀ka ólífì",
+        "Òdòdó",
+        "Kòkòrò"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó ní ẹgbẹ̀rin (700) aya àti ọ̀ọ́dúnrún (300) àlè?",
+      "options": [
+        "Dáfídì",
+        "Sólómọ́nì",
+        "Rẹhoboamu",
+        "Ábúráhámù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó ta ogún ìbí rẹ̀ fún àwo ọbẹ̀ kan?",
+      "options": [
+        "Jákọ́bù",
+        "Ésọ̀",
+        "Jósẹ́fù",
+        "Aísíìkì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wòlíì wo ni ó mú kí orí àáké léfòó lórí omi?",
+      "options": [
+        "Ẹlíjà",
+        "Ẹlíṣà",
+        "Sámúẹ́lì",
+        "Nátánì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ta ni ó mọ Jésù ọmọ-ọwọ́ gẹ́gẹ́ bí Mèsáyà nínú tẹ́ńpìlì?",
+      "options": [
+        "Símíọ́nì",
+        "Jósẹ́fù",
+        "Nìkọdémù",
+        "Pétérù"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Ta ni ó pàṣẹ fún oòrùn àti òṣùpá láti dúró jẹ́?",
+      "options": [
+        "Mósè",
+        "Jóṣúà",
+        "Dáfídì",
+        "Gídíónì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ọmọ-ẹ̀yìn wo ni ó gé etí ìránṣẹ́ olórí àlùfáà?",
+      "options": [
+        "Jákọ́bù",
+        "Jòhánù",
+        "Pétérù",
+        "Júdásì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni ó gun orí òkè Sínáì láti gba òfin mọ́kààrún?",
+      "options": [
+        "Áárónì",
+        "Jóṣúà",
+        "Mósè",
+        "Ábúráhámù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ta ni ọba àkọ́kọ́ ti Ísírẹ́lì?",
+      "options": [
+        "Dáfídì",
+        "Sọ́ọ̀lù",
+        "Sólómọ́nì",
+        "Sámúẹ́lì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Okùnrin ọlọ́rọ̀ wo ni ó sin Jésù sínú ibojì tuntun tirẹ̀?",
+      "options": [
+        "Nìkọdémù",
+        "Jósẹ́fù ti Arimatíà",
+        "Símíọ́nì",
+        "Lásárù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ere wo ni ó bù sa Pọ́ọ̀lù lórí erékùṣù Málítà?",
+      "options": [
+        "Kóńbárà",
+        "Paramọ́lẹ̀ (Viper)",
+        "Ere ńlá",
+        "Akéekèé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kí ni orúkọ ìyá Jòhánù Oníbatisí?",
+      "options": [
+        "Màríà",
+        "Ẹlísábẹ́tì",
+        "Mátì",
+        "Ánà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó ṣẹ́gun àwọn ará Mídíánì pẹ̀lú ọ̀ọ́dúnrún (300) ọkùnrin pẹ̀lú fífun fèrè àti fífọ̀ ìkòkò?",
+      "options": [
+        "Sámúsìn",
+        "Gídíónì",
+        "Bálákì",
+        "Jẹ́fútà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Àwọn ọkùnrin mẹ́ta wo ni wọ́n jù sínú iná nítorí pé wọ́n kọ̀ láti bọ òrìṣà wúrà?",
+      "options": [
+        "Dáníẹ́lì",
+        "Ṣádírákì, Méṣákì, àti Abẹ́dinìgò",
+        "Ẹ́sírà àti Nehemáyà",
+        "Pọ́ọ̀lù àti Sílásì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó kọwọ́ ẹ nínú omi tí ó sì sọ pé 'Èmi mọ́ kúrò nínú ẹ̀jẹ̀' Jésù?",
+      "options": [
+        "Hẹ́rọ́dù",
+        "Káyáfà",
+        "Pọ́ńtìú Pílátù",
+        "Júdásì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni a ń pè ní 'Ọ̀rẹ́ Ọlọ́run'?",
+      "options": [
+        "Mósè",
+        "Ábúráhámù",
+        "Dáfídì",
+        "Nóà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wòlíì wo ni ẹja ńlá gbe mì?",
+      "options": [
+        "Jónà",
+        "Míkà",
+        "Náúmù",
+        "Ámósì"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ta ni ó túmọ̀ àkọsílẹ̀ ara ògiri fún Ọba Bẹliṣásà?",
+      "options": [
+        "Jósẹ́fù",
+        "Dáníẹ́lì",
+        "Ẹ́sẹ́kíẹ́lì",
+        "Aísáyà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Obìnrin wo ni ó jẹ́ onídàájọ́ ní Ísírẹ́lì?",
+      "options": [
+        "Rúùtù",
+        "Dẹ́bórà",
+        "Ẹ́sítà",
+        "Màríà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni ó dubúlẹ̀ lórí ọmọdé tí ó kú lẹ́mẹ́ta láti jí i dìde?",
+      "options": [
+        "Ẹlíjà",
+        "Ẹlíṣà",
+        "Pétérù",
+        "Pọ́ọ̀lù"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Ọmọ Dáfídì wo ni irun rẹ̀ lùmọ́ mọ́ orí igi tí ó sì kú?",
+      "options": [
+        "Sólómọ́nì",
+        "Ábsálómù",
+        "Adóníjáyà",
+        "Ámúnónì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kí ni Ọlọ́run lò láti bá Mósè sọ̀rọ̀ ní aginjù?",
+      "options": [
+        "Igbo tí ń jó",
+        "Àwọsánmà",
+        "Ìjì",
+        "Kẹ́tẹ́kẹ́tẹ́"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ta ni ó ran ọkùnrin tí ó fara pa lọ́wọ́ nínú òwe ará Samáríà Rere?",
+      "options": [
+        "Àlùfáà",
+        "Léfì",
+        "Ará Samáríà",
+        "Jagunjagun Rómù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni ẹni tí ó dàgbà jùlọ nínú Bíbélì (ọdún 969)?",
+      "options": [
+        "Nóà",
+        "Ábúráhámù",
+        "Mẹ́túsélà",
+        "Énọ́kù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Ọmọ-ẹ̀yìn wo ni ó bẹ̀rẹ̀ sí í rì sínú omi nígbà tí ó ń rìn lórí omi?",
+      "options": [
+        "Jákọ́bù",
+        "Jòhánù",
+        "Pétérù",
+        "Áńdérù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ìlú wo ni Ọlọ́run fi iná àti imí-ọjọ́ bàjẹ́ láti ọ̀run wá?",
+      "options": [
+        "Jẹ́ríkò",
+        "Nínéfè",
+        "Sódómù",
+        "Bábílónì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó rí àtẹ̀gùn tí ó kan ọ̀run pẹ̀lú àwọn áńgẹ́lì tí ń gun orí rẹ̀ tí wọ́n sì ń sọ̀ kalẹ̀?",
+      "options": [
+        "Ábúráhámù",
+        "Aísíìkì",
+        "Jákọ́bù",
+        "Jósẹ́fù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni ọkùnrin àkọ́kọ́ tí Ọlọ́run dá?",
+      "options": [
+        "Kéènì",
+        "Ébẹ́lì",
+        "Ádámù",
+        "Nóà"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Obìnrin àkọ́kọ́ wo ni a dá láti ara egungun ẹ̀gbẹ́ Ádámù?",
+      "options": [
+        "Sárà",
+        "Éfà",
+        "Màríà",
+        "Rúùtù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Wòlíì wo ni wọ́n jù sínú kànga tí ó kún fún ẹrẹ̀?",
+      "options": [
+        "Aísáyà",
+        "Jeremáyà",
+        "Ẹ́sẹ́kíẹ́lì",
+        "Dáníẹ́lì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ọba wo ni a gbà pé ó gbọ́n jùlọ nínú gbogbo wọn?",
+      "options": [
+        "Dáfídì",
+        "Sọ́ọ̀lù",
+        "Sólómọ́nì",
+        "Hẹsekáyà"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kí ni àwọn ọmọ Ísírẹ́lì fi ra ara ìlẹ̀kùn wọn láti yẹra fún àjàkálẹ̀-àrun kẹwàá ní Ejìptì?",
+      "options": [
+        "Ẹ̀jẹ̀ ọ̀dọ́ àgùntàn",
+        "Òróró",
+        "Omi",
+        "Eérú"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó pàṣẹ pé kí wọ́n gé orí Jòhánù Oníbatisí kúrò?",
+      "options": [
+        "Hẹ́rọ́dù",
+        "Pílátù",
+        "Sọ́ọ̀lù",
+        "Sólómọ́nì"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Èwo nínú àwọn ọmọ-ẹ̀yìn Jésù ni oníṣègùn?",
+      "options": [
+        "Mátíù",
+        "Lúùkù",
+        "Máàkù",
+        "Jòhánù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó ran Jésù lọ́wọ́ láti gbé àgbélébùú?",
+      "options": [
+        "Símónì ará Kírẹ́nì",
+        "Jósẹ́fù ti Arimatíà",
+        "Pétérù",
+        "Jòhánù"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Kí ni Jésù fún ẹgbẹ̀rún márùn-ún (5,000) ènìyàn láti jẹ?",
+      "options": [
+        "Mánà àti aparò",
+        "Àkàrà márùn-ún àti ẹja méjì",
+        "Àkàrà méje àti ẹja kéékèèké díẹ̀",
+        "Àkàrà àti wáìnì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Tọkọtaya wo ni ó kú lẹ́yìn pípòrọ́ nípa iye owó ilẹ̀ kan?",
+      "options": [
+        "Ananíà àti Sáfírà",
+        "Pírísílà àti Ákúílà",
+        "Áhábù àti Jẹ́sébẹ́lì",
+        "Ábúráhámù àti Sárà"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Ta ni a ṣàpèjúwe rẹ̀ gẹ́gẹ́ bí 'ọdẹ alágbára' níwájú Olúwa?",
+      "options": [
+        "Gòláyátì",
+        "Nímírọ́dù",
+        "Ésọ̀",
+        "Sámúsìn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ọmọ-ẹ̀yìn wo ni ó gé etí ìránṣẹ́ ọba?",
+      "options": [
+        "Jòhánù",
+        "Jákọ́bù",
+        "Pétérù",
+        "Júdásì"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Àpọ́sítélì wo ni wọ́n sọ ní òkúta kú (ajẹ́rìíkú àkọ́kọ́)?",
+      "options": [
+        "Jákọ́bù",
+        "Sítéfánù",
+        "Pọ́ọ̀lù",
+        "Bárínábà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ọba wo ni ó dá ẹjọ́ láàárín obìnrin méjì lórí ọmọ?",
+      "options": [
+        "Dáfídì",
+        "Sọ́ọ̀lù",
+        "Sólómọ́nì",
+        "Hẹ́rọ́dù"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni ìyá Íṣímáẹ́lì, ọmọ àkọ́kọ́ ti Ábúráhámù?",
+      "options": [
+        "Sárà",
+        "Hágárì",
+        "Ketura",
+        "Rèbékà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ta ni àlùfáà àgbà àkọ́kọ́ ti Ísírẹ́lì?",
+      "options": [
+        "Mósè",
+        "Áárónì",
+        "Élíásárì",
+        "Élì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kí ni ọ̀dọ́mọkùnrin olórí ọlọ́rọ̀ náà fẹ́ràn ju Jésù lọ?",
+      "options": [
+        "Ìdílé rẹ̀",
+        "Agbára rẹ̀",
+        "Owó/ohun-ìní rẹ̀",
+        "Òkìkí rẹ̀"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni ó sọ gbólóhùn olókìkí náà, \"Ṣé èmi ni olùṣọ́ arákùnrin mi?\"",
+      "options": [
+        "Ábẹ́lì",
+        "Kéènì",
+        "Ísọ̀",
+        "Àwọn arákùnrin Jósẹ́fù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni ó ṣíwájú àwọn ọmọ Ísírẹ́lì lọ sí Ilẹ̀ Ìlérí lẹ́yìn ikú Mósè?",
+      "options": [
+        "Kálẹ́bù",
+        "Jóṣúà",
+        "Áárónì",
+        "Gídíónì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Isẹ́ wo ni ọmọ onínàákúnàá náà gbà lẹ́yìn tí owó rẹ̀ tán?",
+      "options": [
+        "Láti bọ́ àwọn ẹlẹ́dẹ̀",
+        "Láti kọ́ ilé",
+        "Láti pẹja",
+        "Láti ṣagbe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ta ni gómìnà Róòmù tí ó dá mímọ́ ikú fún Jésù?",
+      "options": [
+        "Hẹ́rọ́dù Áńtípà",
+        "Pọ́ńtíù Pílátù",
+        "Késárì Ọ̀gọ́sítọ́sì",
+        "Fẹ́lísì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kí ni “Òfin Oníwúrà” náà?",
+      "options": [
+        "Nífẹ̀ẹ́ Olúwa Ọlọ́run rẹ pẹ̀lú gbogbo ọkàn rẹ",
+        "Bí ẹ bá ti fẹ́ kí àwọn ènìyàn ṣe sí yín, ẹ ṣe bẹ́ẹ̀ gẹ́gẹ́ sí wọn pẹ̀lú",
+        "Gba Olúwa Jésù gbọ́",
+        "Bọ̀wọ̀ fún bàbá àti ìyá rẹ"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni Jésù jí dìde kúrò nínú òkú lẹ́yìn tí ó ti wà nínú ibojì fún ọjọ́ mẹ́rin?",
+      "options": [
+        "Ọmọbìnrin Jáírù",
+        "Ọmọ opó",
+        "Lásárù",
+        "Tábítà"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kí ni ó ṣẹlẹ̀ sí Ọba Hẹ́rọ́dù nígbà tí kò fi ògo fún Ọlọ́run?",
+      "options": [
+        "Mọ̀nàmọ́ná kọ lù ú",
+        "Àwọn kòkòrò jẹ ẹ́ run",
+        "Ó fọ́jú",
+        "Ó ṣubú láti orí ìtẹ́ rẹ̀"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Ta ni ó fọ́n ẹgbọ̀rọ̀ màlúù wúrà fún àwọn ọmọ Ísírẹ́lì láti sìn?",
+      "options": [
+        "Mósè",
+        "Áárónì",
+        "Jóṣúà",
+        "Míríámù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ta ni Sámúẹ́lì fi òróró yàn gẹ́gẹ́ bí ọba kejì ti Ísírẹ́lì?",
+      "options": [
+        "Sọ́ọ̀lù",
+        "Dáfídì",
+        "Sólómọ́nì",
+        "Jẹ́sè"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kí ni orúkọ ilé-ìṣọ́ níbi tí Ọlọ́run ti dàmú àwọn èdè?",
+      "options": [
+        "Ilé-ìṣọ́ Dáfídì",
+        "Ilé-ìṣọ́ Bábélì",
+        "Ilé-ìṣọ́ Sílóámù",
+        "Ilé-ìṣọ́ ní Ṣékẹ́mù"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kí ni orúkọ ìyá Jésù?",
+      "options": [
+        "Ẹlísábẹ́tì",
+        "Màríà",
+        "Mátà",
+        "Sálómè"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Wòlíì wo ni ó sá fún Ọlọ́run tí ó sì wọ ọkọ̀ ojú-omi lọ sí Táṣíṣì?",
+      "options": [
+        "Jónà",
+        "Ámọ́sì",
+        "Míkà",
+        "Hósíà"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ta ni arákùnrin Jákọ́bù tí ó ní irun púpọ̀?",
+      "options": [
+        "Lábánì",
+        "Ísọ̀",
+        "Íṣímáẹ́lì",
+        "Ísákì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ọkùnrin arọ wo ni Pétérù wòsàn ní Ẹnu-ọ̀nà Arẹwà?",
+      "options": [
+        "Ọkùnrin kan tí ó yarọ láti ìgbà ìbí rẹ̀",
+        "Aláṣagbe afọ́jú kan",
+        "Adẹ́tẹ̀ kan",
+        "Odì kan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Ta ni Jésù pè ní “kọ̀lọ̀kọ̀lọ̀” (fox)?",
+      "options": [
+        "Pílátù",
+        "Hẹ́rọ́dù",
+        "Káyáfà",
+        "Júdàṣì"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ta ni ìyá-ìyàwó Rúùtù?",
+      "options": [
+        "Ọ́pà",
+        "Náómì",
+        "Márà",
+        "Hánà"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "title": "SONSUZ YAŞAM",
+  "chapters": [
+    {
+      "title": "Kapak",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>SONSUZ YAŞAM</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Sonsuz Yaşam</b> sonu olmayan bir hayattır, bu insanın hiç ölmeyeceği <b>anlamına mı gelir? Fiziksel</b> olarak ölmelidir, ancak ruhsal olarak cennette <b>sonsuza dek yaşayacak</b> veya cehennemde sonsuza dek acı çekecektir. Bu konuyu net bir şekilde anlamak için aşağıda kısaca tartışalım."
+        },
+        {
+          "type": "header",
+          "text": "İnsan günahkârdır"
+        },
+        {
+          "id": "Para 1",
+          "text": "İnsan doğuştan günahkârdır ve yaşamında eylemlerinde, davranışlarında, işitmesinde, konuşmasında, görmesinde ve düşüncelerinde günah işler. Matta 5:28'de İsa şöyle der: 'Fakat ben size derim ki, bir kadına şehvetle bakan her adam, yüreğinde onunla zaten zina etmiştir.' Bilgisizlikle işlenen günah da, kimse görmese bile günah sayılır. Birçok insan \"Ben ne günah işledim ki?\" diye düşünür ve söyler. Sadece adam öldürmek, zina etmek, çalmak veya gasp etmek değil, yalan söylemek, hile yapmak, gururlanmak, kıskanmak, açgözlü olmak, dedikodu yapmak ve başkaları hakkında kötülük düşünmek de günahtır. Aslında herkes doğuştan günahkârdır."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=TCL02' target='_blank'>Vaiz 7:20</a> 'Çünkü yeryüzünde iyilik edip <b>günah</b> işlemeyen doğru bir insan yoktur.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=TCL02' target='_blank'>Mezmur 51:5</a> 'Nitekim suç içinde doğdum ben, Annem <b>günah</b> içinde beni rahmine düşürdü.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=TCL02' target='_blank'>1. Yuhanna 5:17</a> 'Her haksızlık <b>günahtır</b>'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=TCL02' target='_blank'>Romalılar 3:23</a> 'Çünkü herkes <b>günah</b> işledi ve Tanrı'nın yüceliğinden yoksun kaldı.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=TCL02' target='_blank'>Romalılar 5:12</a> '<b>Günah</b> bir insan aracılığıyla, ölüm de <b>günah</b> aracılığıyla dünyaya girdi. Böylece ölüm bütün insanlara yayıldı. Çünkü hepsi <b>günah</b> işledi.'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=TCL02' target='_blank'>Romalılar 6:23</a> 'Çünkü <b>günahın</b> ücreti ölümdür;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Her insan fiziksel olarak ölmelidir, ancak ruhsal olarak <b>sonsuza dek yaşayacaktır</b> - ya cehennemde ya da cennette, ya sonsuz cezada ya da <b>sonsuz yaşamda</b>, ya sonsuz ıstırapta ya da sonsuz sevinçte."
+        },
+        {
+          "id": "Para 3",
+          "text": "Herkes <b>günah</b> işledi ve ölüm herkes için kesindir."
+        },
+        {
+          "type": "header",
+          "text": "Tanrı kutsaldır ve cennet kutsaldır, bu yüzden cennete girmek için kutsal olmalıyız."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=TCL02' target='_blank'>Levililer 19:2</a> 'İsrail topluluğuna de ki, Kutsal olun. Çünkü ben Tanrınız RAB kutsalım.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=TCL02' target='_blank'>1. Korintliler 6:9</a> 'Doğru olmayanların Tanrı'nın Egemenliği'ni miras almayacağını bilmiyor musunuz? Aldanmayın:'"
+        },
+        {
+          "type": "header",
+          "text": "Peki, bir insan nasıl doğru veya kutsal olabilir?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "İbraniler 9:22 'Kutsal Yasa uyarınca hemen her şey <b>kanla paklanır; kan</b> dökülmeden bağışlama olmaz.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "<b>Günahtan</b> bağışlanmak, kutsal olmak veya doğru olmaktır."
+        },
+        {
+          "type": "header",
+          "text": "<b>Kan</b> neden önemlidir?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=TCL02' target='_blank'>Levililer 17:11</a> 'Çünkü canlıya yaşam veren <b>kandır</b>. Ben onu size sunakta kendinizi feda etmeniz için verdim. Canın bedeli olan <b>kandır</b>.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Yaşam <b>kanda</b> olduğu için, kimse yaşamın bedelini ödeyemez. Ve hiç kimse kendi gücüyle yaşamı bir an bile uzatamaz. İsa Mesih, kendi değerli <b>kanını</b> veya değerli Yaşamını feda ederek insanlığın kurtuluşu için yolu açtı."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=TCL02' target='_blank'>İbraniler 9:12</a> 'Tekelerle danaların <b>kanıyla</b> değil, sonsuz kurtuluşu sağlayarak kendi <b>kanıyla</b> kutsal yere ilk ve son kez girdi.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "İsa Mesih, tüm insan ırkı için hayatını feda ederek sevgisini gösterdi. Yuhanna 15:13'e göre - 'Hiç kimsede, insanın dostları uğruna canını vermesinden daha büyük bir sevgi yoktur.' Dünya tarihinde İsa Mesih dışında bu tür bir sevginin başka bir örneğini bulamayız."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=TCL02' target='_blank'>1. Yuhanna 1:7</a> 'Ama O ışıkta olduğu gibi biz de ışıkta yürürsek, birbirimizle paydaşlığımız olur ve O'nun Oğlu İsa'nın <b>kanı bizi her günahtan</b> arındırır.'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=TCL02' target='_blank'>1. Korintliler 15:3</a> 'Aldığım bilgiyi size öncelikle ilettim: Kutsal Yazılar uyarınca Mesih <b>günahlarımıza</b> karşılık öldü, gömüldü ve Kutsal Yazılar uyarınca üçüncü gün ölümden dirildi.'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=TCL02' target='_blank'>Vahiy 1:5</a> 've güvenilir tanık, ölülerin ilki, dünya krallarının egemeni İsa Mesih'ten size lütuf ve esenlik olsun. Bizi seven, <b>kanıyla bizi günahlarımızdan</b> özgür kılan'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=TCL02' target='_blank'>Matta 9:2</a> 'İsa'ya yatak üzerinde yatan felçli bir adam getirdiler. İsa onların imanını görünce felçliye, 'Cesur ol, oğlum, <b>günahların</b> bağışlandı' dedi.'"
+        },
+        {
+          "id": "Para 7",
+          "text": "Bu ifadede İsa doğrudan felçli adamın <b>günahlarını</b> bağışlar, çünkü İsa insanın <b>günahını</b> bağışlayabilir ve aynı zamanda Kendisini Tanrı olarak ilan eder, çünkü Tanrı'dan başka kimse <b>günahı</b> bağışlayamaz."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=TCL02' target='_blank'>Elçilerin İşleri 10:43</a> 'Bütün peygamberler O'nunla (Mesih) ilgili tanıklıkta bulunuyorlar. Şöyle ki, O'na inanan herkesin <b>günahları</b> O'nun adıyla bağışlanır.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=TCL02' target='_blank'>Elçilerin İşleri 4:12</a> 'Başka hiç kimsede kurtuluş yoktur. Bu göğün altında insanlara bağışlanmış, bizi kurtarabilecek başka hiçbir ad yoktur.' Nasıralı İsa Mesih dışında."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1. Yuhanna 2:2 'O (Mesih) <b>günahlarımızı, yalnız bizim günahlarımızı</b> değil, bütün dünyanın <b>günahlarını</b> da bağışlatan kurbandır.'"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=TCL02' target='_blank'>Yuhanna 3:16</a> 'Çünkü Tanrı (Yaratıcı) dünyayı (insanlığı) o kadar çok sevdi ki, biricik Oğlu'nu (İsa Mesih) verdi. Öyle ki, O'na iman edenlerin hiçbiri mahvolmasın, hepsi <b>sonsuz yaşama</b> kavuşsun.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=TCL02' target='_blank'>Yuhanna 1:12</a> 'Ancak, Kendisini (İsa'yı) kabul edip adına (İsa) iman edenlerin hepsine Tanrı'nın çocukları olma hakkını verdi.'"
+        },
+        {
+          "id": "Para 8",
+          "text": "'Tanrı'nın çocukları' kelimesi basit bir kelime değildir, İsa'yı Rableri olarak kabul edip inananlar, Cennet'in vatandaşları sayılırlar, kutsal insanlar sayılırlar, tüm <b>günahları</b> bağışlanmıştır."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=TCL02' target='_blank'>Romalılar 8:1-2</a> 'Böylece Mesih İsa'ya ait olanlara artık hiçbir mahkûmiyet yoktur. Çünkü Yaşam Veren Ruh'un yasası, Mesih İsa sayesinde beni <b>günahın</b> ve ölümün yasasından özgür kıldı.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=TCL02' target='_blank'>Romalılar 5:9</a> 'Böylece şimdi O'nun (İsa) <b>kanıyla</b> aklandığımıza göre, O'nun aracılığıyla Tanrı'nın gazabından kurtulacağımız çok daha kesindir.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=TCL02' target='_blank'>Romalılar 3:24</a> 'İnsanlar İsa Mesih'te olan kurtuluşla, Tanrı'nın lütfuyla, karşılıksız olarak aklanırlar.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=TCL02' target='_blank'>Yuhanna 14:6</a> 'İsa, 'Yol, gerçek ve yaşam Ben'im' dedi. 'Benim aracılığım olmadan Baba'ya (cennetteki) kimse gelemez.''"
+        },
+        {
+          "type": "header",
+          "text": "Sadece İsa Mesih'e inananlar, sadece onlar Cennete girebilir, buna <b>Sonsuz Yaşam</b> denir."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=TCL02' target='_blank'>Yuhanna 3:15</a> 'Öyle ki, O'na iman eden herkesin <b>sonsuz yaşamı</b> olsun.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=TCL02' target='_blank'>Romalılar 6:23</a> 'Çünkü <b>günahın</b> ücreti ölümdür; Tanrı'nın armağanı ise Rabbimiz Mesih İsa'da <b>sonsuz yaşamdır</b>.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=TCL02' target='_blank'>Yuhanna 5:24</a> İsa der ki - 'Size doğrusunu <b>söyleyeyim, sözümü işitip beni</b> gönderene iman eden'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=TCL02' target='_blank'>Yuhanna 11:25-26</a> İsa ona, 'Diriliş ve yaşam Ben'im' dedi. 'Bana iman eden ölse de yaşayacaktır. Yaşayan ve bana iman eden <b>asla ölmeyecek. Buna iman ediyor musun?'</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=TCL02' target='_blank'>Yuhanna 6:51</a> 'Gökten inmiş olan diri ekmek Ben'im (Mesih). Bu ekmekten yiyen <b>sonsuza dek yaşayacak</b>. Dünyanın yaşamı uğruna vereceğim ekmek de benim bedenimdir.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "İsa, Yuhanna İncili'nde '<b>Sonsuz Yaşam</b>' kelimesini yaklaşık 17 kez kullandı, 12 kez şimdiki zaman için kullandı, sadece 5 kez gelecek zaman için kullandı. Çoğumuz <b>sonsuz yaşamın</b> sadece gelecek için olduğunu düşünürüz, ancak İncil açıkça hem şimdiki hem de gelecek için olduğunu söyler. İsa ile birlikte olanlar, İsa'yı kişisel Rableri ve Kurtarıcıları olarak kabul edenler ve inananlar, <b>SONSUZ YAŞAM</b>'ın onlarla birlikte olduğunu, zaten <b>Sonsuz Yaşam</b> ile kutsandıklarını söyleyebilirler."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=TCL02' target='_blank'>1. Yuhanna 5:11</a> 'Tanıklık da şudur: Tanrı bize <b>sonsuz yaşam</b> verdi, bu yaşam O'nun Oğlu'ndadır (Mesih).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=TCL02' target='_blank'>Yuhanna 17:3</a> '<b>Sonsuz yaşam</b>, tek gerçek Tanrı olan seni ve gönderdiğin İsa Mesih'i tanımalarıdır.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=TCL02' target='_blank'>Yuhanna 12:50</a> İsa dedi ki - 'O'nun (Tanrı'nın) buyruğunun <b>sonsuz yaşam</b> olduğunu biliyorum. Bunun için söylediklerimi, Baba'nın bana söylediği gibi söylüyorum.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=TCL02' target='_blank'>1. Yuhanna 5:20</a> 'Biliyoruz ki, Tanrı'nın Oğlu gelmiş ve Gerçek Olan'ı tanımamız için bize anlama gücü vermiştir. Biz Gerçek Olan'dayız, O'nun Oğlu İsa Mesih'teyiz. O gerçek Tanrı ve <b>sonsuz yaşamdır</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=TCL02' target='_blank'>Yuhanna 6:47</a> 'Size doğrusunu söyleyeyim, iman edenin (Mesih'e) <b>sonsuz yaşamı</b> vardır.'"
+        },
+        {
+          "type": "header",
+          "text": "İnanmak ne demektir?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Cinler de İsa'ya inanır, bu onların <b>sonsuz yaşama sahip olacakları anlamına gelmez. Yakup</b> 2:19 Sen Tanrı'nın bir olduğuna inanıyorsun, iyi ediyorsun. Cinler de inanıyor ve titriyorlar."
+        },
+        {
+          "type": "header",
+          "text": "<b>Günahından</b> tövbe et, Tanrı'nın İsa Mesih'i ölümden dirilttiğini itiraf et ve İsa Mesih'i kişisel kurtarıcın ve Rabbin olarak kabul et - buna İsa Mesih'e inanmak denir."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=TCL02' target='_blank'>Romalılar 10:9-10</a> 'İsa'nın Rab olduğunu ağzınla açıkça söyler ve Tanrı'nın O'nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın. Çünkü insan yüreğiyle iman ederek aklanır, ağzıyla açıkça söyleyerek kurtulur.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=TCL02' target='_blank'>Matta 10:32-33</a> 'İnsanların önünde beni açıkça kabul edeni, ben de göklerdeki Babam'ın önünde açıkça kabul edeceğim. İnsanların önünde beni inkâr edeni, ben de göklerdeki Babam'ın önünde inkâr edeceğim.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Kurtuluş veya <b>günahın bağışlanması sonsuz yaşamın anahtarıdır. İnsanlığı sadece İsa Mesih kurtarabilir</b>, çünkü dünyada İsa Mesih dışında <b>kanını</b> feda eden başka kimse yoktur, sadece İsa insanlık için son bir kurban olarak Kutsal <b>Kanını</b> feda etti. Bu yüzden O tüm insanlığı kurtarabilir."
+        },
+        {
+          "type": "header",
+          "text": "İsa Mesih'in Önemi:"
+        },
+        {
+          "id": "Para 12",
+          "text": "M.Ö. 1700 ile M.Ö. 400 yılları arasında İsa Mesih hakkında, Doğumu hakkında, Cezası hakkında, çarmıhta ölümü hakkında, ölümünden sonraki üçüncü günde dirilişi hakkında vb. birçok kehanet vardı. Bilim adamları İsa Mesih'in 300'den fazla Eski Ahit kehanetini yerine getirdiğini tahmin ediyorlar. Dirilişten sonra bile, Mesih öğrencilerle yaşadı ve göklerin krallığı hakkında vaaz verdi ve dirilişinin 40. gününde bedensel formunda göğe yükseldi."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Mesih dışında, dünya tarihinde dirilen ve bedenen göğe yükselen başka bir kişi yoktur."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Bugün, dünya tarihi Mesih ile sayılmaktadır. Dünya ülkelerinin yaklaşık yüzde 88'i Pazar gününü tatil olarak tutmakta ve Mesih'in diriliş gününü, zafer gününü, ölüm ve <b>günah</b> üzerindeki zaferi kutlamaktadır."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Tek görevimiz O'na sığınmak, ağzımızla İsa'nın Rab olduğunu itiraf etmek, kalbimizde Tanrı'nın Mesih'i ölümden dirilttiğine inanmak ve O'nun öğrencileri olup emirlerine uymak ve yaşam yolunda yürümektir, o zaman kesinlikle, o kişi cennetin krallığına sahip olacaktır."
+        },
+        {
+          "type": "header",
+          "text": "Kutsal Kitabın Önemi"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Burada <b>Sonsuz yaşam</b> hakkında açıklama yapmak için Kutsal Kitap'tan <b>referanslara yer verdim.</b>"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Ve Kutsal Kitap neden güvenilir bir kitaptır? Kutsal Kitap, 1700 ila 1800 yıllık bir zaman diliminde, farklı çağlarda ve farklı yerlerde 40'tan fazla farklı yazar tarafından yazılmıştır."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Kutsal Kitap tek bir kitap değildir, 66 kitabın birleşimidir, Mesih'ten önce 'Eski Ahit' denen 39 kitap yazılmış ve Mesih'ten sonra 'Yeni Ahit' denen 27 kitap yazılmıştır. Kutsal Kitap'ı yazma amacı tüm yazarlar için neredeyse aynıdır, Tanrı bilgisini (Baba Tanrı, Oğul Tanrı İsa Mesih ve Kutsal Ruh Tanrı) açıklamak, Yaratılışın doğasını ve insanlık tarihini açıklamaktır. Ayrıca İncil, Tanrı'nın talimatları, Yasalar, Tarih, Kehanet ve Vahiy olarak bilinir. Ayrıca Kutsal Kitap, <b>SONSUZ YAŞAM</b> KİTABI olarak bilinir."
+        },
+        {
+          "id": "Para 14",
+          "text": "Kutsal Kitap tek bir veya 2-3 kişi tarafından yazılmamıştır; fakat tarihi <b>kanıtlarla</b> 40 farklı kişi tarafından yazılmıştır ve hepsinin amacı neredeyse aynıdır, bu yüzden Kutsal Kitap'ın <b>kanıtlanmış</b> ve güvenilir bir Kitap olduğunu söyleyebilirim."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=TCL02' target='_blank'>2. Timoteos 3:16</a> 'Kutsal Yazılar'ın (İncil) tümü Tanrı esinlemesidir ve öğretmek, azarlamak, yola getirmek, doğruluk konusunda eğitmek için yararlıdır.'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=TCL02' target='_blank'>Yuhanna 20:31</a> 'Ama bunlar, İsa'nın Tanrı'nın Oğlu Mesih olduğuna iman edesiniz ve iman ederek O'nun adıyla yaşama (<b>sonsuz yaşama</b>) kavuşasınız diye yazılmıştır.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "İncil, tüm insanlığın İsa Mesih'e iman yoluyla <b>günahların</b> bağışlanması, kurtuluş ve <b>sonsuz yaşam</b> alması için yazılmıştır. Kutsal Kitap sadece belirli bir ülke, belirli bir sınıf, belirli bir dil, belirli renkteki insanlar için yazılmamıştır; Yeryüzündeki her dilden, her kabileden, her renkten ve her ulustan insan için yazılmıştır. Bugün Kutsal Kitap en çok basılan Kitap olarak bilinir ve Kutsal Kitap neredeyse her ana dilde mevcuttur."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Hayat çok Değerlidir ve <b>Sonsuz Yaşam</b> Paha Biçilemezdir. Tanrı, her birimizin hiçbir ücret ödemeden <b>Sonsuz Yaşama</b> sahip olması için özel bir plan yaptı. Öyleyse, Bol ve Sonsuz bir Yaşama sahip olalım. Ve <b>sonsuz yaşam</b> deneyimimizi başkalarıyla paylaşalım ve Rabbimiz yüceltilsin."
+        },
+        {
+          "id": "Blessing",
+          "text": "Rab sizi bol bol kutsasın, <b>sonsuz yaşamla</b> kutsanın ve GÖKLERİN krallığının bir vatandaşı olun."
+        }
+      ],
+      "title": "Önsöz",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

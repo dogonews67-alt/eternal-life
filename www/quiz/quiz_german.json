@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Bibel-Quiz",
+  "questions": [
+    {
+      "question": "Wer baute die Arche?",
+      "options": [
+        "Mose",
+        "Noah",
+        "David",
+        "Salomo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welche ungewöhnliche Nahrung aß Johannes der Täufer?",
+      "options": [
+        "Heuschrecken und Honig",
+        "Brot und Fisch",
+        "Feigen und Oliven",
+        "Lamm und Kräuter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Welcher Mann war so stark, dass er einen Löwen mit bloßen Händen tötete?",
+      "options": [
+        "David",
+        "Simson",
+        "Goliath",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer hatte einen bunten Rock, der seine Brüder eifersüchtig machte?",
+      "options": [
+        "Benjamin",
+        "Josef",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welches Meer teilte Mose, um den Ägyptern zu entkommen?",
+      "options": [
+        "Totest Meer",
+        "Galiläa",
+        "Rotes Meer",
+        "Mittelmeer"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer wurde von einem großen Fisch verschluckt?",
+      "options": [
+        "Jona",
+        "Petrus",
+        "Paulus",
+        "Noah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Welche Frau wurde zur Salzsäule, weil sie sich umblickte?",
+      "options": [
+        "Sara",
+        "Lots Frau",
+        "Rebekka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer besiegte den riesigen Krieger Goliath mit einer Schleuder?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Welcher kleine Mann kletterte auf einen Maulbeerfeigenbaum, um Jesus zu sehen?",
+      "options": [
+        "Bartimäus",
+        "Zachäus",
+        "Matthäus",
+        "Nikodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welches Tier sprach zum Propheten Bileam?",
+      "options": [
+        "Ein Löwe",
+        "Ein Schaf",
+        "Ein Esel",
+        "Ein Kamel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer war der erste Mörder in der Bibel?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Set",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer wurde in eine Löwengrube geworfen, überlebte aber?",
+      "options": [
+        "Daniel",
+        "Josef",
+        "Schadrach",
+        "Jeremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Welcher linkshändige Richter tötete einen fetten König mit einem versteckten Schwert?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Simson",
+        "Jeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wer verriet Jesus für 30 Silberlinge?",
+      "options": [
+        "Petrus",
+        "Judas Iskariot",
+        "Pontius Pilatus",
+        "Kaiphas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welcher Junge hörte Gott nachts seinen Namen rufen, während er schlief?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isaak",
+        "Josef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer ging über das Wasser, um Jesus zu begegnen?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Was fiel vom Himmel, um die Israeliten in der Wüste zu speisen?",
+      "options": [
+        "Brot",
+        "Wachteln",
+        "Manna",
+        "Feigen"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer ist als der stärkste Mann in der Bibel bekannt?",
+      "options": [
+        "Goliath",
+        "Simson",
+        "Boas",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welche Königin rettete das jüdische Volk vor einem Komplott, es zu töten?",
+      "options": [
+        "Rut",
+        "Ester",
+        "Isebel",
+        "Batseba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer leugnete dreimal Jesus zu kennen, bevor der Hahn krähte?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Petrus",
+        "Philippus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welches Wunder vollbrachte Jesus bei der Hochzeit in Kana?",
+      "options": [
+        "Heilte einen Blinden",
+        "Verwandelte Wasser in Wein",
+        "Ging über das Wasser",
+        "Vermehrte das Brot"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Die Mauern welcher Stadt stürzten ein, nachdem die Israeliten um sie herumgezogen waren?",
+      "options": [
+        "Jerusalem",
+        "Jericho",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer war der «weinende Prophet»?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Hesekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wem wurden von Delila die Haare geschnitten, woraufhin er seine Kraft verlor?",
+      "options": [
+        "Simson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Welcher Jünger war Steuereinnehmer, bevor er Jesus nachfolgte?",
+      "options": [
+        "Lukas",
+        "Matthäus",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer war die erste Person, die Jesus sah, nachdem er von den Toten auferstanden war?",
+      "options": [
+        "Petrus",
+        "Johannes",
+        "Maria Magdalena",
+        "Seine Mutter Maria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Welche böse Königin wurde von Hunden gefressen?",
+      "options": [
+        "Ester",
+        "Isebel",
+        "Atalja",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wer versteckte zwei Spione unter Flachsstängeln auf ihrem Dach?",
+      "options": [
+        "Rut",
+        "Rahab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Welches Instrument spielte David, um König Saul zu beruhigen?",
+      "options": [
+        "Trompete",
+        "Harfe/Leier",
+        "Flöte",
+        "Tamburin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer wurde auf der Straße nach Damaskus mit Blindheit geschlagen?",
+      "options": [
+        "Petrus",
+        "Stephanus",
+        "Saulus (Paulus)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welcher Prophet wurde von Raben ernährt?",
+      "options": [
+        "Elischa",
+        "Elia",
+        "Jesaja",
+        "Jeremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer stahl die Hausgötzen (Götter) ihres Vaters?",
+      "options": [
+        "Lea",
+        "Rahel",
+        "Rebekka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wer fiel aus einem Fenster, weil Paulus zu lange predigte?",
+      "options": [
+        "Timotheus",
+        "Eutychus",
+        "Tychikus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Welches Baby wurde in einem Korb im Nil gefunden?",
+      "options": [
+        "Aaron",
+        "Mose",
+        "Josua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer rang die ganze Nacht mit Gott (oder einem Engel)?",
+      "options": [
+        "Abraham",
+        "Isaak",
+        "Jakob",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer bat Gott um Weisheit anstatt um ein langes Leben oder Reichtum?",
+      "options": [
+        "David",
+        "Salomo",
+        "Saul",
+        "Hiskia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer berührte den Saum von Jesu Gewand und wurde geheilt?",
+      "options": [
+        "Ein Aussätziger",
+        "Eine blutflüssige Frau",
+        "Ein Blinder",
+        "Ein Gelähmter"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welcher König wurde wahnsinnig und aß Gras wie ein Ochse?",
+      "options": [
+        "Belsazar",
+        "Nebukadnezar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wer belog den Heiligen Geist wegen Geld und fiel tot um?",
+      "options": [
+        "Ananias und Saphira",
+        "Priscilla und Aquila",
+        "Adam und Eva",
+        "Achab und Isebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Wer war der «zweifelnde» Jünger?",
+      "options": [
+        "Petrus",
+        "Thomas",
+        "Philippus",
+        "Andreas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Was brachte die Taube zur Arche Noah zurück?",
+      "options": [
+        "Ein Feigenblatt",
+        "Einen Olivenzweig",
+        "Einen Wurm",
+        "Eine Rose"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer hatte 700 Frauen und 300 Nebenfrauen?",
+      "options": [
+        "David",
+        "Salomo",
+        "Rehabeam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer verkaufte sein Erstgeburtsrecht für eine Schale mit rotem Linsengericht?",
+      "options": [
+        "Jakob",
+        "Esau",
+        "Josef",
+        "Isaak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welcher Prophet ließ ein Eisenbeil auf dem Wasser schwimmen?",
+      "options": [
+        "Elia",
+        "Elischa",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wer erkannte Jesus als den Messias, als er noch ein Baby war?",
+      "options": [
+        "Simeon",
+        "Josef",
+        "Nikodemus",
+        "Petrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Wer befahl Sonne und Mond stillzustehen?",
+      "options": [
+        "Mose",
+        "Josua",
+        "David",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Welcher Jünger hieb dem Diener des Hohenpriesters das Ohr ab?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer stieg auf den Berg Sinai, um die Zehn Gebote zu empfangen?",
+      "options": [
+        "Aaron",
+        "Josua",
+        "Mose",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer war der erste König von Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Welcher reiche Mann begrub Jesus in seinem eigenen Grab?",
+      "options": [
+        "Nikodemus",
+        "Josef von Arimathäa",
+        "Simon von Kyrene",
+        "Lazarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie hieß die Schlange, die Paulus auf der Insel Malta biss?",
+      "options": [
+        "Kobra",
+        "Viper",
+        "Python",
+        "Klapperschlange"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wer war die Mutter von Johannes dem Täufer?",
+      "options": [
+        "Maria",
+        "Elisabeth",
+        "Martha",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer besiegte die Midianiter mit nur 300 Männern, Posaunen und Krügen?",
+      "options": [
+        "Simson",
+        "Gideon",
+        "Barak",
+        "Jeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer weigerte sich, das goldene Bild anzubeten, und wurde in einen Ofen geworfen?",
+      "options": [
+        "Daniel",
+        "Schadrach, Meschach und Abed-Nego",
+        "Esra und Nehemia",
+        "Paulus und Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer wusch sich die Hände, um seine Unschuld am Tod Jesu zu beteuern?",
+      "options": [
+        "Herodes",
+        "Kaiphas",
+        "Pontius Pilatus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer war als «Freund Gottes» bekannt?",
+      "options": [
+        "Mose",
+        "Abraham",
+        "David",
+        "Noah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Welcher Prophet wurde von einem Wal (großen Fisch) verschluckt?",
+      "options": [
+        "Jona",
+        "Micha",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer deutete die Schrift an der Wand?",
+      "options": [
+        "Josef",
+        "Daniel",
+        "Hesekiel",
+        "Jesaja"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wer war die Richterin, die Israel anführte?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Ester",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer erweckte einen Jungen wieder zum Leben, indem er sich dreimal auf ihn legte?",
+      "options": [
+        "Elia",
+        "Elischa",
+        "Petrus",
+        "Paulus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Welcher Sohn König Davids verfing sich mit seinem langen Haar in einem Baum und wurde getötet?",
+      "options": [
+        "Salomo",
+        "Absalom",
+        "Adonija",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wodurch sprach Gott zu Mose in der Wüste?",
+      "options": [
+        "Einen brennenden Dornbusch",
+        "Eine Wolke",
+        "Einen Wirbelsturm",
+        "Einen Esel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer half dem verletzten Mann im Gleichnis vom barmherzigen Samariter?",
+      "options": [
+        "Ein Priester",
+        "Ein Levit",
+        "Ein Samariter",
+        "Ein römischer Soldat"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer war der älteste Mann in der Bibel, der 969 Jahre alt wurde?",
+      "options": [
+        "Noah",
+        "Adam",
+        "Metuschelach",
+        "Henoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Welcher Jünger versuchte auf dem Wasser zu gehen, begann aber zu sinken?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welche Stadt zerstörte Gott wegen ihrer Bosheit mit Feuer und Schwefel?",
+      "options": [
+        "Jericho",
+        "Ninive",
+        "Sodom",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer hatte einen Traum von einer Leiter, die bis zum Himmel reichte, auf der Engel auf- und niederstiegen?",
+      "options": [
+        "Abraham",
+        "Isaak",
+        "Jakob",
+        "Josef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer war der erste von Gott geschaffene Mensch?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Adam",
+        "Noah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wer war die erste Frau, geschaffen aus Adams Rippe?",
+      "options": [
+        "Sara",
+        "Eva",
+        "Maria",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welcher Prophet wurde in eine schlammige Zisterne (Kerker) geworfen?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Hesekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wer war als der «weiseste König» bekannt, der je lebte?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Hiskia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Was strichen die Israeliten an ihre Türpfosten, um die 10. Plage in Ägypten zu vermeiden?",
+      "options": [
+        "Lammblut",
+        "Olivenöl",
+        "Wasser",
+        "Asche"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer befahl einer Witwe, ihm Brot aus ihrem letzten Rest Mehl und Öl zu backen?",
+      "options": [
+        "Elia",
+        "Elischa",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Welcher Jünger war Arzt?",
+      "options": [
+        "Matthäus",
+        "Lukas",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer half Jesus sein Kreuz zu tragen?",
+      "options": [
+        "Simon von Kyrene",
+        "Josef von Arimathäa",
+        "Petrus",
+        "Johannes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Mit was speiste Jesus die 5.000 Menschen?",
+      "options": [
+        "Manna und Wachteln",
+        "5 Brote und 2 Fische",
+        "7 Brote und einige Fische",
+        "Brot und Wein"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welches Ehepaar starb, weil es über den Preis seines Landes gelogen hatte?",
+      "options": [
+        "Ananias und Saphira",
+        "Aquila und Priscilla",
+        "Achab und Isebel",
+        "Abraham und Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Wer war der riesige Jäger, der als ein «gewaltiger Jäger vor dem Herrn» bekannt war?",
+      "options": [
+        "Goliath",
+        "Nimrod",
+        "Esau",
+        "Simson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wer hieb im Garten Gethsemane dem Diener des Hohenpriesters das Ohr ab?",
+      "options": [
+        "Johannes",
+        "Jakobus",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer war der erste christliche Märtyrer, der zu Tode gesteinigt wurde?",
+      "options": [
+        "Jakobus",
+        "Stephanus",
+        "Paulus",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welcher König schlug vor, ein Baby in zwei Hälften zu schneiden, um einen Streit zwischen zwei Müttern zu schlichten?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer war die ägyptische Frau, die Abrahams ersten Sohn Ismael gebar?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Rebekka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wer war der erste Hohepriester Israels?",
+      "options": [
+        "Mose",
+        "Aaron",
+        "Eleasar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Was liebte der reiche Jüngling mehr als Jesus?",
+      "options": [
+        "Seine Familie",
+        "Seine Macht",
+        "Sein Geld/Besitz",
+        "Seinen Ruf"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer sagte berühmt: „Soll ich meines Bruders Hüter sein?“",
+      "options": [
+        "Abel",
+        "Kain",
+        "Esau",
+        "Josephs Brüder"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wer führte die Israeliten nach Moses Tod in das gelobte Land?",
+      "options": [
+        "Kaleb",
+        "Josua",
+        "Aaron",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welche Arbeit nahm der verlorene Sohn an, als ihm das Geld ausging?",
+      "options": [
+        "Schweine hüten",
+        "Häuser bauen",
+        "Fischen",
+        "Betteln"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer war der römische Statthalter, der Jesus zum Tode verurteilte?",
+      "options": [
+        "Herodes Antipas",
+        "Pontius Pilatus",
+        "Kaiser Augustus",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Was ist die „Goldene Regel“?",
+      "options": [
+        "Liebe Gott von ganzem Herzen",
+        "Alles, was ihr wollt, dass euch die Leute tun sollen, das tut ihnen auch",
+        "Glaube an den Herrn Jesus",
+        "Ehre deine Eltern"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wen erweckte Jesus von den Toten auf, nachdem er bereits vier Tage im Grab gelegen hatte?",
+      "options": [
+        "Jairus’ Tochter",
+        "Den Sohn der Witwe",
+        "Lazarus",
+        "Tabitha"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Was geschah mit König Herodes, als er Gott nicht die Ehre gab?",
+      "options": [
+        "Er wurde vom Blitz getroffen",
+        "Er wurde von Würmern zerfressen",
+        "Er wurde blind",
+        "Er fiel von seinem Thron"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Wer fertigte ein goldenes Kalb an, damit die Israeliten es anbeteten?",
+      "options": [
+        "Mose",
+        "Aaron",
+        "Josua",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wen salbte Samuel zum zweiten König von Israel?",
+      "options": [
+        "Saul",
+        "David",
+        "Salomo",
+        "Isai"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie hieß der Turm, an dem Gott die Sprachen verwirrte?",
+      "options": [
+        "Turm Davids",
+        "Turm zu Babel",
+        "Turm von Siloah",
+        "Turm von Sichem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer war die Mutter von Jesus?",
+      "options": [
+        "Elisabeth",
+        "Maria",
+        "Martha",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welcher Prophet floh vor Gott und bestieg ein Schiff nach Tarsis?",
+      "options": [
+        "Jona",
+        "Amos",
+        "Micha",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Wer war der haarige Bruder Jakobs?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismael",
+        "Isaak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wer war der gelähmte Mann, den Petrus an der Schönen Pforte heilte?",
+      "options": [
+        "Ein von Geburt an gelähmter Mann",
+        "Ein blinder Bettler",
+        "Ein Aussätziger",
+        "Ein Tauber"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Wen nannte Jesus einen „Fuchs“?",
+      "options": [
+        "Pilatus",
+        "Herodes",
+        "Kaiphas",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wer war Ruths Schwiegermutter?",
+      "options": [
+        "Orpa",
+        "Noomi",
+        "Mara",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

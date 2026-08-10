@@ -1,0 +1,192 @@
+/* Manna Catch Game Styles */
+#mannaCatchContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #87CEEB;
+    /* Fallback sky color */
+    z-index: 10000;
+    display: none;
+    overflow: hidden;
+    touch-action: none;
+    /* Prevent default touch actions like scrolling */
+}
+
+#mannaCanvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.manna-ui-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    /* Let clicks pass through to canvas/controls */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.manna-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    pointer-events: auto;
+}
+
+.manna-score {
+    font-size: 1.5rem;
+}
+
+.manna-controls-touch {
+    position: absolute;
+    bottom: 2px;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+    pointer-events: auto;
+    /* Enable touch on controls */
+}
+
+.manna-dpad {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.manna-btn {
+    width: 80px;
+    height: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    font-size: 0;
+    /* Hide text */
+    color: transparent;
+    user-select: none;
+    touch-action: manipulation;
+    opacity: 0.6;
+    transition: opacity 0.1s, transform 0.1s;
+}
+
+#mannaBtnLeft {
+    background-image: url('btn_arrow_nobg.png');
+    transform: scaleX(-1);
+    /* Flip horizontally for Left */
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+#mannaBtnRight {
+    background-image: url('btn_arrow_nobg.png');
+    /* Right is default */
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+#mannaBtnJump {
+    background-image: url('btn_jump_nobg.png');
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+.manna-btn.active {
+    opacity: 1.0;
+    transform: scale(0.95);
+}
+
+#mannaBtnLeft.active {
+    transform: scaleX(-1) scale(0.95);
+    /* Maintain flip when scaling */
+}
+
+.manna-jump-area {
+    display: flex;
+    align-items: center;
+}
+
+#mannaMainMenu,
+#mannaGameOverScreen,
+#mannaHelpScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+    color: white;
+    pointer-events: auto;
+}
+
+.manna-title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #ffd700;
+    text-shadow: 2px 2px 4px #000;
+}
+
+.manna-menu-btn {
+    padding: 15px 40px;
+    margin: 10px;
+    font-size: 1.5rem;
+    background: #5f4b32;
+    color: white;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.manna-menu-btn:hover {
+    background: #7a6142;
+}
+
+.manna-close-btn {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: transparent;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    z-index: 30;
+    pointer-events: auto;
+}
+
+.manna-menu-back-btn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 60px;
+    background-image: url('btn_back_nobg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    z-index: 30;
+    pointer-events: auto;
+    transition: transform 0.1s;
+}
+
+.manna-menu-back-btn:active {
+    transform: scale(0.95);
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Who was the father of the apostles James and John?",
+    "options": [
+      "Zebedee",
+      "Alphaeus",
+      "Jona",
+      "Zecharias"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "What is the name of the river where Jesus was baptized?",
+    "options": [
+      "Jordan",
+      "Nile",
+      "Euphrates",
+      "Tigris"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the king of Judea when Jesus was born?",
+    "options": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Pilate",
+      "Caesar Augustus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  }
+]

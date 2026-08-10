@@ -1,0 +1,297 @@
+{
+  "arabic.json": [
+    "الحياة الأبدية",
+    "لن يموت أبدا",
+    "خطيئة",
+    "دم"
+  ],
+  "assamese.json": [
+    "অনন্ত জীৱন"
+  ],
+  "bengali.json": [
+    "চিরকাল বেঁচে",
+    "কখনও মরবে না",
+    "অনন্ত জীবন",
+    "রক্ত",
+    "পাপ"
+  ],
+  "bhutanese.json": [
+    "ཚེ་མཐའ་མེད་པའི་སྲོག"
+  ],
+  "burmese.json": [
+    "ထာဝရအသက်"
+  ],
+  "chinese.json": [
+    "永远活着",
+    "永生",
+    "血",
+    "罪"
+  ],
+  "czech.json": [
+    "věčný život",
+    "Věčný život",
+    "VĚČNÝ ŽIVOT"
+  ],
+  "dutch.json": [
+    "Eeuwig leven",
+    "EEUWIG LEVEN",
+    "eeuwig leven",
+    "Eeuwig Leven",
+    "zonde",
+    "bloed"
+  ],
+  "french.json": [
+    "LA VIE ÉTERNELLE",
+    "la Vie Éternelle",
+    "la vie éternelle",
+    "La vie éternelle",
+    "la Vie éternelle",
+    "ne mourra jamais",
+    "la vie Éternelle",
+    "Vie Éternelle",
+    "vie éternelle",
+    "péché",
+    "sang"
+  ],
+  "german.json": [
+    "niemals sterben",
+    "ewiges Leben",
+    "Ewiges Leben",
+    "EWIGES LEBEN",
+    "ewig leben",
+    "Sünde",
+    "Blut"
+  ],
+  "greek.json": [
+    "ΑΙΩΝΙΑ ΖΩΗ"
+  ],
+  "gujarati.json": [
+    "અનંતજીવન"
+  ],
+  "hebrew.json": [
+    "חיי נצח"
+  ],
+  "hindi.json": [
+    "कभी नहीं मरेगा",
+    "हमेशा जीवित",
+    "अनन्त जीवन",
+    "पाप",
+    "लहू"
+  ],
+  "hungarian.json": [
+    "Örök Élet",
+    "örök élet",
+    "ÖRÖK ÉLET",
+    "Örök élet"
+  ],
+  "igbo.json": [
+    "NDỤ EBIGHEBI",
+    "Ndụ ebighebi"
+  ],
+  "indonesian.json": [
+    "tidak akan pernah mati",
+    "hidup selamanya",
+    "HIDUP KEKAL",
+    "Hidup Kekal",
+    "Hidup kekal",
+    "hidup kekal",
+    "Hidup Abadi",
+    "HIDUP ABADI",
+    "darah",
+    "dosa"
+  ],
+  "italian.json": [
+    "vivere per sempre",
+    "non morirà mai",
+    "Vita Eterna",
+    "Vita eterna",
+    "VITA ETERNA",
+    "vita eterna",
+    "vita Eterna",
+    "peccato",
+    "sangue"
+  ],
+  "japanese.json": [
+    "決して死なない",
+    "永遠に生きる",
+    "永遠の命",
+    "血",
+    "罪"
+  ],
+  "kannada.json": [
+    "ಅನಂತ ಜೀವನ"
+  ],
+  "kashmiri.json": [
+    "अनंत जीवन"
+  ],
+  "konkani.json": [
+    "অনন্ত জिवীত"
+  ],
+  "korean.json": [
+    "결코 죽지",
+    "영원히 살",
+    "영생",
+    "죄",
+    "피"
+  ],
+  "malay.json": [
+    "Kehidupan Kekal",
+    "Kehidupan kekal",
+    "kehidupan kekal",
+    "KEHIDUPAN KEKAL"
+  ],
+  "malayalam.json": [
+    "നിത്യജീവൻ"
+  ],
+  "marathi.json": [
+    "अनंत जीवन"
+  ],
+  "mongolian.json": [
+    "МӨНХ АМЬ",
+    "Мөнх амь",
+    "мөнх амь",
+    "Мөнх Амь"
+  ],
+  "nepali.json": [
+    "अनन्त जीवन"
+  ],
+  "norwegian.json": [
+    "Evig liv",
+    "EVIG LIV",
+    "evig liv",
+    "Evig Liv"
+  ],
+  "odia.json": [
+    "ଅନନ୍ତ ଜୀବନ",
+    "ରକ୍ତ",
+    "ପାପ"
+  ],
+  "oromo.json": [
+    "JIREENYA BARA BARAA",
+    "Jireenya Bara Baraa",
+    "jireenya bara baraa",
+    "jireenya Bara Baraa"
+  ],
+  "polish.json": [
+    "Życie Wieczne",
+    "życie wieczne",
+    "ŻYCIE WIECZNE"
+  ],
+  "portuguese.json": [
+    "viver para sempre",
+    "nunca morrerá",
+    "Vida Eterna",
+    "VIDA ETERNA",
+    "vida eterna",
+    "pecado",
+    "sangue",
+    "Sangue"
+  ],
+  "punjabi.json": [
+    "ਅਨੰਤ ਜੀਵਨ"
+  ],
+  "romanian.json": [
+    "Viața Veșnică",
+    "viața veșnică",
+    "Viața veșnică",
+    "VIAȚA VEȘNICĂ"
+  ],
+  "russian.json": [
+    "Вечная жизнь",
+    "Вечная Жизнь",
+    "вечная жизнь",
+    "ВЕЧНАЯ ЖИЗНЬ",
+    "жить вечно",
+    "Кровь",
+    "кровь",
+    "грех"
+  ],
+  "sanskrit.json": [
+    "अनन्तजीवनम्"
+  ],
+  "somali.json": [
+    "Nolosha daa'imka ah",
+    "NOLOSHA DAIMIGA AH"
+  ],
+  "spanish.json": [
+    "vivir para siempre",
+    "nunca morirá",
+    "Vida Eterna",
+    "VIDA ETERNA",
+    "vida eterna",
+    "Vida eterna",
+    "sangre",
+    "pecado",
+    "Sangre"
+  ],
+  "swahili.json": [
+    "Uzima wa milele",
+    "UZIMA WA MILELE",
+    "Uzima wa Milele",
+    "uzima wa milele",
+    "hatakufa kamwe",
+    "ishi milele",
+    "dhambi",
+    "damu",
+    "Damu"
+  ],
+  "swedish.json": [
+    "EVIGT LIV",
+    "Evigt liv",
+    "evigt liv"
+  ],
+  "tagalog.json": [
+    "Buhay na Walang Hanggan",
+    "buhay na walang hanggan",
+    "BUHAY NA WALANG HANGGAN"
+  ],
+  "tamil.json": [
+    "ஒருபோதும் சாகமாட்டான்",
+    "நித்திய ஜீவன்",
+    "இரத்தம்"
+  ],
+  "telugu.json": [
+    "నిత్యజీవం",
+    "రక్తం",
+    "పాపం"
+  ],
+  "thai.json": [
+    "มีชีวิตอยู่ตลอดไป",
+    "ชีวิตนิรันดร์",
+    "ไม่มีวันตาย",
+    "พระโลหิต",
+    "บาป"
+  ],
+  "tibetan.json": [
+    "ཚེ་མཐའ་མེད་པའི་སྲོག།",
+    "ཚེ་མཐའ་མེད་པའི་སྲོག་"
+  ],
+  "turkish.json": [
+    "sonsuza dek yaşa",
+    "asla ölmeyecek",
+    "SONSUZ YAŞAM",
+    "Sonsuz yaşam",
+    "sonsuz yaşam",
+    "Sonsuz Yaşam",
+    "günah",
+    "Kan",
+    "kan"
+  ],
+  "urdu.json": [
+    "ہمیشہ کی زندگی"
+  ],
+  "vietnamese.json": [
+    "không bao giờ chết",
+    "sự sống đời đời",
+    "Sự Sống Đời Đời",
+    "SỰ SỐNG ĐỜI ĐỜI",
+    "Sự sống đời đời",
+    "sống mãi mãi",
+    "tội lỗi"
+  ],
+  "yoruba.json": [
+    "IYE AINIPÊKUN",
+    "iye ainipẹkun",
+    "Iye Ainipẹkun"
+  ]
+}

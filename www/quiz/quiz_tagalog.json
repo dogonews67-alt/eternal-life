@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Pagsusulit sa Bibliya",
+  "questions": [
+    {
+      "question": "Sino ang gumawa ng arka?",
+      "options": [
+        "Moises",
+        "Noe",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Anong pambihirang pagkain ang kinain ni Juan Bautista sa disyerto?",
+      "options": [
+        "Mga balang at ligaw na pulot",
+        "Tinapay at isda",
+        "Mga igos at oliba",
+        "Kordero at mga halamang-gamot"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Sinong tao ang napakalakas kaya napatay niya ang isang leon sa pamamagitan lamang ng kanyang mga kamay?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliat",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang nagmamay-ari ng makulay na balabal na kinainggitan ng kanyang mga kapatid?",
+      "options": [
+        "Benjamin",
+        "Jose",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Anong dagat ang hinati ni Moises upang makatakas mula sa mga Egipcio?",
+      "options": [
+        "Dagat na Patay",
+        "Galilea",
+        "Dagat na Pula",
+        "Mediteraneo"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang nilamon ng isang malaking isda?",
+      "options": [
+        "Jonas",
+        "Pedro",
+        "Pablo",
+        "Noe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Sinong babae ang naging haliging asin dahil lumingon siya sa likuran?",
+      "options": [
+        "Sara",
+        "Asawa ni Lot",
+        "Rebeca",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang tumalo sa higanteng mandirigmang si Goliat gamit ang isang tirador?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Sinong pandak na tao ang umakyat sa isang puno ng sikamoro upang makita si Jesus?",
+      "options": [
+        "Bartimeo",
+        "Zaqueo",
+        "Mateo",
+        "Nicodemo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Anong hayop ang nakipag-usap sa propetang si Balaam?",
+      "options": [
+        "Isang leon",
+        "Isang tupa",
+        "Isang asno",
+        "Isang kamelyo"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang unang mamamatay-tao sa Bibliya?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Set",
+        "Lamec"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang itinapon sa yungib ng mga leon ngunit nakaligtas?",
+      "options": [
+        "Daniel",
+        "Jose",
+        "Sadrac",
+        "Jeremias"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Sinong kaliweteng hukom ang pumatay sa isang matabang hari sa pamamagitan ng isang nakatagong espada?",
+      "options": [
+        "Gedeon",
+        "Ehud",
+        "Samson",
+        "Jepta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Sino ang nagkanulo kay Jesus para sa 30 pirasong pilak?",
+      "options": [
+        "Pedro",
+        "Judas Iscariote",
+        "Poncio Pilato",
+        "Caifas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sinong batang lalaki ang nakarinig sa pagtawag ng Diyos sa kanyang pangalan sa gabi habang siya ay natutulog?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isaac",
+        "Jose"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong alagad ang lumakad sa ibabaw ng tubig upang salubungin si Jesus?",
+      "options": [
+        "Santiago",
+        "Juan",
+        "Pedro",
+        "Andres"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ano ang ipinadala ng Diyos para itawid ng mga Israelita sa ilang upang kainin?",
+      "options": [
+        "Tinapay",
+        "Mga pugo",
+        "Manna",
+        "Igso"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang itinuturing na pinakamalakas na tao sa Bibliya?",
+      "options": [
+        "Goliat",
+        "Samson",
+        "Boaz",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang reyna na nagligtas sa kanyang bayan mula sa genocide?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Jezebel",
+        "Bathsheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang nagtatwa kay Jesus ng tatlong beses bago tumilaok ang manok?",
+      "options": [
+        "Tomas",
+        "Judas",
+        "Pedro",
+        "Felipe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang unang himala ni Jesus sa kasalan sa Cana?",
+      "options": [
+        "Pinagaling ang bulag",
+        "Ginawang alak ang tubig",
+        "Lumakad sa tubig",
+        "Pinakain ang limang libo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Anong lungsod ang bumagsak ang mga pader matapos itong ikutin ng mga Israelita ng pitong beses?",
+      "options": [
+        "Jerusalem",
+        "Jerico",
+        "Ai",
+        "Babilonia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang kilala bilang 'Ang Umiiyak na Propeta'?",
+      "options": [
+        "Isaias",
+        "Jeremias",
+        "Ezekiel",
+        "Oseas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Sino ang pumutol ng buhok ni Samson na naging sanhi ng pagkawala ng kanyang lakas?",
+      "options": [
+        "Delila",
+        "Sara",
+        "Michal",
+        "Abigail"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang trabaho ni Mateo bago siya naging alagad ni Jesus?",
+      "options": [
+        "Mangingisda",
+        "Maniningil ng buwis",
+        "Karpintero",
+        "Pastol"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang unang nakakita kay Jesus matapos ang kanyang pagkabuhay na muli?",
+      "options": [
+        "Pedro",
+        "Juan",
+        "Maria Magdalena",
+        "Maria na kanyang ina"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Sinong masamang reyna ang kinain ng mga aso?",
+      "options": [
+        "Esther",
+        "Jezebel",
+        "Atalia",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Sino ang nagtago sa dalawang tiktik sa itaas ng kanyang bahay?",
+      "options": [
+        "Ruth",
+        "Rahab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Anong instrumento ang tinutugtog ni David upang pakalmahin si Haring Saul?",
+      "options": [
+        "Trumpeta",
+        "Arpa",
+        "Plauta",
+        "Tambol"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang nabulag sa daan patungong Damasco?",
+      "options": [
+        "Pedro",
+        "Esteban",
+        "Saul (Pablo)",
+        "Bernabe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Sinong propeta ang dinalhan ng pagkain ng mga uwak?",
+      "options": [
+        "Eliseo",
+        "Elias",
+        "Isaias",
+        "Jeremias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang nagnakaw ng mga diyos ng kanyang ama?",
+      "options": [
+        "Lea",
+        "Raquel",
+        "Rebeca",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Sino ang nahulog sa bintana at namatay habang mahaba ang sermon ni Pablo?",
+      "options": [
+        "Timoteo",
+        "Eutico",
+        "Tiquico",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Anong sanggol ang natagpuan sa isang basket sa Ilog Nilo?",
+      "options": [
+        "Aaron",
+        "Moises",
+        "Josue",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang nakipagbuno sa isang anghel buong gabi?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang humiling ng karunungan sa Diyos sa halip na kayamanan o mahabang buhay?",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Hezekias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sinong babae ang gumaling sa pamamagitan ng paghipo sa laylayan ng damit ni Jesus?",
+      "options": [
+        "Wala",
+        "Ang babaeng dinudugo",
+        "Ang babaeng bulag",
+        "Ang babaeng pilay"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong hari ang nabaliw at kumain ng damo na parang baka?",
+      "options": [
+        "Belsazar",
+        "Nabucodonosor",
+        "Dario",
+        "Ciro"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Sinong mag-asawa ang namatay dahil sa pagsisinungaling sa Espiritu Santo tungkol sa pera?",
+      "options": [
+        "Ananias at Safira",
+        "Priscila at Aquila",
+        "Acab at Jezebel",
+        "Abraham at Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Sinong alagad ang kilala bilang 'Ang Nagdududa'?",
+      "options": [
+        "Pedro",
+        "Tomas",
+        "Felipe",
+        "Andres"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang ibinalik ng kalapati kay Noe sa arka?",
+      "options": [
+        "Dahon ng igos",
+        "Sangay ng oliba",
+        "Isang bulaklak",
+        "Isang insekto"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang may 700 asawa at 300 babae?",
+      "options": [
+        "David",
+        "Solomon",
+        "Rehoboam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang nagbenta ng kanyang pagka-panganay para sa isang mangkok ng sabaw?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Jose",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong propeta ang nagpalutang ng ulo ng palakol sa tubig?",
+      "options": [
+        "Elias",
+        "Eliseo",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Sino ang nakakilala sa sanggol na si Jesus bilang ang Mesiyas sa templo?",
+      "options": [
+        "Simeon",
+        "Jose",
+        "Nicodemo",
+        "Pedro"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Sino ang nag-utos sa araw at buwan na huminto?",
+      "options": [
+        "Moises",
+        "Josue",
+        "David",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Sinong alagad ang pumutol ng tainga ng alipin ng punong saserdote?",
+      "options": [
+        "Santiago",
+        "Juan",
+        "Pedro",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang umakyat sa Bundok Sinai upang tanggapin ang Sampung Utos?",
+      "options": [
+        "Aaron",
+        "Josue",
+        "Moises",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang unang hari ng Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sinong mayaman ang naglibing kay Jesus sa kanyang sariling bagong libingan?",
+      "options": [
+        "Nicodemo",
+        "Jose ng Arimatea",
+        "Simeon",
+        "Lazaro"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Anong uri ng ahas ang tumuklaw kay Pablo sa isla ng Malta?",
+      "options": [
+        "Cobra",
+        "Ulalay (Viper)",
+        "Python",
+        "Scorpion"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ano ang pangalan ng ina ni Juan Bautista?",
+      "options": [
+        "Maria",
+        "Elizabeth",
+        "Martha",
+        "Ana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang tumalo sa mga Madianita gamit lamang ang 300 lalaki na gumagamit ng mga trumpeta at banga?",
+      "options": [
+        "Samson",
+        "Gedeon",
+        "Balak",
+        "Jepta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang tatlong lalaki na itinapon sa nagniningas na hurno dahil tumanggi silang sumamba sa gintong rebulto?",
+      "options": [
+        "Daniel",
+        "Sadrac, Mesac, at Abed-nego",
+        "Ezra at Nehemias",
+        "Pablo at Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang naghugas ng kanyang mga kamay at nagsabing 'Ako'y walang kasalanan' sa dugo ni Jesus?",
+      "options": [
+        "Herodes",
+        "Caifas",
+        "Poncio Pilato",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang tinawag na 'Kaibigan ng Diyos'?",
+      "options": [
+        "Moises",
+        "Abraham",
+        "David",
+        "Noe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Sinong propeta ang nilamon ng isang malaking isda?",
+      "options": [
+        "Jonas",
+        "Micas",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang nagpaliwanag ng sulat sa dingding para kay Haring Belsazar?",
+      "options": [
+        "Jose",
+        "Daniel",
+        "Ezekiel",
+        "Isaias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Sino ang babae na isang hukom sa Israel?",
+      "options": [
+        "Ruth",
+        "Debora",
+        "Esther",
+        "Maria"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang humiga sa isang batang patay ng tatlong beses upang buhayin itong muli?",
+      "options": [
+        "Elias",
+        "Eliseo",
+        "Pedro",
+        "Pablo"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Sinong anak ni David ang sumabit ang buhok sa isang puno at namatay?",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Adonias",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ano ang ginamit ng Diyos upang makipag-usap kay Moises sa ilang?",
+      "options": [
+        "Nagbabagang bush",
+        "Ulap",
+        "Bagyo",
+        "Asno"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang tumulong sa sugatang lalaki sa talinghaga ng Mabuting Samaritano?",
+      "options": [
+        "Saserdote",
+        "Levita",
+        "Samaritano",
+        "Sundalong Romano"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang pinakamatandang tao sa Bibliya (969 taon)?",
+      "options": [
+        "Noe",
+        "Abraham",
+        "Metusela",
+        "Enoc"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong alagad ang nagsimulang lumubog habang lumalakad sa tubig?",
+      "options": [
+        "Santiago",
+        "Juan",
+        "Pedro",
+        "Andres"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Anong lungsod ang winasak ng Diyos sa pamamagitan ng apoy at asupre mula sa langit?",
+      "options": [
+        "Jerico",
+        "Ninive",
+        "Sodoma",
+        "Babilonia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang nakakita ng isang hagdan na umaabot sa langit at ang mga anghel ay umaakyat at bumababa rito?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Jose"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang unang lalaki na nilalang ng Diyos?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Adan",
+        "Noe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Sino ang unang babae na nilalang mula sa tadyang ni Adan?",
+      "options": [
+        "Sara",
+        "Eva",
+        "Maria",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Sinong propeta ang itinapon sa isang balon na puno ng putik?",
+      "options": [
+        "Isaias",
+        "Jeremias",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Sinong hari ang itinuturing na pinakamatalino sa lahat?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Hezekias"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ano ang inilagay ng mga Israelita sa kanilang mga pintuan upang makaligtas sa ikasampung salot sa Ehipto?",
+      "options": [
+        "Dugo ng kordero",
+        "Langis",
+        "Tubig",
+        "Abo"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang nag-utos na pugutan ng ulo si Juan Bautista?",
+      "options": [
+        "Herodes",
+        "Pilato",
+        "Saul",
+        "Solomon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino sa mga alagad ni Jesus ang isang doktor?",
+      "options": [
+        "Mateo",
+        "Lucas",
+        "Marcos",
+        "Juan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang tumulong kay Jesus na pasanin ang krus?",
+      "options": [
+        "Simon ng Cirene",
+        "Jose ng Arimatea",
+        "Pedro",
+        "Juan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Ano ang ibinigay ni Jesus sa limang libong tao upang kainin?",
+      "options": [
+        "Manna at pugo",
+        "5 tinapay at 2 isda",
+        "7 tinapay at ilang maliliit na isda",
+        "Tinapay at alak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sinong mag-asawa ang namatay matapos magsinungaling tungkol sa presyo ng isang ari-arian?",
+      "options": [
+        "Ananias at Safira",
+        "Priscila at Aquila",
+        "Acab at Jezebel",
+        "Abraham at Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Sino ang inilarawan bilang 'isang makapangyarihang mangangaso' sa harap ng Panginoon?",
+      "options": [
+        "Goliat",
+        "Nimrod",
+        "Esau",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Sinong alagad ang pumutol ng tainga ng alipin ng hari?",
+      "options": [
+        "Juan",
+        "Santiago",
+        "Pedro",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong apostol ang pinagbobato hanggang sa mamatay (ang unang martir)?",
+      "options": [
+        "Santiago",
+        "Esteban",
+        "Pablo",
+        "Bernabe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sinong hari ang nagpasya sa isang pagtatalo sa pagitan ng dalawang babae tungkol sa isang sanggol?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang ina ni Ismael, ang unang anak ni Abraham?",
+      "options": [
+        "Sara",
+        "Agar",
+        "Ketura",
+        "Rebeca"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Sino ang kauna-unahang mataas na saserdote ng Israel?",
+      "options": [
+        "Moises",
+        "Aaron",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ano ang mas minahal ng mayamang binatang pinuno kaysa kay Jesus?",
+      "options": [
+        "Ang kanyang pamilya",
+        "Ang kanyang kapangyarihan",
+        "Ang kanyang pera/mga ari-arian",
+        "Ang kanyang reputasyon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang nagsabi ng tanyag na katagang, \"Ako ba ang tagapagbantay ng aking kapatid?\"",
+      "options": [
+        "Abel",
+        "Cain",
+        "Esau",
+        "Mga kapatid ni Jose"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang namuno sa mga Israelita patungo sa Lupang Pangako pagkatapos mamatay ni Moises?",
+      "options": [
+        "Caleb",
+        "Josue",
+        "Aaron",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Anong trabaho ang kinuha ng alibughang anak nang maubos ang kanyang pera?",
+      "options": [
+        "Pag-aalaga ng mga baboy",
+        "Pagtatayo ng mga bahay",
+        "Pangingisda",
+        "Paglilimos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang gobernador na Romano na humatol kay Jesus ng kamatayan?",
+      "options": [
+        "Herodes Antipas",
+        "Poncio Pilato",
+        "Cesar Augusto",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ano ang “Gintong Aral”?",
+      "options": [
+        "Mahalin mo ang Panginoon mong Diyos nang buong puso",
+        "Gawin mo sa iba ang gusto mong gawin nila sa iyo",
+        "Manampalataya ka sa Panginoong Jesus",
+        "Igalang mo ang iyong ama at ina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang binuhay ni Jesus mula sa mga patay pagkatapos nitong mapunta sa libingan sa loob ng apat na araw?",
+      "options": [
+        "Anak na babae ni Jairo",
+        "Anak na lalaki ng balo",
+        "Lazaro",
+        "Tabita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang nangyari kay Haring Herodes nang hindi niya ibinigay ang kapurihan sa Diyos?",
+      "options": [
+        "Tinamaan siya ng kidlat",
+        "Kinain siya ng mga uod",
+        "Nabulag siya",
+        "Nahulog siya mula sa kanyang trono"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Sino ang gumawa ng gintong baka para sambahin ng mga Israelita?",
+      "options": [
+        "Moises",
+        "Aaron",
+        "Josue",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sino ang pinahiran ni Samuel bilang ikalawang hari ng Israel?",
+      "options": [
+        "Saul",
+        "David",
+        "Salomon",
+        "Jesse"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang pangalan ng tore kung saan nilito ng Diyos ang mga wika?",
+      "options": [
+        "Tore ni David",
+        "Tore ng Babel",
+        "Tore ng Siloam",
+        "Tore ng Siquem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ano ang pangalan ng ina ni Jesus?",
+      "options": [
+        "Elisabet",
+        "Maria",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Sinong propeta ang tumakas mula sa Diyos at sumakay sa barkong patungong Tarsis?",
+      "options": [
+        "Jonas",
+        "Amos",
+        "Miqueas",
+        "Oseas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Sino ang mabalahibong kapatid ni Jacob?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismael",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Sino ang lalaking pilay na pinagaling ni Pedro sa Pintuang Maganda?",
+      "options": [
+        "Isang lalaking lumpo mula pa sa kanyang pagkabata",
+        "Isang butag na pulubi",
+        "Isang may ketong",
+        "Isang bingi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Sino ang tinawag ni Jesus na 'soro' (fox)?",
+      "options": [
+        "Pilato",
+        "Herodes",
+        "Caifas",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Sino ang biyena ni Ruth?",
+      "options": [
+        "Orpa",
+        "Noemi",
+        "Mara",
+        "Ana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

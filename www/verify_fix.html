@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Language Selection Debugger</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        .log-box {
+            background: #f0f0f0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            height: 300px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            margin-top: 20px;
+        }
+
+        .setting-row {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Language Selection Debugger</h1>
+
+    <div class="setting-row">
+        <label for="preferredLangSelector">Preferred Language</label>
+        <select id="preferredLangSelector" onchange="setPreferredLanguage(this.value)">
+            <option value="text">English</option>
+            <option value="text_hindi">Hindi</option>
+            <option value="text_spanish">Spanish</option>
+            <option value="text_odia">Oriya (Odia)</option>
+        </select>
+    </div>
+
+    <div id="status">Status: Waiting...</div>
+
+    <div class="log-box" id="debugLog"></div>
+
+    <script>
+        // Mock State
+        const state = {
+            currentBookKey: 'bible',
+            currentLang: 'text',
+            currentTranslationId: 'YLT',
+            availableTranslations: {}
+        };
+
+        const BIBLE_CONFIG = {
+            'text': { sources: [{ id: 'YLT' }] },
+            'text_hindi': { sources: [{ id: 'HIOV' }] },
+            'text_spanish': { sources: [{ id: 'spa_r09' }] },
+            'text_odia': { sources: [{ lang: 'Oriya' }] }
+        };
+
+        // Custom Logger
+        function log(msg) {
+            const box = document.getElementById('debugLog');
+            box.textContent += msg + '\n';
+            box.scrollTop = box.scrollHeight;
+            console.log(msg);
+        }
+
+        // Mock Functions
+        async function setPreferredLanguage(langKey) {
+            log(`[Action] setPreferredLanguage called with: ${langKey}`);
+            state.preferredLang = langKey;
+            await changeLanguage(langKey);
+        }
+
+        async function changeLanguage(langKey) {
+            log(`[Function] changeLanguage called for: ${langKey}`);
+
+            // Logic being tested
+            state.currentTranslationId = null;
+            log(`Checking reset: state.currentTranslationId is now ${state.currentTranslationId}`);
+
+            await loadBibleForCurrentLanguage(langKey);
+        }
+
+        async function loadBibleForCurrentLanguage(langKey) {
+            log(`[Function] loadBibleForCurrentLanguage called for ${langKey}`);
+
+            const config = BIBLE_CONFIG[langKey];
+            let activeSources = config.sources || [];
+
+            if (state.currentTranslationId) {
+                let match = activeSources.find(s => (s.id || s.lang) === state.currentTranslationId);
+                if (!match) {
+                    log(`[Logic Update] ID ${state.currentTranslationId} not found. Resetting.`);
+                    state.currentTranslationId = null;
+                }
+            }
+
+            if (!state.currentTranslationId && activeSources.length > 0) {
+                state.currentTranslationId = activeSources[0].id || activeSources[0].lang;
+                log(`[Logic Update] Set default ID: ${state.currentTranslationId}`);
+            }
+
+            log(`Final ID Logic Result: ${state.currentTranslationId}`);
+            document.getElementById('status').textContent = `Current Language: ${langKey}, ID: ${state.currentTranslationId}`;
+        }
+
+        function disableUnavailableLanguages() {
+            log('[Function] disableUnavailableLanguages called');
+            const selector = document.getElementById('preferredLangSelector');
+            log(`Options count: ${selector.options.length}`);
+
+            for (let i = 0; i < selector.options.length; i++) {
+                const opt = selector.options[i];
+                log(`Option ${i}: ${opt.value} (Disabled: ${opt.disabled}, Display: ${opt.style.display})`);
+                opt.style.display = ''; // Force show
+            }
+        }
+
+        // Init
+        window.onload = function () {
+            log('Page Loaded');
+            disableUnavailableLanguages();
+        };
+
+    </script>
+</body>
+
+</html>

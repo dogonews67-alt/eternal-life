@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Who made a golden calf for the Israelites to worship?",
+    "options": [
+      "Moses",
+      "Aaron",
+      "Joshua",
+      "Miriam"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Who did Samuel anoint as the second King of Israel?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Jesse"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What was the name of the tower where God confused the languages?",
+    "options": [
+      "Tower of David",
+      "Tower of Babel",
+      "Tower of Siloam",
+      "Tower of Shechem"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the mother of Jesus?",
+    "options": [
+      "Elizabeth",
+      "Mary",
+      "Martha",
+      "Salome"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Which prophet ran away from God and got on a boat to Tarshish?",
+    "options": [
+      "Jonah",
+      "Amos",
+      "Micah",
+      "Hosea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the hairy brother of Jacob?",
+    "options": [
+      "Laban",
+      "Esau",
+      "Ishmael",
+      "Isaac"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the paralyzed man healed by Peter at the Beautiful Gate?",
+    "options": [
+      "A man lame from birth",
+      "A blind beggar",
+      "A leper",
+      "A deaf man"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 7
+  },
+  {
+    "question": "Who did Jesus call a 'fox'?",
+    "options": [
+      "Pilate",
+      "Herod",
+      "Caiaphas",
+      "Judas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 8
+  },
+  {
+    "question": "Who was Ruth's mother-in-law?",
+    "options": [
+      "Orpah",
+      "Naomi",
+      "Mara",
+      "Hannah"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who were the first two disciples called by Jesus?",
+    "options": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Nathaniel",
+      "Matthew and Thomas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 5
+  }
+]

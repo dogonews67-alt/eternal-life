@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Kutsal Kitap Bilgi Yarışması",
+  "questions": [
+    {
+      "question": "Gemiyi kim inşa etti?",
+      "options": [
+        "Musa",
+        "Nuh",
+        "Davut",
+        "Süleyman"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vaftizci Yahya çölde hangi alışılmadık yiyeceği yiyordu?",
+      "options": [
+        "Çekirge ve yaban balı",
+        "Ekmek ve balık",
+        "İncir ve zeytin",
+        "Kuzu ve otlar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Hangi adam o kadar güçlüydü ki bir aslanı çıplak elleriyle öldürdü?",
+      "options": [
+        "Davut",
+        "Şimşon",
+        "Golyat",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kimin kardeşlerinin kıskandığı çok renkli bir kaftanı vardı?",
+      "options": [
+        "Benyamin",
+        "Yusuf",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Musa, Mısırlılardan kaçmak için hangi denizi ikiye böldü?",
+      "options": [
+        "Ölü Deniz",
+        "Celile",
+        "Kızıldeniz",
+        "Akdeniz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kim büyük bir balık tarafından yutuldu?",
+      "options": [
+        "Yunus",
+        "Petrus",
+        "Pavlus",
+        "Nuh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Hangi kadın arkasına baktığı için tuzdan bir direğe dönüştü?",
+      "options": [
+        "Sara",
+        "Lut'un karısı",
+        "Rebeka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Dev savaşçı Golyat'ı bir sapanla kim yendi?",
+      "options": [
+        "Saul",
+        "Yonatan",
+        "Davut",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "İsa'yı görmek için bir yabani incir ağacına tırmanan kısa boylu adam kimdi?",
+      "options": [
+        "Bartimeus",
+        "Zakeus",
+        "Matta",
+        "Nikodimos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Balam peygamberle hangi hayvan konuştu?",
+      "options": [
+        "Bir aslan",
+        "Bir koyun",
+        "Bir eşek",
+        "Bir deve"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kutsal Kitap'taki ilk katil kimdi?",
+      "options": [
+        "Kabil",
+        "Habil",
+        "Şit",
+        "Lamek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kim aslanlar inine atıldı ama hayatta kaldı?",
+      "options": [
+        "Daniel",
+        "Yusuf",
+        "Şadrak",
+        "Yeremya"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Gizli bir kılıçla şişman bir kralı öldüren solak hakim kimdi?",
+      "options": [
+        "Gideon",
+        "Ehut",
+        "Şimşon",
+        "Yeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "İsa'ya 30 gümüş paraya kim ihanet etti?",
+      "options": [
+        "Petrus",
+        "Yahuda İskariot",
+        "Pontius Pilatus",
+        "Kayafa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hangi genç çocuk gece uyurken Tanrı'nın ona adıyla seslendiğini duydu?",
+      "options": [
+        "Davut",
+        "Samuel",
+        "İshak",
+        "Yusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi öğrenci İsa ile buluşmak için su üstünde yürüdü?",
+      "options": [
+        "Yakup",
+        "Yuhanna",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Tanrı İsraillilere çölde yemeleri için ne gönderdi?",
+      "options": [
+        "Ekmek",
+        "Bıldırcın",
+        "Manna",
+        "İncir"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kutsal Kitap'taki en güçlü adam kim olarak kabul edilir?",
+      "options": [
+        "Golyat",
+        "Şimşon",
+        "Boaz",
+        "Esav"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Halkını soykırımdan kurtaran kraliçe kimdi?",
+      "options": [
+        "Rut",
+        "Ester",
+        "İzebel",
+        "Bat-Şeba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Horoz ötmeden önce İsa'yı üç kez kim reddetti?",
+      "options": [
+        "Tomas",
+        "Yahuda",
+        "Petrus",
+        "Filipos"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "İsa'nın Kana'daki düğündeki ilk mucizesi neydi?",
+      "options": [
+        "Körü iyileştirdi",
+        "Suyu şaraba dönüştürdü",
+        "Su üstünde yürüdü",
+        "Beş bin kişiyi doyurdu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "İsrailliler etrafında yedi kez dolandıktan sonra hangi şehrin surları yıkıldı?",
+      "options": [
+        "Yeruşalim",
+        "Eriha",
+        "Ay",
+        "Babil"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kim \"Ağlayan Peygamber\" olarak biliniyordu?",
+      "options": [
+        "Yeşaya",
+        "Yeremya",
+        "Hezekiel",
+        "Hoşea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Delila kimin saçını keserek gücünü kaybetmesine neden oldu?",
+      "options": [
+        "Şimşon",
+        "Davut",
+        "Abşalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "İsa'nın öğrencisi olmadan önce Matta'nın işi neydi?",
+      "options": [
+        "Balıkçı",
+        "Vergi görevlisi",
+        "Marangoz",
+        "Çoban"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Dirilişinden sonra İsa'yı ilk gören kimdi?",
+      "options": [
+        "Petrus",
+        "Yuhanna",
+        "Magdalalı Meryem",
+        "Annesi Meryem"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Hangi kötü kraliçe köpekler tarafından yenildi?",
+      "options": [
+        "Ester",
+        "İzebel",
+        "Atalya",
+        "Herodyas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "İki casusu evinin çatısında kim sakladı?",
+      "options": [
+        "Rut",
+        "Rahav",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Davut, Kral Saul'u sakinleştirmek için hangi enstrümanı çalardı?",
+      "options": [
+        "Borazan",
+        "Lir (Arp)",
+        "Flüt",
+        "Davul"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Şam yolunda kim kör oldu?",
+      "options": [
+        "Petrus",
+        "İstefanos",
+        "Saul (Pavlus)",
+        "Barnaba"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Hangi peygambere kargalar yiyecek getirdi?",
+      "options": [
+        "Elişa",
+        "İlyas",
+        "Yeşaya",
+        "Yeremya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Babasının ev putlarını kim çaldı?",
+      "options": [
+        "Lea",
+        "Rahel",
+        "Rebeka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Pavlus'un uzun vaazı sırasında pencereden düşüp ölen kimdi?",
+      "options": [
+        "Timoteos",
+        "Eutihos",
+        "Tihikos",
+        "Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Nil Nehri'nde bir sepet içinde hangi bebek bulundu?",
+      "options": [
+        "Harun",
+        "Musa",
+        "Yeşu",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kim bütün gece bir melekle güreşti?",
+      "options": [
+        "İbrahim",
+        "İshak",
+        "Yakup",
+        "Esav"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Zenginlik veya uzun ömür yerine Tanrı'dan bilgelik isteyen kimdi?",
+      "options": [
+        "Davut",
+        "Süleyman",
+        "Saul",
+        "Hizkiya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hangi kadın İsa'nın giysisinin eteğine dokunarak iyileşti?",
+      "options": [
+        "Hiçbiri",
+        "Kanamalı kadın",
+        "Kör kadın",
+        "Topal kadın"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi kral delirdi ve öküz gibi ot yedi?",
+      "options": [
+        "Belşassar",
+        "Nebukadnetsar",
+        "Daryuş",
+        "Kiros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Para konusunda Kutsal Ruh'a yalan söyledikleri için hangi çift öldü?",
+      "options": [
+        "Ananyas ve Safira",
+        "Priskilla ve Akvila",
+        "Ahab ve İzebel",
+        "İbrahim ve Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Hangi öğrenci \"Şüpheci\" olarak biliniyordu?",
+      "options": [
+        "Petrus",
+        "Tomas",
+        "Filipos",
+        "Andreas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Güvercin gemideki Nuh'a ne getirdi?",
+      "options": [
+        "İncir yaprağı",
+        "Zeytin dalı",
+        "Çiçek",
+        "Böcek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kimin 700 karısı ve 300 cariyesi vardı?",
+      "options": [
+        "Davut",
+        "Süleyman",
+        "Rehoboam",
+        "İbrahim"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "İlk oğulluk hakkını bir kase çorba için kim sattı?",
+      "options": [
+        "Yakup",
+        "Esav",
+        "Yusuf",
+        "İshak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi peygamber bir balta başını suyun üstünde yüzdürdü?",
+      "options": [
+        "İlyas",
+        "Elişa",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Bebek İsa'yı tapınakta Mesih olarak kim tanıdı?",
+      "options": [
+        "Şimon",
+        "Yusuf",
+        "Nikodimos",
+        "Petrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Güneş ve Ay'a durmalarını kim emretti?",
+      "options": [
+        "Musa",
+        "Yeşu",
+        "Davut",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Hangi öğrenci başkahinin kölesinin kulağını kesti?",
+      "options": [
+        "Yakup",
+        "Yuhanna",
+        "Petrus",
+        "Yahuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "On Emir'i almak için Sina Dağı'na kim çıktı?",
+      "options": [
+        "Harun",
+        "Yeşu",
+        "Musa",
+        "İbrahim"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "İsrail'in ilk kralı kimdi?",
+      "options": [
+        "Davut",
+        "Saul",
+        "Süleyman",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Hangi zengin adam İsa'yı kendi yeni mezarına gömdü?",
+      "options": [
+        "Nikodimos",
+        "Aramatyalı Yusuf",
+        "Şimon",
+        "Lazar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Malta Adası'nda Pavlus'u ne tür bir yılan ısırdı?",
+      "options": [
+        "Kobra",
+        "Engerek",
+        "Piton",
+        "Akrep"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Vaftizci Yahya'nın annesinin adı neydi?",
+      "options": [
+        "Meryem",
+        "Elizabet",
+        "Marta",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Sadece 300 adamla borazanlar ve testiler kullanarak Midyanlıları kim yendi?",
+      "options": [
+        "Şimşon",
+        "Gideon",
+        "Balak",
+        "Yeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Altın heykele tapınmayı reddettikleri için kızgın fırına atılan üç adam kimdi?",
+      "options": [
+        "Daniel",
+        "Şadrak, Meşak ve Abed-Nego",
+        "Ezra ve Nehemya",
+        "Pavlus ve Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ellerini yıkayıp İsa'nın kanından \"suçsuzum\" diyen kimdi?",
+      "options": [
+        "Herodes",
+        "Kayafa",
+        "Pontius Pilatus",
+        "Yahuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kim \"Tanrı'nın dostu\" olarak anılırdı?",
+      "options": [
+        "Musa",
+        "İbrahim",
+        "Davut",
+        "Nuh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Hangi peygamber büyük bir balık tarafından yutuldu?",
+      "options": [
+        "Yunus",
+        "Mika",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kral Belşassar için duvardaki yazıyı kim yorumladı?",
+      "options": [
+        "Yusuf",
+        "Daniel",
+        "Hezekiel",
+        "Yeşaya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "İsrail'de hakimlik yapan kadın kimdi?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Ester",
+        "Meryem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ölü bir çocuğu hayata döndürmek için üstüne üç kez kim uzandı?",
+      "options": [
+        "İlyas",
+        "Elişa",
+        "Petrus",
+        "Pavlus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Davut'un hangi oğlu saçı bir ağaca takıldığı için öldü?",
+      "options": [
+        "Süleyman",
+        "Abşalom",
+        "Adoniya",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Tanrı, çölde Musa ile konuşmak için ne kullandı?",
+      "options": [
+        "Yanan çalı",
+        "Bulut",
+        "Fırtına",
+        "Eşek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "İyi Samiriyeli meselinde yaralı adama kim yardım etti?",
+      "options": [
+        "Kahin",
+        "Levili",
+        "Samiriyeli",
+        "Romalı asker"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kutsal Kitap'taki en yaşlı adam kimdi (969 yıl)?",
+      "options": [
+        "Nuh",
+        "İbrahim",
+        "Metuşelah",
+        "Hanok"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi öğrenci su üstünde yürürken batmaya başladı?",
+      "options": [
+        "Yakup",
+        "Yuhanna",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Tanrı gökten ateş ve kükürt yağdırarak hangi şehri yok etti?",
+      "options": [
+        "Eriha",
+        "Ninova",
+        "Sodom",
+        "Babil"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Gökyüzüne uzanan ve meleklerin inip çıktığı bir merdiveni kim gördü?",
+      "options": [
+        "İbrahim",
+        "İshak",
+        "Yakup",
+        "Yusuf"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Tanrı'nın yarattığı ilk erkek kimdi?",
+      "options": [
+        "Kabil",
+        "Habil",
+        "Adem",
+        "Nuh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Adem'in kaburga kemiğinden yaratılan ilk kadın kimdi?",
+      "options": [
+        "Sara",
+        "Havva",
+        "Meryem",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Hangi peygamber çamur dolu bir kuyuya atıldı?",
+      "options": [
+        "Yeşaya",
+        "Yeremya",
+        "Hezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Hangi kral gelmiş geçmiş en bilge kral olarak kabul edilir?",
+      "options": [
+        "Davut",
+        "Saul",
+        "Süleyman",
+        "Hizkiya"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "İsrailliler Mısır'daki onuncu beladan kurtulmak için kapılarına ne sürdüler?",
+      "options": [
+        "Kuzu kanı",
+        "Yağ",
+        "Su",
+        "Kül"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Vaftizci Yahya'nın başının kesilmesini kim emretti?",
+      "options": [
+        "Herodes",
+        "Pilatus",
+        "Saul",
+        "Süleyman"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "İsa'nın öğrencilerinden hangisi bir doktordu?",
+      "options": [
+        "Matta",
+        "Luka",
+        "Markos",
+        "Yuhanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "İsa'nın çarmıhını taşımasına kim yardım etti?",
+      "options": [
+        "Kireneli Simun",
+        "Aramatyalı Yusuf",
+        "Petrus",
+        "Yuhanna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "İsa beş bin kişiye yemek olarak ne verdi?",
+      "options": [
+        "Manna ve bıldırcın",
+        "5 somun ekmek ve 2 balık",
+        "7 somun ekmek ve birkaç küçük balık",
+        "Ekmek ve şarap"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Bir mülkün fiyatı hakkında yalan söyledikten sonra hangi çift öldü?",
+      "options": [
+        "Ananyas ve Safira",
+        "Priskilla ve Akvila",
+        "Ahab ve İzebel",
+        "İbrahim ve Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Rab'bin önünde kim \"yiğit bir avcı\" olarak tanımlandı?",
+      "options": [
+        "Golyat",
+        "Nemrut",
+        "Esav",
+        "Şimşon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Hangi öğrenci kralın hizmetkarının kulağını kesti?",
+      "options": [
+        "Yuhanna",
+        "Yakup",
+        "Petrus",
+        "Yahuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi elçi taşlanarak öldürüldü (ilk şehit)?",
+      "options": [
+        "Yakup",
+        "İstefanos",
+        "Pavlus",
+        "Barnaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Hangi kral bir bebekle ilgili iki kadın arasındaki anlaşmazlıkta hüküm verdi?",
+      "options": [
+        "Davut",
+        "Saul",
+        "Süleyman",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "İbrahim'in ilk oğlu İsmail'in annesi kimdi?",
+      "options": [
+        "Sara",
+        "Hacer",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "İsrail'in ilk başkâhini kimdi?",
+      "options": [
+        "Musa",
+        "Harun",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Zengin genç yönetici İsa'dan daha çok neyi seviyordu?",
+      "options": [
+        "Ailesini",
+        "Gücünü",
+        "Parasini/mülklerini",
+        "İtibarını"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Meşhur «Kardeşimin bekçisi miyim ben?» sözünü kim söyledi?",
+      "options": [
+        "Habil",
+        "Kabil",
+        "Esav",
+        "Yusuf'un kardeşleri"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Musa öldükten sonra İsraillilere Vaat Edilmiş Topraklara kim önderlik etti?",
+      "options": [
+        "Kalep",
+        "Yeşu",
+        "Harun",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hovarda oğul parası bittiğinde hangi işi yaptı?",
+      "options": [
+        "Domuz gütmek",
+        "Ev inşa etmek",
+        "Balıkçılık",
+        "Dilencilik"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "İsa'yı ölüme mahkum eden Romalı vali kimdi?",
+      "options": [
+        "Herod Antipas",
+        "Pontius Pilatus",
+        "Sezar Augustus",
+        "Felikos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "«Altın Kural» nedir?",
+      "options": [
+        "Tanrı'yı bütün yüreğinle sev",
+        "Başkalarının size nasıl davranmasını istiyorsanız, siz de onlara öyle davranın",
+        "Rab İsa'ya inan",
+        "Anne ve babana saygı göster"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "İsa, dört gün boyunca mezarda kaldıktan sonra kimi ölümden diriltti?",
+      "options": [
+        "Yairus'un kızı",
+        "Dul kadının oğlu",
+        "Lazar",
+        "Tabita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kral Hirodes Tanrı'yı yüceltmediğinde ona ne oldu?",
+      "options": [
+        "Yıldırım çarptı",
+        "Kurtlar tarafından yenildi",
+        "Kör oldu",
+        "Tahtından düştü"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "İsraillilerin tapınması için altın buzağıyı kim yaptı?",
+      "options": [
+        "Musa",
+        "Harun",
+        "Yeşu",
+        "Meryem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Samuel İsrail'in ikinci kralı olarak kimi meshetti?",
+      "options": [
+        "Saul",
+        "Davut",
+        "Süleyman",
+        "Yesse"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Tanrı'nın dilleri karıştırdığı kulenin adı neydi?",
+      "options": [
+        "Davut Kulesi",
+        "Babil Kulesi",
+        "Siloam Kulesi",
+        "Şehem Kulesi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "İsa'nın annesinin adı neydi?",
+      "options": [
+        "Elisabet",
+        "Meryem",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Hangi peygamber Tanrı'dan kaçıp Tarşiş'e giden bir gemiye bindi?",
+      "options": [
+        "Yunus",
+        "Amos",
+        "Mika",
+        "Hoşea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Yakup'un kıllı kardeşi kimdi?",
+      "options": [
+        "Laban",
+        "Esav",
+        "İsmail",
+        "İshak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Güzel Kapı'da Petrus tarafından iyileştirilen felçli adam kimdi?",
+      "options": [
+        "Doğuştan kötürüm bir adam",
+        "Kör bir dilenci",
+        "Cüzamlı",
+        "Sağır bir adam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "İsa kime «tilki» dedi?",
+      "options": [
+        "Pilatus",
+        "Hirodes",
+        "Kayafa",
+        "Yahuda"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Rut'un kayınvalidesi kimdi?",
+      "options": [
+        "Orpa",
+        "Naomi",
+        "Mara",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

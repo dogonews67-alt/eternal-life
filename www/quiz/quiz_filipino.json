@@ -1,0 +1,7814 @@
+{
+  "quizTitle": "Bible Quiz",
+  "questions": [
+    {
+      "question": "Who built the Ark?",
+      "options": [
+        "Moses",
+        "Noah",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "What unusual food did John the Baptist eat?",
+      "options": [
+        "Locusts and Honey",
+        "Bread and Fish",
+        "Figs and Olives",
+        "Lamb and Herbs"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Which man was so strong he killed a lion with his bare hands?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliath",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who had a coat of many colors that made his brothers jealous?",
+      "options": [
+        "Benjamin",
+        "Joseph",
+        "Reuben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Which sea did Moses part to escape the Egyptians?",
+      "options": [
+        "Dead Sea",
+        "Galilee",
+        "Red Sea",
+        "Mediterranean"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Who was swallowed by a great fish?",
+      "options": [
+        "Jonah",
+        "Peter",
+        "Paul",
+        "Noah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Which woman turned into a pillar of salt for looking back?",
+      "options": [
+        "Sarah",
+        "Lot's Wife",
+        "Rebekah",
+        "Leah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who defeated the giant warrior Goliath with a sling?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Which short man climbed a sycamore tree to see Jesus?",
+      "options": [
+        "Bartimaeus",
+        "Zacchaeus",
+        "Matthew",
+        "Nicodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "What animal spoke to the prophet Balaam?",
+      "options": [
+        "A Lion",
+        "A Sheep",
+        "A Donkey",
+        "A Camel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the first murderer in the Bible?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Seth",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was thrown into a den of lions but survived?",
+      "options": [
+        "Daniel",
+        "Joseph",
+        "Shadrach",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Which left-handed judge killed a fat king with a hidden sword?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Who betrayed Jesus for 30 pieces of silver?",
+      "options": [
+        "Peter",
+        "Judas Iscariot",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Which young boy heard God calling his name at night while he slept?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isaac",
+        "Joseph"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who walked on water to meet Jesus?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Andrew"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "What fell from the sky to feed the Israelites in the desert?",
+      "options": [
+        "Bread",
+        "Quail",
+        "Manna",
+        "Figs"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Who is known as the strongest man in the Bible?",
+      "options": [
+        "Goliath",
+        "Samson",
+        "Boaz",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Which Queen saved the Jewish people from a plot to kill them?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Jezebel",
+        "Bathsheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who famously denied knowing Jesus three times before the rooster crowed?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Peter",
+        "Philip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "What miracle did Jesus perform at the wedding in Cana?",
+      "options": [
+        "Healed a blind man",
+        "Turned water into wine",
+        "Walked on water",
+        "Multiplied bread"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Which city's walls fell down after the Israelites marched around them?",
+      "options": [
+        "Jerusalem",
+        "Jericho",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the 'Weeping Prophet'?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who had his hair cut by Delilah, losing his strength?",
+      "options": [
+        "Samson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Which disciple was a tax collector before following Jesus?",
+      "options": [
+        "Luke",
+        "Matthew",
+        "Mark",
+        "John"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the first person to see Jesus after he rose from the dead?",
+      "options": [
+        "Peter",
+        "John",
+        "Mary Magdalene",
+        "His mother Mary"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Which wicked Queen was eaten by dogs?",
+      "options": [
+        "Esther",
+        "Jezebel",
+        "Athaliah",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who hid two spies under stalks of flax on her roof?",
+      "options": [
+        "Ruth",
+        "Rahab",
+        "Sarah",
+        "Deborah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument did David play to soothe King Saul?",
+      "options": [
+        "Trumpet",
+        "Harp/Lyre",
+        "Flute",
+        "Tambourine"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was struck blind on the road to Damascus?",
+      "options": [
+        "Peter",
+        "Stephen",
+        "Saul (Paul)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Which prophet was fed by ravens?",
+      "options": [
+        "Elisha",
+        "Elijah",
+        "Isaiah",
+        "Jeremiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who stole her father's household idols (gods)?",
+      "options": [
+        "Leah",
+        "Rachel",
+        "Rebekah",
+        "Dinah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Who fell out of a window because Paul preached too long?",
+      "options": [
+        "Timothy",
+        "Eutychus",
+        "Tychicus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Which baby was found floating in a basket in the Nile River?",
+      "options": [
+        "Aaron",
+        "Moses",
+        "Joshua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Who wrestled with God (or an angel) all night?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Who asked God for wisdom?",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Hezekiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who touched the hem of Jesus' garment and was healed?",
+      "options": [
+        "A leper",
+        "A bleeding woman",
+        "A blind man",
+        "A paralyzed man"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Which King went mad and ate grass like an ox?",
+      "options": [
+        "Belshazzar",
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who lied to the Holy Spirit about money and fell down dead?",
+      "options": [
+        "Ananias and Sapphira",
+        "Priscilla and Aquila",
+        "Adam and Eve",
+        "Ahab and Jezebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the 'doubting' disciple?",
+      "options": [
+        "Peter",
+        "Thomas",
+        "Philip",
+        "Andrew"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "What did the dove bring back to Noah's Ark?",
+      "options": [
+        "A fig leaf",
+        "An olive branch",
+        "A worm",
+        "A rose"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who had 700 wives and 300 concubines?",
+      "options": [
+        "David",
+        "Solomon",
+        "Rehoboam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who sold his birthright for a bowl of red stew?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Joseph",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Which prophet made an axe head float on water?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who recognized Jesus as the Messiah when He was just a baby?",
+      "options": [
+        "Simeon",
+        "Joseph",
+        "Nicodemus",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who commanded the sun and moon to stand still?",
+      "options": [
+        "Moses",
+        "Joshua",
+        "David",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Which disciple cut off the ear of the High Priest's servant?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Who climbed Mount Sinai to receive the Ten Commandments?",
+      "options": [
+        "Aaron",
+        "Joshua",
+        "Moses",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Who was the first king of Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Which rich man buried Jesus in his own tomb?",
+      "options": [
+        "Nicodemus",
+        "Joseph of Arimathea",
+        "Simon of Cyrene",
+        "Lazarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What was the name of the snake that bit Paul on the island of Malta?",
+      "options": [
+        "Cobra",
+        "Viper",
+        "Python",
+        "Rattlesnake"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the mother of John the Baptist?",
+      "options": [
+        "Mary",
+        "Elizabeth",
+        "Martha",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who defeated the Midianites with only 300 men, trumpets, and jars?",
+      "options": [
+        "Samson",
+        "Gideon",
+        "Barak",
+        "Jephthah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Who refused to worship the golden image and was thrown into a furnace?",
+      "options": [
+        "Daniel",
+        "Shadrach, Meshach, and Abednego",
+        "Ezra and Nehemiah",
+        "Paul and Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who washed his hands to claim innocence in Jesus' death?",
+      "options": [
+        "Herod",
+        "Caiaphas",
+        "Pontius Pilate",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was known as the 'friend of God'?",
+      "options": [
+        "Moses",
+        "Abraham",
+        "David",
+        "Noah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Which prophet was swallowed by a whale (great fish)?",
+      "options": [
+        "Jonah",
+        "Micah",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Who interpreted the writing on the wall?",
+      "options": [
+        "Joseph",
+        "Daniel",
+        "Ezekiel",
+        "Isaiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the female judge who led Israel?",
+      "options": [
+        "Ruth",
+        "Deborah",
+        "Esther",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Who brought a boy back to life by laying on him three times?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which son of King David got his long hair caught in a tree and was killed?",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Adonijah",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What did God use to speak to Moses in the desert?",
+      "options": [
+        "A burning bush",
+        "A cloud",
+        "A whirlwind",
+        "A donkey"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "In the Parable of the Good Samaritan, who helped the injured man?",
+      "options": [
+        "A Priest",
+        "A Levite",
+        "A Samaritan",
+        "A Roman Soldier"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the oldest man in the Bible, living 969 years?",
+      "options": [
+        "Noah",
+        "Adam",
+        "Methuselah",
+        "Enoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Which disciple tried to walk on water but began to sink?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Andrew"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "What city did God destroy with fire and brimstone because of its wickedness?",
+      "options": [
+        "Jericho",
+        "Nineveh",
+        "Sodom",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Who had a dream about a ladder reaching up to heaven with angels ascending and descending?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Joseph"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the first man created by God?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Adam",
+        "Noah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Who was the first woman, created from Adam's rib?",
+      "options": [
+        "Sarah",
+        "Eve",
+        "Mary",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Which prophet was thrown into a muddy cistern (dungeon)?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was known as the 'wisest king' who ever lived?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Hezekiah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "What did the Israelites put on their doorposts to avoid the 10th plague in Egypt?",
+      "options": [
+        "Lamb's blood",
+        "Olive oil",
+        "Water",
+        "Ashes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who commanded a widow to make him bread with her last bit of flour and oil?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which disciple was a doctor (physician)?",
+      "options": [
+        "Matthew",
+        "Luke",
+        "Mark",
+        "John"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who helped Jesus carry His cross?",
+      "options": [
+        "Simon of Cyrene",
+        "Joseph of Arimathea",
+        "Peter",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Jesus feed to the 5,000 people?",
+      "options": [
+        "Manna and Quail",
+        "5 Loaves and 2 Fish",
+        "7 Loaves and a few fish",
+        "Bread and Wine"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Which couple died for lying about the price of their land?",
+      "options": [
+        "Ananias and Sapphira",
+        "Aquila and Priscilla",
+        "Ahab and Jezebel",
+        "Abraham and Sarah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the giant hunter known as a 'mighty hunter before the Lord'?",
+      "options": [
+        "Goliath",
+        "Nimrod",
+        "Esau",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who cut off the ear of the High Priest's servant in the Garden of Gethsemane?",
+      "options": [
+        "John",
+        "James",
+        "Peter",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the first Christian martyr stoned to death?",
+      "options": [
+        "James",
+        "Stephen",
+        "Paul",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Which king proposed cutting a baby in half to solve a dispute between two mothers?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Herod"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the Egyptian woman who bore Abraham's first son, Ishmael?",
+      "options": [
+        "Sarah",
+        "Hagar",
+        "Keturah",
+        "Rebekah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What happened to the Egyptian army when they tried to follow Israel through the Red Sea?",
+      "options": [
+        "They got lost",
+        "They drowned",
+        "They turned back",
+        "Fire consumed them"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the 'father of the faithful' who was willing to sacrifice his own son?",
+      "options": [
+        "Noah",
+        "Moses",
+        "Abraham",
+        "Jacob"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "What gift did the Queen of Sheba give to Solomon?",
+      "options": [
+        "Horses",
+        "Gold, Spices, and Stones",
+        "Weapons",
+        "A Palace"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the leper captain who dipped in the Jordan River 7 times to be healed?",
+      "options": [
+        "Naaman",
+        "Gehazi",
+        "Balak",
+        "Potiphar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who laughed when she heard she would have a baby in her old age?",
+      "options": [
+        "Sarah",
+        "Rebekah",
+        "Rachel",
+        "Hannah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What did Esau do for a living?",
+      "options": [
+        "Shepherd",
+        "Hunter",
+        "Farmer",
+        "Tent Maker"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who had a coat that was dipped in blood to trick his father?",
+      "options": [
+        "Benjamin",
+        "Joseph",
+        "Judah",
+        "Simeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was David's best friend?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "Samuel",
+        "Abner"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Which prophet scolded King David for his sin with Bathsheba?",
+      "options": [
+        "Samuel",
+        "Nathan",
+        "Elijah",
+        "Isaiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the first high priest of Israel?",
+      "options": [
+        "Moses",
+        "Aaron",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the rich young ruler love more than Jesus?",
+      "options": [
+        "His family",
+        "His power",
+        "His money/possessions",
+        "His reputation"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Who famously said, 'Am I my brother's keeper?'",
+      "options": [
+        "Abel",
+        "Cain",
+        "Esau",
+        "Joseph's brothers"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who led the Israelites into the Promised Land after Moses died?",
+      "options": [
+        "Caleb",
+        "Joshua",
+        "Aaron",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "What job did the Prodigal Son take when he ran out of money?",
+      "options": [
+        "Feeding pigs",
+        "Building houses",
+        "Fishing",
+        "Begging"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the Roman Governor who sentenced Jesus to death?",
+      "options": [
+        "Herod Antipas",
+        "Pontius Pilate",
+        "Caesar Augustus",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "What is the 'Golden Rule'?",
+      "options": [
+        "Love God with all your heart",
+        "Do unto others as you would have them do to you",
+        "Believe in the Lord Jesus",
+        "Honor your parents"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who did Jesus raise from the dead after he had been in the tomb four days?",
+      "options": [
+        "Jairus' daughter",
+        "The widow's son",
+        "Lazarus",
+        "Tabitha"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "What happened to King Herod when he did not give praise to God?",
+      "options": [
+        "He was struck by lightning",
+        "He was eaten by worms",
+        "He went blind",
+        "He fell off his throne"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Who made a golden calf for the Israelites to worship?",
+      "options": [
+        "Moses",
+        "Aaron",
+        "Joshua",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who did Samuel anoint as the second King of Israel?",
+      "options": [
+        "Saul",
+        "David",
+        "Solomon",
+        "Jesse"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "What was the name of the tower where God confused the languages?",
+      "options": [
+        "Tower of David",
+        "Tower of Babel",
+        "Tower of Siloam",
+        "Tower of Shechem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the mother of Jesus?",
+      "options": [
+        "Elizabeth",
+        "Mary",
+        "Martha",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Which prophet ran away from God and got on a boat to Tarshish?",
+      "options": [
+        "Jonah",
+        "Amos",
+        "Micah",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the hairy brother of Jacob?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ishmael",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the paralyzed man healed by Peter at the Beautiful Gate?",
+      "options": [
+        "A man lame from birth",
+        "A blind beggar",
+        "A leper",
+        "A deaf man"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who did Jesus call a 'fox'?",
+      "options": [
+        "Pilate",
+        "Herod",
+        "Caiaphas",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was Ruth's mother-in-law?",
+      "options": [
+        "Orpah",
+        "Naomi",
+        "Mara",
+        "Hannah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who were the first two disciples called by Jesus?",
+      "options": [
+        "James and John",
+        "Peter and Andrew",
+        "Philip and Nathaniel",
+        "Matthew and Thomas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the soldiers place on Jesus' head?",
+      "options": [
+        "A gold crown",
+        "A crown of thorns",
+        "A helmet",
+        "A laurel wreath"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the 'beloved physician' who traveled with Paul?",
+      "options": [
+        "Mark",
+        "Luke",
+        "Barnabas",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who had a vision of a sheet filled with animals coming down from heaven?",
+      "options": [
+        "Paul",
+        "Peter",
+        "John",
+        "James"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who fell at Jesus' feet and anointed them with perfume?",
+      "options": [
+        "Mary of Bethany",
+        "Martha",
+        "Mary the mother of Jesus",
+        "Salome"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the king who threw Daniel into the lion's den?",
+      "options": [
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus",
+        "Belshazzar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Which prophet saw a valley of dry bones come to life?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the first person to see the risen Jesus?",
+      "options": [
+        "Peter",
+        "John",
+        "Mary Magdalene",
+        "Thomas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the short tax collector who climbed a tree?",
+      "options": [
+        "Matthew",
+        "Zacchaeus",
+        "Levi",
+        "Simon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Which disciple was a 'Son of Thunder' along with his brother James?",
+      "options": [
+        "Peter",
+        "John",
+        "Andrew",
+        "Philip"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who prayed in the belly of a fish?",
+      "options": [
+        "Jonah",
+        "Noah",
+        "Moses",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Who killed the enemy general Sisera by driving a tent peg through his temple?",
+      "options": [
+        "Deborah",
+        "Jael",
+        "Rahab",
+        "Delilah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "What happened to the idol of Dagon when the Ark of the Covenant was placed next to it?",
+      "options": [
+        "It glowed",
+        "It fell on its face and broke",
+        "It spoke",
+        "It turned to gold"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the lame son of Jonathan whom David showed kindness to?",
+      "options": [
+        "Mephibosheth",
+        "Absalom",
+        "Solomon",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who touched the Ark of the Covenant to steady it and died immediately?",
+      "options": [
+        "Uzzah",
+        "Aaron",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which prophet was told to marry a prostitute named Gomer?",
+      "options": [
+        "Isaiah",
+        "Hosea",
+        "Jeremiah",
+        "Amos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Who visited the Witch of Endor to speak to the dead spirit of Samuel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Ahab"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "What did the prophet Elisha use to purify a pot of poisonous stew?",
+      "options": [
+        "Salt",
+        "Flour",
+        "Oil",
+        "A branch"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who had a contest with 450 prophets of Baal on Mount Carmel?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Moses",
+        "Samuel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What took Elijah up to heaven?",
+      "options": [
+        "A golden eagle",
+        "A whirlwind and chariot of fire",
+        "A stairway",
+        "A cloud"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the greedy servant of Elisha who was struck with leprosy?",
+      "options": [
+        "Gehazi",
+        "Baruch",
+        "Ziba",
+        "Onesimus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which king was killed by an arrow shot at random that hit him between his armor plates?",
+      "options": [
+        "Saul",
+        "Ahab",
+        "David",
+        "Josiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Who found a coin in the mouth of a fish to pay the temple tax?",
+      "options": [
+        "Peter",
+        "John",
+        "Matthew",
+        "Jesus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What was the name of the demon-possessed man who lived among the tombs?",
+      "options": [
+        "Legion",
+        "Goliath",
+        "Beelzebub",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who fell asleep while Peter was in prison, allowing Peter to escape?",
+      "options": [
+        "The guards",
+        "The jailer",
+        "Herod",
+        "The other prisoners"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the sorcerer who tried to buy the power of the Holy Spirit from the apostles?",
+      "options": [
+        "Simon Magus",
+        "Elymas",
+        "Bar-Jesus",
+        "Diotrephes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the seller of purple cloth who became a believer in Philippi?",
+      "options": [
+        "Lydia",
+        "Priscilla",
+        "Phoebe",
+        "Dorcas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who made clothes for the poor and was raised from the dead by Peter?",
+      "options": [
+        "Mary",
+        "Dorcas (Tabitha)",
+        "Lydia",
+        "Martha"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to the ship Paul was on while traveling to Rome?",
+      "options": [
+        "It was attacked by pirates",
+        "It was shipwrecked",
+        "It caught fire",
+        "It was swallowed by a whale"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the young man who ran away naked when Jesus was arrested?",
+      "options": [
+        "Peter",
+        "Mark",
+        "John",
+        "James"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Which disciple was a Zealot (a political revolutionary)?",
+      "options": [
+        "Simon",
+        "Judas",
+        "Matthew",
+        "Thomas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the High Priest who tore his clothes during Jesus' trial?",
+      "options": [
+        "Annas",
+        "Caiaphas",
+        "Nicodemus",
+        "Gamaliel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "What was the name of the garden where Jesus sweat drops of blood?",
+      "options": [
+        "Eden",
+        "Gethsemane",
+        "Golgotha",
+        "Olives"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Who carried the cross for Jesus?",
+      "options": [
+        "Simon of Cyrene",
+        "Joseph of Arimathea",
+        "Peter",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What was written on the sign above Jesus' cross?",
+      "options": [
+        "King of the Jews",
+        "Son of God",
+        "Messiah",
+        "Traitor"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the thief released instead of Jesus?",
+      "options": [
+        "Barabbas",
+        "Barnabas",
+        "Bartimaeus",
+        "Bartholomew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who went to the tomb early on Sunday morning and found the stone rolled away?",
+      "options": [
+        "Peter and John",
+        "Mary Magdalene and other women",
+        "The Roman guards",
+        "Joseph of Arimathea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Which two disciples ran a footrace to Jesus' empty tomb?",
+      "options": [
+        "Peter and John",
+        "James and John",
+        "Peter and Andrew",
+        "Thomas and Philip"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who did Jesus meet on the road to Emmaus?",
+      "options": [
+        "Two disciples",
+        "Peter",
+        "Mary",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What happened to Judas Iscariot after he betrayed Jesus?",
+      "options": [
+        "He became a leader",
+        "He hanged himself",
+        "He was stoned",
+        "He fled to Egypt"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was chosen to replace Judas as the 12th disciple?",
+      "options": [
+        "Matthias",
+        "Paul",
+        "Barnabas",
+        "Silas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What appeared over the heads of the disciples on the Day of Pentecost?",
+      "options": [
+        "Halos",
+        "Tongues of fire",
+        "Doves",
+        "Stars"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Which deacon was the first Christian to be stoned to death?",
+      "options": [
+        "Stephen",
+        "Philip",
+        "Prochorus",
+        "Nicanor"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who held the coats of the men who stoned Stephen?",
+      "options": [
+        "Saul (Paul)",
+        "Peter",
+        "Caiaphas",
+        "Pilate"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the magician who went blind for opposing Paul?",
+      "options": [
+        "Elymas",
+        "Simon",
+        "Demetrius",
+        "Alexander"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What was Paul's trade (job) to support himself?",
+      "options": [
+        "Carpenter",
+        "Tentmaker",
+        "Fisherman",
+        "Tax Collector"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Who were Paul's main companions on his first missionary journey?",
+      "options": [
+        "Barnabas and Mark",
+        "Silas and Timothy",
+        "Peter and John",
+        "Luke and Titus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What god did the people of Lystra think Paul was?",
+      "options": [
+        "Zeus",
+        "Hermes",
+        "Apollo",
+        "Mars"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Who were the husband and wife team that helped Paul in Corinth?",
+      "options": [
+        "Aquila and Priscilla",
+        "Ananias and Sapphira",
+        "Abraham and Sarah",
+        "Zechariah and Elizabeth"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What fell off Saul's eyes when Ananias prayed for him?",
+      "options": [
+        "Scales",
+        "Dust",
+        "A veil",
+        "Tears"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the runaway slave Paul wrote a letter about?",
+      "options": [
+        "Onesimus",
+        "Philemon",
+        "Tychicus",
+        "Epaphroditus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who had a dispute with Paul about taking Mark on a journey?",
+      "options": [
+        "Barnabas",
+        "Peter",
+        "Silas",
+        "James"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which book of the Bible describes the end of the world?",
+      "options": [
+        "Genesis",
+        "Revelation",
+        "Daniel",
+        "Isaiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "In Revelation, what animal is Jesus often called?",
+      "options": [
+        "The Lion and the Lamb",
+        "The Eagle",
+        "The Bear",
+        "The Dove"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What is the name of the river of life in Revelation?",
+      "options": [
+        "Jordan",
+        "Nile",
+        "Euphrates",
+        "It is not named, just 'River of Life'"
+      ],
+      "correctAnswer": 3,
+      "difficulty": 8
+    },
+    {
+      "question": "Who ate forbidden fruit and caused the Fall of Man?",
+      "options": [
+        "Adam and Eve",
+        "Cain and Abel",
+        "Abraham and Sarah",
+        "Noah and his wife"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "What weapon did Samson use to kill 1,000 Philistines?",
+      "options": [
+        "A sword",
+        "A spear",
+        "The jawbone of a donkey",
+        "A large stone"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the very fat king who was killed by Ehud?",
+      "options": [
+        "Eglon",
+        "Sihon",
+        "Og",
+        "Balak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Which judge made a vow to sacrifice the first thing that came out of his house?",
+      "options": [
+        "Jephthah",
+        "Gideon",
+        "Samson",
+        "Barak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who had a vineyard that King Ahab wanted to buy?",
+      "options": [
+        "Naboth",
+        "Naaman",
+        "Nathan",
+        "Nahum"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the Persian king who allowed the Jews to return to Jerusalem?",
+      "options": [
+        "Cyrus",
+        "Darius",
+        "Xerxes",
+        "Nebuchadnezzar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the cupbearer to the King who rebuilt the walls of Jerusalem?",
+      "options": [
+        "Nehemiah",
+        "Ezra",
+        "Zerubbabel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who read the Law to the people and they wept?",
+      "options": [
+        "Ezra",
+        "Nehemiah",
+        "Haggai",
+        "Malachi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the grandmother of King David?",
+      "options": [
+        "Ruth",
+        "Naomi",
+        "Rahab",
+        "Bathsheba"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the great-grandmother of King David?",
+      "options": [
+        "Rahab",
+        "Ruth",
+        "Sarah",
+        "Leah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Which prophet was told to go to Nineveh but refused?",
+      "options": [
+        "Jonah",
+        "Nahum",
+        "Obadiah",
+        "Micah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the only female Queen of Judah (who was wicked)?",
+      "options": [
+        "Athaliah",
+        "Jezebel",
+        "Esther",
+        "Maacah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the king who prayed and had 15 years added to his life?",
+      "options": [
+        "Hezekiah",
+        "Josiah",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who found the Book of the Law while cleaning the temple?",
+      "options": [
+        "Hilkiah (during Josiah's reign)",
+        "Ezra",
+        "Jeremiah",
+        "Baruch"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the scribe who wrote down Jeremiah's prophecies?",
+      "options": [
+        "Baruch",
+        "Ezekiel",
+        "Daniel",
+        "Ezra"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who saw the handwriting on the wall: 'Mene, Mene, Tekel, Parsin'?",
+      "options": [
+        "Belshazzar",
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What did Joseph's brothers do to him before selling him into slavery?",
+      "options": [
+        "Threw him in a pit",
+        "Beat him with rods",
+        "Starved him",
+        "Tied him to a tree"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the mother of the prophet Samuel?",
+      "options": [
+        "Hannah",
+        "Peninnah",
+        "Sarah",
+        "Rachel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the Philistines capture from the Israelites that caused them to get tumors/plagues?",
+      "options": [
+        "The Ark of the Covenant",
+        "The Tabernacle",
+        "Moses' Staff",
+        "David's Crown"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who killed a lion on a snowy day in a pit?",
+      "options": [
+        "Benaiah",
+        "David",
+        "Samson",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the king who had a contest to see which young men were the healthiest?",
+      "options": [
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus",
+        "Xerxes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What food did Daniel and his friends eat instead of the King's rich food?",
+      "options": [
+        "Vegetables and water",
+        "Bread and wine",
+        "Fish and honey",
+        "Figs and milk"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the High Priest who raised Samuel?",
+      "options": [
+        "Eli",
+        "Aaron",
+        "Phinehas",
+        "Zadok"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How did the idol Dagon lose its head and hands?",
+      "options": [
+        "They broke off when it fell before the Ark",
+        "Samson smashed them",
+        "David cut them off",
+        "Lightning struck them"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the first person to die in the Bible?",
+      "options": [
+        "Abel",
+        "Adam",
+        "Eve",
+        "Cain"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the man who walked with God and was taken away without dying?",
+      "options": [
+        "Enoch",
+        "Noah",
+        "Abraham",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the oldest son of Adam and Eve?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Seth",
+        "Enosh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What sign did God give Noah that He would never flood the earth again?",
+      "options": [
+        "A Rainbow",
+        "A Dove",
+        "A Star",
+        "A Burning Bush"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Who was the father of the twelve tribes of Israel?",
+      "options": [
+        "Jacob",
+        "Isaac",
+        "Abraham",
+        "Joseph"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Which of Jacob's wives had weak/delicate eyes?",
+      "options": [
+        "Leah",
+        "Rachel",
+        "Bilhah",
+        "Zilpah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What was the name of the mountain where Abraham went to sacrifice Isaac?",
+      "options": [
+        "Moriah",
+        "Sinai",
+        "Nebo",
+        "Carmel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who turned into a snake when Moses threw his staff down?",
+      "options": [
+        "The staff itself",
+        "Aaron's staff",
+        "Pharaoh's staff",
+        "No staff turned into a snake"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "What was the first plague in Egypt?",
+      "options": [
+        "Water to Blood",
+        "Frogs",
+        "Locusts",
+        "Darkness"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was Moses' sister who watched over him in the river?",
+      "options": [
+        "Miriam",
+        "Zipporah",
+        "Jochebed",
+        "Dinah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the Midianite priest and father-in-law of Moses?",
+      "options": [
+        "Jethro",
+        "Balaam",
+        "Korah",
+        "Aaron"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What did the Israelites worship while Moses was on the mountain?",
+      "options": [
+        "A Golden Calf",
+        "A Bronze Serpent",
+        "A Silver Moon",
+        "A Wooden Asherah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the only female judge?",
+      "options": [
+        "Deborah",
+        "Jael",
+        "Rahab",
+        "Esther"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who killed 600 Philistines with an oxgoad?",
+      "options": [
+        "Shamgar",
+        "Samson",
+        "Gideon",
+        "Barak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "What was the secret of Samson's strength?",
+      "options": [
+        "His uncut hair",
+        "His diet",
+        "His prayers",
+        "His sword"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who died by falling backward off his chair and breaking his neck?",
+      "options": [
+        "Eli",
+        "Saul",
+        "Ahab",
+        "Goliath"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the king who was hiding in the baggage when he was chosen?",
+      "options": [
+        "Saul",
+        "David",
+        "Solomon",
+        "Jeroboam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who ate the holy bread (showbread) when he was hungry/fleeing?",
+      "options": [
+        "David",
+        "Saul",
+        "Samuel",
+        "Elijah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who died because he touched the Ark of the Covenant to steady it?",
+      "options": [
+        "Uzzah",
+        "Ahio",
+        "Obed-Edom",
+        "Michal"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which son of David tried to steal the kingdom from him?",
+      "options": [
+        "Absalom",
+        "Solomon",
+        "Nathan",
+        "Amnon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who built the first Temple in Jerusalem?",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Hezekiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who visited Solomon to test his wisdom?",
+      "options": [
+        "Queen of Sheba",
+        "Pharaoh",
+        "King of Tyre",
+        "King of Babylon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the prophet who challenged the prophets of Baal?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Jeremiah",
+        "Isaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "How did Jezebel die?",
+      "options": [
+        "Thrown from a window",
+        "Burned in a fire",
+        "Stoned to death",
+        "Poisoned"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the boy king who became king at age 8?",
+      "options": [
+        "Josiah",
+        "Joash",
+        "Manasseh",
+        "Hezekiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which king had 15 years added to his life after he prayed?",
+      "options": [
+        "Hezekiah",
+        "David",
+        "Solomon",
+        "Ahab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the Persian King who married Esther?",
+      "options": [
+        "Xerxes (Ahasuerus)",
+        "Cyrus",
+        "Darius",
+        "Artaxerxes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was Haman's enemy in the book of Esther?",
+      "options": [
+        "Mordecai",
+        "Daniel",
+        "Ezra",
+        "Nehemiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Job lose in his trials?",
+      "options": [
+        "Everything (Family, Wealth, Health)",
+        "Just his money",
+        "Just his health",
+        "Just his friends"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who were Job's three friends?",
+      "options": [
+        "Eliphaz, Bildad, Zophar",
+        "Shadrach, Meshach, Abednego",
+        "Peter, James, John",
+        "Shem, Ham, Japheth"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who said, 'The Lord is my Shepherd, I shall not want'?",
+      "options": [
+        "David",
+        "Moses",
+        "Solomon",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "What happened to the dry bones in Ezekiel's vision?",
+      "options": [
+        "They came to life",
+        "They turned to dust",
+        "They burned",
+        "They turned to gold"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was thrown into the fiery furnace?",
+      "options": [
+        "Shadrach, Meshach, Abednego",
+        "Daniel",
+        "Jeremiah",
+        "Ezekiel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who saw the handwriting on the wall?",
+      "options": [
+        "Belshazzar",
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the prophet who ran from God and was swallowed by a fish?",
+      "options": [
+        "Jonah",
+        "Joel",
+        "Amos",
+        "Obadiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Where was Jesus baptized?",
+      "options": [
+        "Jordan River",
+        "Sea of Galilee",
+        "Dead Sea",
+        "Nile River"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who tempted Jesus in the wilderness?",
+      "options": [
+        "Satan (The Devil)",
+        "The Pharisees",
+        "Herod",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "What was Peter's job before he met Jesus?",
+      "options": [
+        "Fisherman",
+        "Tax Collector",
+        "Carpenter",
+        "Shepherd"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Which disciple was a tax collector?",
+      "options": [
+        "Matthew",
+        "Simon",
+        "Andrew",
+        "James"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who did Jesus see sitting under a fig tree?",
+      "options": [
+        "Nathanael",
+        "Nicodemus",
+        "Zacchaeus",
+        "Lazarus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What was the first miracle Jesus performed?",
+      "options": [
+        "Turning water to wine",
+        "Healing a leper",
+        "Walking on water",
+        "Raising Lazarus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who came to Jesus at night to ask questions?",
+      "options": [
+        "Nicodemus",
+        "Joseph of Arimathea",
+        "Caiaphas",
+        "Gamaliel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the Samaritan woman Jesus met at the well?",
+      "options": [
+        "She is unnamed",
+        "Mary",
+        "Martha",
+        "Salome"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who walked on water with Jesus?",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Andrew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "What did Jesus use to feed the 5,000?",
+      "options": [
+        "5 loaves and 2 fish",
+        "7 loaves and a few fish",
+        "Manna",
+        "Bread and wine"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Which disciples were with Jesus at the Transfiguration?",
+      "options": [
+        "Peter, James, John",
+        "Peter, Andrew, James",
+        "Matthew, Mark, Luke",
+        "Judas, Thomas, Philip"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the beggar named in the parable of the rich man?",
+      "options": [
+        "Lazarus",
+        "Simon",
+        "Bartimaeus",
+        "Levi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the short man who climbed a tree to see Jesus?",
+      "options": [
+        "Zacchaeus",
+        "Bartimaeus",
+        "Nicodemus",
+        "Matthew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who anointed Jesus' feet with expensive perfume?",
+      "options": [
+        "Mary of Bethany",
+        "Martha",
+        "Mary Magdalene",
+        "Salome"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who betrayed Jesus with a kiss?",
+      "options": [
+        "Judas",
+        "Peter",
+        "Pilate",
+        "Caiaphas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who denied Jesus three times?",
+      "options": [
+        "Peter",
+        "Judas",
+        "Thomas",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who washed his hands of Jesus' blood?",
+      "options": [
+        "Pilate",
+        "Herod",
+        "Caiaphas",
+        "Annas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who drove his chariot so furiously that he was recognized from a distance?",
+      "options": [
+        "Jehu",
+        "Ahab",
+        "Ben-Hadad",
+        "Naaman"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What did Gideon use to test God's will?",
+      "options": [
+        "A fleece of wool",
+        "A stone",
+        "A burning bush",
+        "A bowl of water"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the man who touched Jesus' side with a spear?",
+      "options": [
+        "A Roman Soldier",
+        "Peter",
+        "Pilate",
+        "The Centurion"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who helped the Ethiopian Eunuch understand the scriptures?",
+      "options": [
+        "Philip",
+        "Peter",
+        "Stephen",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to the walls of Jericho when the people shouted?",
+      "options": [
+        "They caught fire",
+        "They fell down flat",
+        "They turned to water",
+        "They grew taller"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the woman who laughed at God's promise of a son?",
+      "options": [
+        "Sarah",
+        "Rebekah",
+        "Rachel",
+        "Hannah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who stole a golden wedge and a Babylonian garment, causing Israel to lose a battle?",
+      "options": [
+        "Achan",
+        "Korah",
+        "Dathan",
+        "Abiram"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the giant with six fingers on each hand and six toes on each foot?",
+      "options": [
+        "A son of Goliath",
+        "Og",
+        "Sihon",
+        "Anak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "What did the prophet Nathan use to convict David of his sin?",
+      "options": [
+        "A story about a rich man and a poor man's lamb",
+        "A vision of the future",
+        "A direct accusation from God",
+        "A scroll of the law"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the wise wife who stopped David from killing her foolish husband Nabal?",
+      "options": [
+        "Abigail",
+        "Michal",
+        "Bathsheba",
+        "Ahinoam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What did King Solomon ask God for?",
+      "options": [
+        "Wisdom",
+        "Long life",
+        "Riches",
+        "Death of his enemies"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who were the 'Sons of Thunder'?",
+      "options": [
+        "James and John",
+        "Peter and Andrew",
+        "Cain and Abel",
+        "Jacob and Esau"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who cut off a piece of Saul's robe in a cave?",
+      "options": [
+        "David",
+        "Jonathan",
+        "Abishai",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the high priest who thought Hannah was drunk when she was praying?",
+      "options": [
+        "Eli",
+        "Samuel",
+        "Aaron",
+        "Phinehas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did God rain down on Sodom and Gomorrah?",
+      "options": [
+        "Fire and Brimstone",
+        "Hail",
+        "Frogs",
+        "Locusts"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who deceived his father Isaac by wearing goat skins?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Joseph",
+        "Judah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the sister of Moses who led the women in dancing after crossing the Red Sea?",
+      "options": [
+        "Miriam",
+        "Zipporah",
+        "Jochebed",
+        "Deborah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What happened to the sun when Jesus was on the cross?",
+      "options": [
+        "It turned dark",
+        "It became brighter",
+        "It turned red",
+        "It fell from the sky"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who carried his own wood for a sacrifice?",
+      "options": [
+        "Isaac",
+        "Jacob",
+        "Esau",
+        "Joseph"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who had a dream about fat cows and skinny cows?",
+      "options": [
+        "Pharaoh",
+        "Joseph",
+        "Nebuchadnezzar",
+        "Jacob"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Which brother offered to stay in prison in Benjamin's place?",
+      "options": [
+        "Judah",
+        "Reuben",
+        "Levi",
+        "Simeon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the young servant girl who announced Peter was at the door?",
+      "options": [
+        "Rhoda",
+        "Mary",
+        "Martha",
+        "Lydia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who prophesied that Paul would be bound with a belt in Jerusalem?",
+      "options": [
+        "Agabus",
+        "Silas",
+        "Barnabas",
+        "Philip"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What were the names of the two pillars in Solomon's Temple?",
+      "options": [
+        "Jachin and Boaz",
+        "David and Solomon",
+        "Alpha and Omega",
+        "Law and Grace"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who refused to bow down to Haman?",
+      "options": [
+        "Mordecai",
+        "Esther",
+        "Daniel",
+        "Nehemiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did Judas do with the 30 pieces of silver?",
+      "options": [
+        "Threw them into the temple",
+        "Bought a field",
+        "gave them to the poor",
+        "Lost them"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the Roman Centurion who feared God and sent for Peter?",
+      "options": [
+        "Cornelius",
+        "Julius",
+        "Publius",
+        "Felix"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who had seven demons cast out of her?",
+      "options": [
+        "Mary Magdalene",
+        "Mary of Bethany",
+        "Joanna",
+        "Susanna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did Jesus write on the ground when the woman caught in adultery was brought to him?",
+      "options": [
+        "The Bible does not say",
+        "The sins of the accusers",
+        "The Ten Commandments",
+        "Names of the Pharisees"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the 'Son of Encouragement'?",
+      "options": [
+        "Barnabas",
+        "Silas",
+        "Timothy",
+        "Titus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who did Paul and Barnabas have a sharp disagreement over?",
+      "options": [
+        "John Mark",
+        "Peter",
+        "Silas",
+        "Timothy"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who were the tentmakers that Paul stayed with in Corinth?",
+      "options": [
+        "Aquila and Priscilla",
+        "Ananias and Sapphira",
+        "Peter and his wife",
+        "Lydia and her household"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What city is called the 'City of David'?",
+      "options": [
+        "Bethlehem (and later Jerusalem)",
+        "Nazareth",
+        "Hebron",
+        "Jericho"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who put a scarlet cord in her window to save her family?",
+      "options": [
+        "Rahab",
+        "Ruth",
+        "Tamar",
+        "Bathsheba"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who did God tell to marry a prostitute?",
+      "options": [
+        "Hosea",
+        "Amos",
+        "Joel",
+        "Jonah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What did the soldiers give Jesus to drink on the cross?",
+      "options": [
+        "Vinegar/Sour Wine",
+        "Water",
+        "Milk",
+        "Oil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the disciple who replaced Judas?",
+      "options": [
+        "Matthias",
+        "Barsabbas",
+        "Paul",
+        "Stephen"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the King of Salem and Priest of God Most High who blessed Abraham?",
+      "options": [
+        "Melchizedek",
+        "Abimelech",
+        "Pharaoh",
+        "Balaam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What did Esau sell his birthright for?",
+      "options": [
+        "Stew/Soup",
+        "A sheep",
+        "Gold",
+        "A sword"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who wrestled with an angel and had his hip touched?",
+      "options": [
+        "Jacob",
+        "Abraham",
+        "Isaac",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who found honey in the carcass of a lion?",
+      "options": [
+        "Samson",
+        "David",
+        "Gideon",
+        "Jonathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What instrument did Miriam play?",
+      "options": [
+        "Tambourine/Timbrel",
+        "Harp",
+        "Flute",
+        "Trumpet"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the mother of Ishmael?",
+      "options": [
+        "Hagar",
+        "Sarah",
+        "Keturah",
+        "Leah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who tied 300 foxes tail-to-tail with torches?",
+      "options": [
+        "Samson",
+        "Gideon",
+        "David",
+        "Absalom"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who had a donkey that crushed his foot against a wall?",
+      "options": [
+        "Balaam",
+        "Moses",
+        "Joseph",
+        "Jesus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who laid a fleece out to check if it would be wet with dew?",
+      "options": [
+        "Gideon",
+        "Samson",
+        "Jephthah",
+        "Barak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which king of Israel built the golden calves in Dan and Bethel?",
+      "options": [
+        "Jeroboam",
+        "Rehoboam",
+        "Ahab",
+        "Jehu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the queen who refused to come when the king called?",
+      "options": [
+        "Vashti",
+        "Esther",
+        "Jezebel",
+        "Athaliah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who built the gallows intended for Mordecai?",
+      "options": [
+        "Haman",
+        "Xerxes",
+        "Bigthan",
+        "Teresh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who said 'Curse God and die'?",
+      "options": [
+        "Job's wife",
+        "Job's friends",
+        "Satan",
+        "Pharaoh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What sea creature is described in the book of Job?",
+      "options": [
+        "Leviathan",
+        "Kraken",
+        "Megalodon",
+        "Hydra"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who had a vision of the Lord sitting on a throne with his robe filling the temple?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was told to buy a linen belt and hide it in a rock?",
+      "options": [
+        "Jeremiah",
+        "Isaiah",
+        "Ezekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the prophet who lay on his side for 390 days?",
+      "options": [
+        "Ezekiel",
+        "Jeremiah",
+        "Daniel",
+        "Habakkuk"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who had a vision of four beasts coming out of the sea?",
+      "options": [
+        "Daniel",
+        "Ezekiel",
+        "John",
+        "Isaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the cousin of Esther?",
+      "options": [
+        "Mordecai",
+        "Haman",
+        "Hegai",
+        "Ezra"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who rebuilt the walls of Jerusalem with a trowel in one hand and a sword in the other?",
+      "options": [
+        "Nehemiah",
+        "Ezra",
+        "Zerubbabel",
+        "Joshua"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who tricked the Israelites into a treaty by wearing old clothes and moldy bread?",
+      "options": [
+        "The Gibeonites",
+        "The Moabites",
+        "The Philistines",
+        "The Amalekites"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who killed Eglon the fat king?",
+      "options": [
+        "Ehud",
+        "Shamgar",
+        "Othniel",
+        "Barak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What was the name of the place where Jacob dreamed of the ladder?",
+      "options": [
+        "Bethel",
+        "Peniel",
+        "Shechem",
+        "Hebron"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who had a vineyard that he refused to sell to King Ahab?",
+      "options": [
+        "Naboth",
+        "Naaman",
+        "Obadiah",
+        "Jehu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to the boys who mocked Elisha calling him 'baldhead'?",
+      "options": [
+        "Two bears mauled them",
+        "Lightning struck them",
+        "They went blind",
+        "The ground swallowed them"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the first king of the Northern Kingdom of Israel (after the split)?",
+      "options": [
+        "Jeroboam",
+        "Rehoboam",
+        "Ahab",
+        "Jehu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the son of Solomon who made the people's yoke heavier?",
+      "options": [
+        "Rehoboam",
+        "Jeroboam",
+        "Absalom",
+        "Adonijah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who hid 100 prophets in caves and fed them bread and water?",
+      "options": [
+        "Obadiah",
+        "Elijah",
+        "Elisha",
+        "Micaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the leprosy-stricken commander of the Syrian army?",
+      "options": [
+        "Naaman",
+        "Hazael",
+        "Ben-Hadad",
+        "Sennacherib"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who found the book of the Law in the temple during Josiah's reign?",
+      "options": [
+        "Hilkiah",
+        "Shaphan",
+        "Jeremiah",
+        "Huldah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the prophetess who validated the book of the Law found by Hilkiah?",
+      "options": [
+        "Huldah",
+        "Deborah",
+        "Miriam",
+        "Anna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the king who burned the scroll of Jeremiah's prophecies?",
+      "options": [
+        "Jehoiakim",
+        "Zedekiah",
+        "Josiah",
+        "Jehoiachin"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was thrown into a cistern (a muddy pit) for preaching?",
+      "options": [
+        "Jeremiah",
+        "Isaiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who saw a wheel within a wheel in a vision?",
+      "options": [
+        "Ezekiel",
+        "Daniel",
+        "Isaiah",
+        "Zechariah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the king turned into a beast/animal for 7 years?",
+      "options": [
+        "Nebuchadnezzar",
+        "Belshazzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the scribe who read the Law to the returned exiles?",
+      "options": [
+        "Ezra",
+        "Nehemiah",
+        "Zerubbabel",
+        "Haggai"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who plotted to kill all the Jews in the Persian empire?",
+      "options": [
+        "Haman",
+        "Mordecai",
+        "Xerxes",
+        "Vashti"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who said, 'If I perish, I perish'?",
+      "options": [
+        "Esther",
+        "Ruth",
+        "Deborah",
+        "Mary"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who had boils from the sole of his foot to the crown of his head?",
+      "options": [
+        "Job",
+        "Naaman",
+        "Lazarus",
+        "Hezekiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who says 'Vanity of vanities, all is vanity'?",
+      "options": [
+        "The Preacher (Ecclesiastes)",
+        "David",
+        "Job",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the weeping prophet?",
+      "options": [
+        "Jeremiah",
+        "Isaiah",
+        "Hosea",
+        "Joel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which prophet married a prostitute named Gomer?",
+      "options": [
+        "Hosea",
+        "Amos",
+        "Micah",
+        "Jonah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who prophesied about the valley of dry bones?",
+      "options": [
+        "Ezekiel",
+        "Jeremiah",
+        "Isaiah",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who refused to eat the king's meat?",
+      "options": [
+        "Daniel",
+        "Joseph",
+        "Nehemiah",
+        "Esther"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the father of John the Baptist?",
+      "options": [
+        "Zechariah",
+        "Joseph",
+        "Simeon",
+        "Zebedee"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who told Mary she would have a baby?",
+      "options": [
+        "Gabriel",
+        "Michael",
+        "Raphael",
+        "The Holy Spirit"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Where did Mary and Joseph flee to escape Herod?",
+      "options": [
+        "Egypt",
+        "Nazareth",
+        "Bethlehem",
+        "Jerusalem"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who ate locusts and wild honey?",
+      "options": [
+        "John the Baptist",
+        "Jesus",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who said 'I am not worthy to untie his sandals'?",
+      "options": [
+        "John the Baptist",
+        "Peter",
+        "Andrew",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who tempted Jesus to turn stones into bread?",
+      "options": [
+        "The Devil",
+        "The Pharisees",
+        "Peter",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who called Jesus the 'Lamb of God'?",
+      "options": [
+        "John the Baptist",
+        "Peter",
+        "Paul",
+        "Mary"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What miracle happened at the pool of Bethesda?",
+      "options": [
+        "A lame man was healed",
+        "A blind man saw",
+        "Water turned to wine",
+        "Lazarus was raised"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who did Jesus tell 'You must be born again'?",
+      "options": [
+        "Nicodemus",
+        "Zacchaeus",
+        "The Rich Young Ruler",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the woman who had had five husbands?",
+      "options": [
+        "The Samaritan Woman",
+        "Mary Magdalene",
+        "The Woman with the Issue of Blood",
+        "Salome"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the blind beggar healed near Jericho?",
+      "options": [
+        "Bartimaeus",
+        "Lazarus",
+        "Simon",
+        "Malchus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who climbed a sycamore tree?",
+      "options": [
+        "Zacchaeus",
+        "Bartimaeus",
+        "Peter",
+        "Matthew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who anointed Jesus' feet with nard (perfume) and wiped them with her hair?",
+      "options": [
+        "Mary of Bethany",
+        "Martha",
+        "Joanna",
+        "Susanna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who rode into Jerusalem on a donkey?",
+      "options": [
+        "Jesus",
+        "David",
+        "Solomon",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Who overturned the tables of the money changers?",
+      "options": [
+        "Jesus",
+        "Peter",
+        "Paul",
+        "John the Baptist"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who asked Jesus 'What is truth?'",
+      "options": [
+        "Pilate",
+        "Herod",
+        "Caiaphas",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who carried Jesus' cross?",
+      "options": [
+        "Simon of Cyrene",
+        "Joseph of Arimathea",
+        "Peter",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the thief on the cross who asked Jesus to remember him?",
+      "options": [
+        "The Penitent Thief (Dismas)",
+        "Barabbas",
+        "Judas",
+        "Gestas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who asked for the body of Jesus?",
+      "options": [
+        "Joseph of Arimathea",
+        "Nicodemus",
+        "Peter",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who brought spices to the tomb?",
+      "options": [
+        "The women (Mary Magdalene, etc.)",
+        "The disciples",
+        "The soldiers",
+        "Joseph of Arimathea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who doubted that Jesus had risen?",
+      "options": [
+        "Thomas",
+        "Peter",
+        "John",
+        "James"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who cooked breakfast for the disciples on the beach after the resurrection?",
+      "options": [
+        "Jesus",
+        "Peter",
+        "John",
+        "Mary"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who ascended into heaven while the disciples watched?",
+      "options": [
+        "Jesus",
+        "Elijah",
+        "Enoch",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who preached the sermon at Pentecost?",
+      "options": [
+        "Peter",
+        "Paul",
+        "Stephen",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who healed the lame man at the Beautiful Gate?",
+      "options": [
+        "Peter and John",
+        "Paul and Silas",
+        "Jesus",
+        "Philip"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who lied to Peter about the price of land?",
+      "options": [
+        "Ananias and Sapphira",
+        "Aquila and Priscilla",
+        "Simon and Jude",
+        "Joseph and Mary"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the first martyr?",
+      "options": [
+        "Stephen",
+        "James",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who held the clothes of those who stoned Stephen?",
+      "options": [
+        "Saul (Paul)",
+        "Peter",
+        "Pilate",
+        "Caiaphas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who preached to the Ethiopian Eunuch?",
+      "options": [
+        "Philip",
+        "Peter",
+        "Stephen",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who saw a sheet of animals coming down from heaven?",
+      "options": [
+        "Peter",
+        "Paul",
+        "John",
+        "James"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the centurion who sent for Peter?",
+      "options": [
+        "Cornelius",
+        "Julius",
+        "Publius",
+        "Felix"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Sino ang nagbautismo sa bating na taga-Etiopia sa daan sa ilang?",
+      "options": [
+        "Felipe na Ebanghelista",
+        "Pedro",
+        "Esteban",
+        "Bernabe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who prayed for Saul's sight to return?",
+      "options": [
+        "Ananias",
+        "Peter",
+        "Barnabas",
+        "Silas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who escaped from prison when an angel opened the doors?",
+      "options": [
+        "Peter",
+        "Paul",
+        "Silas",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was eaten by worms because he did not give glory to God?",
+      "options": [
+        "Herod Agrippa I",
+        "Pilate",
+        "Nero",
+        "Caesar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who went on the first missionary journey with Paul?",
+      "options": [
+        "Barnabas",
+        "Silas",
+        "Timothy",
+        "Luke"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who deserted Paul and Barnabas on their first journey?",
+      "options": [
+        "John Mark",
+        "Silas",
+        "Timothy",
+        "Luke"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was stoned at Lystra and left for dead?",
+      "options": [
+        "Paul",
+        "Barnabas",
+        "Peter",
+        "Stephen"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who sang hymns in prison at midnight?",
+      "options": [
+        "Paul and Silas",
+        "Peter and John",
+        "Barnabas and Mark",
+        "Aquila and Priscilla"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What happened when Paul and Silas sang in prison?",
+      "options": [
+        "An earthquake opened the doors",
+        "The guards fell asleep",
+        "Angels appeared",
+        "Fire came down"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who were the people who examined the scriptures daily to see if what Paul said was true?",
+      "options": [
+        "The Bereans",
+        "The Thessalonians",
+        "The Athenians",
+        "The Corinthians"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Where did Paul preach about the 'Unknown God'?",
+      "options": [
+        "Mars Hill (Athens)",
+        "The Temple (Jerusalem)",
+        "The Colosseum (Rome)",
+        "The School of Tyrannus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the young man who fell out of a window during Paul's long sermon?",
+      "options": [
+        "Eutychus",
+        "Timothy",
+        "Titus",
+        "Mark"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who prophesied that Paul would be bound by tying his own belt around his hands?",
+      "options": [
+        "Agabus",
+        "Silas",
+        "Philip",
+        "Barnabas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What island was Paul shipwrecked on?",
+      "options": [
+        "Malta",
+        "Crete",
+        "Cyprus",
+        "Patmos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How did Paul survive the snake bite on Malta?",
+      "options": [
+        "He shook it off into the fire unharmed",
+        "Luke gave him medicine",
+        "He sucked out the poison",
+        "He cut off his hand"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What privilege did Paul use to avoid being whipped by the Romans?",
+      "options": [
+        "Roman Citizenship",
+        "His wealth",
+        "His education",
+        "His friendship with Caesar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "In Galatians, what is listed as love, joy, peace, patience, etc.?",
+      "options": [
+        "The Fruit of the Spirit",
+        "The Gifts of the Spirit",
+        "The Armor of God",
+        "The Beatitudes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What analogy does Paul use in Ephesians for spiritual defense?",
+      "options": [
+        "The Armor of God",
+        "The Wall of Fire",
+        "The Strong Tower",
+        "The Shepherd's Rod"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the runaway slave Paul sent back to his master Philemon?",
+      "options": [
+        "Onesimus",
+        "Tychicus",
+        "Epaphras",
+        "Demas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which Old Testament priest is compared to Jesus in the book of Hebrews?",
+      "options": [
+        "Melchizedek",
+        "Aaron",
+        "Eli",
+        "Samuel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which chapter in Hebrews is known as the 'Hall of Faith'?",
+      "options": [
+        "Chapter 11",
+        "Chapter 13",
+        "Chapter 1",
+        "Chapter 5"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What does the book of James compare the tongue to?",
+      "options": [
+        "A fire / A rudder",
+        "A sword",
+        "A snake",
+        "A fountain"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which church in Revelation was called 'lukewarm'?",
+      "options": [
+        "Laodicea",
+        "Ephesus",
+        "Smyrna",
+        "Philadelphia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What stands in the middle of the New Jerusalem bearing 12 crops of fruit?",
+      "options": [
+        "The Tree of Life",
+        "The Tree of Knowledge",
+        "The Golden Lampstand",
+        "The Altar of Incense"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What is the 'final destination' for the devil and his angels?",
+      "options": [
+        "The Lake of Fire",
+        "The Abyss",
+        "Hades",
+        "The Wilderness"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who calls Himself the 'Alpha and Omega'?",
+      "options": [
+        "Jesus (God)",
+        "Gabriel",
+        "Michael",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What is the number of the Beast in Revelation?",
+      "options": [
+        "666",
+        "777",
+        "144000",
+        "12"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who fought the dragon (Satan) in heaven?",
+      "options": [
+        "Michael and his angels",
+        "Gabriel",
+        "The Two Witnesses",
+        "The Elders"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What animal is the rider on the white horse (Jesus) followed by?",
+      "options": [
+        "The armies of heaven on white horses",
+        "Eagles",
+        "Lions",
+        "Chariots of fire"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What are the streets of the New Jerusalem made of?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Jasper",
+        "Pearl"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who killed 600 men with an oxgoad?",
+      "options": [
+        "Shamgar",
+        "Samson",
+        "Gideon",
+        "David"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who drove a tent peg through Sisera's temple?",
+      "options": [
+        "Jael",
+        "Deborah",
+        "Rahab",
+        "Delilah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What did Gideon put out to test God?",
+      "options": [
+        "A wool fleece",
+        "A bowl of milk",
+        "A sword",
+        "A loaf of bread"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who made a rash vow to sacrifice the first person to greet him?",
+      "options": [
+        "Jephthah",
+        "Gideon",
+        "Samson",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Where did Samson find honey?",
+      "options": [
+        "In the carcass of a lion",
+        "In a tree",
+        "In a rock",
+        "In a jar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How did Samson die?",
+      "options": [
+        "He pushed down the pillars of the temple",
+        "The Philistines beheaded him",
+        "Old age",
+        "In battle"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who gathered leftover grain in the fields of Boaz?",
+      "options": [
+        "Ruth",
+        "Naomi",
+        "Orpah",
+        "Esther"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the 'Kinsman Redeemer' who married Ruth?",
+      "options": [
+        "Boaz",
+        "Elimelech",
+        "Mahlon",
+        "Jesse"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who heard God's voice calling him as a boy in the temple?",
+      "options": [
+        "Samuel",
+        "David",
+        "Solomon",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What happened to the Philistine god Dagon when the Ark was near?",
+      "options": [
+        "It fell on its face",
+        "It burned up",
+        "It turned to dust",
+        "It spoke"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What does the name 'Ichabod' mean?",
+      "options": [
+        "The glory has departed",
+        "God is with us",
+        "Laughter",
+        "Sorrow"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Where was Saul hiding when he was chosen as king?",
+      "options": [
+        "Among the baggage/supplies",
+        "In a cave",
+        "On a roof",
+        "In a field"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who dipped the tip of his staff in honey and ate it against the king's order?",
+      "options": [
+        "Jonathan",
+        "David",
+        "Absalom",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who hacked King Agag to pieces?",
+      "options": [
+        "Samuel",
+        "Saul",
+        "David",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "What animals did David kill while shepherding?",
+      "options": [
+        "A lion and a bear",
+        "A wolf and a tiger",
+        "A coyote and a hawk",
+        "A snake and a scorpion"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "How many smooth stones did David pick up?",
+      "options": [
+        "5",
+        "1",
+        "3",
+        "7"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who despised David for dancing before the Lord?",
+      "options": [
+        "Michal",
+        "Bathsheba",
+        "Abigail",
+        "Hannah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the lame grandson of Saul that David cared for?",
+      "options": [
+        "Mephibosheth",
+        "Ishbosheth",
+        "Jonathan",
+        "Absalom"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was bathing on the roof when David saw her?",
+      "options": [
+        "Bathsheba",
+        "Tamar",
+        "Michal",
+        "Abigail"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was Bathsheba's husband that David had killed?",
+      "options": [
+        "Uriah the Hittite",
+        "Joab",
+        "Abner",
+        "Nabal"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What story did Nathan tell David to expose his sin?",
+      "options": [
+        "The rich man and the poor man's ewe lamb",
+        "The prodigal son",
+        "The sower and the seed",
+        "The good Samaritan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who got his hair caught in a tree?",
+      "options": [
+        "Absalom",
+        "Samson",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who cursed David and threw stones at him?",
+      "options": [
+        "Shimei",
+        "Joab",
+        "Abishai",
+        "Ziba"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "How did Solomon decide which mother was the true mother of the baby?",
+      "options": [
+        "He offered to cut the baby in half",
+        "He guessed",
+        "He flipped a coin",
+        "He prayed for a sign"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who travelled a long distance to test Solomon's wisdom?",
+      "options": [
+        "The Queen of Sheba",
+        "Pharaoh",
+        "The King of Tyre",
+        "Nebuchadnezzar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What happened to King Jeroboam when he pointed at the prophet?",
+      "options": [
+        "His hand shriveled up",
+        "He went blind",
+        "He fell down",
+        "He was struck by lightning"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who fed Elijah by the brook Cherith?",
+      "options": [
+        "Ravens",
+        "Angels",
+        "A widow",
+        "Bears"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What miracle happened for the widow of Zarephath?",
+      "options": [
+        "Her jar of flour and jug of oil never ran empty",
+        "Her son was healed of leprosy",
+        "Her house was rebuilt",
+        "She found gold"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who called down fire from heaven to consume a sacrifice on a wet altar?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Samuel",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did Elijah do when he was depressed and ran away to the wilderness?",
+      "options": [
+        "He sat under a broom tree and asked to die",
+        "He built a temple",
+        "He went back to Ahab",
+        "He called down fire again"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How did God speak to Elijah on Mount Horeb?",
+      "options": [
+        "In a gentle whisper",
+        "In a mighty wind",
+        "In an earthquake",
+        "In a fire"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the man who took Elijah's place as prophet?",
+      "options": [
+        "Elisha",
+        "Gehazi",
+        "Jehu",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did Elisha ask for before Elijah was taken away?",
+      "options": [
+        "A double portion of his spirit",
+        "His cloak",
+        "His wealth",
+        "His chariot"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who healed the waters of Jericho by throwing salt in the spring?",
+      "options": [
+        "Elisha",
+        "Elijah",
+        "Moses",
+        "Joshua"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What happened to the widow's oil when she poured it into jars?",
+      "options": [
+        "It kept flowing until the jars were full",
+        "It turned into wine",
+        "It dried up",
+        "It caught fire"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who raised the Shunammite woman's son from the dead?",
+      "options": [
+        "Elisha",
+        "Elijah",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What did Elisha make float in the Jordan River?",
+      "options": [
+        "An iron axe head",
+        "A stone",
+        "A chariot",
+        "A sword"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who saw the mountain full of horses and chariots of fire surrounding Elisha?",
+      "options": [
+        "Elisha's servant",
+        "The King of Syria",
+        "Gehazi",
+        "Naaman"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who were the four men who discovered the Syrian army had fled?",
+      "options": [
+        "Four lepers",
+        "Four priests",
+        "Four soldiers",
+        "Four shepherds"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the wicked queen who killed all her grandsons except one?",
+      "options": [
+        "Athaliah",
+        "Jezebel",
+        "Esther",
+        "Vashti"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the baby king hidden in the temple for six years?",
+      "options": [
+        "Joash",
+        "Josiah",
+        "Hezekiah",
+        "Manasseh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the high priest who protected the boy king Joash?",
+      "options": [
+        "Jehoiada",
+        "Hilkiah",
+        "Ezra",
+        "Aaron"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Which king died after God struck him with leprosy in the temple?",
+      "options": [
+        "Uzziah",
+        "Hezekiah",
+        "David",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which king showed all his treasures to the envoys from Babylon?",
+      "options": [
+        "Hezekiah",
+        "Josiah",
+        "Solomon",
+        "Jehu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the king who reinstated the Passover after finding the Book of the Law?",
+      "options": [
+        "Josiah",
+        "Hezekiah",
+        "David",
+        "Asa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who refused to help build the wall of Jerusalem and mocked the workers?",
+      "options": [
+        "Sanballat and Tobiah",
+        "Haman and Zeresh",
+        "Balak and Balaam",
+        "Jannes and Jambres"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the scribe who pulled out his own hair because the people intermarried?",
+      "options": [
+        "Ezra",
+        "Nehemiah",
+        "Jeremiah",
+        "Isaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who said 'The joy of the Lord is your strength'?",
+      "options": [
+        "Nehemiah",
+        "Ezra",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What is the only book of the Bible that does not mention the name of God?",
+      "options": [
+        "Esther",
+        "Song of Solomon",
+        "Ruth",
+        "Ecclesiastes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How long did Job's friends sit in silence with him?",
+      "options": [
+        "7 days",
+        "3 days",
+        "1 day",
+        "40 days"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "God spoke to Job out of what?",
+      "options": [
+        "A whirlwind",
+        "A burning bush",
+        "A cloud",
+        "A cave"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What does the Psalmist say is a 'lamp unto my feet'?",
+      "options": [
+        "God's Word",
+        "Faith",
+        "Hope",
+        "Love"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who says 'There is a time for everything'?",
+      "options": [
+        "The Teacher (Ecclesiastes)",
+        "David",
+        "Job",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Which prophet walked around naked and barefoot for three years?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who is the 'branch' from the stump of Jesse?",
+      "options": [
+        "Jesus (Messiah)",
+        "David",
+        "Solomon",
+        "Hezekiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the scribe who wrote for Jeremiah?",
+      "options": [
+        "Baruch",
+        "Ezra",
+        "Tertius",
+        "Silas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What did Ezekiel see in the valley?",
+      "options": [
+        "Dry bones",
+        "Chariots",
+        "Angels",
+        "Water"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What kind of water flowed from the temple in Ezekiel's vision?",
+      "options": [
+        "Healing water",
+        "Bitter water",
+        "Blood",
+        "Wine"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who prayed three times a day with his windows open?",
+      "options": [
+        "Daniel",
+        "David",
+        "Samuel",
+        "Nehemiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the king who went crazy and lived like an animal?",
+      "options": [
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus",
+        "Belshazzar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the prophet of the locust plague?",
+      "options": [
+        "Joel",
+        "Amos",
+        "Obadiah",
+        "Jonah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the shepherd prophet?",
+      "options": [
+        "Amos",
+        "Isaiah",
+        "Jeremiah",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who preached against Edom?",
+      "options": [
+        "Obadiah",
+        "Jonah",
+        "Nahum",
+        "Habbakuk"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What happened to the sailors who threw Jonah overboard?",
+      "options": [
+        "The storm stopped",
+        "They drowned",
+        "They were eaten by fish",
+        "The boat sank"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What plant grew to shade Jonah?",
+      "options": [
+        "A vine/gourd",
+        "An oak tree",
+        "A fig tree",
+        "A palm tree"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who said 'He has shown you, O man, what is good... to act justly and to love mercy'?",
+      "options": [
+        "Micah",
+        "Isaiah",
+        "Amos",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who prophesied against Nineveh (besides Jonah)?",
+      "options": [
+        "Nahum",
+        "Obadiah",
+        "Habakkuk",
+        "Zephaniah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who questioned God about why the wicked prosper?",
+      "options": [
+        "Habakkuk",
+        "Jonah",
+        "Nahum",
+        "Malachi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who said 'The just shall live by faith'?",
+      "options": [
+        "Habakkuk",
+        "Joel",
+        "Amos",
+        "Obadiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who encouraged the people to rebuild the temple?",
+      "options": [
+        "Haggai",
+        "Malachi",
+        "Jonah",
+        "Micah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who saw a vision of a flying scroll?",
+      "options": [
+        "Zechariah",
+        "Haggai",
+        "Malachi",
+        "Joel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who prophesied about the 'Sun of Righteousness' with healing in his wings?",
+      "options": [
+        "Malachi",
+        "Zechariah",
+        "Haggai",
+        "Joel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "How many years of silence were there between the Old and New Testaments?",
+      "options": [
+        "400 years",
+        "100 years",
+        "70 years",
+        "1000 years"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the angel who visited Zechariah in the temple?",
+      "options": [
+        "Gabriel",
+        "Michael",
+        "Raphael",
+        "Uriel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to Zechariah because he didn't believe the angel?",
+      "options": [
+        "He became mute",
+        "He went blind",
+        "He fell down",
+        "He died"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who leaped in Elizabeth's womb when Mary arrived?",
+      "options": [
+        "John the Baptist",
+        "Jesus",
+        "Joseph",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Where was Jesus when he was lost at age 12?",
+      "options": [
+        "In the temple courts",
+        "In the marketplace",
+        "In the wilderness",
+        "At a friend's house"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What was Jesus' first sermon in Nazareth about?",
+      "options": [
+        "Fulfilling the prophecy of Isaiah",
+        "The Ten Commandments",
+        "The Beatitudes",
+        "The End Times"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who did Jesus heal by letting down a mat through the roof?",
+      "options": [
+        "A paralyzed man",
+        "A blind man",
+        "A leper",
+        "A demon-possessed man"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the tax collector who held a banquet for Jesus?",
+      "options": [
+        "Levi (Matthew)",
+        "Zacchaeus",
+        "Simon",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who touched Jesus and was healed of bleeding?",
+      "options": [
+        "A woman",
+        "A leper",
+        "A centurion",
+        "A child"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the ruler of the synagogue whose daughter Jesus raised?",
+      "options": [
+        "Jairus",
+        "Nicodemus",
+        "Caiaphas",
+        "Gamaliel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How many baskets of leftovers were gathered after feeding the 5,000?",
+      "options": [
+        "12",
+        "7",
+        "3",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who walked on water but sank when he looked at the wind?",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Andrew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who said 'You are the Christ, the Son of the living God'?",
+      "options": [
+        "Peter",
+        "John",
+        "Thomas",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Which two Old Testament figures appeared at the Transfiguration?",
+      "options": [
+        "Moses and Elijah",
+        "Abraham and Isaac",
+        "David and Solomon",
+        "Enoch and Noah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the neighbor in the parable of the Good Samaritan?",
+      "options": [
+        "The Samaritan",
+        "The Priest",
+        "The Levite",
+        "The Innkeeper"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who sat at Jesus' feet while her sister worked?",
+      "options": [
+        "Mary",
+        "Martha",
+        "Salome",
+        "Joanna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "In the Parable of the Prodigal Son, what did the father give the returning son?",
+      "options": [
+        "A robe, a ring, and sandals",
+        "A sword and shield",
+        "A bag of gold",
+        "A new house"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was angry when the Prodigal Son returned?",
+      "options": [
+        "The older brother",
+        "The mother",
+        "The servants",
+        "The neighbors"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "How many lepers returned to thank Jesus after being healed?",
+      "options": [
+        "One",
+        "Five",
+        "Nine",
+        "Ten"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What did Jesus use to heal the blind man at the Pool of Siloam?",
+      "options": [
+        "Mud made with spit",
+        "Holy water",
+        "Olive oil",
+        "A cloth"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How many days had Lazarus been dead when Jesus arrived?",
+      "options": [
+        "Four days",
+        "Three days",
+        "One day",
+        "Seven days"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "How much did Zacchaeus promise to pay back to those he cheated?",
+      "options": [
+        "Four times the amount",
+        "Double the amount",
+        "Ten percent",
+        "Nothing"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What did the people wave when Jesus entered Jerusalem on a donkey?",
+      "options": [
+        "Palm branches",
+        "Olive branches",
+        "Flags",
+        "Handkerchiefs"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "What animals were being sold in the temple when Jesus cleansed it?",
+      "options": [
+        "Cattle, sheep, and doves",
+        "Lions and bears",
+        "Camels and donkeys",
+        "Horses and mules"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How much did the poor widow put into the offering box?",
+      "options": [
+        "Two copper coins (mites)",
+        "A gold coin",
+        "A silver shekel",
+        "Five loaves"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who leaned back against Jesus at the Last Supper?",
+      "options": [
+        "John (the disciple whom Jesus loved)",
+        "Peter",
+        "Judas",
+        "James"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What were the disciples doing while Jesus prayed in Gethsemane?",
+      "options": [
+        "Sleeping",
+        "Praying",
+        "Eating",
+        "Talking"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Whose ear did Peter cut off?",
+      "options": [
+        "Malchus",
+        "Caiaphas",
+        "Pilate",
+        "Alexander"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Where was Peter standing when he denied Jesus?",
+      "options": [
+        "By a charcoal fire in the courtyard",
+        "In the temple",
+        "On the street",
+        "In the upper room"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What signal did Judas use to betray Jesus?",
+      "options": [
+        "A kiss",
+        "A handshake",
+        "Pointing a finger",
+        "A hug"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Why did Pilate's wife tell him to have nothing to do with Jesus?",
+      "options": [
+        "She had a dream about Him",
+        "She knew Jesus personally",
+        "She was Jewish",
+        "She hated the priests"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the prisoner released instead of Jesus?",
+      "options": [
+        "Barabbas",
+        "Barnabas",
+        "Silas",
+        "Gestas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Where was Simon of Cyrene coming from when he was forced to carry the cross?",
+      "options": [
+        "From the country/fields",
+        "From Rome",
+        "From the temple",
+        "From his house"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What does 'Golgotha' mean?",
+      "options": [
+        "The Place of the Skull",
+        "The Place of Suffering",
+        "The Hill of God",
+        "The Dusty Road"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "In what languages was the sign above Jesus written?",
+      "options": [
+        "Hebrew, Latin, and Greek",
+        "Hebrew and Egyptian",
+        "Latin and Aramaic",
+        "Greek only"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How did the temple veil tear when Jesus died?",
+      "options": [
+        "From top to bottom",
+        "From bottom to top",
+        "Down the middle sideways",
+        "It fell down"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did the Centurion say when Jesus died?",
+      "options": [
+        "Truly this was the Son of God",
+        "He was innocent",
+        "What have we done?",
+        "Nothing"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who helped Joseph of Arimathea bury Jesus?",
+      "options": [
+        "Nicodemus",
+        "Peter",
+        "John",
+        "Simon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "When did the disciples on the road to Emmaus recognize Jesus?",
+      "options": [
+        "When He broke the bread",
+        "When He spoke",
+        "When He showed His hands",
+        "When He vanished"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What proof did Thomas want before believing?",
+      "options": [
+        "To see the nail marks in His hands",
+        "To hear His voice",
+        "To see a miracle",
+        "To eat with Him"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Where did the Ascension take place?",
+      "options": [
+        "Mount of Olives",
+        "Mount Sinai",
+        "Mount Tabor",
+        "Jericho"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What sound was heard on the Day of Pentecost?",
+      "options": [
+        "A rushing mighty wind",
+        "Thunder",
+        "Trumpets",
+        "Singing"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What time of day was it when Peter preached at Pentecost?",
+      "options": [
+        "The third hour (9 AM)",
+        "Noon",
+        "Sunset",
+        "Midnight"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What was the name of the Temple gate where the lame man sat?",
+      "options": [
+        "Beautiful",
+        "Golden",
+        "Sheep",
+        "Water"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What was the sin of Ananias and Sapphira?",
+      "options": [
+        "Lying to the Holy Spirit",
+        "Stealing money",
+        "Adultery",
+        "Murder"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What advice did Gamaliel give the Sanhedrin about the apostles?",
+      "options": [
+        "Leave them alone; if it's of God, you can't stop it",
+        "Kill them all",
+        "Put them in prison",
+        "Banish them"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Why were the first deacons chosen?",
+      "options": [
+        "To distribute food to widows",
+        "To preach",
+        "To heal the sick",
+        "To guard the money"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Stephen's face look like during his trial?",
+      "options": [
+        "The face of an angel",
+        "Angry",
+        "Fearful",
+        "Like the sun"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Where did Philip go to preach after persecution broke out?",
+      "options": [
+        "Samaria",
+        "Rome",
+        "Egypt",
+        "Damascus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Simon the Sorcerer try to do?",
+      "options": [
+        "Buy the power of the Holy Spirit",
+        "Curse Peter",
+        "Fly",
+        "Turn stones to bread"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What book was the Ethiopian Eunuch reading?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Psalms",
+        "Genesis"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Where was Saul going when he was blinded?",
+      "options": [
+        "Damascus",
+        "Jerusalem",
+        "Antioch",
+        "Tarsus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Why was Ananias afraid to visit Saul?",
+      "options": [
+        "He heard how much evil Saul did to the saints",
+        "He thought Saul was dead",
+        "He was afraid of the Romans",
+        "He was sick"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "How did Saul escape from Damascus?",
+      "options": [
+        "In a basket down the wall",
+        "On a horse",
+        "Through a tunnel",
+        "Disguised as a soldier"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was Aeneas?",
+      "options": [
+        "A paralyzed man healed by Peter",
+        "A magician",
+        "A Roman governor",
+        "A disciple"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What was Dorcas (Tabitha) known for?",
+      "options": [
+        "Good works and making clothes",
+        "Singing",
+        "Prophecy",
+        "Cooking"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who appeared to Cornelius in a vision?",
+      "options": [
+        "An angel of God",
+        "Jesus",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What kind of animals were in Peter's vision of the sheet?",
+      "options": [
+        "Unclean animals",
+        "Sheep",
+        "Doves",
+        "Lions"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What does the name 'Barnabas' mean?",
+      "options": [
+        "Son of Encouragement",
+        "Son of Thunder",
+        "Son of Peace",
+        "Son of Light"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the prophet Agabus predict?",
+      "options": [
+        "A great famine",
+        "A flood",
+        "The end of the world",
+        "The death of Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How did King Herod Agrippa I die?",
+      "options": [
+        "Eaten by worms",
+        "Stabbed",
+        "Old age",
+        "Drowned"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What happened to Elymas the sorcerer when he opposed Paul?",
+      "options": [
+        "He was struck blind",
+        "He fell dead",
+        "He became mute",
+        "He ran away"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who deserted Paul and Barnabas in Perga?",
+      "options": [
+        "John Mark",
+        "Luke",
+        "Silas",
+        "Timothy"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Was Paul stoned in Lystra?",
+      "options": [
+        "Yes, and dragged out of the city",
+        "No, he escaped",
+        "No, they stoned Barnabas",
+        "Yes, but it didn't hurt"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What was the main topic of the Council of Jerusalem?",
+      "options": [
+        "Whether Gentiles needed to be circumcised",
+        "Who should lead the church",
+        "Collecting money",
+        "Which books were scripture"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who were Timothy's mother and grandmother?",
+      "options": [
+        "Eunice and Lois",
+        "Mary and Martha",
+        "Elizabeth and Anna",
+        "Sarah and Rebekah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What was Lydia's business?",
+      "options": [
+        "Selling purple cloth",
+        "Selling pottery",
+        "Making tents",
+        "Baking bread"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the Philippian jailer ask Paul and Silas?",
+      "options": [
+        "What must I do to be saved?",
+        "How did you escape?",
+        "Who are you?",
+        "Can I have some water?"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Why were the Bereans considered more noble?",
+      "options": [
+        "They received the word and searched the scriptures daily",
+        "They were wealthy",
+        "They were Roman citizens",
+        "They spoke Greek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "To whom was the altar in Athens dedicated?",
+      "options": [
+        "To the Unknown God",
+        "To Zeus",
+        "To Caesar",
+        "To Wisdom"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who were the tentmakers Paul worked with in Corinth?",
+      "options": [
+        "Aquila and Priscilla",
+        "Silas and Timothy",
+        "Jason and Gaius",
+        "Peter and Andrew"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to the seven sons of Sceva?",
+      "options": [
+        "A demon-possessed man overpowered them",
+        "They became apostles",
+        "They were arrested",
+        "They healed many people"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was Demetrius?",
+      "options": [
+        "A silversmith who made shrines for Artemis",
+        "A disciple",
+        "A Roman guard",
+        "A Jewish priest"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the eloquent speaker who only knew the baptism of John?",
+      "options": [
+        "Apollos",
+        "Paul",
+        "Peter",
+        "Stephen"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Did Gallio care about the Jewish charges against Paul?",
+      "options": [
+        "No, he cared for none of these things",
+        "Yes, he arrested Paul",
+        "Yes, he whipped Paul",
+        "He asked to hear more"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "How did Paul prove he was a Roman citizen?",
+      "options": [
+        "He was born free",
+        "He bought it",
+        "He served in the army",
+        "He was a friend of Caesar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who saved Paul's life by warning the commander about a plot to kill him?",
+      "options": [
+        "Paul's nephew",
+        "Luke",
+        "Timothy",
+        "A Roman guard"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the governor who trembled when Paul preached about righteousness and judgment?",
+      "options": [
+        "Felix",
+        "Festus",
+        "Agrippa",
+        "Pilate"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who said 'You almost persuade me to become a Christian'?",
+      "options": [
+        "King Agrippa",
+        "Felix",
+        "Caesar",
+        "Festus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How many people were on the ship with Paul when it wrecked?",
+      "options": [
+        "276",
+        "120",
+        "12",
+        "500"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "What happened to Elisha's bones when a dead man was thrown into his grave?",
+      "options": [
+        "The dead man came back to life",
+        "They turned to dust",
+        "They glowed",
+        "Nothing"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the king who had his thumbs and big toes cut off?",
+      "options": [
+        "Adoni-Bezek",
+        "Eglon",
+        "Sihon",
+        "Og"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who told the parable of the trees choosing a king?",
+      "options": [
+        "Jotham",
+        "Gideon",
+        "Samson",
+        "Nathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who stole her father Laban's household idols and sat on them?",
+      "options": [
+        "Rachel",
+        "Leah",
+        "Rebekah",
+        "Sarah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the cupbearer who forgot Joseph in prison for two years?",
+      "options": [
+        "The Chief Butler",
+        "The Chief Baker",
+        "Potiphar",
+        "The Jailer"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What object did Joseph hide in Benjamin's sack?",
+      "options": [
+        "A silver cup",
+        "A gold ring",
+        "Money",
+        "An idol"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who offered to bear the blame forever if he didn't bring Benjamin back?",
+      "options": [
+        "Judah",
+        "Reuben",
+        "Levi",
+        "Simeon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What happened to Aaron's staff to prove he was God's chosen priest?",
+      "options": [
+        "It sprouted, budded, and produced almonds",
+        "It turned into a snake",
+        "It caught fire",
+        "It turned to gold"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the man who gathered sticks on the Sabbath and was stoned?",
+      "options": [
+        "He is unnamed",
+        "Korah",
+        "Dathan",
+        "Achan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the giant king who had an iron bed?",
+      "options": [
+        "Og of Bashan",
+        "Sihon",
+        "Goliath",
+        "Anak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What stopped the Jordan River from flowing when Israel crossed?",
+      "options": [
+        "The feet of the priests carrying the Ark touched the water",
+        "Moses struck it",
+        "Joshua shouted",
+        "An earthquake"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who were the Gibeonites?",
+      "options": [
+        "People who tricked Joshua into a treaty",
+        "Giants",
+        "Priests",
+        "Builders of the temple"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who killed the Philistine giant Ishbi-Benob who tried to kill David?",
+      "options": [
+        "Abishai",
+        "Joab",
+        "Benaiah",
+        "Asahel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the counselor of David who betrayed him and then hanged himself?",
+      "options": [
+        "Ahithophel",
+        "Hushai",
+        "Ziba",
+        "Shimei"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who tried to warn Amnon about the danger of Absalom?",
+      "options": [
+        "Jonadab (trick question - he encouraged the sin, didn't warn)",
+        "No one",
+        "David",
+        "Nathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the woman who pretended to be a mourner to trick David?",
+      "options": [
+        "The Wise Woman of Tekoa",
+        "The Witch of Endor",
+        "Abigail",
+        "Rizpah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who guarded the bodies of her sons from birds and beasts for months?",
+      "options": [
+        "Rizpah",
+        "Michal",
+        "Bathsheba",
+        "Naomi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who had six fingers on each hand and six toes on each foot?",
+      "options": [
+        "A giant from Gath",
+        "Goliath",
+        "Samson",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who poured water on the ground that his men risked their lives to get?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Gideon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the Queen who visited Solomon?",
+      "options": [
+        "Queen of Sheba",
+        "Queen of Esther",
+        "Queen Jezebel",
+        "Queen Athaliah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What did the old prophet in Bethel do to the man of God from Judah?",
+      "options": [
+        "He lied to him and caused his death",
+        "He fed him and blessed him",
+        "He killed him",
+        "He ignored him"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the king who had a disease in his feet but did not seek the Lord?",
+      "options": [
+        "Asa",
+        "Jehoshaphat",
+        "Hezekiah",
+        "Uzziah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who hid 100 prophets in two caves?",
+      "options": [
+        "Obadiah",
+        "Elijah",
+        "Elisha",
+        "Micaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the prophet who slapped Micaiah in the face?",
+      "options": [
+        "Zedekiah",
+        "Hananiah",
+        "Pashhur",
+        "Amaziah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "How did King Ahab die?",
+      "options": [
+        "Struck by a random arrow",
+        "Stabbed by Jehu",
+        "Fell from a window",
+        "Old age"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the grandmother of Timothy?",
+      "options": [
+        "Lois",
+        "Eunice",
+        "Priscilla",
+        "Anna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who fell asleep and fell out of a window?",
+      "options": [
+        "Eutychus",
+        "Tychicus",
+        "Timothy",
+        "Titus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the coppersmith who did Paul much harm?",
+      "options": [
+        "Alexander",
+        "Demetrius",
+        "Hymenaeus",
+        "Philetus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What did Paul leave in Troas that he asked Timothy to bring?",
+      "options": [
+        "His cloak and parchments",
+        "His money",
+        "His tent",
+        "His sandals"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the 'beloved physician'?",
+      "options": [
+        "Luke",
+        "Mark",
+        "Demas",
+        "Aristarchus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who is the 'accuser of the brethren'?",
+      "options": [
+        "Satan",
+        "The Beast",
+        "The False Prophet",
+        "Judas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What is the name of the star that fell and turned the waters bitter?",
+      "options": [
+        "Wormwood",
+        "Gall",
+        "Bitterroot",
+        "Morning Star"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who will be bound for 1,000 years?",
+      "options": [
+        "Satan",
+        "The Antichrist",
+        "The False Prophet",
+        "Gog and Magog"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What city comes down out of heaven from God?",
+      "options": [
+        "New Jerusalem",
+        "New Babylon",
+        "New Eden",
+        "Zion"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who said 'Behold, I stand at the door and knock'?",
+      "options": [
+        "Jesus",
+        "Peter",
+        "Paul",
+        "The Angel Gabriel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who are the 144,000 in Revelation?",
+      "options": [
+        "Servants of God from the tribes of Israel",
+        "The church",
+        "Angels",
+        "The Roman army"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What color is the horse of Death?",
+      "options": [
+        "Pale",
+        "Black",
+        "Red",
+        "White"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who ate the little book that tasted sweet like honey but was bitter in the stomach?",
+      "options": [
+        "John",
+        "Peter",
+        "Paul",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who were the two women who argued in the church at Philippi?",
+      "options": [
+        "Euodia and Syntyche",
+        "Priscilla and Aquila",
+        "Mary and Martha",
+        "Tryphena and Tryphosa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who risked his life to bring Paul a gift from Philippi?",
+      "options": [
+        "Epaphroditus",
+        "Timothy",
+        "Silas",
+        "Luke"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the partner of Titus mentioned in 2 Corinthians?",
+      "options": [
+        "He is not named, just 'the brother'",
+        "Timothy",
+        "Luke",
+        "Barnabas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the lady chosen by God and her children?",
+      "options": [
+        "The recipient of 2 John",
+        "Mary",
+        "Eve",
+        "Sarah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who loved to be first and refused to welcome John?",
+      "options": [
+        "Diotrephes",
+        "Gaius",
+        "Demetrius",
+        "Alexander"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who prophesied about the 'mockers' in the last days?",
+      "options": [
+        "Jude (and Peter)",
+        "Paul",
+        "James",
+        "John"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who disputed with the devil about the body of Moses?",
+      "options": [
+        "Michael the Archangel",
+        "Gabriel",
+        "Jesus",
+        "Enoch"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who are the 'clouds without rain'?",
+      "options": [
+        "False teachers",
+        "Angels",
+        "Demons",
+        "Pharisees"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "In the Parable of the Sower, what does the seed represent?",
+      "options": [
+        "The Word of God",
+        "Money",
+        "Faith",
+        "Love"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "In the Parable of the Ten Virgins, what did the foolish ones forget?",
+      "options": [
+        "Oil for their lamps",
+        "Their lamps",
+        "Their robes",
+        "The invitation"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who is the 'Great Physician'?",
+      "options": [
+        "Jesus",
+        "Luke",
+        "Paul",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who asked 'Who is my neighbor?'",
+      "options": [
+        "An expert in the law (Lawyer)",
+        "A Pharisee",
+        "A Sadducee",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did the rich man in hell ask Lazarus to do?",
+      "options": [
+        "Dip his finger in water and cool his tongue",
+        "Get him out",
+        "Send him back to earth",
+        "Pray for him"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What happened to the man who built his house on the sand?",
+      "options": [
+        "It fell with a great crash",
+        "It stood firm",
+        "It flooded",
+        "It burned down"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the Pharisee who invited Jesus to dinner?",
+      "options": [
+        "Simon",
+        "Nicodemus",
+        "Joseph",
+        "Gamaliel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who is the 'Bread of Life'?",
+      "options": [
+        "Jesus",
+        "Moses",
+        "The Manna",
+        "The Bible"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who is the 'Light of the World'?",
+      "options": [
+        "Jesus",
+        "The Sun",
+        "The Church",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who is the 'True Vine'?",
+      "options": [
+        "Jesus",
+        "Israel",
+        "The Church",
+        "David"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What happened to the earth during the rebellion of Korah?",
+      "options": [
+        "It opened up and swallowed them",
+        "It flooded",
+        "It grew thorns",
+        "It shook violently"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who were the only two spies who brought back a good report about the Promised Land?",
+      "options": [
+        "Joshua and Caleb",
+        "Moses and Aaron",
+        "Korah and Dathan",
+        "Ehud and Shamgar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What grew on Aaron's staff to show he was God's chosen priest?",
+      "options": [
+        "Almonds",
+        "Olives",
+        "Figs",
+        "Grapes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What did Moses raise up in the desert to heal snake bites?",
+      "options": [
+        "A Bronze Serpent",
+        "A Golden Calf",
+        "A Wooden Cross",
+        "A Silver Staff"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who struck the rock twice instead of speaking to it?",
+      "options": [
+        "Moses",
+        "Aaron",
+        "Joshua",
+        "Miriam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the king who hired Balaam to curse Israel?",
+      "options": [
+        "Balak",
+        "Sihon",
+        "Og",
+        "Pharaoh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What stopped Balaam's donkey from moving forward?",
+      "options": [
+        "An angel with a sword",
+        "A wall of fire",
+        "A fallen tree",
+        "A rushing river"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What were the Urim and Thummim used for?",
+      "options": [
+        "Determining God's will (casting lots)",
+        "Lighting the temple",
+        "Cutting sacrifices",
+        "Music"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "What was inside the Ark of the Covenant?",
+      "options": [
+        "Manna, Aaron's Staff, Ten Commandments",
+        "Gold and Silver",
+        "The bones of Joseph",
+        "Holy Water"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What separated the Holy Place from the Holy of Holies?",
+      "options": [
+        "A thick curtain (veil)",
+        "A golden door",
+        "A wall of stone",
+        "A river"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How often did the High Priest enter the Holy of Holies?",
+      "options": [
+        "Once a year",
+        "Every day",
+        "Every Sabbath",
+        "Once a month"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What festival celebrates the Israelites' escape from Egypt?",
+      "options": [
+        "Passover",
+        "Pentecost",
+        "Tabernacles",
+        "Purim"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who were the five daughters who asked for their father's inheritance?",
+      "options": [
+        "The daughters of Zelophehad",
+        "The daughters of Job",
+        "The daughters of Philip",
+        "The daughters of Lot"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who hid the spies under flax on her roof?",
+      "options": [
+        "Rahab",
+        "Ruth",
+        "Deborah",
+        "Jael"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What river did Israel cross on dry ground to enter Canaan?",
+      "options": [
+        "Jordan",
+        "Nile",
+        "Euphrates",
+        "Tigris"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who took a 'goodly Babylonish garment' and hid it in his tent?",
+      "options": [
+        "Achan",
+        "Gideon",
+        "Samson",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How did the Gibeonites trick Joshua?",
+      "options": [
+        "They wore old clothes and brought moldy bread",
+        "They pretended to be soldiers",
+        "They bribed him",
+        "They sent a fake letter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What happened to the sun during Joshua's battle at Gibeon?",
+      "options": [
+        "It stood still",
+        "It turned black",
+        "It fell",
+        "It spun around"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the judge who killed 600 Philistines with an oxgoad?",
+      "options": [
+        "Shamgar",
+        "Ehud",
+        "Barak",
+        "Tola"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the woman who judged Israel under a palm tree?",
+      "options": [
+        "Deborah",
+        "Jael",
+        "Miriam",
+        "Huldah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who refused to lead the army unless Deborah went with him?",
+      "options": [
+        "Barak",
+        "Gideon",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How did Jael kill Sisera?",
+      "options": [
+        "With a hammer and tent peg",
+        "With a sword",
+        "With poison",
+        "With a stone"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What was Gideon doing when the angel appeared to him?",
+      "options": [
+        "Threshing wheat in a winepress",
+        "Sleeping",
+        "Praying",
+        "Fighting"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How many men did Gideon start with before God reduced the army?",
+      "options": [
+        "32,000",
+        "10,000",
+        "300",
+        "5,000"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "How did God narrow down Gideon's army to 300?",
+      "options": [
+        "By how they drank water",
+        "By a footrace",
+        "By casting lots",
+        "By checking their weapons"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the judge who was the son of a prostitute and fled from his brothers?",
+      "options": [
+        "Jephthah",
+        "Abimelech",
+        "Jair",
+        "Ibzan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What riddle did Samson tell the Philistines?",
+      "options": [
+        "Out of the eater, something to eat; out of the strong, something sweet",
+        "I am strong as a lion but gentle as a lamb",
+        "What has legs but cannot walk?",
+        "Darkness is my friend"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "How did Samson burn the Philistine crops?",
+      "options": [
+        "Foxes with torches tied to their tails",
+        "He shot flaming arrows",
+        "He used a magnifying glass",
+        "He poured oil and lit it"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What city gate did Samson carry away on his shoulders?",
+      "options": [
+        "Gaza",
+        "Jericho",
+        "Jerusalem",
+        "Ashdod"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who stole 1,100 shekels of silver from his mother and then made an idol?",
+      "options": [
+        "Micah (from Judges)",
+        "Gideon",
+        "Samson",
+        "Dan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the Levite's concubine cut into 12 pieces?",
+      "options": [
+        "The woman in Judges 19",
+        "Tamar",
+        "Dinah",
+        "Hagar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 10
+    },
+    {
+      "question": "What book ends with 'In those days there was no king in Israel; everyone did what was right in his own eyes'?",
+      "options": [
+        "Judges",
+        "Joshua",
+        "Ruth",
+        "1 Samuel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was Ruth's sister-in-law who went back to Moab?",
+      "options": [
+        "Orpah",
+        "Naomi",
+        "Mara",
+        "Vashti"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "What did Boaz do to seal the deal to redeem Ruth?",
+      "options": [
+        "Took off his sandal and gave it",
+        "Shook hands",
+        "Signed a scroll",
+        "Gave a ring"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the father of Jesse?",
+      "options": [
+        "Obed",
+        "Boaz",
+        "Salmon",
+        "Perez"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What did Hannah promise God if He gave her a son?",
+      "options": [
+        "She would give him back to the Lord all his days",
+        "She would fast twice a week",
+        "She would build a temple",
+        "She would offer a lamb"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "How did Eli the priest die?",
+      "options": [
+        "He fell backward off his chair and broke his neck",
+        "He had a heart attack",
+        "He was stabbed",
+        "He died in his sleep"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who captured the Ark of the Covenant?",
+      "options": [
+        "The Philistines",
+        "The Egyptians",
+        "The Babylonians",
+        "The Assyrians"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did the people ask Samuel for that displeased God?",
+      "options": [
+        "A King",
+        "More food",
+        "A new priest",
+        "To go back to Egypt"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Which tribe was Saul from?",
+      "options": [
+        "Benjamin",
+        "Judah",
+        "Levi",
+        "Ephraim"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who did Jonathan eat honey with?",
+      "options": [
+        "No one, he ate it alone",
+        "David",
+        "Saul",
+        "His armor bearer"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Why did God reject Saul as king?",
+      "options": [
+        "He offered a sacrifice unlawfully and disobeyed regarding Amalek",
+        "He killed David",
+        "He worshipped idols",
+        "He was too old"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Where did Samuel go to anoint the new king?",
+      "options": [
+        "Bethlehem",
+        "Jerusalem",
+        "Hebron",
+        "Shiloh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was David's father?",
+      "options": [
+        "Jesse",
+        "Obed",
+        "Boaz",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Why was David chosen over his brothers?",
+      "options": [
+        "God looks at the heart, not the outward appearance",
+        "He was the strongest",
+        "He was the oldest",
+        "He was the tallest"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What reward was offered for killing Goliath?",
+      "options": [
+        "Great wealth and the king's daughter",
+        "A palace",
+        "Leadership of the army",
+        "A crown"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How many foreskins of the Philistines did David bring to Saul to marry Michal?",
+      "options": [
+        "200",
+        "100",
+        "50",
+        "1000"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who helped David escape through a window?",
+      "options": [
+        "Michal",
+        "Jonathan",
+        "Samuel",
+        "Abigail"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who gave David the holy bread and Goliath's sword?",
+      "options": [
+        "Ahimelech the priest",
+        "Samuel",
+        "Doeg",
+        "Abiathar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who pretended to be a madman, scratching at doors and drooling, to escape a king?",
+      "options": [
+        "David",
+        "Saul",
+        "Samson",
+        "Elijah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who killed the priests of Nob because they helped David?",
+      "options": [
+        "Doeg the Edomite",
+        "Saul",
+        "Abner",
+        "Goliath"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who refused to give food to David's men, calling them runaway servants?",
+      "options": [
+        "Nabal",
+        "Barzillai",
+        "Shimei",
+        "Ziba"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What happened to Nabal shortly after his feast?",
+      "options": [
+        "His heart failed him and he became like a stone",
+        "He was killed by David",
+        "He fell off a cliff",
+        "He was eaten by lions"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who stole David's spear and water jug while he slept?",
+      "options": [
+        "David (stole them from Saul)",
+        "Abishai",
+        "Jonathan",
+        "Joab"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who did Saul consult when God wouldn't answer him?",
+      "options": [
+        "The Witch of Endor",
+        "A prophet of Baal",
+        "The Philistines",
+        "His armor bearer"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who died by falling on his own sword?",
+      "options": [
+        "Saul",
+        "David",
+        "Jonathan",
+        "Absalom"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the commander of Saul's army?",
+      "options": [
+        "Abner",
+        "Joab",
+        "Benaiah",
+        "Amasa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the commander of David's army?",
+      "options": [
+        "Joab",
+        "Abner",
+        "Absalom",
+        "Uriah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who killed Abner?",
+      "options": [
+        "Joab",
+        "David",
+        "Asahel",
+        "Ishbosheth"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who danced before the Ark of the Covenant with all his might?",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Samuel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the first person in the Bible to build a city?",
+      "options": [
+        "Cain",
+        "Nimrod",
+        "Adam",
+        "Noah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the 'father of all who play the harp and flute'?",
+      "options": [
+        "Jubal",
+        "Tubal-Cain",
+        "Lamech",
+        "David"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who held up Moses' hands during the battle against the Amalekites?",
+      "options": [
+        "Aaron and Hur",
+        "Joshua and Caleb",
+        "Gershom and Eliezer",
+        "Nadab and Abihu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who were the sons of Aaron who offered 'strange fire' and died?",
+      "options": [
+        "Nadab and Abihu",
+        "Eleazar and Ithamar",
+        "Hophni and Phinehas",
+        "Jacob and Esau"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the skilled craftsman chosen to build the Tabernacle?",
+      "options": [
+        "Bezalel",
+        "Oholiab",
+        "Hur",
+        "Caleb"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the King of Tyre who sent cedar logs to David and Solomon?",
+      "options": [
+        "Hiram",
+        "Balak",
+        "Sennacherib",
+        "Nebuchadnezzar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the prophet who tore his new robe into 12 pieces?",
+      "options": [
+        "Ahijah",
+        "Nathan",
+        "Samuel",
+        "Elijah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the King of Judah who built a famous water tunnel?",
+      "options": [
+        "Hezekiah",
+        "Josiah",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which Assyrian king was killed by his own sons while worshipping his god?",
+      "options": [
+        "Sennacherib",
+        "Nebuchadnezzar",
+        "Darius",
+        "Shalmaneser"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who was the Ethiopian who rescued Jeremiah from the dungeon?",
+      "options": [
+        "Ebed-Melech",
+        "Baruch",
+        "Gehazi",
+        "Potiphar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who saw a vision of the Lord with a live coal touching his lips?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Which prophet saw a 'plumb line' being set among the people?",
+      "options": [
+        "Amos",
+        "Hosea",
+        "Joel",
+        "Micah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Which prophet spoke about a 'basket of summer fruit'?",
+      "options": [
+        "Amos",
+        "Jeremiah",
+        "Nahum",
+        "Zechariah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which prophet said the people were putting their money in a 'bag with holes'?",
+      "options": [
+        "Haggai",
+        "Malachi",
+        "Zechariah",
+        "Habakkuk"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Which prophet described God as a 'refiner's fire'?",
+      "options": [
+        "Malachi",
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who prophesied that the Messiah would be born in Bethlehem?",
+      "options": [
+        "Micah",
+        "Isaiah",
+        "Jeremiah",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who prophesied that a virgin would conceive and bear a son?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Which prophet is known for the 'Suffering Servant' passages?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Lamentations",
+        "Ezekiel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Which prophet spoke of the 'New Covenant' written on hearts?",
+      "options": [
+        "Jeremiah",
+        "Isaiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who prophesied that God would pour out His Spirit on all flesh?",
+      "options": [
+        "Joel",
+        "Amos",
+        "Obadiah",
+        "Jonah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who prophesied about the '70 weeks'?",
+      "options": [
+        "Daniel",
+        "Ezekiel",
+        "Jeremiah",
+        "Isaiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "What miracle did Jesus perform in the region of the Gerasenes?",
+      "options": [
+        "Cast a legion of demons into pigs",
+        "Healed a blind man",
+        "Walked on water",
+        "Fed the 4000"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who was the Centurion whose servant Jesus healed from a distance?",
+      "options": [
+        "He is unnamed",
+        "Cornelius",
+        "Julius",
+        "Longinus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the woman Jesus healed who was bent over for 18 years?",
+      "options": [
+        "A daughter of Abraham",
+        "Mary",
+        "Martha",
+        "Salome"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What miracle did Jesus perform at the city gate of Nain?",
+      "options": [
+        "Raised a widow's son from the dead",
+        "Healed a leper",
+        "Made a blind man see",
+        "Cast out a demon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "How many fish did the disciples catch after Jesus told them to cast the net (after the resurrection)?",
+      "options": [
+        "153",
+        "120",
+        "144",
+        "70"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "In the Parable of the Mustard Seed, what does the seed become?",
+      "options": [
+        "A tree where birds perch",
+        "A great mountain",
+        "A vine",
+        "A flower"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "In the Parable of the Hidden Treasure, what did the man do?",
+      "options": [
+        "Sold all he had to buy the field",
+        "Stole the treasure",
+        "Told everyone about it",
+        "Buried it deeper"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "In the Parable of the Pearl of Great Price, what was the merchant looking for?",
+      "options": [
+        "Fine pearls",
+        "Gold",
+        "Silver",
+        "Rubies"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "In the Parable of the Unforgiving Servant, how much did the first servant owe?",
+      "options": [
+        "10,000 talents (a huge sum)",
+        "100 denarii",
+        "50 shekels",
+        "1 talent"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who was the man who had the two sons in the parable where one said 'I will go' but didn't?",
+      "options": [
+        "A vineyard owner",
+        "A king",
+        "A shepherd",
+        "A merchant"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "In the Parable of the Tenants, who did the owner send last?",
+      "options": [
+        "His son",
+        "His servant",
+        "His army",
+        "His wife"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "In the Parable of the Wedding Banquet, why was one guest thrown out?",
+      "options": [
+        "He wasn't wearing wedding clothes",
+        "He was drunk",
+        "He didn't have a gift",
+        "He was late"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "In the Parable of the Talents, what did the man with one talent do?",
+      "options": [
+        "Buried it",
+        "Invested it",
+        "Lost it",
+        "Spent it"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who was the fastest runner among David's nephews?",
+      "options": [
+        "Asahel",
+        "Joab",
+        "Abishai",
+        "Amasa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Who was the judge who had 30 sons who rode on 30 donkeys?",
+      "options": [
+        "Jair",
+        "Ibzan",
+        "Elon",
+        "Abdon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 9
+    },
+    {
+      "question": "Who did Jesus heal on the Sabbath, asking 'Is it lawful to heal on the Sabbath?'?",
+      "options": [
+        "A man with a withered hand",
+        "A blind man",
+        "A leper",
+        "A paralyzed man"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What happened when Jesus commanded the wind and waves?",
+      "options": [
+        "They obeyed Him and were calm",
+        "They got worse",
+        "The boat capsized",
+        "It rained harder"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the Pharisee who stood by himself and prayed 'God, I thank you that I am not like other men'?",
+      "options": [
+        "The Pharisee in the parable",
+        "Nicodemus",
+        "Caiaphas",
+        "Gamaliel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the Tax Collector who beat his breast and said 'God, have mercy on me, a sinner'?",
+      "options": [
+        "The Tax Collector in the parable",
+        "Matthew",
+        "Zacchaeus",
+        "Levi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who asked Jesus to teach them how to pray?",
+      "options": [
+        "His disciples",
+        "The Pharisees",
+        "John the Baptist",
+        "The crowd"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Who did Jesus say was the 'greatest in the kingdom of heaven'?",
+      "options": [
+        "A little child",
+        "Peter",
+        "John the Baptist",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who requested to sit at Jesus' right and left hand?",
+      "options": [
+        "James and John (and their mother)",
+        "Peter and Andrew",
+        "Philip and Thomas",
+        "Judas and Simon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Who did Jesus heal who was blind and sitting by the roadside begging?",
+      "options": [
+        "Bartimaeus",
+        "Lazarus",
+        "Simon",
+        "Malchus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Jesus curse because it had leaves but no fruit?",
+      "options": [
+        "A fig tree",
+        "An olive tree",
+        "A vine",
+        "A thorn bush"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What did Jesus say would cry out if the people were silent?",
+      "options": [
+        "The stones",
+        "The trees",
+        "The birds",
+        "The angels"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who was the High Priest that prophesied Jesus would die for the nation?",
+      "options": [
+        "Caiaphas",
+        "Annas",
+        "Pilate",
+        "Herod"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who asked Jesus 'Are you the King of the Jews?'",
+      "options": [
+        "Pilate",
+        "Herod",
+        "Caiaphas",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What did the soldiers do to Jesus' tunic?",
+      "options": [
+        "Cast lots for it (gambled)",
+        "Tore it",
+        "Burned it",
+        "Kept it"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who did Jesus entrust his mother to while on the cross?",
+      "options": [
+        "John",
+        "Peter",
+        "James",
+        "Joseph"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "What came out of Jesus' side when he was pierced?",
+      "options": [
+        "Blood and water",
+        "Only blood",
+        "Only water",
+        "Nothing"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who bought 75 pounds of spices to bury Jesus?",
+      "options": [
+        "Nicodemus",
+        "Joseph of Arimathea",
+        "Peter",
+        "Mary"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who did Jesus appear to first?",
+      "options": [
+        "Mary Magdalene",
+        "Peter",
+        "John",
+        "Thomas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "How many times did Jesus ask Peter 'Do you love me?'",
+      "options": [
+        "3",
+        "7",
+        "1",
+        "12"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "What was the name of the street where Saul was staying in Damascus?",
+      "options": [
+        "Straight",
+        "Narrow",
+        "Broad",
+        "King's Highway"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Who was the female dealer in purple cloth who believed?",
+      "options": [
+        "Lydia",
+        "Priscilla",
+        "Phoebe",
+        "Chloe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Who did Paul say was the 'chief of sinners'?",
+      "options": [
+        "Himself (Paul)",
+        "Judas",
+        "Pilate",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Who does the book of Revelation say is 'worthy to open the scroll'?",
+      "options": [
+        "The Lion of the tribe of Judah (The Lamb)",
+        "The strong angel",
+        "The four living creatures",
+        "The twenty-four elders"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "What are the four living creatures covered with?",
+      "options": [
+        "Eyes",
+        "Feathers",
+        "Scales",
+        "Gold"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "What did the angel tell John to do with the little scroll?",
+      "options": [
+        "Eat it",
+        "Read it",
+        "Burn it",
+        "Hide it"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    }
+  ]
+}

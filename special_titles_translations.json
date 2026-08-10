@@ -1,0 +1,206 @@
+{
+    "english": {
+        "conclusion": "Conclusion",
+        "preface": "Preface"
+    },
+    "odia": {
+        "conclusion": "ସିଦ୍ଧାନ୍ତ",
+        "preface": "ମୁଖବନ୍ଧ"
+    },
+    "hindi": {
+        "conclusion": "निष्कर्ष",
+        "preface": "प्रस्तावना"
+    },
+    "spanish": {
+        "conclusion": "Conclusión",
+        "preface": "Prefacio"
+    },
+    "french": {
+        "conclusion": "Conclusion",
+        "preface": "Préface"
+    },
+    "german": {
+        "conclusion": "Fazit",
+        "preface": "Vorwort"
+    },
+    "bengali": {
+        "conclusion": "উপসংহার",
+        "preface": "মুখবন্ধ"
+    },
+    "assamese": {
+        "conclusion": "উপসংহাৰ",
+        "preface": "পাতনি"
+    },
+    "marathi": {
+        "conclusion": "निष्कर्ष",
+        "preface": "प्रस्तावना"
+    },
+    "gujarati": {
+        "conclusion": "નિષ્કર્ષ",
+        "preface": "પ્રસ્તાવના"
+    },
+    "punjabi": {
+        "conclusion": "ਸਿੱਟਾ",
+        "preface": "ਭੂਮਿਕਾ"
+    },
+    "tamil": {
+        "conclusion": "முடிவுரை",
+        "preface": "முன்னுரை"
+    },
+    "telugu": {
+        "conclusion": "ముగింపు",
+        "preface": "ఉపోద్ఘాతం"
+    },
+    "kannada": {
+        "conclusion": "ತೀರ್ಮಾನ",
+        "preface": "ಮುನ್ನುಡಿ"
+    },
+    "malayalam": {
+        "conclusion": "ഉપസംഹാരം",
+        "preface": "ആമുഖം"
+    },
+    "urdu": {
+        "conclusion": "نتیجہ",
+        "preface": "دیباچہ"
+    },
+    "chinese": {
+        "conclusion": "结论",
+        "preface": "前言"
+    },
+    "japanese": {
+        "conclusion": "結論",
+        "preface": "序文"
+    },
+    "korean": {
+        "conclusion": "결론",
+        "preface": "서문"
+    },
+    "arabic": {
+        "conclusion": "خاتمة",
+        "preface": "مقدمة"
+    },
+    "portuguese": {
+        "conclusion": "Conclusão",
+        "preface": "Prefácio"
+    },
+    "russian": {
+        "conclusion": "Заключение",
+        "preface": "Предисловие"
+    },
+    "italian": {
+        "conclusion": "Conclusione",
+        "preface": "Prefazione"
+    },
+    "indonesian": {
+        "conclusion": "Kesimpulan",
+        "preface": "Kata Pengantar"
+    },
+    "dutch": {
+        "conclusion": "Conclusie",
+        "preface": "Voorwoord"
+    },
+    "turkish": {
+        "conclusion": "Sonuç",
+        "preface": "Önsöz"
+    },
+    "thai": {
+        "conclusion": "บทสรุป",
+        "preface": "คำนำ"
+    },
+    "vietnamese": {
+        "conclusion": "Kết luận",
+        "preface": "Lời nói đầu"
+    },
+    "tagalog": {
+        "conclusion": "Konklusyon",
+        "preface": "Paunang Salita"
+    },
+    "malay": {
+        "conclusion": "Kesimpulan",
+        "preface": "Prakata"
+    },
+    "swahili": {
+        "conclusion": "Hitimisho",
+        "preface": "Dibaji"
+    },
+    "yoruba": {
+        "conclusion": "Ipari",
+        "preface": "Ọrọ Iṣaaju"
+    },
+    "igbo": {
+        "conclusion": "Mmechi",
+        "preface": "Okwu Mmalite"
+    },
+    "polish": {
+        "conclusion": "Wniosek",
+        "preface": "Przedmowa"
+    },
+    "romanian": {
+        "conclusion": "Concluzie",
+        "preface": "Prefață"
+    },
+    "nepali": {
+        "conclusion": "निष्कर्ष",
+        "preface": "भूमिका"
+    },
+    "czech": {
+        "conclusion": "Závěr",
+        "preface": "Předmluva"
+    },
+    "hungarian": {
+        "conclusion": "Következtetés",
+        "preface": "Előszó"
+    },
+    "greek": {
+        "conclusion": "Συμπέρασμα",
+        "preface": "Πρόλογος"
+    },
+    "hebrew": {
+        "conclusion": "מסקנה",
+        "preface": "הקדמה"
+    },
+    "swedish": {
+        "conclusion": "Slutsats",
+        "preface": "Förord"
+    },
+    "norwegian": {
+        "conclusion": "Konklusjon",
+        "preface": "Forord"
+    },
+    "mongolian": {
+        "conclusion": "Дүгнэлт",
+        "preface": "Өмнөх үг"
+    },
+    "burmese": {
+        "conclusion": "နိဂုံး",
+        "preface": "အမှာစာ"
+    },
+    "tibetan": {
+        "conclusion": "མཇུག་བསྡོམས།",
+        "preface": "སྔོན་གླེང་།"
+    },
+    "bhutanese": {
+        "conclusion": "མཇུག་བསྡུ།",
+        "preface": "ཆེད་བརྗོད།"
+    },
+    "kashmiri": {
+        "conclusion": "نٔتیٖجہٕ",
+        "preface": "تمہیٖد"
+    },
+    "konkani": {
+        "conclusion": "संपादणी",
+        "preface": "प्रस्तावना"
+    },
+    "sanskrit": {
+        "conclusion": "निष्कर्षः",
+        "preface": "प्रस्तावना"
+    },
+    "oromo": {
+        "conclusion": "Goolaba",
+        "preface": "Seensa"
+    },
+    "somali": {
+        "conclusion": "Gunaanad",
+        "preface": "Hordhac"
+    }
+}

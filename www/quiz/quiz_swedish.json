@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Bibelquiz",
+  "questions": [
+    {
+      "question": "Vem byggde arken?",
+      "options": [
+        "Mose",
+        "Noa",
+        "David",
+        "Salomo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken ovanlig mat åt Johannes döparen i öknen?",
+      "options": [
+        "Gräshoppor och vildhonung",
+        "Bröd och fisk",
+        "Fikon och oliver",
+        "Lamm och örter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Vilken man var så stark att han dödade ett lejon med bara händerna?",
+      "options": [
+        "David",
+        "Simson",
+        "Goliat",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem ägde en färgstark mantel som hans bröder var avundsjuka på?",
+      "options": [
+        "Benjamin",
+        "Josef",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilket hav delade Mose på för att fly från egypterna?",
+      "options": [
+        "Döda havet",
+        "Galileiska sjön",
+        "Röda havet",
+        "Medelhavet"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Vem blev svald av en stor fisk?",
+      "options": [
+        "Jona",
+        "Petrus",
+        "Paulus",
+        "Noa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken kvinna förvandlades till en saltstod för att hon såg sig tillbaka?",
+      "options": [
+        "Sara",
+        "Lots hustru",
+        "Rebecka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem besegrade jättekrigaren Goliat med hjälp av en slunga?",
+      "options": [
+        "Saul",
+        "Jonatan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken kortväxt man klättrade upp i ett sykomorträd för att se Jesus?",
+      "options": [
+        "Bartimeus",
+        "Sackaios",
+        "Matteus",
+        "Nikodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilket djur talade till profeten Bileam?",
+      "options": [
+        "Ett lejon",
+        "Ett får",
+        "En åsna",
+        "En kamel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem var den förste mördaren i Bibeln?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Set",
+        "Lamek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem blev kastad i lejongropen men överlevde?",
+      "options": [
+        "Daniel",
+        "Josef",
+        "Sadrak",
+        "Jeremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilken vänsterhänt domare dödade en fet kung med ett dolt svärd?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Simson",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem förrådde Jesus för 30 silverpenningar?",
+      "options": [
+        "Petrus",
+        "Judas Iskariot",
+        "Pontius Pilatus",
+        "Kaifas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilken ung pojke hörde Gud ropa hans namn på natten när han sov?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isak",
+        "Josef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem gick på vattnet för att möta Jesus?",
+      "options": [
+        "Jakob",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Vad föll från himlen för att föda israeliterna i öknen?",
+      "options": [
+        "Bröd",
+        "Vaktlar",
+        "Manna",
+        "Fikon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem är känd som den starkaste mannen i Bibeln?",
+      "options": [
+        "Goliat",
+        "Simson",
+        "Boas",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken drottning räddade det judiska folket från en komplott för att döda dem?",
+      "options": [
+        "Rut",
+        "Ester",
+        "Isebel",
+        "Batseba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem förnekade Jesus tre gånger innan tuppen gol?",
+      "options": [
+        "Tomas",
+        "Judas",
+        "Petrus",
+        "Filippus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilket mirakel utförde Jesus vid bröllopet i Kana?",
+      "options": [
+        "Botade en blind",
+        "Förvandlade vatten till vin",
+        "Gick på vattnet",
+        "Mångfaldigade brödet"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vilken stads murar föll efter att israeliterna tågat runt dem?",
+      "options": [
+        "Jerusalem",
+        "Jeriko",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem var den 'gråtande profeten'?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Hesekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Vem klippte Delila håret på, så att han förlorade sin styrka?",
+      "options": [
+        "Simson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilken lärjunge var tullindrivare innan han följde Jesus?",
+      "options": [
+        "Lukas",
+        "Matteus",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem var den första personen som såg Jesus efter att han uppstått från de döda?",
+      "options": [
+        "Petrus",
+        "Johannes",
+        "Maria Magdalena",
+        "Hans mor Maria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Vilken ond drottning blev uppäten av hundar?",
+      "options": [
+        "Ester",
+        "Isebel",
+        "Atalja",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Vem gömde två spioner under linbuntar på sitt tak?",
+      "options": [
+        "Rut",
+        "Rahab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vilket instrument spelade David på för att lugna kung Saul?",
+      "options": [
+        "Trumpet",
+        "Harpa/Lyra",
+        "Flöjt",
+        "Tamburin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem blev slagen med blindhet på vägen till Damaskus?",
+      "options": [
+        "Petrus",
+        "Stefanus",
+        "Saulus (Paulus)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilken profet blev matad av korpar?",
+      "options": [
+        "Elisa",
+        "Elia",
+        "Jesaja",
+        "Jeremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem stal sin fars husgudar (idoler)?",
+      "options": [
+        "Lea",
+        "Rakel",
+        "Rebecka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem föll ut ur ett fönster för att Paulus predikade för länge?",
+      "options": [
+        "Timoteus",
+        "Eutychus",
+        "Tychikus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Vilket barn hittades i en korg på floden Nilen?",
+      "options": [
+        "Aron",
+        "Mose",
+        "Josua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vem brottades med Gud (eller en ängel) hela natten?",
+      "options": [
+        "Abraham",
+        "Isak",
+        "Jakob",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem bad Gud om vishet istället för ett långt liv eller rikedom?",
+      "options": [
+        "David",
+        "Salomo",
+        "Saul",
+        "Hiskia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem rörde vid hörnet på Jesus mantel och blev botad?",
+      "options": [
+        "En spetälsk",
+        "Kvinnan med blödningar",
+        "En blind",
+        "En förlamad"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vilken kung blev galen och åt gräs som en oxe?",
+      "options": [
+        "Belsassar",
+        "Nebukadnessar",
+        "Dareios",
+        "Kyros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Vem ljög för den Helige Ande om pengar och föll död ner?",
+      "options": [
+        "Ananias och Safira",
+        "Priscilla och Akvila",
+        "Adam och Eva",
+        "Achab och Isebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem var den 'tvivlande' lärjungen?",
+      "options": [
+        "Petrus",
+        "Tomas",
+        "Filippus",
+        "Andreas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vad förde duvan tillbaka till Noas ark?",
+      "options": [
+        "Ett fikonlöv",
+        "En olivkvist",
+        "En mask",
+        "En ros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem hade 700 hustrur och 300 bihustrur?",
+      "options": [
+        "David",
+        "Salomo",
+        "Rehabeam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem sålde sin förstfödslorätt för en tallrik linssoppa?",
+      "options": [
+        "Jakob",
+        "Esau",
+        "Josef",
+        "Isak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vilken profet fick ett yxhuvud av järn att flyta på vattnet?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Vem kände igen Jesus som Messias när han fortfarande var ett spädbarn?",
+      "options": [
+        "Simeon",
+        "Josef",
+        "Nikodemus",
+        "Petrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Vem befallde solen och månen att stå stilla?",
+      "options": [
+        "Mose",
+        "Josua",
+        "David",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Vilken lärjunge högg av örat på översteprästens tjänare?",
+      "options": [
+        "Jakob",
+        "Johannes",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem gick upp på berget Sinai för att ta emot de tio budorden?",
+      "options": [
+        "Aron",
+        "Josua",
+        "Mose",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Vem var Israels förste kung?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vilken rik man begravde Jesus i sin egen grav?",
+      "options": [
+        "Nikodemus",
+        "Josefs från Arimatea",
+        "Simon från Kyrene",
+        "Lasarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vad hette huggormen som bet Paulus på ön Malta?",
+      "options": [
+        "Kobra",
+        "Huggorm (Vipera)",
+        "Python",
+        "Skallerorm"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem var Johannes döparens mor?",
+      "options": [
+        "Maria",
+        "Elisabet",
+        "Marta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem besegrade midjaniterna med bara 300 män, trumpeter och lerkrukor?",
+      "options": [
+        "Simson",
+        "Gideon",
+        "Barak",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vilka vägrade att tillbe den gyllene bildstoden och kastades i en brinnande ugn?",
+      "options": [
+        "Daniel",
+        "Sadrak, Mesak och Abed-Nego",
+        "Esra och Nehemja",
+        "Paulus och Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem tvådde sina händer för att förklara sig oskyldig till Jesus död?",
+      "options": [
+        "Herodes",
+        "Kaifas",
+        "Pontius Pilatus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem var känd som 'Guds vän'?",
+      "options": [
+        "Mose",
+        "Abraham",
+        "David",
+        "Noa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vilken profet blev svald av en val (stor fisk)?",
+      "options": [
+        "Jona",
+        "Mika",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Vem uttydde skriften på väggen?",
+      "options": [
+        "Josef",
+        "Daniel",
+        "Hesekiel",
+        "Jesaja"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Vem var den kvinnliga domare som ledde Israel?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Ester",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem väckte en pojke till liv genom att lägga sig över honom tre gånger?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Petrus",
+        "Paulus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Vilken av kung Davids söner fastnade med sitt långa hår i ett träd och blev dödad?",
+      "options": [
+        "Salomo",
+        "Absalom",
+        "Adonia",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Genom vad talade Gud till Mose i öknen?",
+      "options": [
+        "En brinnande buske",
+        "Ett moln",
+        "En virvelvind",
+        "En åsna"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "I liknelsen om den barmhärtige samariten, vem hjälpte den skadade mannen?",
+      "options": [
+        "En präst",
+        "En levit",
+        "En samarit",
+        "En romersk soldat"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem var den äldsta mannen i Bibeln och blev 969 år gammal?",
+      "options": [
+        "Noa",
+        "Adam",
+        "Metusalems",
+        "Enok"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Vilken lärjunge försökte gå på vattnet men började sjunka?",
+      "options": [
+        "Jakob",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilken stad förstörde Gud med eld och svavel på grund av dess ondska?",
+      "options": [
+        "Jeriko",
+        "Nineve",
+        "Sodom",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem drömde om en stege som nådde till himlen där änglar gick upp och ner?",
+      "options": [
+        "Abraham",
+        "Isak",
+        "Jakob",
+        "Josef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem var den förste människan som Gud skapade?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Adam",
+        "Noa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Vem var den första kvinnan, skapad av Adams revben?",
+      "options": [
+        "Sara",
+        "Eva",
+        "Maria",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken profet blev kastad i en moddig brunn (fängelsehåla)?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Hesekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem var känd som den 'visaste kungen' som någonsin levt?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Hiskia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Vad strök israeliterna på sina dörrposter för att undgå den 10:e plågan i Egypten?",
+      "options": [
+        "Lammblod",
+        "Olivolja",
+        "Vatten",
+        "Aska"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem befallde en änka att baka bröd till honom av det sista hon hade av mjöl och olja?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Vilken lärjunge var läkare?",
+      "options": [
+        "Matteus",
+        "Lukas",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem hjälpte Jesus att bära hans kors?",
+      "options": [
+        "Simon från Kyrene",
+        "Josefs från Arimatea",
+        "Petrus",
+        "Johannes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Vad mättade Jesus de 5 000 människorna med?",
+      "options": [
+        "Manna och vaktlar",
+        "5 bröd och 2 fiskar",
+        "7 bröd och några fiskar",
+        "Bröd och vin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilket gift par dog för att de ljög om priset på sin mark?",
+      "options": [
+        "Ananias och Safira",
+        "Akvila och Priscilla",
+        "Achab och Isebel",
+        "Abraham och Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Vem var den jättelike jägaren känd som 'en väldig jägare inför Herren'?",
+      "options": [
+        "Goliat",
+        "Nimrod",
+        "Esau",
+        "Simson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Vem högg av örat på översteprästens tjänare i Getsemane trädgård?",
+      "options": [
+        "Johannes",
+        "Jakob",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem var den förste kristne martyren som stenades till döds?",
+      "options": [
+        "Jakob",
+        "Stefanus",
+        "Paulus",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vilken kung föreslog att man skulle skära ett spädbarn i två delar för att lösa en tvist mellan två mödrar?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem var den egyptiska kvinnan som födde Abrahams förste son, Ismael?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Rebecka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vem var Israels första överstepräst?",
+      "options": [
+        "Mose",
+        "Aron",
+        "Eleasar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Vad älskade den rike unge mannen mer än Jesus?",
+      "options": [
+        "Sin familj",
+        "Sin makt",
+        "Sina pengar/ägodelar",
+        "Sitt rykte"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem sa de berömda orden: ”Är jag min broders väktare?”",
+      "options": [
+        "Abel",
+        "Kain",
+        "Esau",
+        "Josefs bröder"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem ledde israeliterna in i det utlovade landet efter att Mose dött?",
+      "options": [
+        "Kaleb",
+        "Josua",
+        "Aron",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vilket jobb tog den förlorade sonen när hans pengar tog slut?",
+      "options": [
+        "Vakta svin",
+        "Bygga hus",
+        "Fiska",
+        "Tigga"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem var den romerske landshövdingen som dömde Jesus till döden?",
+      "options": [
+        "Herodes Antipas",
+        "Pontius Pilatus",
+        "Kejsar Augustus",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vad är den ”gyllene regeln”?",
+      "options": [
+        "Älska Gud av hela ditt hjärta",
+        "Allt vad ni vill att människorna skall göra för er, det skall ni också göra för dem",
+        "Tro på Herren Jesus",
+        "Hedra dina föräldrar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem uppväckte Jesus från de döda efter att han varit i graven i fyra dagar?",
+      "options": [
+        "Jairus dotter",
+        "Änkans son",
+        "Lasarus",
+        "Tabita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Vad hände med kung Herodes när han inte gav Gud äran?",
+      "options": [
+        "Han träffades av blixten",
+        "Han blev uppäten av maskar",
+        "Han blev blind",
+        "Han föll ner från sin tron"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Vem gjorde en guldkalv som israeliterna skulle tillbe?",
+      "options": [
+        "Mose",
+        "Aron",
+        "Josua",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Vem smorde Samuel till den andre kungen i Israel?",
+      "options": [
+        "Saul",
+        "David",
+        "Salomo",
+        "Isai"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vad hette tornet där Gud förbistrade språken?",
+      "options": [
+        "Davids torn",
+        "Babels torn",
+        "Siloams torn",
+        "Sikems torn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem var mor till Jesus?",
+      "options": [
+        "Elisabet",
+        "Maria",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Vilken profet flydde från Gud och steg ombord på ett skepp till Tarsis?",
+      "options": [
+        "Jona",
+        "Amos",
+        "Mika",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Vem var Isaks hårige son och Jakobs bror?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismael",
+        "Isak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Vem var den lame mannen som Petrus helade vid Sköna porten?",
+      "options": [
+        "En man som varit lam från födseln",
+        "En blind tiggare",
+        "En spetälsk",
+        "En döv"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Vem kallade Jesus för en ”räv”?",
+      "options": [
+        "Pilatus",
+        "Herodes",
+        "Kaifas",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Vem var Ruts svärmor?",
+      "options": [
+        "Orpa",
+        "Noomi",
+        "Mara",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

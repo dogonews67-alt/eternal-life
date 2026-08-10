@@ -1,0 +1,58 @@
+{
+    "japanese": {
+        "p1": "キリスト以外に、復活して肉体を持って天に昇った人物は世界史上に一人もいません。",
+        "p2": "今日、地球の歴史はキリストと共に数えられています。世界の約88パーセントの国が日曜日を休日とし、キリストの復活の日、勝利の日、死と罪に対する勝利の日を守っています。",
+        "p3": "私たちの唯一の義務は、彼に避難し、口でイエスが主であると告白し、心で神がキリストを死者の中からよみがえらせたと信じ、彼の弟子となり、彼の戒めに従い、命の道を歩むことです。そうすれば、間違いなく、その人は天の御国を所有することになります。",
+        "h1": "聖書の重要性",
+        "p4": "<b>永遠の命</b>について説明するために、ここで聖書からの引用に言及しました。",
+        "p5": "そして、なぜ聖書は信頼できる本なのでしょうか？聖書は1700年から1800年の間に、40人以上の異なる著者によって、異なる時代、異なる場所で書かれました。"
+    },
+    "chinese": {
+        "p1": "除了基督之外，世界历史上没有其他人复活并肉身升天。",
+        "p2": "今天，地球的历史是与基督一起计算的。世界上大约 88% 的国家将星期日作为假期，并纪念基督复活的日子、胜利的日子、战胜死亡和罪恶的日子。",
+        "p3": "我们唯一的责任是投靠他，口里承认耶稣是主，心里相信神叫基督从死里复活，做他的门徒，遵守他的诫命，行在生命的道路上，那么肯定的是，他/她将拥有天国。",
+        "h1": "圣经的重要性",
+        "p4": "我在这里提到了圣经中的参考文献来解释<b>永生</b>。",
+        "p5": "为什么圣经是一本可靠的书？圣经是由 40 多位不同的作者在 1700 到 1800 年的时间跨度内，在不同的时代和不同的地方写成的。"
+    },
+    "korean": {
+        "p1": "그리스도 외에는 부활하여 육체적으로 승천한 사람이 세계 역사상 아무도 없습니다.",
+        "p2": "오늘날, 지구의 역사는 그리스도와 함께 계산됩니다. 전 세계 국가의 약 88%가 일요일을 공휴일로 지키며 그리스도의 부활의 날, 승리의 날, 죽음과 죄에 대한 승리의 날을 기념합니다.",
+        "p3": "우리의 유일한 의무는 그분께 피하고, 입으로 예수가 주님이라고 시인하고, 마음으로 하나님께서 그리스도를 죽은 자 가운데서 살리셨다는 것을 믿고, 그분의 제자가 되어 그분의 계명을 따르고 생명의 길을 걷는 것입니다. 그러면 확실히 그 사람은 천국을 소유하게 될 것입니다.",
+        "h1": "성경의 중요성",
+        "p4": "나는 여기서 <b>영생</b>에 대해 설명하기 위해 성경의 구절들을 언급했습니다.",
+        "p5": "그리고 왜 성경은 신뢰할 수 있는 책입니까? 성경은 1700년에서 1800년 사이에 40명 이상의 다른 저자들에 의해 다른 시대와 다른 장소에서 기록되었습니다."
+    },
+    "arabic": {
+        "p1": "بخلاف المسيح، لا يوجد شخص آخر في تاريخ العالم قام وصعد إلى السماء جسديًا.",
+        "p2": "اليوم، يُحسب تاريخ الأرض مع المسيح. حوالي 88 في المائة من دول العالم تتخذ يوم الأحد عطلة وتحتفل بيوم قيامة المسيح، يوم النصر، النصر على الموت والخطيئة.",
+        "p3": "واجبنا الوحيد هو اللجوء إليه، والاعتراف بأفواهنا بأن يسوع هو الرب، والايمان بقلوبنا أن الله أقام المسيح من بين الأموات، وأن نكون تلاميذه ونتبع وصاياه ونسير في طريق الحياة، عندها بالتأكيد، سيرث ملكوت السماوات.",
+        "h1": "أهمية الكتاب المقدس",
+        "p4": "لقد ذكرت هنا مراجع من الكتاب المقدس لأشرح عن <b>الحياة الأبدية</b>.",
+        "p5": "ولماذا يعتبر الكتاب المقدس كتابًا موثوقًا به؟ كتب الكتاب المقدس في فترة تتراوح بين 1700 و 1800 عام من قبل أكثر من 40 مؤلفًا مختلفًا في عصور مختلفة وأماكن مختلفة."
+    },
+    "russian": {
+        "p1": "Кроме Христа, нет в мировой истории другого человека, который воскрес и телесно вознесся на небеса.",
+        "p2": "Сегодня история земли отсчитывается с Христом. Около 88 процентов стран мира соблюдают воскресенье как праздник и отмечают день воскресения Христа, день победы, победы над смертью и грехом.",
+        "p3": "Наш единственный долг — прибегнуть к Нему, исповедовать устами, что Иисус есть Господь, веровать сердцем, что Бог воскресил Христа из мертвых, и быть Его учениками, и следовать Его заповедям, и ходить по пути жизни, тогда, несомненно, он/она наследует Царство Небесное.",
+        "h1": "Важность Святой Библии",
+        "p4": "Я привел здесь ссылки из Святой Библии, чтобы объяснить о <b>Вечной жизни</b>.",
+        "p5": "И почему Библия — надежная книга? Библия была написана в течение 1700–1800 лет более чем 40 разными авторами в разное время и в разных местах."
+    },
+    "portuguese": {
+        "p1": "Além de Cristo, não há outra pessoa na história mundial que tenha ressuscitado e ascendido ao céu fisicamente.",
+        "p2": "Hoje, a história da terra é contada com Cristo. Cerca de 88 por cento dos países do mundo guardam o domingo como feriado e observam o dia da ressurreição de Cristo, o dia da vitória, a vitória sobre a morte e o pecado.",
+        "p3": "Nosso único dever é nos refugiar Nele, confessar com nossa boca que Jesus é o Senhor, crer em nosso coração que Deus ressuscitou a Cristo dentre os mortos, e ser Seus discípulos e seguir Seus mandamentos e andar no caminho da vida, então certamente, ele/ela possuirá o reino dos céus.",
+        "h1": "A importância da Bíblia Sagrada",
+        "p4": "Mencionei aqui as referências da Bíblia Sagrada para explicar sobre a <b>Vida Eterna</b>.",
+        "p5": "E por que a Bíblia é um livro confiável? A Bíblia foi escrita no período de 1700 a 1800 anos por mais de 40 autores diferentes em diferentes épocas e em diferentes lugares."
+    },
+    "italian": {
+        "p1": "A parte Cristo, non c'è altra persona nella storia del mondo che sia risorta e ascesa al cielo fisicamente.",
+        "p2": "Oggi, la storia della terra si conta con Cristo. Circa l'88 per cento dei paesi del mondo osserva la domenica come giorno festivo e osserva il giorno della risurrezione di Cristo, il giorno della vittoria, la vittoria sulla morte e sul peccato.",
+        "p3": "Il nostro unico dovere è rifugiarci in Lui, confessare con la nostra bocca che Gesù è il Signore, credere nel nostro cuore che Dio ha risuscitato Cristo dai morti, ed essere Suoi discepoli e seguire i Suoi comandamenti e camminare nella via della vita, allora sicuramente, lui/lei possederà il regno dei cieli.",
+        "h1": "L'importanza della Sacra Bibbia",
+        "p4": "Ho menzionato qui i riferimenti dalla Sacra Bibbia per spiegare la <b>Vita eterna</b>.",
+        "p5": "E perché la Bibbia è un libro affidabile? La Bibbia è stata scritta nell'arco di 1700-1800 anni da più di 40 autori diversi in epoche diverse e in luoghi diversi."
+    }
+}

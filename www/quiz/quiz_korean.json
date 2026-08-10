@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "성경 퀴즈",
+  "questions": [
+    {
+      "question": "방주를 지은 사람은 누구인가요?",
+      "options": [
+        "모세",
+        "노아",
+        "다윗",
+        "솔로몬"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "세례 요한이 광야에서 먹었던 특이한 음식은 무엇인가요?",
+      "options": [
+        "메뚜기와 석청",
+        "빵과 물고기",
+        "무화과와 올리브",
+        "양고기와 허브"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "맨손으로 사자를 죽였을 정도로 힘이 셌던 사람은 누구인가요?",
+      "options": [
+        "다윗",
+        "삼손",
+        "골리앗",
+        "갈렙"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "형제들의 시기를 샀던 채색옷을 입었던 사람은 누구인가요?",
+      "options": [
+        "베냐민",
+        "요셉",
+        "르우벤",
+        "단"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "모세가 애굽 사람들에게서 도망치기 위해 갈랐던 바다는 어디인가요?",
+      "options": [
+        "사해",
+        "갈릴리 호수",
+        "홍해",
+        "지중해"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "큰 물고기에게 삼켜졌던 사람은 누구인가요?",
+      "options": [
+        "요나",
+        "베드로",
+        "바울",
+        "노아"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "뒤를 돌아보았기 때문에 소금 기둥이 된 여인은 누구인가요?",
+      "options": [
+        "사라",
+        "롯의 아내",
+        "리브가",
+        "레아"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "물매로 거인 전사 골리앗을 물리친 사람은 누구인가요?",
+      "options": [
+        "사울",
+        "요나단",
+        "다윗",
+        "사무엘"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "예수님을 보기 위해 돌무화과나무에 올라갔던 키 작은 사람은 누구인가요?",
+      "options": [
+        "바디매오",
+        "삭개오",
+        "마태",
+        "니고데모"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "예언자 발람에게 말을 했던 동물은 무엇인가요?",
+      "options": [
+        "사자",
+        "양",
+        "나귀",
+        "낙타"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "성경 최초의 살인자는 누구인가요?",
+      "options": [
+        "가인",
+        "아벨",
+        "셋",
+        "라멕"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "사자 굴에 던져졌으나 살아남은 사람은 누구인가요?",
+      "options": [
+        "다니엘",
+        "요셉",
+        "사드락",
+        "예레미야"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "숨겨둔 칼로 살진 왕을 죽였던 왼손잡이 사사는 누구인가요?",
+      "options": [
+        "기드온",
+        "에훗",
+        "삼손",
+        "입다"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "은 30세겔에 예수님을 배반한 사람은 누구인가요?",
+      "options": [
+        "베드로",
+        "가룟 유다",
+        "본디오 빌라도",
+        "가야바"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "잠을 자던 중에 하나님께서 자신의 이름을 부르시는 것을 들었던 소년은 누구인가요?",
+      "options": [
+        "다윗",
+        "사무엘",
+        "이삭",
+        "요셉"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "예수님을 만나기 위해 물 위를 걸었던 사람은 누구인가요?",
+      "options": [
+        "야고보",
+        "요한",
+        "베드로",
+        "안드레"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "광야에서 이스라엘 백성을 먹이기 위해 하늘에서 내려온 것은 무엇인가요?",
+      "options": [
+        "빵",
+        "메추라기",
+        "만나",
+        "무화과"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "성경에서 가장 힘이 센 사람으로 알려진 사람은 누구인가요?",
+      "options": [
+        "골리앗",
+        "삼손",
+        "보아스",
+        "에서"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "유대인들을 죽이려는 음모로부터 자기 백성을 구한 왕비는 누구인가요?",
+      "options": [
+        "룻",
+        "에스더",
+        "이세벨",
+        "밧세바"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "닭이 울기 전에 예수님을 세 번 부인한 사람은 누구인가요?",
+      "options": [
+        "도마",
+        "유다",
+        "베드로",
+        "빌립"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "가나의 혼인 잔치에서 예수님이 행하신 기적은 무엇인가요?",
+      "options": [
+        "맹인을 고치심",
+        "물을 포도주로 바꾸심",
+        "물 위를 걸으심",
+        "빵을 늘리심"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "이스라엘 백성이 성 주위를 돈 후에 무너져 내린 성벽은 어느 도시의 것인가요?",
+      "options": [
+        "예루살렘",
+        "여리고",
+        "아이",
+        "바빌론"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "‘눈물의 선지자’로 알려진 사람은 누구인가요?",
+      "options": [
+        "이사야",
+        "예레미야",
+        "에스겔",
+        "호세아"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "들릴라에 의해 머리카락이 잘려 힘을 잃은 사람은 누구인가요?",
+      "options": [
+        "삼손",
+        "다윗",
+        "압살롬",
+        "사울"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "예수님을 따르기 전 세리였던 제자는 누구인가요?",
+      "options": [
+        "누가",
+        "마태",
+        "마가",
+        "요한"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "예수님이 죽음에서 부활하신 후 가장 먼저 만난 사람은 누구인가요?",
+      "options": [
+        "베드로",
+        "요한",
+        "막달라 마리아",
+        "어머니 마리아"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "개들에게 먹힌 사악한 왕비는 누구인가요?",
+      "options": [
+        "에스더",
+        "이세벨",
+        "아달랴",
+        "헤로디아"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "지붕 위에 모인 두 정탐꾼을 삼대 아래에 숨겨준 사람은 누구인가요?",
+      "options": [
+        "룻",
+        "라합",
+        "사라",
+        "드보라"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "다윗은 사울 왕의 마음을 달래기 위해 어떤 악기를 연주했나요?",
+      "options": [
+        "나팔",
+        "수금(하프)",
+        "피리",
+        "소고"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "다메섹으로 가는 길에 눈이 멀었던 사람은 누구인가요?",
+      "options": [
+        "베드로",
+        "스데반",
+        "사울(바울)",
+        "바나바"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "까마귀를 통해 음식을 공급받았던 선지자는 누구인가요?",
+      "options": [
+        "엘리사",
+        "엘리야",
+        "이사야",
+        "예레미야"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "아버지 집의 드라빔(우상)을 훔친 사람은 누구인가요?",
+      "options": [
+        "레아",
+        "라헬",
+        "리브가",
+        "디나"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "바울의 강론이 너무 길어 창가에서 졸다가 떨어져 죽은 사람은 누구인가요?",
+      "options": [
+        "디모데",
+        "유두고",
+        "두기고",
+        "실라"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "나일강의 갈대 상자에서 발견된 아기는 누구인가요?",
+      "options": [
+        "아론",
+        "모세",
+        "여호수아",
+        "사무엘"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "밤새 하나님(또는 천사)과 씨름한 사람은 누구인가요?",
+      "options": [
+        "아브라함",
+        "이삭",
+        "야곱",
+        "에서"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "장수나 부귀 대신 하나님께 지혜를 구한 사람은 누구인가요?",
+      "options": [
+        "다윗",
+        "솔로몬",
+        "사울",
+        "히스기야"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "예수님의 옷 가에 손을 대어 병 고침을 받은 여인은 누구인가요?",
+      "options": [
+        "나병 환자",
+        "혈루증 앓던 여인",
+        "맹인",
+        "중풍 병자"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "미쳐서 소처럼 풀을 먹었던 왕은 누구인가요?",
+      "options": [
+        "벨사살",
+        "느부갓네살",
+        "다리오",
+        "고레스"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "돈을 숨겨 성령을 속이고 쓰러져 죽은 부부는 누구인가요?",
+      "options": [
+        "아나니아와 삽비라",
+        "브리스길라와 아굴라",
+        "아담과 하와",
+        "아합과 이세벨"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "‘의심 많은’ 제자라고 불리는 사람은 누구인가요?",
+      "options": [
+        "베드로",
+        "도마",
+        "빌립",
+        "안드레"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "비둘기가 노아의 방주로 물고 온 것은 무엇인가요?",
+      "options": [
+        "무화과 잎",
+        "올리브 가지",
+        "벌레",
+        "장미"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "아내 700명과 첩 300명을 두었던 사람은 누구인가요?",
+      "options": [
+        "다윗",
+        "솔로몬",
+        "르호보암",
+        "아브라함"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "팥죽 한 그릇에 장자의 명분을 판 사람은 누구인가요?",
+      "options": [
+        "야곱",
+        "에서",
+        "요셉",
+        "이삭"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "쇠도끼를 물 위에 떠오르게 한 선지자는 누구인가요?",
+      "options": [
+        "엘리야",
+        "엘리사",
+        "사무엘",
+        "나단"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "예수님이 아기였을 때 그분이 메시아임을 알아본 사람은 누구인가요?",
+      "options": [
+        "시므온",
+        "요셉",
+        "니고데모",
+        "베드로"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "태양과 달에게 멈추라고 명령한 사람은 누구인가요?",
+      "options": [
+        "모세",
+        "여호수아",
+        "다윗",
+        "기드온"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "대제사장의 종의 귀를 칼로 벤 제자는 누구인가요?",
+      "options": [
+        "야고보",
+        "요한",
+        "베드로",
+        "유다"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "십계명을 받기 위해 시내산에 올라간 사람은 누구인가요?",
+      "options": [
+        "아론",
+        "여호수아",
+        "모세",
+        "아브라함"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "이스라엘의 첫 번째 왕은 누구인가요?",
+      "options": [
+        "다윗",
+        "사울",
+        "솔로몬",
+        "사무엘"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "예수님을 자신의 새 무덤에 장사 지낸 부자는 누구인가요?",
+      "options": [
+        "니고데모",
+        "아리마대 요셉",
+        "구레네 시몬",
+        "나사로"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "몰타 섬에서 바울을 문 독사는 무엇인가요?",
+      "options": [
+        "코브라",
+        "독사(살모사)",
+        "구렁이",
+        "방울뱀"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "세례 요한의 어머니는 누구인가요?",
+      "options": [
+        "마리아",
+        "엘리사벳",
+        "마르다",
+        "안나"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "단 300명의 병사와 나팔, 항아리로 미디안 군대를 이긴 사람은 누구인가요?",
+      "options": [
+        "삼손",
+        "기드온",
+        "바락",
+        "입다"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "금 신상에 절하기를 거부하여 풀무불에 던져졌던 세 사람은 누구인가요?",
+      "options": [
+        "다니엘",
+        "사드락, 메삭, 아벳느고",
+        "에스라와 느헤미야",
+        "바울과 실라"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "예수님의 처형에 대해 자신은 무죄하다며 손을 씻은 사람은 누구인가요?",
+      "options": [
+        "헤롯",
+        "가야바",
+        "본디오 빌라도",
+        "유다"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "‘하나님의 벗’이라고 불렸던 사람은 누구인가요?",
+      "options": [
+        "모세",
+        "아브라함",
+        "다윗",
+        "노아"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "고래(큰 물고기)에게 삼켜졌던 선지자는 누구인가요?",
+      "options": [
+        "요나",
+        "미가",
+        "나훔",
+        "아모스"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "벽에 쓰인 글자를 해석한 사람은 누구인가요?",
+      "options": [
+        "요셉",
+        "다니엘",
+        "에스겔",
+        "이사야"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "이스라엘을 이끈 여사사는 누구인가요?",
+      "options": [
+        "룻",
+        "드보라",
+        "에스더",
+        "미리암"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "아이 위에 세 번 몸을 굽혀 그를 살려낸 선지자는 누구인가요?",
+      "options": [
+        "엘리야",
+        "엘리사",
+        "베드로",
+        "바울"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "다윗 왕의 아들 중 긴 머리카락이 나무에 걸려 죽임을 당한 사람은 누구인가요?",
+      "options": [
+        "솔로몬",
+        "압살롬",
+        "아도니야",
+        "암논"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "광야에서 하나님은 무엇을 통해 모세에게 말씀하셨나요?",
+      "options": [
+        "불타는 떨기나무",
+        "구름",
+        "회오리바람",
+        "나귀"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "선한 사마리아인 비유에서 부상당한 사람을 도와준 사람은 누구인가요?",
+      "options": [
+        "제사장",
+        "레위인",
+        "사마리아인",
+        "로마 병사"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "성경에서 가장 오래 산 사람으로, 969세를 살았던 사람은 누구인가요?",
+      "options": [
+        "노아",
+        "아담",
+        "므두셀라",
+        "에녹"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "물 위를 걷다가 의심하여 가라앉기 시작한 제자는 누구인가요?",
+      "options": [
+        "야고보",
+        "요한",
+        "베드로",
+        "안드레"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "하나님이 그 악함으로 인해 불과 유황으로 멸망시키신 도시는 어디인가요?",
+      "options": [
+        "여리고",
+        "니느웨",
+        "소돔",
+        "바빌론"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "하늘까지 닿은 사다리 위를 천사들이 오르락내리락하는 꿈을 꾼 사람은 누구인가요?",
+      "options": [
+        "아브라함",
+        "이삭",
+        "야곱",
+        "요셉"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "하나님이 처음으로 만드신 사람은 누구인가요?",
+      "options": [
+        "가인",
+        "아벨",
+        "아담",
+        "노아"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "아담의 갈비뼈로 만들어진 첫 번째 여자는 누구인가요?",
+      "options": [
+        "사라",
+        "하와",
+        "마리아",
+        "룻"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "진흙 구덩이(감옥)에 던져졌던 선지자는 누구인가요?",
+      "options": [
+        "이사야",
+        "예레미야",
+        "에스겔",
+        "다니엘"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "역사상 ‘가장 지혜로운 왕’으로 칭송받는 사람은 누구인가요?",
+      "options": [
+        "다윗",
+        "사울",
+        "솔로몬",
+        "히스기야"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "이스라엘 백성은 애굽의 열 번째 재앙을 피하기 위해 문틀에 무엇을 발랐나요?",
+      "options": [
+        "어린 양의 피",
+        "올리브유",
+        "물",
+        "재"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "헤롯 왕에 의해 참수당한 제자는 누구인가요?",
+      "options": [
+        "야고보",
+        "요한",
+        "베드로",
+        "도마"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "의사였던 제자는 누구인가요?",
+      "options": [
+        "마태",
+        "누가",
+        "마가",
+        "요한"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "예수님의 십자가를 대신 지고 간 사람은 누구인가요?",
+      "options": [
+        "구레네 시몬",
+        "아리마대 요셉",
+        "베드로",
+        "요한"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "예수님은 무엇으로 5,000명을 먹이셨나요?",
+      "options": [
+        "만나와 메추라기",
+        "보리떡 다섯 개와 물고기 두 마리",
+        "떡 일곱 개와 작은 생선 두어 마리",
+        "빵과 포도주"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "땅값을 속여 하나님을 기만한 죄로 죽은 부부는 누구인가요?",
+      "options": [
+        "아나니아와 삽비라",
+        "아굴라와 브리스길라",
+        "아합과 이세벨",
+        "아브라함과 사라"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "‘여호와 앞에서 용감한 사냥꾼’으로 불리는 거물 사냥꾼은 누구인가요?",
+      "options": [
+        "골리앗",
+        "니므롯",
+        "에서",
+        "삼손"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "겟세마네 동산에서 대제사장의 종의 귀를 벤 사람은 누구인가요?",
+      "options": [
+        "요한",
+        "야고보",
+        "베드로",
+        "유다"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "돌에 맞아 죽은 첫 번째 기독교 순교자는 누구인가요?",
+      "options": [
+        "야고보",
+        "스데반",
+        "바울",
+        "바나바"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "두 어머니의 싸움을 해결하기 위해 아기를 반으로 나누라고 제안한 왕은 누구인가요?",
+      "options": [
+        "다윗",
+        "사울",
+        "솔로몬",
+        "헤롯"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "아브라함의 첫 아들 이스마엘을 낳은 애굽 여인은 누구인가요?",
+      "options": [
+        "사라",
+        "하갈",
+        "그두라",
+        "리브가"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "이스라엘의 초대 대제사장은 누구였습니까?",
+      "options": [
+        "모세",
+        "아론",
+        "엘르아살",
+        "엘리"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "부자 청년 관원은 예수님보다 무엇을 더 사랑했습니까?",
+      "options": [
+        "그의 가족",
+        "그의 권력",
+        "그의 재물/소유",
+        "그의 평판"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "\"내가 내 아우를 지키는 자니이까?\"라는 유명한 말을 한 사람은 누구입니까?",
+      "options": [
+        "아벨",
+        "가인",
+        "에서",
+        "요셉의 형제들"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "모세가 죽은 후 이스라엘 백성을 약속의 땅으로 이끈 사람은 누구입니까?",
+      "options": [
+        "갈렙",
+        "여호수아",
+        "아론",
+        "기드온"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "탕자는 돈이 떨어졌을 때 어떤 직업을 가졌습니까?",
+      "options": [
+        "돼지 치기",
+        "집 짓기",
+        "고기 잡기",
+        "구걸"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "예수님께 사형 판결을 내린 로마 총독은 누구였습니까?",
+      "options": [
+        "헤롯 안디바",
+        "본디오 빌라도",
+        "가이사 아구스도",
+        "벨릭스"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "'황금률'이란 무엇입니까?",
+      "options": [
+        "네 마음을 다하여 하나님을 사랑하라",
+        "무엇이든지 남에게 대접을 받고자 하는 대로 너희도 남을 대접하라",
+        "주 예수를 믿으라",
+        "네 부모를 공경하라"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "예수님께서 무덤에 있은 지 나흘 만에 죽은 자 가운데서 살리신 사람은 누구입니까?",
+      "options": [
+        "야이로의 딸",
+        "과부의 아들",
+        "나사로",
+        "다비다"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "헤롯 왕이 하나님께 영광을 돌리지 않았을 때 어떤 일이 일어났습니까?",
+      "options": [
+        "번개를 맞았다",
+        "벌레에게 먹혀 죽었다",
+        "눈이 멀었다",
+        "보좌에서 떨어졌다"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "이스라엘 백성이 숭배하도록 금송아지를 만든 사람은 누구입니까?",
+      "options": [
+        "모세",
+        "아론",
+        "여호수아",
+        "미리암"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "사무엘이 이스라엘의 두 번째 왕으로 기름 부은 사람은 누구입니까?",
+      "options": [
+        "사울",
+        "다윗",
+        "솔로몬",
+        "이새"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "하나님께서 언어를 혼잡하게 하신 탑의 이름은 무엇입니까?",
+      "options": [
+        "다윗의 망대",
+        "바벨탑",
+        "실로암 망대",
+        "세겜 망대"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "예수님의 어머니의 이름은 무엇입니까?",
+      "options": [
+        "엘리사벳",
+        "마리아",
+        "마르다",
+        "살로메"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "어떤 예언자가 하나님을 피해 도망쳐서 다시스로 가는 배를 탔습니까?",
+      "options": [
+        "요나",
+        "아모스",
+        "미가",
+        "호세아"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "야곱의 털이 많은 형은 누구였습니까?",
+      "options": [
+        "라반",
+        "에서",
+        "이스마엘",
+        "이삭"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "미문에서 베드로에 의해 치유된 마비된 사람은 누구였습니까?",
+      "options": [
+        "나면서부터 못 걷게 된 사람",
+        "눈 먼 거지",
+        "나병 환자",
+        "귀머거리"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "예수님께서 '여우'라고 부르신 사람은 누구입니까?",
+      "options": [
+        "빌라도",
+        "헤롯",
+        "가야바",
+        "유다"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "루스의 시어머니는 누구였습니까?",
+      "options": [
+        "오르바",
+        "나오미",
+        "마라",
+        "한나"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

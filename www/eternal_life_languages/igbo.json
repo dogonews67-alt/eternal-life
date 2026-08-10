@@ -1,0 +1,365 @@
+{
+  "title": "NDỤ EBIGHEBI",
+  "chapters": [
+    {
+      "title": "Ihu Akwụkwọ",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>NDỤ EBIGHEBI</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Ndụ ebighebi</b> bụ ndụ na-enweghị njedebe, nke a ọ pụtara na mmadụ agaghị <b>anwụ anwụ ma ọlị?</b> Ọ ga-anwụ n'anụ ahụ, mana n'ime mmụọ ọ ga-adị <b>ndụ ebighi ebi n'eluigwe</b> ma ọ bụ nhụjuanya ebighi ebi na hell. Ka anyị tụlee nke a nkenke n'okpuru ebe a ka anyị ghọta isiokwu a nke ọma."
+        },
+        {
+          "type": "header",
+          "text": "Man is a sinner"
+        },
+        {
+          "id": "Para 1",
+          "text": "Man is a sinner by birth, and in life he does sin in his actions, behaviours, hearing, speaking, seeing and thinking. In Matthew 5:28 Jesus says ‘But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.' Whoever commits a sin in ignorance is also counted as a sin, even if no one sees it. Many people think and say, \"What sin have I committed?\" Not only is it a sin to kill, to commit adultery, to steal, to rob, but also to lie, to cheat, to be proud, to be jealous, to be greedy, to gossip, to think evil of others. In fact, everyone is a sinner from birth."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=IGBO' target='_blank'>Ekliziastis 7:20</a> 'N’ihi na ọ dịghị onye ezi omume n’ụwa, nke na-eme ihe dị mma, ma ghara ime mmehie.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=IGBO' target='_blank'>Abụ Ọma 51:5</a> 'Lee, n’ajọ omume ka a mụrụ m; N’ime mmehie ka nne m tụkwara ime m.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=IGBO' target='_blank'>1 Jọn 5:17</a> 'Ajọ omume nile bụ mmehie'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=IGBO' target='_blank'>Ndị Rom 3:23</a> 'N’ihi na mmadụ nile emehiewo, ha adaghịkwa n’irute ebube Chineke;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=IGBO' target='_blank'>Ndị Rom 5:12</a> 'Ya mere, dị ka mmehie si n’aka otu mmadụ bata n’ụwa, ọnwụ esitekwara n’aka mmehie bata; otú a ka ọnwụ sikwara rute mmadụ nile, n’ihi na mmadụ nile emehiewo'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=IGBO' target='_blank'>Ndị Rom 6:23</a> 'N’ihi na ụgwọ ọrụ mmehie bụ ọnwụ;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Onye ọ bụla aghaghị ịnwụ n'anụ ahụ, ma n'ime mmụọ ọ ga-adị ndụ <b>ebighi ebi - na</b> hell ma ọ bụ n'eluigwe, na ntaramahụhụ ebighi ebi ma ọ <b>bụ ndụ ebighi ebi,</b> n'ahụhụ ebighi ebi ma ọ bụ ọṅụ ebighi ebi."
+        },
+        {
+          "id": "Para 3",
+          "text": "Mmadụ ọ bụla emehiewo, ọnwụ nwekwara onye ọ bụla."
+        },
+        {
+          "type": "header",
+          "text": "Chineke dị nsọ na Eluigwe dị nsọ, ya mere anyị kwesịrị ịdị nsọ iji banye n'Eluigwe."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=IGBO' target='_blank'>Levitikọs 19:2</a> 'Gwa nzukọ ụmụ Izrel nile okwu, sị ha, Unu ga-adị nsọ: n’ihi na Mụ onwe m, Jehova, Chineke unu, dị nsọ.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=IGBO' target='_blank'>1 Ndị Kọrịnt 6:9</a> 'Ma ọ bụ unu amaghị na ndị ajọ omume agaghị eketa alaeze Chineke?'"
+        },
+        {
+          "type": "header",
+          "text": "Oleezi otú mmadụ pụrụ isi bụrụ onye ezi omume ma ọ bụ onye nsọ?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Ndị Hibru 9:22 'E jikwa ọbara mee ihe fọrọ nke nta ka ọ bụrụ ihe nile ka <b>ha dị ọcha dị ka</b> iwu si dị, ma e wezụga ịwụsa ọbara n’ala, mgbaghara mmehie adịghị.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Ịbụ onye a gbaghaara mmehie bụ ịbụ onye nsọ ma ọ bụ onye ezi omume."
+        },
+        {
+          "type": "header",
+          "text": "Gịnị Mere Ọbara Ji Dị Mkpa?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=IGBO' target='_blank'>Levitikọs 17:11</a> 'N’ihi na ndụ nke anụ ahụ dị n’ọbara; Mụ onwe m ewerekwawo ya nye unu n’elu ebe ịchụàjà ikpuchi mmehie nile nke ndụ unu: n’ihi na ọ bụ ọbara ahụ na-ekpuchi mmehie n’ihi ndụ dị n’ime ya.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Ebe ndụ dị n'ọbara, ọ dịghị onye nwere ike ịkwụ ụgwọ nke ndụ. Ọ dịghịkwa mmadụ nwere ike ịgbatị ndụ ọbụna nwa oge n'onwe ya. Jizọs Kraịst mepere ụzọ maka mgbapụta nke agbụrụ mmadụ site n'ịchụ ọbara ya dị oke ọnụ ahịa ma ọ bụ ndụ dị oke ọnụ ahịa."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=IGBO' target='_blank'>Ndị Hibru 9:12</a> 'ọ bụghịkwa site n’ọbara ewu na ụmụ ehi, kama ọ batara n’Ebe Nsọ site n’ọbara nke aka ya, otu ugboro, wee nweta mgbapụta ebighị ebi.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jizọs Kraịst gosipụtara ịhụnanya ya site n'ịchụ ndụ ya n'àjà maka agbụrụ mmadụ niile. Dị ka Jọn 15:13 si kwuo - 'Ọ dịghị onye nwere ịhụnanya karịrị nke a, na mmadụ ga-atọgbọ ndụ ya n’ihi ndị enyi ya.' Anyị enweghị ike ịchọta ihe atụ ọ bụla ọzọ na akụkọ ihe mere eme ụwa nke ụdị ịhụnanya a ma e wezụga Jizọs Kraịst."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=IGBO' target='_blank'>1 Jọn 1:7</a> 'Ma ọ bụrụ na anyị na-eje ije n’ìhè, dị ka Ya onwe ya nọ n’ìhè, anyị na ibe anyị na-emekọrịta ihe, ọbara Jizọs, bụ́ Ọkpara ya, <b>na-asachapụkwa anyị na mmehie nile.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=IGBO' target='_blank'>1 Ndị Kọrịnt 15:3</a> 'N’ihi na efiere m unu n’isi ihe nke mụ onwe m natakwara, na Kraịst nwụrụ n’ihi mmehie <b>anyị, dị ka</b> Ihe Akwụkwọ Nsọ si kwuo; na e liri ya, na e mere ka o bilie n’ụbọchị nke atọ, dị ka Ihe Akwụkwọ Nsọ si kwuo;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=IGBO' target='_blank'>Nkpughe 1:5</a> 'na aka Jizọs Kraịst, onye a pụrụ ịtụkwasị obi, bụ́ onye mbụ na-esi n’ọnwụ bilie, na onye na-achị ndị eze ụwa. Onye hụrụ anyị n’<b>anya, onye jikwa ọbara ya tọpụ anyị na mmehie anyị,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=IGBO' target='_blank'>Matiu 9:2</a> 'Ma lee, ha buutere ya otu onye mkpọnwụ, onye dinara n’ihe ndina: Jizọs hụkwara okwukwe ha, ọ sịrị onye mkpọnwụ ahụ: <b>Nwam, nwee obi ike; <b>agbagharawo mmehie gị.'</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "N'okwu a, Jizọs na-agbaghara mmehie onye ahụ <b>kpọnwụrụ akpọnwụ ozugbo</b>, n'ihi na Jizọs nwere ikike ịgbaghara mmehie mmadụ ma n'otu oge ahụ, Ọ na-ekwupụta onwe ya dị ka Chineke, n'ihi na ma e wezụga Chineke ọ dịghị onye nwere ike ịgbaghara mmehie."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=IGBO' target='_blank'>Ọrụ Ndị Ozi 10:43</a> 'Ndị amụma nile na-agba akaebe banyere ya, onye ọ bụla nke kwere na ya ga-enweta mgbaghara mmehie site n’aha ya.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=IGBO' target='_blank'>Ọrụ Ndị Ozi 4:12</a> 'Ọ dịghịkwa nzọpụta dị n’aka onye ọzọ: n’ihi na ọ dịghị aha ọzọ e nyere n’etiti ụmụ mmadụ n’okpuru eluigwe, nke a ga-eji zọpụta anyị' ma e wezụga Jizọs Kraịst nke Nazaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Jọn 2:2 'Ọ <b>(Kraịst) bụkwa ihe mkpuchi mmehie anyị; ọ bụghị naanị nke anyị, ma nke ụwa dum.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=IGBO' target='_blank'>Jọn 3:16</a> 'N’ihi na Chineke (onye okike) hụrụ ụwa (agbụrụ mmadụ) n’anya otú a, na o nyere Ọkpara ọ mụrụ naanị ya (Jizọs Kraịst), ka onye ọ bụla nke kwere na ya wee ghara ịla n’iyi, kama ka <b>o nwee ndụ ebighị ebi.'</b>"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=IGBO' target='_blank'>Jọn 1:12</a> 'Ma ndị nile nabatara ya (Jizọs), o nyere ha ikike ịbụ ụmụ Chineke, bú ndị kwere n’aha ya (Jizọs);'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Okwu a bụ 'ụmụ Chineke' abụghị okwu dị mfe, ndị kwere na Jizọs ma nabata ya dịka Onyenwe ha, a na-agụ ha dịka ụmụ amaala nke Eluigwe, a na-agụ ha dịka onye nsọ, a gbaghara mmehie ha niile."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=IGBO' target='_blank'>Ndị Rom 8:1-2</a> 'Ya mere, ọ dịghị amamikpe dịịrị ndị nọ n’ime Kraịst Jizọs n’oge a. N’ihi na iwu nke Mmụọ nke ndụ n’ime Kraịst Jizọs mere ka m nwere onwe m pụọ n’iwu nke mmehie na ọnwụ.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=IGBO' target='_blank'>Ndị Rom 5:9</a> 'Ya mere, ebe ọ bụ na a gụwo anyị na ndị ezi omume ugbu a site n’ọbara ya (Jizọs), a ga-esi n’aka ya zọpụta anyị n’ọnụma nke ukwuu karị.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=IGBO' target='_blank'>Ndị Rom 3:24</a> 'A na-agụ ha na ndị ezi omume na-enweghị ego site n’amara ya (Jizọs) site na mgbapụta nke dị n’ime Kraịst Jizọs:'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=IGBO' target='_blank'>Jọn 14:6</a> 'Jizọs sịrị ya: Abụ m ụzọ, na eziokwu, na ndụ: ọ dịghị onye na-abịakwute Nna m (onye bi n'eluigwe), ma ọ bụghị site na mụ.'"
+        },
+        {
+          "type": "header",
+          "text": "Naanị po ndị kwere na Jizọs Kraịst, naanị ha nwere ike ịbanye n'Eluigwe, nke ahụ bụ Ndụ Ebighị Ebi."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=IGBO' target='_blank'>Jọn 3:15</a> 'Ka onye ọ bụla nke kwere <b>na ya wee nwee ndụ</b> ebighị ebi.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=IGBO' target='_blank'>Ndị Rom 6:23</a> 'N’ihi na ụgwọ ọrụ mmehie bụ ọnwụ; ma onyinye nke Chineke <b>bụ <b>ndụ ebighị ebi n’ime Jizọs Kraịst Onyenwe anyị.'</b></b>"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=IGBO' target='_blank'>Jọn 5:24</a> Jizọs kwuru - 'N’ezie, n’ezie, ana m asị <b>unu, Onye na-anụ okwu m,</b> ma na-ekwere onye zitere m'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=IGBO' target='_blank'>Jọn 11:25-26</a> Jizọs sịrị ya: Abụ m mbilite n’ọnwụ, na ndụ: onye na-ekwere na mụ, ọ bụ ezie na ọ nwụrụ anwụ, ma ọ ga-adị ndụ: Onye ọ bụla nke dị ndụ ma na-ekwere na mụ agaghị anwụ anwụ <b>ma ọlị. Í kwere ihe</b> a?"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=IGBO' target='_blank'>Jọn 6:51</a> 'Mu onwe m (Kraịst) bụ achịcha dị ndụ nke si n’eluigwe rịdata: ọ bụrụ na onye ọ bụla erie n’achịcha <b>a, ọ ga-adị ndụ ebighị</b> ebi: ma achịcha m ga-enye bụ anụ ahụ m, nke m ga-enye n’ihi ndụ nke ụwa.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jizọs jiri okwu <b>ahụ bụ 'Ndụ Ebighị</b> Ebi' mee ihe n'Oziọma dị ka Jọn si dee ya ihe dị ka ugboro 17, ugboro 12 O jiri ya mee ihe ugbu a, naanị ugboro 5 O jiri ya mee ihe n'ọdịnihu. Ọtụtụ n'ime anyị na-eche na ndụ ebighị ebi bụ naanị maka ọdịnihu, mana Baịbụl kwuru hoo haa na ọ bụ maka ugbu a na ọdịnihu. Ndị niile nọ n'ebe Jizọs nọ, ndị kwere na Jizọs ma nabata ya dị ka Onyenwe ha na Onye Nzọpụta ha, ha nwere ike ịsị na NDỤ EBIGHI EBI dị n'ime ha, a gọziworyị ha na Ndụ Ebighị Ebi."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=IGBO' target='_blank'>1 Jọn 5:11</a> 'Nke a bụkwa àmà ahụ, na Chineke nyere anyị <b>ndụ ebighị ebi, ndụ a</b> dịkwa n’ime Ọkpara ya (Kraịst).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=IGBO' target='_blank'>Jọn 17:3</a> 'Ma nke <b>a bụ ndụ ebighị ebi,</b> ka ha mara gị, naanị ezi Chineke, na Jizọs Kraịst, onye i zitere.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=IGBO' target='_blank'>Jọn 12:50</a> Jizọs kwuru - 'Amaara m na ihe o (Chineke) nyere n’iwu bụ ndụ ebighị <b>ebi: ya mere ihe m</b> na-ekwu, ọbụna dị ka Nna m gwara m, otú a ka m na-ekwu.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=IGBO' target='_blank'>1 Jọn 5:20</a> 'Ma anyị maara na Ọkpara Chineke abịaw, o nyewokwa anyị nghọta, ka anyị wee mara Onye ahụ bụ eziokwu, anyị nọkwa n’ime ya, bụ onye eziokwu, n’ime Ọkpara ya Jizọs Kraịst. Onye a <b>bụ ezi Chineke, <b>na ndụ ebighị ebi.'</b></b>"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=IGBO' target='_blank'>Jọn 6:47</a> 'N’ezie, n’ezie, ana m asị unu (Mụ onwe m bụ Kraịst), onye na-ekwere na <b>m nwere ndụ ebighị ebi.'</b>"
+        },
+        {
+          "type": "header",
+          "text": "Gịnị ka ikwere pụtara?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Ndị mmụọ ọjọọ na-ekwekwa na Jizọs, ọ pụtaghị na ha ga-enwe <b>ndụ ebighi ebi. Jems</b> 2:19 I kwere na Chineke bụ otu; į nēme nke-ọma: ndi-mmuo-ojoo nekwere kwa, we ma jijiji."
+        },
+        {
+          "type": "header",
+          "text": "Chegharịa na mmehie gị, kwupụta na Chineke kpọlitere Jizọs Kraịst n'ọnwụ, ma nabata Jizọs Kraịst dị ka onye nzọpụta na Onyenwe gị. - nke ahụ bụ ihe a na-akpọ ikwere na Jizọs Kraịst."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=IGBO' target='_blank'>Ndị Rom 10:9-10</a> 'N’ihi na ọ bụrụ na i jiri ọnụ gị kwupụta Jizọs dị ka Onyenwe anyị, ma kwere n’obi gị na Chineke kpọlitere ya n’ọnwụ, a ga-azọpụta gị. N’ihi na obi ka mmadụ ji ekwere ka ọ bụrụ onye ezi omume; ọnụ ka a na-ejikwa ekwupụta ka e wee zọpụta mmadụ.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=IGBO' target='_blank'>Matiu 10:32-33</a> 'Ya mere onye ọ bụla nke ga-ekwupụta m n’ihu mmadụ, ya ka m ga-ekwupụtakwa n’ihu Nna m nke bi n’eluigwe. Ma onye ọ bụla nke ga-agọnarị m n’ihu mmadụ, ya ka m ga-agọnarịkwa n’ihu Nna m nke bi n’eluigwe.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Nzọpụta ma ọ bụ mgbaghara mmehie bụ isi ihe na-eduga <b>na ndụ ebighi ebi. Naanị Jizọs Kraịst nwere ike ịzọpụta</b> agbụrụ mmadụ, n'ihi na ọ dịghị onye ọzọ n'ụwa chụrụ ọbara ya ma e wezụga Jizọs Kraịst, Jizọs naanị chụrụ ọbara Nsọ Ya dị ka àjà ikpeazụ maka agbụrụ mmadụ. Ọ bụ ya mere O ji nwee ike ịzọpụta ihe a kpọrọ mmadụ niile."
+        },
+        {
+          "type": "header",
+          "text": "Mkpa Jizọs Kraịst Dị:"
+        },
+        {
+          "id": "Para 12",
+          "text": "E nwere ọtụtụ amụma banyere Jizọs Kraịst n'agbata 1700 B.C ruo 400 B.C, banyere ọmụmụ Ya, banyere ntaramahụhụ Ya, banyere ọnwụ Ya n'obe, banyere mbilite n'ọnwụ Ya n'ụbọchị nke atọ nke ọnwụ ya wdg. Ndị ọkà mmụta na-eme atụmatụ na Jizọs Kraịst mezuru ihe karịrị amụma 300 nke Agba Ochie. Ọbụna mgbe mbilite n'ọnwụ gasịrị, Kraịst soro ndị na-eso ụzọ ya biri ma kwusaawanyere ha banyere alaeze eluigwe, ma n'ụbọchị nke 40 nke mbilite n'ọnwụ Ya, O rịgooro n'eluigwe n'ụdị anụ ahụ Ya."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "E wezuga Kraịst, ọ dịghị onye ọzọ n'akụkọ ihe mere eme nke ụwa, onye siri n'ọnwụ bilie ma rigoro n'eluigwe n'anụ ahụ."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Taa, a na-agụ akụkọ ihe mere eme nke ụwa na Kraịst. Ihe dị ka pasentị 88 nke mba ụwa na-edebe ụbọchị Sunday dị ka ezumike ma na-eme ememe ụbọchị mbilite n'ọnwụ nke Kraịst, ụbọchị mmeri, mmeri n'elu ọnwụ na mmehie."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Nanị ọrụ anyị bụ ịgbabanye n'ime Ya, iji ọnụ anyị kwupụta na Jizọs bụ Onyenwe anyị, ikwere n'ime obi anyị na Chineke mere ka Kraịst si na ndị nwụrụ anwụ bilie, na ịbụ ndị na-eso ụzọ Ya na idebe iwu Ya na ije ije n'ụzọ nke ndụ, mgbe ahụ n'ezie, ọ ga-eketa alaeze eluigwe."
+        },
+        {
+          "type": "header",
+          "text": "Mkpa nke Akwụkwọ Nsọ Dị Nsọ"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Akpọtụla m ebe a ntụaka ndị sitere na Akwụkwọ Nsọ iji kọwaa <b>banyere Ndụ ebighị ebi.</b>"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Gịnị kpatara Baịbụl ji bụrụ akwụkwọ a pụrụ ịdabere na ya? E dere Baịbụl n'ime afọ 1700 ruo 1800 site n'aka ihe karịrị ndị edemede 40 dị iche iche n'oge dị iche iche na n'ebe dị iche iche."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Bible Nso ọ bụghị otu akwụkwọ, ọ bụ nchịkọta nke akwụkwọ 66, tupu Kraịst, e dere akwụkwọ 39 nke a na-akpọ 'Agba Ochie' ma mgbe Kraịst gasịrị e dere akwụkwọ 27 nke a na-akpọ 'Agba Ọhụrụ'. Ebumnuche nke ide Baịbụl Nsọ fọrọ nke nta ka ọ bụrụ otu n'aka ndị odee niile, nke ahụ bụ iji kpughee ihe ọmụma nke Atọ n'Ime Otu (Chineke Nna, Chineke Ọkpara Jizọs Kraịst, na Chineke Mmụọ Nsọ), ikpughe ọdịdị nke Okike na akụkọ ihe mere eme nke ụmụ mmadụ. Ọzọkwa, a maara Baịbụl dị ka ntuziaka Chineke, Iwu, Akụkọ ihe mere eme, Amụma na Mkpughe. Ọzọkwa, a maara Baịbụl Nsọ dị ka <b>AKWỤKWỌ NKE NDỤ EBIGHI EBI.</b>"
+        },
+        {
+          "id": "Para 14",
+          "text": "Ọ bụghị naanị otu onye ma ọ bụ mmadụ 2-3 dere Baịbụl Nsọ; kama ndị mmadụ 40 dị iche iche dere ya, tinyere ihe akaebe nke akụkọ ihe mere eme, ebumnuche onye ọ bụla fọrọ nke nta ka ọ bụrụ otu, n'ihi ya, enwere m ike ịsị na Baịbụl Nsọ bụ Akwụkwọ a nwapụtara anwapụta ma bụrụkwa nke a pụrụ ịtụkwasị obi."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=IGBO' target='_blank'>2 Timoti 3:16</a> 'Akwụkwọ Nsọ nile (Baịbụl) sitere na mmụọ nsọ nke Chineke, baakwa uru maka izi ihe, maka mba, maka idozi ihe, maka ọzụzụ n’ezi omume:'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=IGBO' target='_blank'>Jọn 20:31</a> 'Ma e dere ihe ndị a (Baịbụl), ka unu wee kwere na Jizọs bụ Kraịst ahụ, Ọkpara Chineke; na site n’ikwere, ka unu nwee <b>ndụ (ndụ ebighị ebi) n’aha</b> ya.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "E dere Baịbụl ka ihe a kpọrọ mmadụ niile wee nweta mgbaghara mmehie, nzọpụta <b>na ndụ ebighị ebi n'ihi</b> ikwere na Jizọs Kraịst. Eideghị Baịbụl Nsọ naanị maka otu mba, otu klas, otu asụsụ, ma ọ bụ ndị nwere agba akpụkpọ anụ; Kama e dere ya maka ndị nke asụsụ ọ bụla, ebo ọ bụla, agba ọ bụla na mba ọ bụla nke ụwa. Taa, a maara Baịbụl Nsọ dị ka Akwụkwọ a kacha bipụta, ma Baịbụl Nsọ dị n'ihe fọrọ nke nta ka ọ bụrụ asụsụ ọ bụla bụ isi."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Ndụ dị oke ọnụ ahịa <b>ma Ndụ Ebighị Ebi enweghị</b> ọnụ ahịa ya. Chineke emerewo onye ọ bụla n'ime anyị atụmatụ pụrụ iche ka anyị nwee Ndụ Ebighị Ebi na-akwụghị ụgwọ ọ bụla. Ya mere, ka anyị nwee Ndụ n'ụba na nke Ebighị Ebi. Ka anyị kọọrọ ndị ọzọ Ahụmahụ nke ndụ ebighị ebi anyị, ka e wee nye Onyenwe anyị Otuto."
+        },
+        {
+          "id": "Blessing",
+          "text": "Ka Onye-nwe gozie gị nke ukwuu, ka e jiri <b>ndụ ebighị ebi gozie gị,</b> bụrụkwa nwa amaala nke alaeze ELIGWE."
+        }
+      ],
+      "title": "Okwu Mmalite",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

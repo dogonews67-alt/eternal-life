@@ -1,0 +1,57 @@
+# Bible License Report
+
+- **text**: ✅ SAFE | Copyright: Berean Standard Bible (BSB) | Sources: { type: 'BOLLS', id: 'BSB' }
+- **text_arabic**: ✅ SAFE | Copyright: Smith and Van Dyke (Public Domain) | Sources: { type: 'GETBIBLE', id: 'arabicsv' }
+- **text_assamese**: ⚠️ REVIEW | Copyright: Assamese (HELLOAO) | Sources: { type: 'HELLOAO', id: 'asm_irv', lang: 'asm' }
+- **text_bengali**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Bengali' }
+- **text_bhutanese**: ⚪ UNAVAILABLE (Translation not available)
+- **text_burmese**: ✅ SAFE | Copyright: Public Domain (Adoniram Judson 1835) | Sources: { type: 'HELLOAO', id: 'mya_jvb' }
+- **text_chinese**: ⚠️ REVIEW | Copyright: Chinese Union Version (simplified) | Sources: { type: 'HELLOAO', id: 'cmn_cu1' }
+- **text_czech**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'CSP09' }
+- **text_dogri**: ✅ SAFE | Copyright: Dogri NT (CC BY-SA 4.0) | Sources: { type: 'LOCAL_BIBLE', path: 'dogri_bible_json' }
+- **text_dutch**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'NLD' }
+- **text_french**: ⚠️ REVIEW | Copyright: Louis Segond 1910 | Sources: { type: 'HELLOAO', id: 'fra_lsg' }
+- **text_german**: ⚠️ REVIEW | Copyright: Schlachter 1951 | Sources: { type: 'BOLLS', id: 'SCH' }
+- **text_greek**: ⚪ UNAVAILABLE (Translation not available)
+- **text_gujarati**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Gujarati' }
+- **text_hebrew**: ⚪ UNAVAILABLE (Translation not available)
+- **text_hindi**: ✅ SAFE | Copyright: Hindi O.V. (Public Domain) | Sources: { type: 'BOLLS', id: 'HIOV' }
+- **text_hungarian**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'RUF' }
+- **text_igbo**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'HELLOAO', id: 'ibo_bib' }
+- **text_indonesian**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'TB' }
+- **text_italian**: ⚠️ REVIEW | Copyright: Riveduta Bibbia 1927 | Sources: { type: 'HELLOAO', id: 'ita_riv' }
+- **text_japanese**: ⚠️ REVIEW | Copyright: Colloquial Japanese | Sources: { type: 'BOLLS', id: 'JPKJV' }
+- **text_kannada**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Kannada' }
+- **text_kashmiri**: ⚪ UNAVAILABLE (Translation not available)
+- **text_konkani**: ⚪ UNAVAILABLE (Translation not available)
+- **text_korean**: ⚠️ REVIEW | Copyright: Korean Bible 1910 | Sources: { type: 'HELLOAO', id: 'kor_old' }
+- **text_malay**: ⚪ UNAVAILABLE (Translation not available)
+- **text_malayalam**: ✅ SAFE | Copyright: Malayalam Old Version (Public Domain) | Sources: { type: 'BOLLS', id: 'MOV' }
+- **text_manipuri**: ⚠️ REVIEW | Copyright: Manipuri (HELLOAO) | Sources: { type: 'HELLOAO', id: 'mni_twf', lang: 'mni' }
+- **text_marathi**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Marathi' }
+- **text_mongolian**: ⚪ UNAVAILABLE (Translation not available)
+- **text_nagamese**: ⚠️ REVIEW | Copyright: Nagamese (HELLOAO) | Sources: { type: 'HELLOAO', id: 'nag_isv', lang: 'nag' }
+- **text_nepali**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'NNRV' }
+- **text_norwegian**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'DNB' }
+- **text_odia**: ⚠️ REVIEW | Copyright: Indian Revised Version (IRV) | Sources: { type: 'HELLOAO', id: 'ory_irv' }
+- **text_oromo**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'HELLOAO', id: 'gaz_bib' }
+- **text_polish**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'BG' }
+- **text_portuguese**: ⚠️ REVIEW | Copyright: Bíblia Livre / Almeida | Sources: { type: 'HELLOAO', id: 'por_blj' }, { type: 'BOLLS', id: 'ARC09' }
+- **text_punjabi**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Punjabi' }
+- **text_romanian**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'BOLLS', id: 'VDCL' }
+- **text_rohingya**: ⚠️ REVIEW | Copyright: Unknown | Sources: None
+- **text_russian**: ⚠️ REVIEW | Copyright: Russian Synodal | Sources: { type: 'HELLOAO', id: 'rus_syn' }
+- **text_sanskrit**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'HELLOAO', id: 'san_dev' }
+- **text_somali**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'HELLOAO', id: 'som_sim' }
+- **text_spanish**: ⚠️ REVIEW | Copyright: Reina Valera 1909 | Sources: { type: 'HELLOAO', id: 'spa_r09' }
+- **text_swahili**: ⚠️ REVIEW | Copyright: Swahili Unlocked Literal Bible | Sources: { type: 'HELLOAO', id: 'swh_ulb' }
+- **text_swedish**: ✅ SAFE | Copyright: Swedish 1917 (Public Domain) | Sources: { type: 'GETBIBLE', id: 'swedish' }
+- **text_tagalog**: ⚠️ REVIEW | Copyright: Tagalog Unlocked Literal Bible | Sources: { type: 'HELLOAO', id: 'tgl_ulb' }
+- **text_tamil**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Tamil' }
+- **text_telugu**: ✅ SAFE | Copyright: Public Domain / GodlyTalias | Sources: { type: 'GITHUB_GODLYTALIAS', lang: 'Telugu' }
+- **text_thai**: ✅ SAFE | Copyright: Public Domain (Thai KJV) | Sources: { type: 'HELLOAO', id: 'tha_kjv' }
+- **text_tibetan**: ⚪ UNAVAILABLE (Translation not available)
+- **text_turkish**: ✅ SAFE | Copyright: Open Bible Translations (Turkish) | Sources: { type: 'HELLOAO', id: 'tur_obt' }
+- **text_urdu**: ⚪ UNAVAILABLE (Translation not available)
+- **text_vietnamese**: ⚠️ REVIEW | Copyright: Vietnamese Bible 1934 | Sources: { type: 'HELLOAO', id: 'vie_1934' }
+- **text_yoruba**: ✅ SAFE | Copyright: Public Domain | Sources: { type: 'HELLOAO', id: 'yor_bib' }

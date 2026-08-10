@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Kuis Alkitab",
+  "questions": [
+    {
+      "question": "Siapa yang membangun bahtera?",
+      "options": [
+        "Musa",
+        "Nuh",
+        "Daud",
+        "Salomo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Makanan tidak biasa apa yang dimakan Yohanes Pembaptis?",
+      "options": [
+        "Belalang dan madu hutan",
+        "Roti dan ikan",
+        "Ara dan zaitun",
+        "Domba dan rempah-rempah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapakah orang yang begitu kuat sehingga ia dapat membunuh singa dengan tangan kosong?",
+      "options": [
+        "Daud",
+        "Simson",
+        "Goliat",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa yang memiliki jubah berwarna-warni yang membuat saudara-saudaranya iri?",
+      "options": [
+        "Benyamin",
+        "Yusuf",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Laut mana yang dibelah Musa untuk melarikan diri dari orang Mesir?",
+      "options": [
+        "Laut Mati",
+        "Galilea",
+        "Laut Teberau (Laut Merah)",
+        "Mediterania"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapa yang ditelan oleh seekor ikan besar?",
+      "options": [
+        "Yunus",
+        "Petrus",
+        "Paulus",
+        "Nuh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapakah perempuan yang berubah menjadi tiang garam karena menoleh ke belakang?",
+      "options": [
+        "Sara",
+        "Istri Lot",
+        "Ribka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang mengalahkan raksasa Goliat dengan ketapel?",
+      "options": [
+        "Saul",
+        "Yonatan",
+        "Daud",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapakah laki-laki bertubuh pendek yang memanjat pohon ara untuk melihat Yesus?",
+      "options": [
+        "Bartimeus",
+        "Zakheus",
+        "Matius",
+        "Nikodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hewan apa yang bisa berbicara kepada nabi Bileam?",
+      "options": [
+        "Seekor singa",
+        "Seekor domba",
+        "Seekor keledai",
+        "Seekor unta"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapa pembunuh pertama di dalam Alkitab?",
+      "options": [
+        "Kain",
+        "Habel",
+        "Set",
+        "Lamekh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang dilemparkan ke dalam gua singa, namun tetap selamat?",
+      "options": [
+        "Daniel",
+        "Yusuf",
+        "Sadrakh",
+        "Yeremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapakah hakim bertangan kidal yang membunuh seorang raja yang gemuk dengan pedang yang tersembunyi?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Simson",
+        "Yefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Siapa yang mengkhianati Yesus demi 30 keping perak?",
+      "options": [
+        "Petrus",
+        "Yudas Iskariot",
+        "Pontius Pilatus",
+        "Kayafas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapakah anak kecil yang mendengar Tuhan memanggil namanya di malam hari saat ia sedang tidur?",
+      "options": [
+        "Daud",
+        "Samuel",
+        "Ishak",
+        "Yusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang berjalan di atas air untuk menemui Yesus?",
+      "options": [
+        "Yakobus",
+        "Yohanes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Apa yang jatuh dari langit untuk memberi makan orang Israel di padang gurun?",
+      "options": [
+        "Roti",
+        "Burung puyuh",
+        "Manna",
+        "Buah ara"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa dalam Alkitab yang dikenal paling kuat?",
+      "options": [
+        "Goliat",
+        "Simson",
+        "Boas",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapakah ratu yang menyelamatkan bangsanya dari rencana pemusnahan?",
+      "options": [
+        "Rut",
+        "Ester",
+        "Izebel",
+        "Batsyeba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang menyangkal Yesus tiga kali sebelum ayam berkokok?",
+      "options": [
+        "Tomas",
+        "Yudas",
+        "Petrus",
+        "Filipus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Apa mukjizat pertama Yesus yang dilakukan dalam pesta pernikahan di Kana?",
+      "options": [
+        "Menyembuhkan orang buta",
+        "Mengubah air menjadi anggur",
+        "Berjalan di atas air",
+        "Menggandakan roti"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Tembok kota mana yang runtuh setelah orang Israel berjalan mengelilinginya?",
+      "options": [
+        "Yerusalem",
+        "Yerikho",
+        "Ai",
+        "Babel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa yang dikenal sebagai 'nabi yang meratap'?",
+      "options": [
+        "Yesaya",
+        "Yeremia",
+        "Yehezkiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Siapa yang memotong rambut Simson sehingga ia kehilangan kekuatannya?",
+      "options": [
+        "Delila",
+        "Abigail",
+        "Mikhal",
+        "Zippora"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Murid mana yang merupakan pemungut cukai sebelum mengikuti Yesus?",
+      "options": [
+        "Lukas",
+        "Matius",
+        "Markus",
+        "Yohanes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang pertama kali melihat Yesus setelah kebangkitan-Nya?",
+      "options": [
+        "Petrus",
+        "Yohanes",
+        "Maria Magdalena",
+        "Maria, ibu Yesus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapakah ratu jahat yang dimakan oleh anjing?",
+      "options": [
+        "Ester",
+        "Izebel",
+        "Atalya",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Siapa yang menyembunyikan dua mata-mata di bawah tumpukan rami di atap rumahnya?",
+      "options": [
+        "Rut",
+        "Rahab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Alat musik apa yang dimainkan Daud untuk menenangkan Raja Saul?",
+      "options": [
+        "Sangkakala",
+        "Kecapi",
+        "Seruling",
+        "Simbal"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang menjadi buta dalam perjalanan menuju Damsyik?",
+      "options": [
+        "Petrus",
+        "Stefanus",
+        "Saulus (Paulus)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Nabi mana yang diberi makan oleh burung-burung gagak?",
+      "options": [
+        "Elisa",
+        "Elia",
+        "Yesaya",
+        "Yeremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang mencuri patung-patung rumah milik ayahnya?",
+      "options": [
+        "Lea",
+        "Rakhel",
+        "Ribka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Siapa yang tertidur saat Paulus berkhotbah dan jatuh dari jendela hingga mati?",
+      "options": [
+        "Timotius",
+        "Eutikhus",
+        "Tikhikus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Bayi mana yang ditemukan di dalam keranjang di sungai Nil?",
+      "options": [
+        "Harun",
+        "Musa",
+        "Yosua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapa yang bergulat dengan Tuhan (atau malaikat) sepanjang malam?",
+      "options": [
+        "Abraham",
+        "Ishak",
+        "Yakub",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapa yang meminta hikmat dari Tuhan daripada meminta umur panjang atau kekayaan?",
+      "options": [
+        "Daud",
+        "Salomo",
+        "Saul",
+        "Hizkia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Perempuan dengan penyakit apa yang sembuh setelah menyentuh ujung jubah Yesus?",
+      "options": [
+        "Kusta",
+        "Pendarahan",
+        "Buta",
+        "Lumpuh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Raja mana yang menjadi gila dan makan rumput seperti lembu?",
+      "options": [
+        "Belsyazar",
+        "Nebukadnezar",
+        "Darius",
+        "Koresh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Pasangan mana yang mati seketika setelah berbohong kepada Roh Kudus tentang uang?",
+      "options": [
+        "Ananias dan Safira",
+        "Akila dan Priskila",
+        "Adam dan Hawa",
+        "Ahab dan Izebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Murid mana yang dikenal sebagai 'Tomas yang ragu-ragu'?",
+      "options": [
+        "Petrus",
+        "Tomas",
+        "Filipus",
+        "Andreas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Benda apa yang dibawa burung merpati kembali ke bahtera Nuh?",
+      "options": [
+        "Daun ara",
+        "Daun zaitun",
+        "Ulat",
+        "Bunga mawar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang memiliki 700 istri dan 300 gundik?",
+      "options": [
+        "Daud",
+        "Salomo",
+        "Rehabeam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang menjual hak kesulungannya demi semangkuk sup merah?",
+      "options": [
+        "Yakub",
+        "Esau",
+        "Yusuf",
+        "Ishak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nabi mana yang membuat mata kapak besi mengapung di atas air?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Siapa yang mengenali Yesus sebagai Mesias saat Dia masih bayi di Bait Allah?",
+      "options": [
+        "Simeon",
+        "Yusuf",
+        "Nikodemus",
+        "Petrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Siapa yang memerintahkan matahari dan bulan untuk berhenti bergerak?",
+      "options": [
+        "Musa",
+        "Yosua",
+        "Daud",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Murid mana yang memotong telinga hamba Imam Besar?",
+      "options": [
+        "Yakobus",
+        "Yohanes",
+        "Petrus",
+        "Yudas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapa yang naik ke Gunung Sinai untuk menerima Sepuluh Perintah Allah?",
+      "options": [
+        "Harun",
+        "Yosua",
+        "Musa",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapakah raja pertama Israel?",
+      "options": [
+        "Daud",
+        "Saul",
+        "Salomo",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapakah orang kaya yang memberikan makam barunya untuk penguburan Yesus?",
+      "options": [
+        "Nikodemus",
+        "Yusuf dari Arimatea",
+        "Simon dari Kirene",
+        "Lazarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ular berbisa apa yang menggigit Paulus di pulau Malta?",
+      "options": [
+        "Kobra",
+        "Beludak",
+        "Sanca",
+        "Ular derik"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Siapakah ibu dari Yohanes Pembaptis?",
+      "options": [
+        "Maria",
+        "Elisabet",
+        "Marta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang mengalahkan tentara Midian dengan hanya 300 orang, sangkakala, dan buyung?",
+      "options": [
+        "Simson",
+        "Gideon",
+        "Barak",
+        "Yefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapa tiga orang yang dilemparkan ke dalam perapian yang menyala-nyala karena menolak menyembah patung emas?",
+      "options": [
+        "Daniel",
+        "Sadrakh, Mesakh, dan Abednego",
+        "Ezra dan Nehemia",
+        "Paulus dan Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang mencuci tangannya untuk menunjukkan bahwa ia tidak bertanggung jawab atas kematian Yesus?",
+      "options": [
+        "Herodes",
+        "Kayafas",
+        "Pontius Pilatus",
+        "Yudas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang disebut sebagai 'Sahabat Allah'?",
+      "options": [
+        "Musa",
+        "Abraham",
+        "Daud",
+        "Nuh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Nabi mana yang ditelan oleh ikan besar?",
+      "options": [
+        "Yunus",
+        "Mikha",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapa yang bisa menafsirkan tulisan di dinding?",
+      "options": [
+        "Yusuf",
+        "Daniel",
+        "Yehezkiel",
+        "Yesaya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Siapakah hakim perempuan yang memimpin Israel?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Ester",
+        "Miryam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapa yang merebahkan dirinya di atas seorang anak sebanyak tiga kali sampai anak itu hidup kembali?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Petrus",
+        "Paulus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Anak Daud yang mana yang terperangkap pada rambutnya di pohon dan kemudian dibunuh?",
+      "options": [
+        "Salomo",
+        "Absalom",
+        "Adonia",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Melalui apa Tuhan berbicara kepada Musa di padang gurun?",
+      "options": [
+        "Semak yang menyala",
+        "Awan",
+        "Angin sepoi-sepoi",
+        "Seekor keledai"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Dalam perumpamaan orang Samaria yang murah hati, siapa yang membantu orang yang terluka itu?",
+      "options": [
+        "Imam",
+        "Orang Lewi",
+        "Orang Samaria",
+        "Prajurit Romawi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa orang tertua dalam Alkitab, yang hidup selama 969 tahun?",
+      "options": [
+        "Nuh",
+        "Adam",
+        "Metusalah",
+        "Henokh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Murid mana yang mencoba berjalan di atas air tetapi mulai tenggelam?",
+      "options": [
+        "Yakobus",
+        "Yohanes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kota mana yang dihancurkan Tuhan dengan api dan belerang karena kejahatannya?",
+      "options": [
+        "Yerikho",
+        "Niniwe",
+        "Sodom",
+        "Babel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang bermimpi melihat tangga yang mencapai langit dengan malaikat naik dan turun di atasnya?",
+      "options": [
+        "Abraham",
+        "Ishak",
+        "Yakub",
+        "Yusuf"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapakah manusia pertama yang diciptakan Tuhan?",
+      "options": [
+        "Kain",
+        "Habel",
+        "Adam",
+        "Nuh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Siapakah perempuan pertama yang diciptakan dari tulang rusuk Adam?",
+      "options": [
+        "Sara",
+        "Hawa",
+        "Maria",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Nabi mana yang dilemparkan ke dalam sumur berlumpur?",
+      "options": [
+        "Yesaya",
+        "Yeremia",
+        "Yehezkiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Siapa yang dipuji sebagai raja paling bijaksana dalam sejarah?",
+      "options": [
+        "Daud",
+        "Saul",
+        "Salomo",
+        "Hizkia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Apa yang harus dioleskan orang Israel pada tiang pintu mereka untuk menghindari tulah kesepuluh di Mesir?",
+      "options": [
+        "Darah anak domba",
+        "Minyak zaitun",
+        "Air",
+        "Abu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang memerintahkan pemenggalan kepala Yohanes Pembaptis?",
+      "options": [
+        "Herodes",
+        "Pilatus",
+        "Saul",
+        "Salomo"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Murid mana yang adalah seorang dokter?",
+      "options": [
+        "Matius",
+        "Lukas",
+        "Markus",
+        "Yohanes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang membantu memikul salib Yesus?",
+      "options": [
+        "Simon dari Kirene",
+        "Yusuf dari Arimatea",
+        "Petrus",
+        "Yohanes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Dengan apa Yesus memberi makan 5.000 orang?",
+      "options": [
+        "Manna dan burung puyuh",
+        "Lima roti dan dua ikan",
+        "Tujuh roti dan beberapa ikan kecil",
+        "Roti dan anggur"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Pasangan mana yang mati karena berbohong tentang harga jual tanah mereka?",
+      "options": [
+        "Ananias dan Safira",
+        "Akila dan Priskila",
+        "Ahab dan Izebel",
+        "Abraham dan Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Siapakah pemburu terkenal yang digambarkan sebagai 'pemburu yang gagah perkasa di hadapan Tuhan'?",
+      "options": [
+        "Goliat",
+        "Nimrod",
+        "Esau",
+        "Simson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Siapa yang memotong telinga hamba Imam Besar di taman Getsemani?",
+      "options": [
+        "Yohanes",
+        "Yakobus",
+        "Petrus",
+        "Yudas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapakah martir Kristen pertama yang dibunuh dengan cara dilempari batu?",
+      "options": [
+        "Yakobus",
+        "Stefanus",
+        "Paulus",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Raja mana yang mengusulkan untuk membelah bayi menjadi dua untuk menyelesaikan perselisihan antara dua ibu?",
+      "options": [
+        "Daud",
+        "Saul",
+        "Salomo",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapakah ibu orang Mesir dari anak sulung Abraham, Ismael?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Ribka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Siapakah imam besar pertama Israel?",
+      "options": [
+        "Musa",
+        "Harun",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Apa yang lebih dicintai oleh penguasa muda yang kaya daripada Yesus?",
+      "options": [
+        "Keluarganya",
+        "Kekuasaannya",
+        "Uang/hartanya",
+        "Reputasinya"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa yang mengucapkan kalimat terkenal, \"Apakah aku penjaga adikku?\"",
+      "options": [
+        "Habel",
+        "Kain",
+        "Esau",
+        "Saudara-saudara Yusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang memimpin bangsa Israel ke Tanah Perjanjian setelah Musa meninggal?",
+      "options": [
+        "Kaleb",
+        "Yosua",
+        "Harun",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Pekerjaan apa yang diambil oleh anak yang hilang setelah uangnya habis?",
+      "options": [
+        "Memberi makan babi",
+        "Membangun rumah",
+        "Memancing",
+        "Mengemis"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapakah gubernur Romawi yang menjatuhkan hukuman mati kepada Yesus?",
+      "options": [
+        "Herodes Antipas",
+        "Pontius Pilatus",
+        "Kaisar Agustus",
+        "Feliks"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Apa yang dimaksud dengan “Hukum Emas”?",
+      "options": [
+        "Kasihilah Tuhan Allahmu dengan segenap hatimu",
+        "Lakukanlah kepada orang lain apa yang kamu ingin mereka lakukan kepadamu",
+        "Percayalah kepada Tuhan Yesus",
+        "Hormatilah ayah dan ibumu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa yang dibangkitkan Yesus dari antara orang mati setelah berada di kubur selama empat hari?",
+      "options": [
+        "Putri Yairus",
+        "Putra janda",
+        "Lazarus",
+        "Tabita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Apa yang terjadi pada Raja Herodes ketika ia tidak memuliakan Allah?",
+      "options": [
+        "Ia tersambar petir",
+        "Ia dimakan ulat",
+        "Ia menjadi buta",
+        "Ia jatuh dari takhtanya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Siapa yang membuat anak lembu emas untuk disembah bangsa Israel?",
+      "options": [
+        "Musa",
+        "Harun",
+        "Yosua",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Siapa yang diurapi Samuel sebagai raja kedua Israel?",
+      "options": [
+        "Saul",
+        "Daud",
+        "Salomo",
+        "Isai"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Apa nama menara di mana Allah mengacaukan bahasa-bahasa?",
+      "options": [
+        "Menara Daud",
+        "Menara Babel",
+        "Menara Siloam",
+        "Menara Sikhem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa nama ibu Yesus?",
+      "options": [
+        "Elisabet",
+        "Maria",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Nabi mana yang melarikan diri dari Allah dan naik kapal ke Tarsis?",
+      "options": [
+        "Yunus",
+        "Amos",
+        "Mikha",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Siapa saudara Yakub yang berbulu?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismael",
+        "Ishak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Siapa orang lumpuh yang disembuhkan oleh Petrus di Gerbang Indah?",
+      "options": [
+        "Seorang pria yang lumpuh sejak lahir",
+        "Seorang pengemis buta",
+        "Seorang penderita kusta",
+        "Seorang tuli"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Siapa yang disebut Yesus sebagai “rubah”?",
+      "options": [
+        "Pilatus",
+        "Herodes",
+        "Kayafas",
+        "Yudas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Siapa ibu mertua Rut?",
+      "options": [
+        "Orpa",
+        "Naomi",
+        "Mara",
+        "Hana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "title": "VĚČNÝ ŽIVOT",
+  "chapters": [
+    {
+      "title": "Přední obálka",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>VĚČNÝ ŽIVOT</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Věčný život</b> je život, který nemá konce, znamená to, že <b>člověk nikdy nezemře?</b> Musí zemřít fyzicky, ale duchovně bude <b>žít věčně v nebi</b> nebo věčně trpět v pekle. Pojďme o tom krátce diskutovat níže, abychom toto téma jasně pochopili."
+        },
+        {
+          "type": "header",
+          "text": "Člověk je hříšník"
+        },
+        {
+          "id": "Para 1",
+          "text": "Člověk je hříšník od narození a v životě hřeší ve svých skutcích, chování, slyšení, mluvení, vidění i myšlení. V Matoušovi 5:28 Ježíš říká: 'Já však vám pravím, že každý, kdo hledí na ženu chtivě, již s ní zcizoložil ve svém srdci.' Kdo hřeší z nevědomosti, je rovněž počítán za hříšníka, i když to nikdo nevidí. Mnoho lidí si myslí a říká: \"Jakého hříchu jsem se dopustil?\" Hříchem není jen zabít, cizoložit, krást nebo loupit, ale také lhát, podvádět, být pyšný, závistivý, chamtivý, pomlouvat a myslet zle o druhých. Ve skutečnosti je každý hříšníkem již od narození."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=B21' target='_blank'>Kazatel 7,20</a> 'Na zemi není spravedlivého člověka, který by činil dobro a nikdy nehřešil.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=B21' target='_blank'>Žalm 51,7</a> 'Hle, v nepravosti jsem zrozen, v hříchu mě počala má matka.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=B21' target='_blank'>1. Janova 5,17</a> 'Každá nepravost je hřích'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=B21' target='_blank'>Římanům 3,23</a> 'všichni zhřešili a chybí jim Boží sláva,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=B21' target='_blank'>Římanům 5,12</a> 'Skrze jednoho člověka tedy přišel na svět hřích a skrze hřích smrt. A tak smrt zasáhla všechny, protože všichni zhřešili.'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=B21' target='_blank'>Římanům 6,23</a> 'Mzdou hříchu je totiž smrt,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Každý člověk musí zemřít fyzicky, ale duchovně <b>žít navěky - v</b> pekle nebo v nebi, ve věčném trestu nebo <b>věčném životě, ve věčném</b> utrpení nebo věčné radosti."
+        },
+        {
+          "id": "Para 3",
+          "text": "Každý člověk zhřešil a smrt je jistá pro všechny."
+        },
+        {
+          "type": "header",
+          "text": "Bůh je svatý a nebe je svaté, takže musíme být svatí, abychom vstoupili do nebe."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=B21' target='_blank'>Leviticus 19,2</a> 'Mluv k celé obci synů Izraele a řekni jim: Buďte svatí, neboť já Hospodin, váš Bůh, jsem svatý.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=B21' target='_blank'>1. Korintským 6,9</a> 'Což nevíte, že nespravedliví nebudou dědici Božího království?'"
+        },
+        {
+          "type": "header",
+          "text": "Jak tedy může být člověk spravedlivý nebo svatý?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Židům 9,22 'Podle Zákona se téměř <b>vše očišťuje krví a bez</b> prolití krve není odpuštění.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Být ospravedlněn z hříchu znamená být svatý nebo spravedlivý."
+        },
+        {
+          "type": "header",
+          "text": "Proč je krev důležitá?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=B21' target='_blank'>Leviticus 17,11</a> 'V krvi je totiž život těla a já jsem vám ji určil na oltář, aby konala smír za vaše životy. Je to krev, co koná smír za život.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Protože život je v krvi, nikdo nemůže zaplatit cenu života. A žádný člověk nemůže sám prodloužit život ani o okamžik. Ježíš Kristus otevřel cestu k vykoupení lidské rasy obětováním své drahocenné krve nebo drahocenného života."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=B21' target='_blank'>Židům 9,12</a> 'a ne s krví kozlů a telat, ale se svou vlastní krví; vešel jednou provždy do svatyně, když získal věčné vykoupení.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Ježíš Kristus projevil svou lásku obětováním svého života za celou lidskou rasu. Podle Jana 15,13 - 'Nikdo nemá větší lásku než ten, kdo položí život za své přátele.' V historii světa nenajdeme žádný jiný příklad takové lásky kromě Ježíše Krista."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=B21' target='_blank'>1. Janova 1,7</a> 'Když však chodíme ve světle, jako on je ve světle, máme společenství mezi sebou a krev Ježíše, jeho <b>Syna, nás očišťuje od každého hříchu.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=B21' target='_blank'>1. Korintským 15,3</a> 'Předal jsem vám především to, co jsem sám přijal: že <b>Kristus zemřel za</b> naše hříchy podle Písem, byl pohřben a třetího dne vstal z mrtvých podle Písem,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=B21' target='_blank'>Zjevení 1,5</a> 'a od Ježíše Krista, jenž je věrný svědek, prvorozený z mrtvých a vládce králů země. Jemu, jenž <b>nás miluje a svou krví nás zprostil hříchů'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=B21' target='_blank'>Matouš 9,2</a> 'A hle, přinesli k němu ochrnutého muže ležícího na lůžku. Když Ježíš uviděl jejich víru, řekl ochrnutému: „Buď dobré <b>mysli, synu, <b>tvé hříchy jsou ti odpuštěny.“'</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "V tomto výroku Ježíš přímo <b>odpouští hříchy ochrnutému</b> muži, protože Ježíš je schopen odpustit hříchy člověka a zároveň se prohlašuje za Boha, protože kromě Boha nikdo nemůže odpustit hřích."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=B21' target='_blank'>Skutky 10,43</a> 'Jemu (Kristu) vydávají svědectví všichni proroci, že skrze jeho jméno přijme odpuštění hříchů každý, kdo v něj věří.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=B21' target='_blank'>Skutky 4,12</a> 'V nikom jiném není spása – na světě není lidem dáno jiné jméno, v němž bychom mohli být spaseni' kromě Ježíše Krista z Nazareta."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1. Janova 2,2 'On (Kristus) <b>je smírnou obětí za naše hříchy, a nejen za naše, ale i za hříchy celého světa.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=B21' target='_blank'>Jan 3,16</a> 'Neboť Bůh (stvořitel) tak miloval svět (lidstvo), že dal svého jediného Syna (Ježíše Krista), aby žádný, kdo v něj věří, nezahynul, ale měl <b>věčný život</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=B21' target='_blank'>Jan 1,12</a> 'Ale těm, kteří ho (Ježíše) přijali, dal právo být Božími dětmi – všem těm, kdo věří v jeho (Ježíšovo) jméno.'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Spojení 'Boží děti' není jednoduché slovo, ti, kdo uvěřili a přijali Ježíše jako svého Pána, jsou počítáni za občany nebe, počítáni za svatou osobu, všechny jejich hříchy jsou odpuštěny."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=B21' target='_blank'>Římanům 8,1-2</a> 'Pro ty, kdo jsou v Kristu Ježíši, tedy nyní neexistuje žádné odsouzení. Zákon Ducha života v Kristu Ježíši tě totiž osvobodil od zákona hříchu a smrti.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=B21' target='_blank'>Římanům 5,9</a> 'Když jsme nyní ospravedlněni jeho (Ježíšovou) krví, čím spíše skrze něj budeme zachráněni před Božím hněvem!'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=B21' target='_blank'>Římanům 3,24</a> 'a jsou ospravedlňováni zadarmo jeho (Ježíšovou) milostí skrze vykoupení, které je v Kristu Ježíši.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=B21' target='_blank'>Jan 14,6</a> 'Ježíš mu odpověděl: „Já jsem ta cesta, pravda a život. Nikdo nepřichází k Otci (který je v nebi) než skrze mne.“'"
+        },
+        {
+          "type": "header",
+          "text": "Pouze ti, kdo věří v Ježíše Krista, mohou vstoupit do nebe, to se nazývá <b>věčný život</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=B21' target='_blank'>Jan 3,15</a> 'aby žádný, kdo v něj věří, nezahynul, ale měl <b>věčný život</b> v něm (Kristu).'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=B21' target='_blank'>Římanům 6,23</a> 'Mzdou hříchu je totiž smrt, ale Božím darem je <b>věčný život</b> v Kristu Ježíši, našem Pánu.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=B21' target='_blank'>Jan 5,24</a> Ježíš říká - 'Amen, amen, říkám vám: <b>Kdo slyší mé slovo a</b> věří Tomu, který mě poslal"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=B21' target='_blank'>Jan 11,25-26</a> Ježíš jí řekl: „Já jsem vzkříšení i život. Kdo věří ve mne, i kdyby zemřel, bude žít. A každý, kdo žije a věří ve <b>mne, nezemře navěky.“</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=B21' target='_blank'>Jan 6,51</a> 'Já jsem (Kristus) ten živý chléb, který sestoupil z nebe. Kdo by jedl tento <b>chléb, bude žít navěky. Chléb</b>, který dám já, je mé tělo, které dám za život světa.“'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Ježíš použil slovo '<b>věčný život</b>' v evangeliu podle Jana asi 17krát, 12krát ho použil pro přítomný čas, pouze 5krát ho použil pro budoucí čas. Většina z nás si myslí, že <b>věčný život</b> je jen pro budoucnost, ale Bible jasně říká, že je pro přítomnost i budoucnost. Ti, kteří jsou s Ježíšem, ti, kteří věří a přijali Ježíše jako svého osobního Pána a Spasitele, mohou říci, že <b>VĚČNÝ ŽIVOT</b> je s nimi, jsou již požehnáni věčným životem."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=B21' target='_blank'>1. Janova 5,11</a> 'A to svědectví je toto: Bůh nám dal <b>věčný život</b> a ten život je v jeho Synu (Kristu).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=B21' target='_blank'>Jan 17,3</a> 'A to je ten <b>věčný život</b> – aby poznali tebe, jediného pravého Boha, a toho, jehož jsi poslal, Ježíše Krista.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=B21' target='_blank'>Jan 12,50</a> Ježíš řekl - Ježíš řekl 'A vím, že jeho (Boží) přikázání je <b>věčný život</b>. Co tedy mluvím, mluvím tak, jak mi pověděl Otec.“'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=B21' target='_blank'>1. Janova 5,20</a> 'Víme také, že Boží Syn přišel a dal nám rozum, abychom poznali toho Pravého. A my jsme v tom Pravém, v jeho Synu Ježíši Kristu. On je ten pravý Bůh a <b>věčný život</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=B21' target='_blank'>Jan 6,47</a> 'Amen, amen, říkám vám (Kristus): Kdo věří ve mě, má <b>věčný život</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Co znamená věřit?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Démoni také věří v Ježíše, to neznamená, že budou mít <b>věčný život</b>. Jakub 2,19 Ty věříš, že je jeden Bůh. Dobře děláš. I démoni věří – a třesou se."
+        },
+        {
+          "type": "header",
+          "text": "Čiňte pokání ze svého hříchu, vyznejte, že Bůh vzkřísil Ježíše Krista z mrtvých, a přijměte Ježíše Krista jako svého osobního spasitele a Pána. - to se nazývá víra v Ježíše Krista."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=B21' target='_blank'>Římanům 10,9-10</a> 'Vyznáš-li svými ústy, že Ježíš je Pán, a uvěříš-li v srdci, že ho Bůh vzkřísil z mrtvých, budeš spasen. Víra v srdci vede ke spravedlnosti, vyznání ústy pak vede ke spáse.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=B21' target='_blank'>Matouš 10,32-33</a> 'Ke každému, kdo se ke mně přizná před lidmi, se i já přiznám před svým Otcem v nebesích. Ale toho, kdo mě před lidmi zapře, zapřu i já před svým Otcem v nebesích.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Spása neboli odpuštění hříchů je klíčem k <b>věčnému životu. <b>Pouze Ježíš Kristus může zachránit lidskou rasu</b>, p</b>rotože nikdo jiný na světě neobětoval svou krev kromě Ježíše Krista, pouze Ježíš obětoval svou svatou krev jako konečnou oběť za lidskou rasu. Proto je schopen zachránit celé lidstvo."
+        },
+        {
+          "type": "header",
+          "text": "Důležitost Ježíše Krista:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Mezi lety 1700 př. n. l. až 400 př. n. l. bylo o Ježíši Kristu mnoho proroctví, o Jeho narození, o Jeho trestu, o Jeho smrti na kříži, o Jeho vzkříšení třetího dne po Jeho smrti atd. Učenci odhadují, že Ježíš Kristus naplnil více než 300 proroctví Starého zákona. I po vzkříšení Kristus žil s učedníky a kázal o nebeském království a 40. den po svém vzkříšení vstoupil na nebesa ve své tělesné podobě."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Kromě Krista není ve světových dějinách žádná jiná osoba, která by vstala z mrtvých a tělesně vstoupila na nebesa."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Dnes se historie země počítá s Kristem. Asi 88 procent zemí světa dodržuje neděli jako svátek a slaví den Kristova vzkříšení, den vítězství, vítězství nad smrtí a hříchem."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Naší jedinou povinností je uchýlit se k Němu, vyznat svými ústy, že Ježíš je Pán, uvěřit ve svém srdci, že Bůh vzkřísil Krista z mrtvých, a být Jeho učedníky a následovat Jeho přikázání a kráčet po cestě života, pak jistě bude on/ona vlastnit nebeské království."
+        },
+        {
+          "type": "header",
+          "text": "Význam Bible svaté"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Zmínil jsem zde odkazy z Bible svaté, abych vysvětlil <b>Věčný život</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "A proč je Bible spolehlivá kniha? Bible byla napsána v rozmezí 1700 až 1800 let více než 40 různými autory v různých dobách a na různých místech."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Svatá Bible jediná kniha, je to kombinace 66 knih, před Kristem bylo napsáno 39 knih, které se nazývají 'Starý zákon', a po Kristu bylo napsáno 27 knih, které se nazývají 'Nový zákon'. Účel psaní Svaté Bible je téměř stejný u všech autorů, a to odhalit poznání Božství (Bůh Otec, Bůh Syn Ježíš Kristus a Bůh Duch Svatý), odhalit povahu stvoření a historii lidstva. Bible je také známá jako Boží pokyny, zákony, historie, proroctví a zjevení. Svatá Bible je také známá <b>jako KNIHA VĚČNÉHO ŽIVOTA.</b>"
+        },
+        {
+          "id": "Para 14",
+          "text": "Svatá Bible není napsána jednou nebo 2-3 osobami; ale napsána 40 různými lidmi s historickými důkazy a účel všech je téměř stejný, takže mohu říci, že Svatá Bible je osvědčená a spolehlivá kniha."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=B21' target='_blank'>2. Timoteus 3,16</a> 'Veškeré Písmo (Bible) je vdechnuté Bohem a je užitečné k vyučování, k usvědčování, k nápravě a k výchově ve spravedlnosti.'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=B21' target='_blank'>Jan 20,31</a> 'Tato (Bible) jsou však zapsána, abyste uvěřili, že Ježíš je Mesiáš, Boží Syn, a abyste skrze víru měli život (<b>věčný život</b>) v jeho jménu.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Bible je napsána tak, aby celé lidstvo přijalo odpuštění hříchů, spásu a <b>věčný život</b> skrze víru v Ježíše Krista. Svatá Bible není napsána pouze pro nějakou konkrétní zemi, konkrétní třídu, konkrétní jazyk, konkrétní barvu lidí; Ale je to psáno pro lidi každého jazyka, každého kmene, každé barvy a každého národa země. Dnes je Svatá Bible známá jako nejvíce tištěná kniha a Svatá Bible je dostupná téměř ve všech hlavních jazycích."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Život je tak vzácný a <b>věčný život</b> je neocenitelný. Bůh připravil speciální plán pro každého z nás, abychom měli <b>věčný život</b> bez jakýchkoli nákladů. Mějme tedy život hojně a věčně. A sdílejme naše zkušenosti s věčným životem s ostatními a oslavujme našeho Pána."
+        },
+        {
+          "id": "Blessing",
+          "text": "Kéž vám Pán hojně žehná, buďte požehnáni <b>věčným životem a staňte se</b> občanem království NEBESKÉHO."
+        }
+      ],
+      "title": "Předmluva",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

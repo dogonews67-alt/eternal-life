@@ -1,0 +1,365 @@
+{
+  "title": "LA VIE ÉTERNELLE",
+  "chapters": [
+    {
+      "title": "Première de couverture",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>LA VIE ÉTERNELLE</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>La vie éternelle</b> est une vie qui n'a pas de fin, cela signifie-t-il que l'homme <b>ne mourra jamais</b> ? Il doit mourir physiquement, mais <b>spirituellement, il vivra éternellement</b> au ciel ou souffrira éternellement en enfer. Discutons-en brièvement ci-dessous pour bien comprendre ce sujet."
+        },
+        {
+          "type": "header",
+          "text": "L'homme est un pécheur"
+        },
+        {
+          "id": "Para 1",
+          "text": "L'homme est pécheur de naissance, et dans la vie, il pèche dans ses actions, ses comportements, son écoute, ses paroles, ses regards et ses pensées. Dans Matthieu 5:28, Jésus dit : 'Mais moi, je vous dis que quiconque regarde une femme pour la convoiter a déjà commis un adultère avec elle dans son cœur.' Quiconque commet un péché par ignorance est également compté comme pécheur, même si personne ne le voit. Beaucoup de gens pensent et disent : \"Quel péché ai-je commis ?\" Ce n'est pas seulement un péché de tuer, de commettre l'adultère, de voler ou de dérober, mais aussi de mentir, de tricher, d'être orgueilleux, jaloux, avare, de calomnier et de penser du mal d'autrui. En fait, tout le monde est pécheur dès la naissance."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=LSG' target='_blank'>Ecclésiaste 7:20</a> 'Non, il n'y a sur la terre point d'homme juste qui fasse le bien et qui ne pêche jamais.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=LSG' target='_blank'>Psaume 51:7</a> 'Voici, je suis né dans l'iniquité, Et ma mère m'a conçu dans le <b>péché</b>.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=LSG' target='_blank'>1 Jean 5:17</a> 'Toute iniquité est un <b>péché</b>'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=LSG' target='_blank'>Romains 3:23</a> 'Car tous ont <b>péché</b> et sont privés de la gloire de Dieu,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=LSG' target='_blank'>Romains 5:12</a> 'C'est pourquoi, comme par un seul homme le <b>péché</b> est entré dans le monde, et par le <b>péché</b> la mort, et qu'ainsi la mort s'est étendue sur tous les hommes, parce que tous ont <b>péché</b>'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=LSG' target='_blank'>Romains 6:23</a> 'Car le salaire du <b>péché</b>, c'est la mort ;'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Tout être humain doit mourir physiquement, mais <b>spirituellement vivre pour toujours</b> - en enfer ou au ciel, dans le châtiment éternel ou <b>la vie éternelle</b>, dans la souffrance éternelle ou la joie éternelle."
+        },
+        {
+          "id": "Para 3",
+          "text": "Tout homme a <b>péché</b>, et la mort est certaine pour tous."
+        },
+        {
+          "type": "header",
+          "text": "Dieu est saint et le ciel est saint, nous devons donc être saints pour entrer au ciel."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=LSG' target='_blank'>Lévitique 19:2</a> 'Parle à toute l'assemblée des enfants d'Israël, et tu leur diras : Soyez saints, car je suis saint, moi, l'Éternel, votre Dieu.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=LSG' target='_blank'>1 Corinthiens 6:9</a> 'Ne savez-vous pas que les injustes n'hériteront point le royaume de Dieu ?'"
+        },
+        {
+          "type": "header",
+          "text": "Alors comment peut-on être juste ou saint ?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hébreux 9:22 'Et presque tout, d'après la loi, est purifié avec du <b>sang</b>, et sans effusion de <b>sang</b> il n'y a pas de pardon.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Être pardonné du <b>péché</b>, c'est être saint ou être juste."
+        },
+        {
+          "type": "header",
+          "text": "Pourquoi le <b>sang</b> est-il important ?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=LSG' target='_blank'>Lévitique 17:11</a> 'Car l'âme de la chair est dans le <b>sang</b>. Je vous l'ai donné sur l'autel, afin qu'il servît d'expiation pour vos âmes, car c'est par l'âme que le <b>sang</b> fait l'expiation.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Puisque la vie est dans le <b>sang</b>, personne ne peut payer le prix de la vie. Et aucun homme ne peut prolonger une vie même un instant par lui-même. Jésus-Christ a ouvert la voie à la rédemption de la race humaine en sacrifiant son <b>sang</b> précieux ou sa vie précieuse."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=LSG' target='_blank'>Hébreux 9:12</a> 'et il est entré une fois pour toutes dans le lieu très saint, non avec le <b>sang</b> des boucs et des veaux, mais avec son propre <b>sang</b>, ayant obtenu une rédemption éternelle.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jésus-Christ a montré son amour en sacrifiant Sa vie pour toute la race humaine. Selon Jean 15:13 - 'Il n'y a pas de plus grand amour que de donner sa vie pour ses amis.' Nous ne pouvons trouver aucun autre exemple dans l'histoire du monde de ce genre d'amour, sauf Jésus-Christ."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=LSG' target='_blank'>1 Jean 1:7</a> 'Mais si nous marchons dans la lumière, comme il est lui-même dans la lumière, nous sommes mutuellement en communion, et le <b>sang</b> de Jésus son Fils nous purifie de tout <b>péché</b>.'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=LSG' target='_blank'>1 Corinthiens 15:3</a> 'Je vous ai enseigné avant tout, comme je l'avais aussi reçu, que Christ est mort pour nos <b>péchés</b>, selon les Écritures ; qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures ;'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=LSG' target='_blank'>Apocalypse 1:5</a> 'et de la part de Jésus-Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre ! A celui qui nous aime, qui nous a délivrés de nos <b>péchés par son sang</b>,'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=LSG' target='_blank'>Matthieu 9:2</a> 'Et voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes <b>péchés</b> te sont pardonnés.'"
+        },
+        {
+          "id": "Para 7",
+          "text": "Dans cette parole, Jésus pardonne directement les <b>péchés</b> du paralytique, parce que Jésus est capable de pardonner les <b>péchés</b> de l'homme et en même temps, Il se déclare aussi comme Dieu, parce que sauf Dieu personne ne peut pardonner le <b>péché</b>."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=LSG' target='_blank'>Actes 10:43</a> 'Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son nom le pardon des <b>péchés</b>.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=LSG' target='_blank'>Actes 4:12</a> 'Il n'y a de salut en aucun autre ; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés' sauf Jésus-Christ de Nazareth."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Jean 2:2 'Il (Christ) est lui-même une victime expiatoire pour nos <b>péchés</b>, non seulement pour les nôtres, <b>mais aussi pour ceux du monde entier.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=LSG' target='_blank'>Jean 3:16</a> 'Car Dieu (le créateur) a tant aimé le monde (la race humaine) qu'il a donné son Fils unique (Jésus-Christ), afin que quiconque croit en lui ne périsse point, mais qu'il ait <b>la vie éternelle</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=LSG' target='_blank'>Jean 1:12</a> 'Mais à tous ceux qui l'ont reçue (Jésus), à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu'"
+        },
+        {
+          "id": "Para 8",
+          "text": "L'expression 'enfants de Dieu' n'est pas un simple mot, ceux qui ont cru et reçu Jésus comme leur Seigneur sont comptés comme citoyens du Ciel, comptés comme personnes saintes, tous leurs <b>péchés</b> sont pardonnés."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=LSG' target='_blank'>Romains 8:1-2</a> 'Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ. En effet, la loi de l'esprit de vie en Jésus-Christ m'a affranchi de la loi du <b>péché</b> et de la mort.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=LSG' target='_blank'>Romains 5:9</a> 'A plus forte raison donc, maintenant que nous sommes justifiés par son <b>sang</b> (Jésus), serons-nous sauvés par lui de la colère.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=LSG' target='_blank'>Romains 3:24</a> 'et ils sont gratuitement justifiés par sa grâce (Jésus), par le moyen de la rédemption qui est en Jésus-Christ.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=LSG' target='_blank'>Jean 14:6</a> 'Jésus lui dit : Je suis le chemin, la vérité, et la vie. Nul ne vient au Père (qui est au ciel) que par moi.'"
+        },
+        {
+          "type": "header",
+          "text": "Ceux qui croient en Jésus-Christ, eux seuls peuvent entrer au Ciel, cela s'appelle <b>la Vie Éternelle</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=LSG' target='_blank'>Jean 3:15</a> 'afin que quiconque croit en lui ait <b>la vie éternelle</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=LSG' target='_blank'>Romains 6:23</a> 'Car le salaire du <b>péché</b>, c'est la mort ; mais le don gratuit de Dieu, c'est <b>la vie éternelle</b> en Jésus-Christ notre Seigneur.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=LSG' target='_blank'>Jean 5:24</a> Jésus dit - 'En vérité, en vérité, je vous le dis, <b>celui qui écoute ma parole,</b> et qui croit à celui qui m'a envoyé"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=LSG' target='_blank'>Jean 11:25-26</a> Jésus lui dit : 'Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait mort ; et quiconque vit et croit en moi <b>ne mourra jamais</b>.'"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=LSG' target='_blank'>Jean 6:51</a> 'Je suis (Christ) le pain vivant qui est descendu du ciel. Si quelqu'un mange de ce pain, il vivra <b>éternellement ; et le pain</b> que je donnerai, c'est ma chair, que je donnerai pour la vie du monde.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jésus a utilisé le mot '<b>Vie Éternelle</b>' dans l'Évangile selon Jean environ 17 fois, 12 fois Il l'a utilisé pour le temps présent, seulement 5 fois Il l'a utilisé pour le temps futur. La plupart d'entre nous pensent que <b>la vie éternelle</b> n'est que pour le temps futur, mais la Bible dit clairement que c'est pour le temps présent et futur. Ceux qui sont tous avec Jésus, ceux qui croient et ont accepté Jésus comme leur Seigneur et Sauveur personnel, ils peuvent dire que <b>LA VIE ÉTERNELLE</b> est avec eux, ils sont déjà bénis avec <b>la Vie Éternelle</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=LSG' target='_blank'>1 Jean 5:11</a> 'Et voici ce témoignage, c'est que Dieu nous a donné <b>la vie éternelle</b>, et que cette vie est dans son Fils (Christ).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=LSG' target='_blank'>Jean 17:3</a> 'Or, <b>la vie éternelle</b>, c'est qu'ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=LSG' target='_blank'>Jean 12:50</a> Jésus a dit - 'Et je sais que son commandement (de Dieu) est <b>la vie éternelle</b>. C'est pourquoi les choses que je dis, je les dis comme le Père me les a dites.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=LSG' target='_blank'>1 Jean 5:20</a> 'Nous savons aussi que le Fils de Dieu est venu, et qu'il nous a donné l'intelligence pour connaître le Véritable ; et nous sommes dans le Véritable, en son Fils Jésus-Christ. C'est lui qui est le Dieu véritable, et <b>la vie éternelle</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=LSG' target='_blank'>Jean 6:47</a> 'En vérité, en vérité, je (Christ) vous le dis, celui qui croit en moi a <b>la vie éternelle</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Que signifie croire ?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Les démons croient aussi en Jésus, cela ne signifie pas qu'ils auront <b>la vie éternelle</b>. Jacques 2:19 Tu crois qu'il y a un seul Dieu, tu fais bien ; les démons le croient aussi, et ils tremblent."
+        },
+        {
+          "type": "header",
+          "text": "Repentez-vous de votre <b>péché</b>, confessez que Dieu a ressuscité Jésus-Christ des morts, et Acceptez Jésus-Christ comme votre sauveur personnel et Seigneur. - c'est ce qu'on appelle croire en Jésus-Christ."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=LSG' target='_blank'>Romains 10:9-10</a> 'Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. Car c'est en croyant du cœur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=LSG' target='_blank'>Matthieu 10:32-33</a> 'C'est pourquoi, quiconque me confessera devant les hommes, je le confesserai aussi devant mon Père qui est dans les cieux ; mais quiconque me reniera devant les hommes, je le renierai aussi devant mon Père qui est dans les cieux.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Le salut ou le pardon des <b>péchés est la clé de la vie éternelle. Seul Jésus-Christ peut sauver la race humaine</b>, car personne d'autre au monde n'a sacrifié son <b>sang</b> à part Jésus-Christ, Jésus seul a sacrifié Son <b>sang</b> Saint comme sacrifice final pour la race humaine. C'est pourquoi Il est capable de sauver toute l'humanité."
+        },
+        {
+          "type": "header",
+          "text": "L'importance de Jésus-Christ :"
+        },
+        {
+          "id": "Para 12",
+          "text": "Il y avait beaucoup de prophéties sur Jésus-Christ entre 1700 av. J.-C. et 400 av. J.-C., sur Sa naissance, sur Son châtiment, sur Sa mort sur la croix, sur Sa résurrection le troisième jour de Sa mort, etc. Les érudits estiment que Jésus-Christ a accompli plus de 300 prophéties de l'Ancien Testament. Même après la résurrection, Christ a vécu avec les disciples et a prêché sur le royaume des cieux, et le 40ème jour de Sa résurrection, Il est monté au ciel sous Sa forme corporelle."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "À part le Christ, il n'y a aucune autre personne dans l'histoire du monde qui soit ressuscitée et montée au ciel physiquement."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Aujourd'hui, l'histoire de la terre est comptée avec le Christ. Environ 88 pour cent des pays du monde gardent le dimanche comme jour férié et observent le jour de la résurrection du Christ, le jour de la victoire, la victoire sur la mort et le <b>péché</b>."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Notre seul devoir est de nous réfugier en Lui, de confesser de notre bouche que Jésus est le Seigneur, de croire dans notre cœur que Dieu a ressuscité le Christ d'entre les morts, et d'être ses disciples et de suivre ses commandements et de marcher sur le chemin de la vie, alors c'est sûr, il/elle possédera le royaume des cieux."
+        },
+        {
+          "type": "header",
+          "text": "L'importance de la Sainte Bible"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "J'ai mentionné ici les références de la Sainte Bible pour expliquer <b>la Vie éternelle</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Et pourquoi la Bible est-elle un livre fiable ? La Bible a été écrite sur une période de 1700 à 1800 ans par plus de 40 auteurs différents à différentes époques et en différents lieux."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "La Sainte Bible livre unique, c'est la combinaison de 66 livres, avant Christ 39 livres écrits qui sont appelés 'Ancien Testament' et après Christ 27 livres écrits qui sont appelés 'Nouveau Testament'. Le but de l'écriture de la Sainte Bible est presque le même pour tous les auteurs, c'est de révéler la connaissance de la Divinité (Dieu le Père, Dieu le Fils Jésus-Christ, et Dieu le Saint-Esprit), révéler la nature de la Création et de l'histoire de l'humanité. De plus, la Bible est connue comme les instructions de Dieu, les Lois, l'Histoire, la Prophétie et la Révélation. De plus, La Sainte Bible est connue comme le LIVRE DE <b>LA VIE ÉTERNELLE</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "La Sainte Bible n'est pas écrite par une seule ou 2-3 personnes ; mais écrite par 40 personnes différentes avec des preuves historiques et le but de chacun est presque le même, donc je peux dire que La Sainte Bible est un Livre prouvé et fiable."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=LSG' target='_blank'>2 Timothée 3:16</a> 'Toute Écriture (Bible) est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice,'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=LSG' target='_blank'>Jean 20:31</a> 'Mais ces choses (Bible) ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie (<b>vie éternelle</b>) en son nom.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "La Bible est écrite pour que toute l'humanité reçoive le pardon des <b>péchés, le salut et la vie éternelle</b> par la foi en Jésus-Christ. La Sainte Bible n'est pas écrite seulement pour un pays particulier, une classe particulière, une langue particulière, des gens de couleur particulière ; Mais elle est écrite pour les gens de toute langue, de toute tribu, de toute couleur et de toute nation de la terre. Aujourd'hui, La Sainte Bible est connue comme le Livre le plus imprimé, et La Sainte Bible est disponible dans presque toutes les langues principales."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "La vie est si Précieuse et <b>la Vie Éternelle</b> est Inestimable. Dieu a fait un plan spécial pour chacun de nous pour avoir <b>la Vie Éternelle</b> sans aucun coût. Alors, ayons la Vie Abondamment et Éternellement. Et partageons notre Expérience de <b>la vie Éternelle</b> avec les autres et faisons en sorte que notre Seigneur soit Glorifié."
+        },
+        {
+          "id": "Blessing",
+          "text": "Que le Seigneur vous bénisse abondamment, soyez béni avec <b>la vie éternelle</b> et soyez un citoyen du royaume des CIEUX."
+        }
+      ],
+      "title": "Préface",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Bijbelquiz",
+  "questions": [
+    {
+      "question": "Wie bouwde de ark?",
+      "options": [
+        "Mozes",
+        "Noach",
+        "David",
+        "Salomo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welk ongebruikelijk voedsel at Johannes de Doper?",
+      "options": [
+        "Sprinkhanen en honing",
+        "Brood en vis",
+        "Vijgen en olijven",
+        "Lam en kruiden"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Welke man was zo sterk dat hij een leeuw met zijn blote handen doodde?",
+      "options": [
+        "David",
+        "Simson",
+        "Goliath",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie had een veelkleurige mantel waar zijn broers jaloers op waren?",
+      "options": [
+        "Benjamin",
+        "Jozef",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke zee spleet Mozes om aan de Egyptenaren te ontsnappen?",
+      "options": [
+        "Dode Zee",
+        "Galilea",
+        "Rode Zee",
+        "Middellandse Zee"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie werd door een grote vis ingeslikt?",
+      "options": [
+        "Jona",
+        "Petrus",
+        "Paulus",
+        "Noach"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Welke vrouw veranderde in een zoutpilaar omdat ze achterom keek?",
+      "options": [
+        "Sara",
+        "De vrouw van Lot",
+        "Rebekka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie versloeg de reusachtige krijger Goliath met een slinger?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samuël"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Welke kleine man klom in een vijgenboom om Jezus te zien?",
+      "options": [
+        "Bartimeüs",
+        "Zacheüs",
+        "Mattheüs",
+        "Nicodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welk dier sprak tot de profeet Bileam?",
+      "options": [
+        "Een leeuw",
+        "Een schaap",
+        "Een ezel",
+        "Een kameel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie was the eerste moordenaar in de Bijbel?",
+      "options": [
+        "Kaïn",
+        "Abel",
+        "Seth",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie werd in een leeuwenkuil gegooid maar overleefde het?",
+      "options": [
+        "Daniël",
+        "Jozef",
+        "Sadrach",
+        "Jeremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke linkshandige rechter doodde een vette koning met een verborgen zwaard?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Simson",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie verraadde Jezus voor 30 zilverstukken?",
+      "options": [
+        "Petrus",
+        "Judas Iskariot",
+        "Pontius Pilatus",
+        "Kajafas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke jonge jongen hoorde God 's nachts zijn naam roepen terwijl hij sliep?",
+      "options": [
+        "David",
+        "Samuël",
+        "Izak",
+        "Jozef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie liep over het water naar Jezus toe?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wat viel er uit de hemel om de Israëlieten in de woestijn te voeden?",
+      "options": [
+        "Brood",
+        "Kwartels",
+        "Manna",
+        "Vijgen"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie staat bekend als de sterkste man in de Bijbel?",
+      "options": [
+        "Goliath",
+        "Simson",
+        "Boaz",
+        "Ezau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welke koningin redde het Joodse volk van een complot om hen te doden?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Izebel",
+        "Batseba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie ontkende drie keer Jezus te kennen voordat de haan kraaide?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Petrus",
+        "Filippus"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welk wonder verrichtte Jezus op de bruiloft te Kana?",
+      "options": [
+        "Genezing van een blinde",
+        "Veranderde water in wijn",
+        "Liep over het water",
+        "Vermeerderde het brood"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "De muren van welke stad vielen om nadat de Israëlieten eromheen waren getrokken?",
+      "options": [
+        "Jeruzalem",
+        "Jericho",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie was de 'wenende profeet'?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Ezechiël",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wiens haar werd door Delila afgeknipt, waardoor hij zijn kracht verloor?",
+      "options": [
+        "Simson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke discipel was een tollenaar voordat hij Jezus volgde?",
+      "options": [
+        "Lukas",
+        "Mattheüs",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie zag Jezus als eerste nadat Hij uit de doden was opgestaan?",
+      "options": [
+        "Petrus",
+        "Johannes",
+        "Maria Magdalena",
+        "Zijn moeder Maria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Welke slechte koningin werd door honden opgegeten?",
+      "options": [
+        "Esther",
+        "Izebel",
+        "Atalia",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wie verborg twee spionnen onder vlasslachters op haar dak?",
+      "options": [
+        "Ruth",
+        "Rachab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Welk instrument bespeelde David om koning Saul te kalmeren?",
+      "options": [
+        "Trompet",
+        "Harp/Lier",
+        "Fluit",
+        "Tamboerijn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie werd met blindheid geslagen op de weg naar Damascus?",
+      "options": [
+        "Petrus",
+        "Stefanus",
+        "Saulus (Paulus)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke profeet werd door raven gevoed?",
+      "options": [
+        "Elisa",
+        "Elia",
+        "Jesaja",
+        "Jeremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie stal de huisgoden van haar vader?",
+      "options": [
+        "Lea",
+        "Rachel",
+        "Rebekka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie viel uit een raam omdat Paulus te lang preekte?",
+      "options": [
+        "Timotheüs",
+        "Eutychus",
+        "Tychikus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Welke baby werd in een mandje in de Nijl gevonden?",
+      "options": [
+        "Aäron",
+        "Mozes",
+        "Jozua",
+        "Samuël"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie worstelde de hele nacht met God (of een engel)?",
+      "options": [
+        "Abraham",
+        "Izak",
+        "Jakob",
+        "Ezau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie vroeg God om wijsheid in plaats van een lang leven of rijkdom?",
+      "options": [
+        "David",
+        "Salomo",
+        "Saul",
+        "Hizkia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie raakte de zoom van Jezus' kleed aan en werd genezen?",
+      "options": [
+        "Een melaatse",
+        "Een bloedvloeiende vrouw",
+        "Een blinde",
+        "Een verlamde"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welke koning werd waanzinnig en at gras als een rund?",
+      "options": [
+        "Belsazar",
+        "Nebukadnezar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wie loog tegen de Heilige Geest over geld en viel dood neer?",
+      "options": [
+        "Ananias en Saffira",
+        "Priscilla en Aquila",
+        "Adam en Eva",
+        "Achab en Izebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie was de 'twijfelende' discipel?",
+      "options": [
+        "Petrus",
+        "Thomas",
+        "Filippus",
+        "Andreas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wat bracht de duif terug naar de ark van Noach?",
+      "options": [
+        "Een vijgenblad",
+        "Een olijftak",
+        "Een worm",
+        "Een roos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie had 700 vrouwen en 300 bijvrouwen?",
+      "options": [
+        "David",
+        "Salomo",
+        "Rehabeam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie verkocht zijn eerstgeboorterecht voor een schotel linzensoep?",
+      "options": [
+        "Jakob",
+        "Ezau",
+        "Jozef",
+        "Izak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welke profeet liet een ijzeren bijl op het water drijven?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Samuël",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wie herkende Jezus als de Messias toen Hij nog een baby was?",
+      "options": [
+        "Simeon",
+        "Jozef",
+        "Nicodemus",
+        "Petrus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Wie beval de zon en de maan om stil te staan?",
+      "options": [
+        "Mozes",
+        "Jozua",
+        "David",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Welke discipel sloeg het oor van de dienaar van de hogepriester af?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie beklom de berg Sinaï om de Tien Geboden te ontvangen?",
+      "options": [
+        "Aäron",
+        "Jozua",
+        "Mozes",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie was de eerste koning van Israël?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Samuël"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Welke rijke man begroef Jezus in zijn eigen graf?",
+      "options": [
+        "Nicodemus",
+        "Jozef van Arimathea",
+        "Simon van Cyrene",
+        "Lazarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Hoe heette de adder die Paulus beet op het eiland Malta?",
+      "options": [
+        "Cobra",
+        "Adder (Viper)",
+        "Python",
+        "Rattelslang"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie was de moeder van Johannes de Doper?",
+      "options": [
+        "Maria",
+        "Elisabeth",
+        "Martha",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie versloeg de Midianieten met slechts 300 mannen, trompetten en kruiken?",
+      "options": [
+        "Simson",
+        "Gideon",
+        "Barak",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie weigerde het gouden beeld te aanbidden en werd in een oven gegooid?",
+      "options": [
+        "Daniël",
+        "Sadrach, Mesach en Abednego",
+        "Ezra en Nehemia",
+        "Paulus und Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie waste zijn handen om zijn onschuld aan de dood van Jezus te verklaren?",
+      "options": [
+        "Herodes",
+        "Kajafas",
+        "Pontius Pilatus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie stond bekend als de 'vriend van God'?",
+      "options": [
+        "Mozes",
+        "Abraham",
+        "David",
+        "Noach"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Welke profeet werd door een walvis (grote vis) ingeslikt?",
+      "options": [
+        "Jona",
+        "Micha",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie verklaarde het schrift op de muur?",
+      "options": [
+        "Jozef",
+        "Daniël",
+        "Ezechiël",
+        "Jesaja"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Wie was de vrouwelijke rechter die Israël leidde?",
+      "options": [
+        "Ruth",
+        "Debora",
+        "Esther",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie bracht een jongen weer tot leven door drie keer op hem te gaan liggen?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Petrus",
+        "Paulus"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Welke zoon van koning David raakte met zijn lange haar verstrikt in een boom en werd gedood?",
+      "options": [
+        "Salomo",
+        "Absalom",
+        "Adonia",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Waardoor sprak God tot Mozes in de woestijn?",
+      "options": [
+        "Een brandend braambos",
+        "Een wolk",
+        "Een wervelwind",
+        "Een ezel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie hielp de gewonde man in de gelijkenis van de barmhartige Samaritaan?",
+      "options": [
+        "Een priester",
+        "Een Leviet",
+        "Een Samaritaan",
+        "Een Romeinse soldaat"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie was de oudste man in de Bijbel en werd 969 jaar oud?",
+      "options": [
+        "Noach",
+        "Adam",
+        "Metusalach",
+        "Henoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Welke discipel probeerde op het water te lopen maar begon te zinken?",
+      "options": [
+        "Jakobus",
+        "Johannes",
+        "Petrus",
+        "Andreas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Welke stad verwoestte God met vuur en zwavel vanwege haar slechtheid?",
+      "options": [
+        "Jericho",
+        "Nineve",
+        "Sodom",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie droomde er van een ladder die tot de hemel reikte en waarop engelen op en neer gingen?",
+      "options": [
+        "Abraham",
+        "Izak",
+        "Jakob",
+        "Jozef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie was de eerste mens die door God werd geschapen?",
+      "options": [
+        "Kaïn",
+        "Abel",
+        "Adam",
+        "Noach"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wie was de eerste vrouw, geschapen uit de rib van Adam?",
+      "options": [
+        "Sara",
+        "Eva",
+        "Maria",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welke profeet werd in een modderige put (kerker) gegooid?",
+      "options": [
+        "Jesaja",
+        "Jeremia",
+        "Ezechiël",
+        "Daniël"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie stond bekend als de 'wijste koning' die ooit heeft geleefd?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Hizkia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Wat smeerden de Israëlieten op hun deurposten om de 10e plaag in Egypte te ontlopen?",
+      "options": [
+        "Lamsbloed",
+        "Olijfolie",
+        "Water",
+        "As"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie beval een weduwe om brood voor hem te bakken van haar laatste restje meel en olie?",
+      "options": [
+        "Elia",
+        "Elisa",
+        "Samuël",
+        "Natan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Welke discipel was een arts?",
+      "options": [
+        "Mattheüs",
+        "Lukas",
+        "Markus",
+        "Johannes"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie hielp Jezus zijn kruis te dragen?",
+      "options": [
+        "Simon van Cyrene",
+        "Jozef van Arimathea",
+        "Petrus",
+        "Johannes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Waarmee voedde Jezus de 5.000 mensen?",
+      "options": [
+        "Manna en kwartels",
+        "5 broden en 2 vissen",
+        "7 broden en een paar vissen",
+        "Brood en wijn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welk echtpaar stierf omdat ze hadden gelogen over de prijs van hun land?",
+      "options": [
+        "Ananias en Saffira",
+        "Aquila en Priscilla",
+        "Achab en Izebel",
+        "Abraham en Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Wie was de reusachtige jager die bekend stond als een 'geweldig jager voor het aangezicht van de Heer'?",
+      "options": [
+        "Goliath",
+        "Nimrod",
+        "Ezau",
+        "Simson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wie sloeg het oor van de dienaar van de hogepriester af in de hof van Getsemane?",
+      "options": [
+        "Johannes",
+        "Jakobus",
+        "Petrus",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie was de eerste christelijke martelaar die werd gestenigd?",
+      "options": [
+        "Jakobus",
+        "Stefanus",
+        "Paulus",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Welke koning stelde voor om een baby in tweeën te snijden om een geschil tussen twee moeders op te lossen?",
+      "options": [
+        "David",
+        "Saul",
+        "Salomo",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie was de Egyptische vrouw die Abrahams eerste zoon, Ismaël, baarde?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Rebekka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wie was de eerste hogepriester van Israël?",
+      "options": [
+        "Mozes",
+        "Aäron",
+        "Eleazar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Wat hield de rijke jongeling meer van dan van Jezus?",
+      "options": [
+        "Zijn familie",
+        "Zijn macht",
+        "Zijn geld/bezittingen",
+        "Zijn reputatie"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie zei de beroemde woorden: 'Ben ik mijn broeders hoeder?'",
+      "options": [
+        "Abel",
+        "Kaïn",
+        "Esau",
+        "Jozefs broers"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie leidde de Israëlieten het Beloofde Land binnen nadat Mozes was gestorven?",
+      "options": [
+        "Kaleb",
+        "Jozua",
+        "Aäron",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Welk werk nam de Verloren Zoon aan toen zijn geld op was?",
+      "options": [
+        "Varkens hoeden",
+        "Huizen bouwen",
+        "Vissen",
+        "Bedelen"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie was de Romeinse stadhouder die Jezus ter dood veroordeelde?",
+      "options": [
+        "Herodes Antipas",
+        "Pontius Pilatus",
+        "Keizer Augustus",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wat is de 'Gouden Regel'?",
+      "options": [
+        "Heb God lief met heel je hart",
+        "Alles wat gij wilt, dat u de mensen doen, doet gij hun evenzo",
+        "Geloof in de Here Jezus",
+        "Eer uw ouders"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie wekte Jezus op uit de dood nadat hij al vier dagen in het graf lag?",
+      "options": [
+        "De dochter van Jaïrus",
+        "De zoon van de weduwe",
+        "Lazarus",
+        "Tabitha"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Wat gebeurde er met koning Herodes toen hij God niet de eer gaf?",
+      "options": [
+        "Hij werd door de bliksem getroffen",
+        "Hij werd door wormen gegeten",
+        "Hij werd blind",
+        "Hij viel van zijn troon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Wie maakte een gouden kalf voor de Israëlieten om te aanbidden?",
+      "options": [
+        "Mozes",
+        "Aäron",
+        "Jozua",
+        "Mirjam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Wie zalfde Samuël als de tweede koning van Israël?",
+      "options": [
+        "Saul",
+        "David",
+        "Salomo",
+        "Isaï"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wat was de naam van de toren waar God de talen verwarde?",
+      "options": [
+        "Toren van David",
+        "Toren van Babel",
+        "Toren van Siloam",
+        "Toren van Sichem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie was de moeder van Jezus?",
+      "options": [
+        "Elisabet",
+        "Maria",
+        "Martha",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Welke profeet vluchtte weg voor God en ging op een boot naar Tarsis?",
+      "options": [
+        "Jona",
+        "Amos",
+        "Micha",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Wie was de harige broer van Jakob?",
+      "options": [
+        "Laban",
+        "Esau",
+        "Ismaël",
+        "Izak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Wie was de verlamde man die door Petrus werd genezen bij de Schone Poort?",
+      "options": [
+        "Een man die vanaf zijn geboorte verlamd was",
+        "Een blinde bedelaar",
+        "Een melaatse",
+        "Een dove"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Wie noemde Jezus een 'vos'?",
+      "options": [
+        "Pilatus",
+        "Herodes",
+        "Kajafas",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Wie was de schoonmoeder van Ruth?",
+      "options": [
+        "Orpa",
+        "Naomi",
+        "Mara",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "title": "永生",
+  "chapters": [
+    {
+      "title": "封面",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>永生</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>永生是没有终结的生命，这种生命意味着人永远不死吗？他在肉体上必须死，但在灵性上，他将在天堂永生</b>，或在地狱永远受苦。让我们在下面简要讨论，以清楚地理解这个话题。"
+        },
+        {
+          "type": "header",
+          "text": "人人生而有罪"
+        },
+        {
+          "id": "Para 1",
+          "text": "人从出生起就是罪人，在生活中，他在行为、举止、听觉、言语、视觉和思想上都会犯罪。在马太福音5:28中，耶稣说：‘只是我告诉你们，凡看见妇女就动淫念的，这人心里已经与她犯奸淫了。’任何人出于无知所犯的罪也被算为有罪，即使没有人看见。许多人心里想并说：“我犯了什么罪呢？”不仅杀人、奸淫、偷窃、抢劫是罪，说谎、欺骗、骄傲、嫉妒、贪婪、论断人以及对他人怀有恶念也是罪。事实上，人人生而有罪。"
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=CUV' target='_blank'>传道书 7:20</a> '<b>时常行善而不犯罪的义人</b>，世上实在没有。'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=CUV' target='_blank'>诗篇 51:5</a> '<b>我是在罪孽里生的，在我母亲怀胎的时候就有了罪</b>。'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=CUV' target='_blank'>约翰一书 5:17</a> '<b>凡不义的事都是罪</b>'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=CUV' target='_blank'>罗马书 3:23</a> '<b>因为世人都犯了罪</b>，亏缺了神的荣耀；'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=CUV' target='_blank'>罗马书 5:12</a> '<b>这就如罪是从一人入了世界，死又是从罪来的，于是死就临到众人，因为众人都犯了罪</b>。'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=CUV' target='_blank'>罗马书 6:23</a> '<b>因为罪的工价乃是死</b>；'"
+        },
+        {
+          "id": "Para 2",
+          "text": "每个人都必须在肉体上死亡，<b>但在灵性上永远活着——在地狱里或在天堂里，在永恒的惩罚里或永恒的生命里，在永恒的痛苦里或永恒的喜乐里</b>。"
+        },
+        {
+          "id": "Para 3",
+          "text": "<b>每个人都犯了罪</b>，死亡对所有人来说都是必然的。"
+        },
+        {
+          "type": "header",
+          "text": "神是圣洁的，天堂是圣洁的，所以我们需要圣洁才能进入天堂。"
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=CUV' target='_blank'>利未记 19:2</a> '你晓谕以色列全会众说：你们要圣洁，因为我耶和华─你们的神是圣洁的。'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=CUV' target='_blank'>哥林多前书 6:9</a> '你们岂不知不义的人不能承受神的国吗？'"
+        },
+        {
+          "type": "header",
+          "text": "那么人怎样才能成为义人或圣洁呢？"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "希伯来书 9:22 '按着律法，<b>凡物差不多都是用血洁净的；若不流血，罪就不得赦免了</b>。'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "<b>罪得赦免就是成为圣洁或正直</b>。"
+        },
+        {
+          "type": "header",
+          "text": "<b>为什么血很重要</b>？"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=CUV' target='_blank'>利未记 17:11</a> '<b>因为活物的生命是在血中。我把这血赐给你们，可以在坛上为你们的生命赎罪；因血里有生命，所以能赎罪</b>。'"
+        },
+        {
+          "id": "Para 5",
+          "text": "<b>因为生命在血中</b>，没有人能付出生命的代价。也没有人能靠自己延长甚至片刻的生命。<b>耶稣基督通过牺牲他宝贵的血或宝贵的生命</b>，为人类的救赎开辟了道路。"
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=CUV' target='_blank'>希伯来书 9:12</a> '<b>并且不用山羊和牛犊的血，乃用自己的血，只一次进入圣所，成了永远赎罪的事</b>。'"
+        },
+        {
+          "id": "Para 6",
+          "text": "耶稣基督通过为全人类牺牲自己的生命来表达他的爱。根据约翰福音 15:13 —— '人为朋友舍命，人的爱心没有比这个大的。' 除了耶稣基督，我们在世界历史上找不到任何其他这种爱的例子。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=CUV' target='_blank'>约翰一书 1:7</a> '我们若在光明中行，如同神在光明中，就彼此相交，<b>他儿子耶稣的血也洗净我们一切的</b><b>罪</b>。'"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=CUV' target='_blank'>哥林多前书 15:3</a> '我当日所领受又传给你们的：第一，就是基督照圣经所说，<b>为我们的罪死了</b>，而且埋葬了；又照圣经所说，第三天复活了；'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=CUV' target='_blank'>启示录 1:5</a> '并那诚实作见证的、从死里首先复活、为世上君王元首的耶稣基督，有恩惠、平安归与你们！他爱我们，<b>用自己的血使我们脱离（有古卷作：洗去）罪恶</b>，'"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=CUV' target='_blank'>马太福音 9:2</a> '有人用褥子抬着一个瘫子到耶稣跟前来。耶稣见他们的信心，就对瘫子说：“小子，放心吧！<b>你的罪赦了</b>。”'"
+        },
+        {
+          "id": "Para 7",
+          "text": "在这句话中，<b>耶稣直接赦免了瘫子的罪，因为耶稣有能力赦免人的罪，同时也宣告自己是神，因为除了神，没有人能赦免罪</b>。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=CUV' target='_blank'>使徒行传 10:43</a> '众先知也为他作见证说：“凡信他的人，<b>必因他的名得蒙赦罪</b>。”'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=CUV' target='_blank'>使徒行传 4:12</a> '除他以外，别无拯救；因为在天下人间，没有赐下别的名，我们可以靠着得救。' 除了拿撒勒人耶稣基督。"
+        },
+        {
+          "id": "1John 2:2",
+          "text": "约翰一书 2:2 '<b>他为我们的罪作了挽回祭，不是单为我们的罪，也是为普天下人的罪</b>。'"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=CUV' target='_blank'>约翰福音 3:16</a> '神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，<b>反得永生</b>。'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=CUV' target='_blank'>约翰福音 1:12</a> '凡接待他的，就是信他名的人，他就赐他们权柄作神的儿女。'"
+        },
+        {
+          "id": "Para 8",
+          "text": "“神的儿女”这个词不是一个简单的词，那些相信并接受耶稣为他们的主的人，被算作天国的公民，被算作圣洁的人，<b>他们所有的罪都得到了赦免</b>。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=CUV' target='_blank'>罗马书 8:1-2</a> '如今，<b>那些在基督耶稣里的就不定罪了</b>。因为赐生命圣灵的律，在基督耶稣里释放了我，<b>使我脱离罪和死的律了</b>。'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=CUV' target='_blank'>罗马书 5:9</a> '<b>现在我们既靠着他的血称义</b>，就更要藉着他免去神的忿怒。'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=CUV' target='_blank'>罗马书 3:24</a> '如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=CUV' target='_blank'>约翰福音 14:6</a> '耶稣说：“我就是道路、真理、生命；若不藉着我，没有人能到父那里去。”'"
+        },
+        {
+          "type": "header",
+          "text": "只有那些相信耶稣基督的人才能进入天堂，<b>这被称为永生</b>。"
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=CUV' target='_blank'>约翰福音 3:15</a> '<b>叫一切信他的都得永生（或作：叫一切信的人在他里面得永生</b>）。'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=CUV' target='_blank'>罗马书 6:23</a> '<b>因为罪的工价乃是死；惟有神的恩赐，在我们的主基督耶稣里，乃是永生</b>。'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=CUV' target='_blank'>约翰福音 5:24</a> 耶稣说 - '我实实在在地告诉你们，那听我话、又信差我来者的，<b>就有永生，不至于定罪</b>，是已经出死入生了。'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=CUV' target='_blank'>约翰福音 11:25-26</a> 耶稣对他说：“复活在我，生命也在我。信我的人虽然死了，也必复活；<b>凡活着信我的人必永远不死。你信这话吗？”</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=CUV' target='_blank'>约翰福音 6:51</a> '我是从天上降下来生命的粮；人若吃这粮，<b>就必永远活着</b>。我所要赐的粮就是我的肉，为世人之生命赐的。'"
+        },
+        {
+          "id": "Para 9",
+          "text": "耶稣在约翰福音中使用了“<b>永生</b>”这个词大约 17 次，其中 12 次用于现在时，只有 5 次用于将来时。<b>我们大多数人认为永生只是未来的事</b>，但圣经清楚地说，它是为现在和未来的。那些与耶稣同在的人，那些相信并接受耶稣为他们个人救主的人，<b>可以说永生与他们同在，他们已经蒙福拥有永生</b>。"
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=CUV' target='_blank'>约翰一书 5:11</a> '<b>这见证就是神赐给我们永生；这永生也是在他儿子里面</b>。'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=CUV' target='_blank'>约翰福音 17:3</a> '认识你─独一的真神，并且认识你所差来的耶稣基督，<b>这就是永生</b>。'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=CUV' target='_blank'>约翰福音 12:50</a> 耶稣说 - '<b>我也知道他的命令就是永生</b>。故此，我所讲的话正是照着父对我所说的。'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=CUV' target='_blank'>约翰一书 5:20</a> '我们也知道，神的儿子已经来到，且将智慧赐给我们，使我们认识那位真实的，我们也在那位真实的里面，就是在因为他儿子耶稣基督里面。这是真神，<b>也是永生</b>。'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=CUV' target='_blank'>约翰福音 6:47</a> '我实实在在地告诉你们，<b>信的人有永生</b>。'"
+        },
+        {
+          "type": "header",
+          "text": "信意味着什么？"
+        },
+        {
+          "id": "Para 10",
+          "text": "鬼魔也信耶稣，<b>但这并不意味着他们会有永生</b>。雅各书 2:19 你信神只有一位，你信的不错；鬼魔也信，却是战惊。"
+        },
+        {
+          "type": "header",
+          "text": "<b>为你的罪悔改</b>，承认神叫耶稣基督从死里复活，并接受耶稣基督为你个人的救主和主。——这被称为信耶稣基督。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=CUV' target='_blank'>罗马书 10:9-10</a> '你若口里认耶稣为主，心里信神叫他从死里复活，就必得救。因为，人心里相信就可以称义，口里承认就可以得救。'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=CUV' target='_blank'>马太福音 10:32-33</a> '凡在人面前认我的，我在我天上的父面前也必认他；凡在人面前不认我的，我在我天上的父面前也必不认他。'"
+        },
+        {
+          "id": "Para 11",
+          "text": "<b>救恩或罪得赦免是</b><b>永生的关键</b>。只有耶稣基督能拯救人类，因为世界上除了耶稣基督，<b>没有其他人牺牲了自己的血，只有耶稣为了人类牺牲了他圣洁的血作为最后的祭</b>。这就是为什么他能拯救全人类。"
+        },
+        {
+          "type": "header",
+          "text": "耶稣基督的重要性："
+        },
+        {
+          "id": "Para 12",
+          "text": "在公元前 1700 年到公元前 400 年之间，有许多关于耶稣基督的预言，关于他的出生，关于他的受罚，关于他在十字架上的死，关于他死后第三天的复活等等。学者估计耶稣基督应验了旧约圣经的 300 多个预言。即使在复活之后，基督与门徒同住，传讲天国的事，并在复活后的第40天带着肉身升天。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "除了基督之外，世界历史上没有其他人复活并肉身升天。"
+        },
+        {
+          "id": "Para 10_3",
+          "text": "今天，地球的历史是与基督一起计算的。世界上大约 88% 的国家将星期日作为假期，并纪念基督复活的日子、胜利的日子、<b>战胜死亡和罪恶的日子</b>。"
+        },
+        {
+          "id": "Para 10_4",
+          "text": "我们唯一的责任是投靠他，口里承认耶稣是主，心里相信神叫基督从死里复活，做他的门徒，遵守他的诫命，行在生命的道路上，那么肯定的是，他/她将拥有天国。"
+        },
+        {
+          "type": "header",
+          "text": "圣经的重要性"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "<b>我在这里提到了圣经中的参考文献来解释永生</b>。"
+        },
+        {
+          "id": "Para 10_6",
+          "text": "为什么圣经是一本可靠的书？圣经是由 40 多位不同的作者在 1700 到 1800 年的时间跨度内，在不同的时代和不同的地方写成的。"
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "圣经 这本书不是单一的一本书，它是 66 本书的结合，在基督之前写的 39 本书被称为“旧约”，在基督之后写的 27 本书被称为“新约”。所有作者写圣经的目的几乎相同，那就是揭示神格（父神、子神耶稣基督和圣灵神）的知识，揭示创造的本质和人类的历史。此外，圣经被称为神的指示、律法、历史、预言和启示。<b>圣经也被称为永生之书</b>。"
+        },
+        {
+          "id": "Para 14",
+          "text": "圣经不是由来一个或两三个人写的；而是由 40 个不同的人写的，有历史证据，每个人的目的几乎都是一样的，所以我可以说圣经是经过验证和可靠的书。"
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=CUV' target='_blank'>提摩太后书 3:16</a> '圣经都是神所默示的（或作：凡神所默示的圣经），于教训、督责、使人归正、教导人学义都是有益的，'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=CUV' target='_blank'>约翰福音 20:31</a> '但记这些事要叫你们信耶稣是基督，是神的儿子，并且叫你们信了他，就可以因他的名得生命（<b>永生</b>）。'"
+        },
+        {
+          "id": "Para 15",
+          "text": "<b>写圣经是为了让全人类因信耶稣基督而得蒙赦罪、救恩和永生</b>。圣经不仅是为某个特定的国家、特定的阶级、特定的语言、特定的肤色的人写的；而是为地球上每一种语言、每一个部落、每一种肤色和每一个国家的人写的。今天，圣经被称为印刷数量最高的书，几乎每种主要语言都有圣经。"
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "生命是如此宝贵，<b>永生是无价的。神为我们每个人制定了一个特别的计划，让我们无需任何代价就能获得永生。所以，让我们拥有丰盛和永恒的生命。并与他人分享我们永生的经历</b>，使我们的主得荣耀。"
+        },
+        {
+          "id": "Blessing",
+          "text": "愿主大大赐福给你，<b>愿你得着永生</b>，成为天国的子民。"
+        }
+      ],
+      "title": "前言",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

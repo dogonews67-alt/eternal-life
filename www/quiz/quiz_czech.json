@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Biblický Kvíz",
+  "questions": [
+    {
+      "question": "Kdo postavil archu?",
+      "options": [
+        "Mojžíš",
+        "Noe",
+        "David",
+        "Šalamoun"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Jaké neobvyklé jídlo jedl Jan Křtitel na poušti?",
+      "options": [
+        "Kobylky a divoký med",
+        "Chléb a ryby",
+        "Fíky a olivy",
+        "Jehněčí a bylinky"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Který muž byl tak silný, že zabil lva holýma rukama?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliáš",
+        "Káleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo měl barevný plášť, na který jeho bratři žárlili?",
+      "options": [
+        "Benjamín",
+        "Josef",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Které moře rozdělil Mojžíš, aby unikl Egypťanům?",
+      "options": [
+        "Mrtvé moře",
+        "Galilejské moře",
+        "Rudé moře",
+        "Středozemní moře"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Koho spolkla velká ryba?",
+      "options": [
+        "Jonáš",
+        "Petr",
+        "Pavel",
+        "Noe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Která žena se proměnila v solný sloup, protože se ohlédla?",
+      "options": [
+        "Sára",
+        "Lotova manželka",
+        "Rebeka",
+        "Leah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo porazil obrovského bojovníka Goliáše pomocí praku?",
+      "options": [
+        "Saul",
+        "Jonatan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Který malý muž vylezl na sykomoru, aby viděl Ježíše?",
+      "options": [
+        "Bartimeus",
+        "Zacheus",
+        "Matouš",
+        "Nikodém"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Které zvíře mluvilo k proroku Balámovi?",
+      "options": [
+        "Lev",
+        "Ovce",
+        "Osel",
+        "Velbloud"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo byl prvním vrahem v Bibli?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Set",
+        "Lámech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo byl hozen do lví jámy, ale přežil?",
+      "options": [
+        "Daniel",
+        "Josef",
+        "Šadrach",
+        "Jeremiáš"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Který levoruký soudce zabil tlustého krále skrytým mečem?",
+      "options": [
+        "Gedeon",
+        "Ehúd",
+        "Samson",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto zradil Ježíše za 30 stříbrných?",
+      "options": [
+        "Petr",
+        "Jidáš Iškariotský",
+        "Pontius Pilát",
+        "Kaifáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Který mladý chlapec slyšel, jak ho Bůh v noci volá jménem, když spal?",
+      "options": [
+        "David",
+        "Samuel",
+        "Izák",
+        "Josef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Který učedník kráčel po vodě vstříc Ježíši?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Petr",
+        "Ondřej"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Co poslal Bůh Izraelitům k jídlu na poušti?",
+      "options": [
+        "Chléb",
+        "Křepelky",
+        "Manna",
+        "Fíky"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo je považován за nejsilnějšího muže v Bibli?",
+      "options": [
+        "Goliáš",
+        "Samson",
+        "Boáz",
+        "Ezau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Která královna zachránila svůj lid před genocidou?",
+      "options": [
+        "Rút",
+        "Ester",
+        "Jezábel",
+        "Batšeba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo zapřel Ježíše třikrát, než zakokrhal kohout?",
+      "options": [
+        "Tomáš",
+        "Jidáš",
+        "Petr",
+        "Filip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Jaký byl první Ježíšův zázrak na svatbě v Káně?",
+      "options": [
+        "Uzdravení slepého",
+        "Proměna vody ve víno",
+        "Chůze po vodě",
+        "Nasycení pěti tisíc"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Které město mělo hradby, které padly poté, co je Izraelité sedmkrát obešli?",
+      "options": [
+        "Jeruzalém",
+        "Jericho",
+        "Aj",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo je známý jako 'Plačící prorok'?",
+      "options": [
+        "Izajáš",
+        "Jeremiáš",
+        "Ezechiel",
+        "Ozeáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kdo ostříhal Samsonovi vlasy, což vedlo ke ztrátě jeho síly?",
+      "options": [
+        "Delila",
+        "Sára",
+        "Michal",
+        "Abígajil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Jaké bylo Matoušovo povolání, než se stal Ježíšovým učedníkem?",
+      "options": [
+        "Rybář",
+        "Celník (výběrčí daní)",
+        "Tesař",
+        "Pastýř"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo byl první osobou, která viděla Ježíše po vzkříšení?",
+      "options": [
+        "Petr",
+        "Jan",
+        "Marie Magdalena",
+        "Marie, Jeho matka"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kterou zlou královnu sežrali psi?",
+      "options": [
+        "Ester",
+        "Jezábel",
+        "Atalja",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kdo schoval dva špehy na střeše svého domu?",
+      "options": [
+        "Rút",
+        "Raab",
+        "Sára",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Na jaký hudební nástroj hrál David, aby uklidnil krále Saula?",
+      "options": [
+        "Trubka",
+        "Harfa",
+        "Flétna",
+        "Buben"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo byl oslepen na cestě do Damašku?",
+      "options": [
+        "Petr",
+        "Štěpán",
+        "Saul (Pavel)",
+        "Barnabáš"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kterého proroka krmili havrani?",
+      "options": [
+        "Elizeus",
+        "Eliáš",
+        "Izajáš",
+        "Jeremiáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo ukradl modly svého otce?",
+      "options": [
+        "Leah",
+        "Ráchel",
+        "Rebeka",
+        "Dína"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kdo vypadl z okna a zemřel, když Pavel dlouho kázal?",
+      "options": [
+        "Timoteus",
+        "Eutychos",
+        "Tychikos",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Které dítě bylo nalezeno v košíku v řece Nilu?",
+      "options": [
+        "Áron",
+        "Mojžíš",
+        "Jozue",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kdo zápasil s andělem celou noc?",
+      "options": [
+        "Abrahám",
+        "Izák",
+        "Jákob",
+        "Ezau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo prosil Boha o moudrost spíše než o bohatství nebo dlouhý život?",
+      "options": [
+        "David",
+        "Šalamoun",
+        "Saul",
+        "Ezekjáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Která žena byla uzdravena dotykem lemu Ježíšova roucha?",
+      "options": [
+        "Nikdo",
+        "Žena s krvotokem",
+        "Slepá žena",
+        "Ochrnutá žena"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Který král zešílel a jedl trávu jako vůl?",
+      "options": [
+        "Belšasar",
+        "Nabukadnezar",
+        "Dareios",
+        "Kýros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kteří manželé zemřeli, protože lhali Duchu svatému o penězích?",
+      "options": [
+        "Ananiáš a Safira",
+        "Priscilla a Akvila",
+        "Achab a Jezábel",
+        "Abrahám a Sára"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Který učedník je známý jako 'Pochybující'?",
+      "options": [
+        "Petr",
+        "Tomáš",
+        "Filip",
+        "Ondřej"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Co přinesla holubice Noemu zpět do archy?",
+      "options": [
+        "Fíkový list",
+        "Olivovou ratolest",
+        "Květinu",
+        "Hmyz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo měl 700 manželek a 300 konkubín?",
+      "options": [
+        "David",
+        "Šalamoun",
+        "Rechoboám",
+        "Abrahám"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo prodal své prvorozenství za misku čočky?",
+      "options": [
+        "Jákob",
+        "Ezau",
+        "Josef",
+        "Izák"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Který prorok nechal vyplavat železnou sekeru na hladinu?",
+      "options": [
+        "Eliáš",
+        "Elizeus",
+        "Samuel",
+        "Nátan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kdo rozpoznal dítě Ježíše jako Mesiáše v chrámu?",
+      "options": [
+        "Simeon",
+        "Josef",
+        "Nikodém",
+        "Petr"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kdo přikázal slunci a měsíci, aby se zastavily?",
+      "options": [
+        "Mojžíš",
+        "Jozue",
+        "David",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Který učedník usekl ucho veleknězovu služebníkovi?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Petr",
+        "Jidáš"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo vystoupil na horu Sinaj, aby přijal Desatero přikázání?",
+      "options": [
+        "Áron",
+        "Jozue",
+        "Mojžíš",
+        "Abrahám"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kdo byl prvním králem Izraele?",
+      "options": [
+        "David",
+        "Saul",
+        "Šalamoun",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Který bohatý muž pohřbil Ježíše do svého vlastního nového hrobu?",
+      "options": [
+        "Nikodém",
+        "Josef z Arimatie",
+        "Simeon",
+        "Lazar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Jaký druh hada uštkl Pavla na ostrově Malta?",
+      "options": [
+        "Kobra",
+        "Zmije",
+        "Krajta",
+        "Štír"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Jak se jmenovala matka Jana Křtitele?",
+      "options": [
+        "Marie",
+        "Alžběta",
+        "Marta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo porazil Midjánce s 300 muži pomocí troubení na polnice a rozbíjení džbánů?",
+      "options": [
+        "Samson",
+        "Gedeon",
+        "Balák",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kteří tři muži byli hozeni do ohnivé pece, protože se odmítli klanět zlaté modle?",
+      "options": [
+        "Daniel",
+        "Šadrach, Méšach a Abed-nego",
+        "Ezdráš a Nehemjáš",
+        "Pavel a Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo si umyl ruce a řekl: 'Jsem nevinen' krví Ježíšovou?",
+      "options": [
+        "Herodes",
+        "Kaifáš",
+        "Pontius Pilát",
+        "Jidáš"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo je nazýván 'Přítelem Božím'?",
+      "options": [
+        "Mojžíš",
+        "Abrahám",
+        "David",
+        "Noe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kterého proroka spolkla velká ryba?",
+      "options": [
+        "Jonáš",
+        "Micheáš",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kdo vysvětlil písmo na stěně králi Belšasarovi?",
+      "options": [
+        "Josef",
+        "Daniel",
+        "Ezechiel",
+        "Izajáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Která žena byla soudkyní v Izraeli?",
+      "options": [
+        "Rút",
+        "Debora",
+        "Ester",
+        "Marie"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo si třikrát lehl na mrtvé dítě, aby ho přivedl zpět k životu?",
+      "options": [
+        "Eliáš",
+        "Elizeus",
+        "Petr",
+        "Pavel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Který Davidův syn se zachytil vlasy ve stromě a zemřel?",
+      "options": [
+        "Šalamoun",
+        "Abšalom",
+        "Adonijáš",
+        "Amnón"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Čím promluvil Bůh k Mojžíšovi na poušti?",
+      "options": [
+        "Hořící keř",
+        "Oblak",
+        "Vítr",
+        "Osel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kdo pomohl zraněnému muži v podobenství o milosrdném Samaritánovi?",
+      "options": [
+        "Kněz",
+        "Levita",
+        "Samaritán",
+        "Římský voják"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo byl nejdéle žijícím člověkem v Bibli (969 let)?",
+      "options": [
+        "Noe",
+        "Abrahám",
+        "Metuzalém",
+        "Henoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Který učedník se začal potápět, když kráčel po vodě?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Petr",
+        "Ondřej"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Které město Bůh zničil ohněm a sírou z nebe?",
+      "options": [
+        "Jericho",
+        "Ninive",
+        "Sodoma",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo viděl žebřík sahající do nebe s anděly vystupujícími a sestupujícími po něm?",
+      "options": [
+        "Abrahám",
+        "Izák",
+        "Jákob",
+        "Josef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo byl prvním člověkem, kterého Bůh stvořil?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Adam",
+        "Noe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kdo byla první žena, stvořená z jednoho z Adamových žeber?",
+      "options": [
+        "Sára",
+        "Eva",
+        "Marie",
+        "Rút"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Který prorok byl hozen do jámy plné bahna?",
+      "options": [
+        "Izajáš",
+        "Jeremiáš",
+        "Ezechiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Který král je považován za nejmoudřejšího ze všech?",
+      "options": [
+        "David",
+        "Saul",
+        "Šalamoun",
+        "Ezekjáš"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Co si Izraelité namazali na veřeje dveří, aby se vyhnuli desáté ráně v Egyptě?",
+      "options": [
+        "Beránkovu krev",
+        "Olej",
+        "Vodu",
+        "Popel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo nařídil stětí Jana Křtitele?",
+      "options": [
+        "Herodes",
+        "Pilát",
+        "Saul",
+        "Šalamoun"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo z Ježíšových učedníků byl lékař?",
+      "options": [
+        "Matouš",
+        "Lukáš",
+        "Marek",
+        "Jan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo pomohl Ježíši nést kříž?",
+      "options": [
+        "Šimon z Kyrény",
+        "Josef z Arimatie",
+        "Petr",
+        "Jan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Čím nasytil Ježíš pět tisíc lidí?",
+      "options": [
+        "Manna a křepelky",
+        "5 chlebů a 2 ryby",
+        "7 chlebů a pár rybiček",
+        "Chléb a víno"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kteří manželé zemřeli poté, co lhali o ceně pozemku?",
+      "options": [
+        "Ananiáš a Safira",
+        "Priscilla a Akvila",
+        "Achab a Jezábel",
+        "Abrahám a Sára"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kdo je popsán jako 'zdatný lovec' před Hospodinem?",
+      "options": [
+        "Goliáš",
+        "Nimrod",
+        "Ezau",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Který učedník usekl ucho královu služebníkovi?",
+      "options": [
+        "Jan",
+        "Jakub",
+        "Petr",
+        "Jidáš"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Který apoštol byl ukamenován k smrti (první mučedník)?",
+      "options": [
+        "Jakub",
+        "Štěpán",
+        "Pavel",
+        "Barnabáš"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Který král rozhodoval spor mezi dvěma ženami o dítě?",
+      "options": [
+        "David",
+        "Saul",
+        "Šalamoun",
+        "Herodes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo byla matka Izmaela, Abrahámova prvorozeného syna?",
+      "options": [
+        "Sára",
+        "Hagar",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kdo byl prvním veleknězem Izraele?",
+      "options": [
+        "Mojžíš",
+        "Áron",
+        "Eleazar",
+        "Élí"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Co miloval bohatý mladý vládce víc než Ježíše?",
+      "options": [
+        "Svou rodinu",
+        "Svou moc",
+        "Své peníze/majetek",
+        "Svou pověst"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo řekl slavnou větu: „Cožpak jsem strážcem svého bratra?“",
+      "options": [
+        "Abel",
+        "Kain",
+        "Ezau",
+        "Josefovi bratři"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kdo vedl Izraelity do Zaslíbené země po Mojžíšově smrti?",
+      "options": [
+        "Káleb",
+        "Jozue",
+        "Áron",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jakou práci přijal marnotratný syn, když mu došly peníze?",
+      "options": [
+        "Pasení prasat",
+        "Stavění domů",
+        "Rybaření",
+        "Žebrání"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kdo byl římský místodržitel, který odsoudil Ježíše k smrti?",
+      "options": [
+        "Herodes Antipas",
+        "Pontius Pilát",
+        "Císař Augustus",
+        "Felix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Co je to „Zlaté pravidlo“?",
+      "options": [
+        "Miluj Hospodina, svého Boha, celým svým srdcem",
+        "Jak chcete, aby lidé činili vám, tak i vy čiňte jim",
+        "Věř v Pána Ježíše",
+        "Cti svého otce i matku"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Koho vzkřísil Ježíš z mrtvých poté, co byl čtyři dny v hrobě?",
+      "options": [
+        "Jairovu dceru",
+        "Syna vdovy",
+        "Lazara",
+        "Tabitu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Co se stalo králi Herodovi, když nevzdal slávu Bohu?",
+      "options": [
+        "Zasáhl ho blesk",
+        "Snědli ho červi",
+        "Oszlepl",
+        "Spadl ze svého trůnu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Kdo vyrobil zlaté tele, aby ho Izraelité uctívali?",
+      "options": [
+        "Mojžíš",
+        "Áron",
+        "Jozue",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Koho Samuel pomazal za druhého krále Izraele?",
+      "options": [
+        "Saula",
+        "Davida",
+        "Šalomouna",
+        "Isaje"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jak se jmenovala věž, kde Bůh zmátl jazyky?",
+      "options": [
+        "Davidova věž",
+        "Babylonská věž",
+        "Věž Siloe",
+        "Věž v Šekemu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jak se jmenovala Ježíšova matka?",
+      "options": [
+        "Alžběta",
+        "Maria",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Který prorok utekl před Bohem a nastoupil na loď do Taršíše?",
+      "options": [
+        "Jonáš",
+        "Amos",
+        "Micheáš",
+        "Ozeáš"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kdo byl Jákobův chlupatý bratr?",
+      "options": [
+        "Lában",
+        "Ezau",
+        "Izmael",
+        "Izák"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kterého chromého muže uzdravil Petr u Krásné brány?",
+      "options": [
+        "Muže chromého od narození",
+        "Slepého žebráka",
+        "Malomocného",
+        "Hluchého"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Koho Ježíš nazval „liškou“?",
+      "options": [
+        "Piláta",
+        "Heroda",
+        "Kaifáše",
+        "Jidáše"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kdo byla Rútina tchyně?",
+      "options": [
+        "Orpa",
+        "Noemi",
+        "Mara",
+        "Hana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

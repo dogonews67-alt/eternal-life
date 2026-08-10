@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Qo'annoo Kitaaba Qulqulluu",
+  "questions": [
+    {
+      "question": "Markaba eenyu ijaare?",
+      "options": [
+        "Musee",
+        "Nooh",
+        "Daawit",
+        "Solomoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Yohaannis Cuuphaan nyaata addaa akkamii nyaata ture?",
+      "options": [
+        "Hawaannisaafi Damma",
+        "Maxinoofi Qurxummii",
+        "Harbuufi Ejersa",
+        "Hoolaa fi Biqiltuu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Namni humni isaa guddaa ta'ee fi harka isaatiin leenca ajjeese eenyu?",
+      "options": [
+        "Daawit",
+        "Saamsoom",
+        "Goliyaad",
+        "Kaaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Eenyuutu kootii bifa adda addaa qabu kan obboloonni isaa itti hinaafan qaba ture?",
+      "options": [
+        "Benyaam",
+        "Yooseef",
+        "Ruubeen",
+        "Daan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Museen Gibxii jalaa ba'uuf galaana isa kam hira?",
+      "options": [
+        "Galaana Du'aa",
+        "Galiilaa",
+        "Galaana Diimaa",
+        "Galaana Meditiraaniyaan"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Eenyufaatu qurxummii guddaan liqimsame?",
+      "options": [
+        "Yoonaas",
+        "Pheexiroos",
+        "Phawuloos",
+        "Nooh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Dubartiin gara duubaatti ilaaluu isheetiif utubaa soogiddaa taate eenyu?",
+      "options": [
+        "Saaraa",
+        "Haadha Warraa Loox",
+        "Ribqaa",
+        "Liyaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu goota Goliyaad jedhamu furdisaan injifate?",
+      "options": [
+        "Saawul",
+        "Yoonaataan",
+        "Daawit",
+        "Saamu'eel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Namichi gabaabaan Yesuusin arguuf muka harbuu irra ba'e eenyu?",
+      "options": [
+        "Bartimaayoos",
+        "Zakiyoos",
+        "Maatiyoos",
+        "Niqoodimoos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Bineensi raajii Bala'aamitti dubbate maali?",
+      "options": [
+        "Leenca",
+        "Hoolaa",
+        "Harree",
+        "Gaala"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kitaaba Qulqulluu keessatti namni jalqaba nama ajjeese eenyu?",
+      "options": [
+        "Qaayin",
+        "Abeek",
+        "Seet",
+        "Laameki"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu holqa leencotaa keessatti darbamee oole?",
+      "options": [
+        "Daani'eel",
+        "Yooseef",
+        "Sidiraaq",
+        "Yirbiyaas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Abbaan murtii bitaa mootii gabbataa goraadee dhokfameen ajjeese eenyu?",
+      "options": [
+        "Giidiyoon",
+        "Ehud",
+        "Saamsoom",
+        "Yiftaah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Yesuusin meetii 30'n kan gurgure eenyu?",
+      "options": [
+        "Pheexiroos",
+        "Yihuudaa Isqariot",
+        "Bilaaxoos",
+        "Qayyaafaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Mucaan yeroo rafu halkan sagalee Waaqayyoo isa waamu dhaga'e eenyu?",
+      "options": [
+        "Daawit",
+        "Saamu'eel",
+        "Yisihaq",
+        "Yooseef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Barattuu kamtu bishaan irra deemeen Yesuusiin arguuf deeme?",
+      "options": [
+        "Yaa'iqoob",
+        "Yohaannis",
+        "Pheexiroos",
+        "Indiriyaas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Waaqayyo akka Israa'elootatti gammoojjii keessatti nyaatan maal ergeef?",
+      "options": [
+        "Maxinoo",
+        "Simbirroo",
+        "Maannaa",
+        "Harbuu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kitaaba Qulqulluu keessatti namni hunda caalaa jabaa ta'e eenyu?",
+      "options": [
+        "Goliyaad",
+        "Saamsoom",
+        "Bo'az",
+        "Eesawu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Mootittiin saba ishee dhumaatii irraa oolchite eenyu?",
+      "options": [
+        "Ruut",
+        "Eesteer",
+        "Ezaabel",
+        "Bartasheb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu osoo kormaan indaaqqoo hin iyyingin Yesuusiin sadih gane?",
+      "options": [
+        "Toomaas",
+        "Yihuudaa",
+        "Pheexiroos",
+        "Filiphos"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Milkiin (miracle) jalqabaa Yesuus Cidha Kaanaa irratti raawwate maali?",
+      "options": [
+        "Jaamaa fayyisuu",
+        "Bishaan gara daadhii wayiniitti jijjiiruu",
+        "Bishaan irra deemu",
+        "Namoota kuma shan nyaachisuu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Magaalaan dallaan ishee erga Israa'eloonni hiriira sabaa torba naanna'anii booda jige kam?",
+      "options": [
+        "Yerusaalem",
+        "Yeriko",
+        "A'ii",
+        "Baabiloon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Eenyuutu 'Raajii Boo'u' jedhamuun beekama?",
+      "options": [
+        "Isaayyaas",
+        "Eremiyaas",
+        "Hizqi'eel",
+        "Hoose'aa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Rifeensa Saamsoom muruun humni isaa akka badu kan taasise eenyu?",
+      "options": [
+        "Daliilaa",
+        "Saaraa",
+        "Miikaal",
+        "Abiigaayila"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Maatiyoos osoo barataa Yesuus hin ta'in dura hojiin isaa maal ture?",
+      "options": [
+        "Qurxummii qabduu",
+        "Galii sassaabaa",
+        "Anaaxii",
+        "Tiksee"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yesuus du'aa ka'uu isaa booda namni jalqaba isa arge eenyu?",
+      "options": [
+        "Pheexiroos",
+        "Yohaannis",
+        "Maariyaam Magdalaawit",
+        "Maariyaam haadha isaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Mootittiin hamtuun sareen nyaatamte eenyu?",
+      "options": [
+        "Eesteer",
+        "Ezaabel",
+        "Ataaliyaa",
+        "Huroodiyaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Eenyuutu basaastota lamaan mana ishee keessatti dhokse?",
+      "options": [
+        "Ruut",
+        "Raahaab",
+        "Saaraa",
+        "Deboraa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Daawit Mootii Saawulin qabbaneessuuf meeshaa muuziqaa kam taphate?",
+      "options": [
+        "Faaggaa",
+        "Baqqana (Harp)",
+        "Ulullee",
+        "Dibbee"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu karaa Damasqoo irratti jaame?",
+      "options": [
+        "Pheexiroos",
+        "Isxifaanos",
+        "Saawul (Phawuloos)",
+        "Baarnaabaas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Raajii kamtu arraagessaan (ravens) soorame?",
+      "options": [
+        "Else'ee",
+        "Eliyaas",
+        "Isaayyaas",
+        "Eremiyaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Eenyuutu waaqoliidhaa abbaa ishee hatte?",
+      "options": [
+        "Liyaa",
+        "Raaheel",
+        "Ribqaa",
+        "Diinaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Phawuloos yeroo dheeraa lallabaa osoo jiruu foddaa irraa kufee kan du'e eenyu?",
+      "options": [
+        "Ximootewos",
+        "Awuxiiqos",
+        "Tikiqoos",
+        "Siilaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Da'imni malkaa Naayil keessatti guuboo keessatti argame eenyu?",
+      "options": [
+        "Aaroon",
+        "Musee",
+        "Iyyaasuu",
+        "Saamu'eel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Eenyuutu halkan guutuu ergamaa wajjin wal'aansoo qabe?",
+      "options": [
+        "Abrihaam",
+        "Yisihaq",
+        "Yaa'iqoob",
+        "Eesawu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Badhaadhummaa yookiin jireenya dheeraa irra eenyuutu Waaqayyoon ogummaa gaafate?",
+      "options": [
+        "Daawit",
+        "Solomoon",
+        "Saawul",
+        "Hizqiyaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Dubartiin Fiixee uffata Yesuus tuquun fayyite eenyu?",
+      "options": [
+        "Eenyullee",
+        "Dubartii dhiigni itti yaa'u",
+        "Dubartii jaamtuu",
+        "Dubartii naaftuu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Mootichi maraatee akka karrayyuu (ox) sa'aa marga nyaate eenyu?",
+      "options": [
+        "Balshaazaar",
+        "Naabukadnazaar",
+        "Daariyos",
+        "Qiiroos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Maan dhuunfaa fi haati warraa waa'ee qarshii Hafuura Qulqulluu sobuudhaan du'an eenyunfa'i?",
+      "options": [
+        "Ananiyaa fi Safiraa",
+        "Phirisqiillaa fi Aqilaa",
+        "Ahaab fi Ezaabel",
+        "Abrihaam fi Saaraa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Barattuu kamtu 'Shakkituu' jedhamuun beekama?",
+      "options": [
+        "Pheexiroos",
+        "Toomaas",
+        "Filiphos",
+        "Indiriyaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Guungummiin (dove) markaba kessatti Noohatti maal fitte?",
+      "options": [
+        "Baala harbuu",
+        "Damee ejersaa",
+        "Abaabo",
+        "Ilbiisa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu haadha warraa 700 fi saajjatoo (concubines) 300 qaba ture?",
+      "options": [
+        "Daawit",
+        "Solomoon",
+        "Robo'aam",
+        "Abrihaam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Angafummaa isaa saanii ittoo (stew) takkaan kan gurgurate eenyu?",
+      "options": [
+        "Yaa'iqoob",
+        "Eesawu",
+        "Yooseef",
+        "Yisihaq"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Raajii kamtu mataa qottoo (axe head) bishaan irra oolche?",
+      "options": [
+        "Eliyaas",
+        "Else'ee",
+        "Saamu'eel",
+        "Naataan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Eenyuutu Yesuusin da'ima akka ta'e mana qulqullummaa keessatti akka Masiihiitti beeke?",
+      "options": [
+        "Simoon",
+        "Yooseef",
+        "Niqoodimoos",
+        "Pheexiroos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Eenyuutu aduufi ji'aaf ajaja dhaabadhaa jedhu kenne?",
+      "options": [
+        "Musee",
+        "Iyyaasuu",
+        "Daawit",
+        "Giidiyoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Barattuu kamtu gurra tajaajilaa angafa lubootaa kute?",
+      "options": [
+        "Yaa'iqoob",
+        "Yohaannis",
+        "Pheexiroos",
+        "Yihuudaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Eenyuutu Abboommii Kurna gubbaa fudhachuuf gara tulluu Siinaayitti ol ba'e?",
+      "options": [
+        "Aaroon",
+        "Iyyaasuu",
+        "Musee",
+        "Abrihaam"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Mootii jalqabaa Israa'el eenyu?",
+      "options": [
+        "Daawit",
+        "Saawul",
+        "Solomoon",
+        "Saamu'eel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Namichi sooressi Yesuusin awwaala isaa haaraa keessatti awwaale eenyu?",
+      "options": [
+        "Niqoodimoos",
+        "Yooseef namicha Arimaadiyaa",
+        "Simoon",
+        "Alaazar"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Bofa akkamii Phawuloosin odola Maaltaa irratti hiddite?",
+      "options": [
+        "Kobraa",
+        "Hadhaa'aa (Viper)",
+        "Bofa guddaa",
+        "Goondaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Maqaan haadha Yohaannis Cuuphaa eenyu?",
+      "options": [
+        "Maariyaam",
+        "Eelisabeet",
+        "Maartaa",
+        "Haannaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Eenyuutu dhiirota 300 qofa qabatee, malakata afuufuufi hudduu (pitchers) cabsuudhaan Miidiyaanota injifate?",
+      "options": [
+        "Saamsoom",
+        "Giidiyoon",
+        "Baalaaq",
+        "Yiftaah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Namoota sadeen fakkii warqee sagaduu didaniif ibidda keessatti darbaman eenyunfa'i?",
+      "options": [
+        "Daani'eel",
+        "Sidiraaq, Miishaak fi Abid-neegoo",
+        "Iziraa fi Nahimiyaa",
+        "Phawuloos fi Siilaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Eenyuutu harka isaa dhiqatee dhiiga Yesuus irraa 'Ani qulqulluudha' jedhe?",
+      "options": [
+        "Huroodis",
+        "Qayyaafaa",
+        "Bilaaxoos",
+        "Yihuudaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu 'Michuu Waaqayyoo' jedhama?",
+      "options": [
+        "Musee",
+        "Abrihaam",
+        "Daawit",
+        "Nooh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Raajii kamtu qurxummii guddaan liqimsame?",
+      "options": [
+        "Yoonaas",
+        "Miikiyaas",
+        "Naahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Eenyuutu barreeffama dallaa irratti mootii Belshaazaaritti hiike?",
+      "options": [
+        "Yooseef",
+        "Daani'eel",
+        "Hizqi'eel",
+        "Isaayyaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Dubartiin abbaa murtii Israa'el keessatti turte eenyu?",
+      "options": [
+        "Ruut",
+        "Deboraa",
+        "Eesteer",
+        "Maariyaam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Eenyuutu mucaa du'e sadih irra ciisee isa kaase?",
+      "options": [
+        "Eliyaas",
+        "Else'ee",
+        "Pheexiroos",
+        "Phawuloos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Ilmi Daawit rifeensi isaa muka irratti qabamee kan du'e eenyu?",
+      "options": [
+        "Solomoon",
+        "Abishaalom",
+        "Adoniyaas",
+        "Amnoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Waaqayyo gammoojjii keessatti Museetti maaliin dubbate?",
+      "options": [
+        "Kichaa ibiddaa",
+        "Duumessaa",
+        "Obomboleetti",
+        "Harree"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Fakkeenya namicha Samaariyaa gaarii keessatti namicha madaa'e eenyuutu gargaare?",
+      "options": [
+        "Lubicha",
+        "Lewicha",
+        "Samaariyaa",
+        "Loltuu Roomaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kitaaba Qulqulluu keessatti namni hunda caalaa umrii dheeraa qabu (woggaa 969) eenyu?",
+      "options": [
+        "Nooh",
+        "Abrihaam",
+        "Maatusaalaa",
+        "Heenok"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Barattuu kamtu yeroo bishaan irra deemu liqimfamee (sinking) jalqabe?",
+      "options": [
+        "Yaa'iqoob",
+        "Yohaannis",
+        "Pheexiroos",
+        "Indiriyaas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Magaalaan Waaqayyo ibiddaa fi dinyii (brimstone) samii irraa buusee balleessee kam?",
+      "options": [
+        "Yeriko",
+        "Nanawwee",
+        "Sodoom",
+        "Baabiloon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu riqicha (ladder) gara samiitti ga'uufi ergamoonni irra ba'anii fi bu'an arge?",
+      "options": [
+        "Abrihaam",
+        "Yisihaq",
+        "Yaa'iqoob",
+        "Yooseef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Namni jalqaba Waaqayyo uume eenyu?",
+      "options": [
+        "Qaayin",
+        "Abeek",
+        "Addaam",
+        "Nooh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Dubartiin jalqabaa lafee cinaacha Addaam irraa uumamte eenyu?",
+      "options": [
+        "Saaraa",
+        "Hewaan",
+        "Maariyaam",
+        "Ruut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Raajii kamtu boolla dhoqee qabu keessatti darbame?",
+      "options": [
+        "Isaayyaas",
+        "Eremiyaas",
+        "Hizqi'eel",
+        "Daani'eel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Mootichi hunda caalaa ogeessa jedhamee yaadamu eenyu?",
+      "options": [
+        "Daawit",
+        "Saawul",
+        "Solomoon",
+        "Hizqiyaas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Israa'eloonni dhaaba balbalaa isaanii irratti maal diban dhukkuba kurnaffaa Gibxii irraa ooluuf?",
+      "options": [
+        "Dhiiga hoolaa",
+        "Zayita",
+        "Bishaan",
+        "Daraara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Eenyuutu Yohaannis Cuuphaan akka mormi irra muramu ajaje?",
+      "options": [
+        "Huroodis",
+        "Bilaaxoos",
+        "Saawul",
+        "Solomoon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Barattoota Yesuus keessaa ogeessa fayyaa (doctor) kan ture eenyu?",
+      "options": [
+        "Maatiyoos",
+        "Luqaas",
+        "Maarqoos",
+        "Yohaannis"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Eenyuutu Yesuusin fannoo baachuuf gargaare?",
+      "options": [
+        "Simoon namicha Qerrenaa",
+        "Yooseef namicha Arimaadiyaa",
+        "Pheexiroos",
+        "Yohaannis"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Yesuus namoota kuma shan akkamitti nyaachise?",
+      "options": [
+        "Maannaa fi simbirroo",
+        "Maxinoo 5 fi qurxummii 2",
+        "Maxinoo 7 fi qurxummii xiqqoo muraasa",
+        "Maxinoo fi daadhii wayinii"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Maan dhuunfaa fi haati warraa waa'ee gatii lafaa sobuun du'an eenyunfa'i?",
+      "options": [
+        "Ananiyaa fi Safiraa",
+        "Phirisqiillaa fi Aqilaa",
+        "Ahaab fi Ezaabel",
+        "Abrihaam fi Saaraa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Eenyuutu Gooftaa duratti 'adamoo jabaa' jedhamee ibsame?",
+      "options": [
+        "Goliyaad",
+        "Nimrood",
+        "Eesawu",
+        "Saamsoom"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Barattuu kamtu gurra tajaajilaa mootichaa kute?",
+      "options": [
+        "Yohaannis",
+        "Yaa'iqoob",
+        "Pheexiroos",
+        "Yihuudaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Ergamichi dhagaadhaan ajjeefame eenyu (wareegamaa jalqabaa)?",
+      "options": [
+        "Yaa'iqoob",
+        "Isxifaanos",
+        "Phawuloos",
+        "Baarnaabaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Mootichi dubartoota lamaan waa'ee da'imaa irratti wal-dhaban eenyuutu mure?",
+      "options": [
+        "Daawit",
+        "Saawul",
+        "Solomoon",
+        "Huroodis"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Haati Ismaa'eel, ilma angafaa Abrihaam eenyu?",
+      "options": [
+        "Saaraa",
+        "Aagaar",
+        "Kexuraa",
+        "Ribqaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Lubni guddaan Israa'el inni jalqabaa eenyu ture?",
+      "options": [
+        "Musee",
+        "Aaroon",
+        "Al'azaarii",
+        "Elii"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Bulchaan dargaggeessi sooressi sun Yesusiin caalaa maal jaallata ture?",
+      "options": [
+        "Maatii isaa",
+        "Aangoo isaa",
+        "Maallaqa/qabeenya isaa",
+        "Beekamtii isaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Jecha beekamaa, \"Ani eegduu obboleessa kootii ree?\" jedhu eenyutu dubbate?",
+      "options": [
+        "Abeeli",
+        "Qaayini",
+        "Eesaa'uu",
+        "Obboloota Yoseef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Erga Museen du'ee booda Israa'eloota gara biyya abdachiifamtetti kan geeggeesse eenyu?",
+      "options": [
+        "Kaaleeb",
+        "Yaasuu",
+        "Aaroon",
+        "Giidiyoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ilmi bade sun maallaqni isaa erga dhumee booda hojii maalii hojjete?",
+      "options": [
+        "Booyyeetti bobba'uu",
+        "Mana ijaaruu",
+        "Qurxummii kiyyeessuu",
+        "Kadhattuma"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Bulchaan Roomaa Yesusirratti du'a kan murteesse eenyu ture?",
+      "options": [
+        "Heroodis Antiipaas",
+        "Phonxiinos Philaaxoos",
+        "Qeesaar Agoostos",
+        "Feeliiks"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "“Seerri Warqee” maali?",
+      "options": [
+        "Waaqa kee garaa kee guutuun jaalladhu",
+        "Akka namoonni akka isiniif godhan barbaaddan isinis akkasuma isaaniif godhaa",
+        "Gooftaa Yesusitti amani",
+        "Abbaa kee fi haadha kee kabaji"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Yesus erga inni guyyaa afur awwaala keessa turee booda eenyuun du'aa kaase?",
+      "options": [
+        "Intala Yaayiros",
+        "Ilma dubartii abbaa manaa hin qabnee",
+        "Alaazaariin",
+        "Xabiitaa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Mootichi Heroodis Waaqayyoof ulfina kennuu didnaan maal ta'e?",
+      "options": [
+        "Bakakkaan itti bu'e",
+        "Raammoon nyaatame",
+        "Jaame",
+        "Teessoo isaarraacchae kuffise"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Israa'eloonni akka waaqeffataniif jibbicha warqee eenyutu hojjete?",
+      "options": [
+        "Musee",
+        "Aaroon",
+        "Yaasuu",
+        "Maariyaam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Saamu'eel Israa'eliif mootii lammaffaa godhee eenyuun dibe?",
+      "options": [
+        "Saawul",
+        "Daawit",
+        "Solomoon",
+        "Eesayi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Gamoon Waaqayyo afaanota itti wal mako eenyu jedhama?",
+      "options": [
+        "Gamoo Daawit",
+        "Gamoo Baabel",
+        "Gamoo Silo'aam",
+        "Gamoo Sheekem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Haati Yesus eenyu jedhamti?",
+      "options": [
+        "Eelsabeet",
+        "Maariyaam",
+        "Maartaa",
+        "Saaloomii"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Raajiin Waaqayyo jalaa baqatee markaba gara Tarsish deemu kan kore eenyu?",
+      "options": [
+        "Yoonaas",
+        "Amoos",
+        "Miikiyaas",
+        "Hoose'aa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Obboleessi Yaa'iqoob inni rifeensa qabu eenyu ture?",
+      "options": [
+        "Laabaan",
+        "Eesaa'uu",
+        "Ismaa'eel",
+        "Yisihaq"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Phidiroos karra Bareedduu jedhamu biratti namicha okolaa eenyuun fayyise?",
+      "options": [
+        "Namicha dhalootaan okolaa ture tokko",
+        "Kadhattuu jaamaa tokko",
+        "Namicha dhukkuba nadaayiitiin qabame tokko",
+        "Duudaa tokko"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Yesus eenyuun “jeedala” jedhee waame?",
+      "options": [
+        "Philaaxoos",
+        "Heroodis",
+        "Qayaafaa",
+        "Yihuudaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Amaatiin Ruut eenyu turte?",
+      "options": [
+        "Oorphaa",
+        "Naa'oomii",
+        "Maaraa",
+        "Haannaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

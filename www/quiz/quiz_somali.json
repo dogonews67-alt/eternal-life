@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Kediska Kitaabka Quduuska ah",
+  "questions": [
+    {
+      "question": "Yaa dhisay doontii (Ark)?",
+      "options": [
+        "Muuse",
+        "Nuux",
+        "Daa'uud",
+        "Suleymaan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Cunto aan caadi ahayn ayuu Yooxanaa Baabtiisaha ku cuni jiray cidlada?",
+      "options": [
+        "Ayax iyo malab duurjoog ah",
+        "Rooti iyo kalluun",
+        "Berde iyo saytuun",
+        "Wanan iyo geedo yaryar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ninkee baa aad u xoog badnaa oo libaax gacantiisa ku dilay?",
+      "options": [
+        "Daa'uud",
+        "Samsoon",
+        "Goliad",
+        "Kaaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Yaa lahaa khamiiska midabada badan leh oo walaalihiis ay ka haseeyeen?",
+      "options": [
+        "Benyaamiin",
+        "Yuusuf",
+        "Ruben",
+        "Daanyaal"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Baddee buu Muuse kala qaybiyey si uu uga baxsado Masriyiinta?",
+      "options": [
+        "Badda dhimatey",
+        "Galile",
+        "Badda Cas",
+        "Mediterraaneean"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Yaa kalluun weyn liqay?",
+      "options": [
+        "Yuunus",
+        "Butros",
+        "Bawlos",
+        "Nuux"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Naagtee baa noqotay tiir cusbo ah sababtoo ah waxay dib u eegtay?",
+      "options": [
+        "Saara",
+        "Naagtii Luud",
+        "Rebekah",
+        "Lee'ah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa kaga adkaaday dagaalyahankii weynaa ee Goliad isagoo isticmaalaya wadhaf?",
+      "options": [
+        "Sauyuul",
+        "Yoonaataam",
+        "Daa'uud",
+        "Samuu'eel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ninkee gaaban baa geed geed -berde ah fuulay si uu ciise u arko?",
+      "options": [
+        "Bartimaayos",
+        "Sakiayos",
+        "Mateos",
+        "Nikodemos"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Xayawaankee baa la hadlay nebi Balcaam?",
+      "options": [
+        "Libaax",
+        "Ido",
+        "Dameer",
+        "Geel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Yaa ahaa gacan-ku-dhiiglihii ugu horreeyay ee Kitaabka Quduuska ah ku jira?",
+      "options": [
+        "Qaabiil",
+        "Haabiil",
+        "Seet",
+        "Lamekh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa lagu tuuray hogii libaaxyada laakiin ka badbaaday?",
+      "options": [
+        "Daanyaal",
+        "Yuusuf",
+        "Shadrak",
+        "Yeremyaah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Garsoorihii bidixda ahaa ee dilay boqorkii buurnaa isagoo isticmaalaya seef qarsoon?",
+      "options": [
+        "Gidcoon",
+        "Ehud",
+        "Samsoon",
+        "Yeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Yaa gacangeliyey Ciise isagoo ku beddeshay 30 gogo' oo qalin ah?",
+      "options": [
+        "Butros",
+        "Yahuudah Iskaris",
+        "Bontiyos Bilaatos",
+        "Kayafas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Wiilkee dhalinyaro ah ayaa maqlay Ilaah oo magaciisa ugu yeeraya habeenkii isagoo hurda?",
+      "options": [
+        "Daa'uud",
+        "Samuu'eel",
+        "Isxaaq",
+        "Yuusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Xertiisa kee baa omi dushooda ku dhex ruxay inuu ciise u tago?",
+      "options": [
+        "Yacquub",
+        "Yooxanaa",
+        "Butros",
+        "Andaros"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Maxuu Ilaah u soo diray reer binu Israa'iil inay cidlada ku cunaan?",
+      "options": [
+        "Rooti",
+        "Wareen",
+        "Maanna",
+        "Berde"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kumaa loo arkaa ninka ugu xoogga badan Kitaabka Quduuska ah?",
+      "options": [
+        "Goliad",
+        "Samsoon",
+        "Boos",
+        "Cisow"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Boqoradkee baa dadkeeda ka badbaadisay xasuuq?",
+      "options": [
+        "Ruut",
+        "Esther",
+        "Yesabel",
+        "Bat-sheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa Ciise diiday saddex jeer intaan diiqii ciyin?",
+      "options": [
+        "Toomas",
+        "Yahuudah",
+        "Butros",
+        "Filibos"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Waa maxay mucjisadii ugu horreysay ee Ciise ku sameeyey aroos ka dhacay Kaana?",
+      "options": [
+        "Bogsiinta nin indha la'",
+        "Biyaha oo khamri loo beddelay",
+        "Ku dhex socoshada biyaha dusheeda",
+        "Quudinta shan kun oo qof"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Magaaladee baa derbiyadeedu dumeen markii reer binu Israa'iil ay toddoba jeer ku wareegeen?",
+      "options": [
+        "Yeruusaalem",
+        "Yeriko",
+        "A-i",
+        "Baabiloon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Yaa loo yaqaan 'Nebigii Ooyay'?",
+      "options": [
+        "Ishacyaah",
+        "Yeremyaah",
+        "Yexisqeel",
+        "Hoosheca"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Yaa jaray timihii Samsoon oo u horseeday inuu xooggiisii lumiyo?",
+      "options": [
+        "Daliila",
+        "Saara",
+        "Miikaal",
+        "Abiigayil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Maxay ahayd shaqada Mateos intaanu noqon xertii Ciise?",
+      "options": [
+        "Kalluun-jillaata",
+        "Cashuur-qaade",
+        "Nijaar",
+        "Adhi-jir"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa ahaa qofkii ugu horreeyay ee Ciise arka sarakicidda ka dib?",
+      "options": [
+        "Butros",
+        "Yooxanaa",
+        "Maryan tii reer Magdala",
+        "Maryan hooyadiis"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Boqoradkee xun baa eeyuhu cuneen?",
+      "options": [
+        "Esther",
+        "Yesabel",
+        "Atalyaah",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Yaa laba basaas ku qariyey saqafka sare ee gurigeeda?",
+      "options": [
+        "Ruut",
+        "Raaxab",
+        "Saara",
+        "Deboraah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Alaabtee muusig ah ayuu Daa'uud u garaacay si uu Boqor Sauyuul u qaboojiyo?",
+      "options": [
+        "Turumbada",
+        "Kataaradda",
+        "Labbada",
+        "Durbaanka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa indha-beelyey jidka Dimishaq?",
+      "options": [
+        "Butros",
+        "Istefanos",
+        "Saul (Bawlos)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Nebigee baa tuke quudin jiray?",
+      "options": [
+        "Eliishac",
+        "Eliyaas",
+        "Ishacyaah",
+        "Yeremyaah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa xaday ilaahyadii aabaheed?",
+      "options": [
+        "Lee'ah",
+        "Raaxeel",
+        "Rebekah",
+        "Diinah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Yaa daaqad ka soo dhacay oo dhintay intii Bawlos wacdiga dheer jeedinayay?",
+      "options": [
+        "Timoteyos",
+        "Yutikoos",
+        "Tukikos",
+        "Siilaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ilmahee yar baa laga helay dambiil ku dhex jirta Webiga Niil?",
+      "options": [
+        "Haaruun",
+        "Muuse",
+        "Yashuuca",
+        "Samuu'eel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Yaa malaa'ig la musalaaxay habeenkii oo dhan?",
+      "options": [
+        "Ibrahim",
+        "Isxaaq",
+        "Yacquub",
+        "Cisow"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Yaa Ilaah weyddiistay xigmad intii uu weyddiisan lahaa hodantinimo ama cimri dheer?",
+      "options": [
+        "Daa'uud",
+        "Suleymaan",
+        "Sauyuul",
+        "Xisqiyaah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Naagtee baa bogsatay markay taabatay darafka maradii Ciise?",
+      "options": [
+        "Cidina ma leh",
+        "Naagtii dhiig-baxa qabay",
+        "Naagtii indhaha la'ayd",
+        "Naagtii curyaanka ahayd"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ninkee boqor ahaa oo waali noqday oo cawska u cunay sidii dibi oo kale?",
+      "options": [
+        "Belshasaar",
+        "Nebukadneesarkii",
+        "Daariyus",
+        "Kuuros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Nin iyo naagtee baa dhintay markii ay Ruuxa Quduuska ah been uga sheegeen lacagta?",
+      "options": [
+        "Ananiyas iyo Safiira",
+        "Biriskiila iyo Akula",
+        "Axaab iyo Yesabel",
+        "Ibrahim iyo Saara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Xertiisa kee baa loo yaqaan 'Kan Shakiya'?",
+      "options": [
+        "Butros",
+        "Toomas",
+        "Filibos",
+        "Andaros"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Maxay qoolleydu Nuux ugu soo celisay doontii dhexdeeda?",
+      "options": [
+        "Caleen geed-berde ah",
+        "Laan saytuun ah",
+        "Ubax",
+        "Cayayaanka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa lahaa 700 oo naagood iyo 300 oo addoomo ah?",
+      "options": [
+        "Daa'uud",
+        "Suleymaan",
+        "Rexobo'am",
+        "Ibrahim"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa curadnimadiisii ku iibsaday baaquli maraq ah (saas)?",
+      "options": [
+        "Yacquub",
+        "Cisow",
+        "Yuusuf",
+        "Isxaaq"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nebigee baa madaxa faaska biyaha dusheeda ku dhex ruxay?",
+      "options": [
+        "Eliyaas",
+        "Eliishac",
+        "Samuu'eel",
+        "Naataan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Yaa Ciise maqlay isagoo dhashay oo macbadka ku dhex jira oo Masiixa ah?",
+      "options": [
+        "Simecoon",
+        "Yuusuf",
+        "Nikodemos",
+        "Butros"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Yaa qorraxta iyo dayaxa ku amray inay istaagaan?",
+      "options": [
+        "Muuse",
+        "Yashuuca",
+        "Daa'uud",
+        "Gidcoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Xertiisa kee baa dhegta ka gooyay addoonkii wadaadkii sare?",
+      "options": [
+        "Yacquub",
+        "Yooxanaa",
+        "Butros",
+        "Yahuudah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Yaa fuulay Buur Siinaay si uu u soo qaado Tobankii Amar?",
+      "options": [
+        "Haaruun",
+        "Yashuuca",
+        "Muuse",
+        "Ibrahim"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Yaa ahaa boqorkii ugu horreeyay ee reer binu Israa'iil?",
+      "options": [
+        "Daa'uud",
+        "Sauyuul",
+        "Suleymaan",
+        "Samuu'eel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ninkee hodanka ahaa baa Ciise ku aasay xabaashiisa cusub?",
+      "options": [
+        "Nikodemos",
+        "Yuusuf kii reer Arimataya",
+        "Simecoon",
+        "Laasarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Mas caynkee ah ayaa Bawlos ku qaniinay jasiiradda Malta?",
+      "options": [
+        "Cobora",
+        "Jilbis (Viper)",
+        "Mas weyn",
+        "Daba-baqalle"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Maxay ahayd hooyadii Yooxanaa Baabtiisaha magaceeda?",
+      "options": [
+        "Maryan",
+        "Elsaabed",
+        "Maarta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa kaga adkaaday reer Midyaan isagoo wata 300 oo nin oo turumbalada ka dhawaaqayay oo weelal duminayay?",
+      "options": [
+        "Samsoon",
+        "Gidcoon",
+        "Balaaq",
+        "Yeftah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Saddexgee nin ayaa lagu tuuray foornada dabka ah sababtoo ah waxay diideen inay u sujuudaan sanam dahab ah?",
+      "options": [
+        "Daanyaal",
+        "Shadrak, Meshak, iyo Abednego",
+        "Cisra iyo Nexemyaah",
+        "Bawlos iyo Siilaas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa gacmihiisa iska dhaqay oo yiri 'Wax dambi ah kuma lihi' dhiigga Ciise?",
+      "options": [
+        "Herodos",
+        "Kayafas",
+        "Bontiyos Bilaatos",
+        "Yahuudah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa loogu yeeraa 'Saaxiibka Ilaah'?",
+      "options": [
+        "Muuse",
+        "Ibrahim",
+        "Daa'uud",
+        "Nuux"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Nebigee baa kalluun weyn liqay?",
+      "options": [
+        "Yuunus",
+        "Miikaah",
+        "Naxuum",
+        "Caamoos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Yaa boqorka Belshasaar u fasiray farshaxankii derbiga ku yaallay?",
+      "options": [
+        "Yuusuf",
+        "Daanyaal",
+        "Yexisqeel",
+        "Ishacyaah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Naagtee baa reer binu Israa'iil garsoore u ahayd?",
+      "options": [
+        "Ruut",
+        "Deboraah",
+        "Esther",
+        "Maryan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Yaa saddex jeer ilmo dhintay dusha ka saaray si uu u soo nooleeyo?",
+      "options": [
+        "Eliyaas",
+        "Eliishac",
+        "Butros",
+        "Bawlos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Wiilkee Daa'uud dhalay baa timihiisii geed ku dhegeen oo dhintay?",
+      "options": [
+        "Suleymaan",
+        "Absaloom",
+        "Adoniyaah",
+        "Amnoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Maxuu Ilaah Muuse kula hadlay markuu cidlada joogay?",
+      "options": [
+        "Geed gubanaya",
+        "Daruur",
+        "Dabayl",
+        "Dameer"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Yaa caawiyey ninkii ku dhaawacmay masaalkii Saamariyaanka Wanaagsan?",
+      "options": [
+        "Wadaad",
+        "Lawi",
+        "Saamari",
+        "Askari Roomaan ah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Yaa ahaa qofka ugu cimriga dheeraa Kitaabka Quduuska ah (969 sano)?",
+      "options": [
+        "Nuux",
+        "Ibrahim",
+        "Metuushelax",
+        "Enokh"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Xertiisa kee baa bilaabay inuu badda ku quuso markuu biyaha dushooda ku socday?",
+      "options": [
+        "Yacquub",
+        "Yooxanaa",
+        "Butros",
+        "Andaros"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Magaaladee buu Ilaah dab iyo baaruud uga soo riday samada si uu u baabbi'iyo?",
+      "options": [
+        "Yeriko",
+        "Niiwi",
+        "Sodom",
+        "Baabiloon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa arkay jaranjaro samada gaaraysa oo malaa'igo kor iyo hoosba u socdaan?",
+      "options": [
+        "Ibrahim",
+        "Isxaaq",
+        "Yacquub",
+        "Yuusuf"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Yaa ahaa ninkii ugu horreeyay ee Ilaah abuuray?",
+      "options": [
+        "Qaabiil",
+        "Haabiil",
+        "Aadan",
+        "Nuux"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Naagtee ugu horreysay ee laga abuuray mid ka mid ah feeraha Aadan?",
+      "options": [
+        "Saara",
+        "Xaawo",
+        "Maryan",
+        "Ruut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Nebigee baa lagu tuuray bohog dhoobo ka buuxdo?",
+      "options": [
+        "Ishacyaah",
+        "Yeremyaah",
+        "Yexisqeel",
+        "Daanyaal"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ninkee boqor ahaa oo loo arkaa inuu dadka oo dhan ugu garasho badnaa?",
+      "options": [
+        "Daa'uud",
+        "Sauyuul",
+        "Suleymaan",
+        "Xisqiyaah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Maxay reer binu Israa'iil albaabadooda ku mariyeen si ay uga badbaadaan balaayadii tobnaad ee Masar ka dhacday?",
+      "options": [
+        "Dhiig wan ah",
+        "Saliid",
+        "Biyo",
+        "Dambas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa amray in Yooxanaa Baabtiisaha qoorta looga jaro?",
+      "options": [
+        "Herodos",
+        "Bilaatos",
+        "Sauyuul",
+        "Suleymaan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Xertii Ciise kee baa dhakhtar ahaa?",
+      "options": [
+        "Mateos",
+        "Luuqos",
+        "Markos",
+        "Yooxanaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa Ciise ka caawiyey inuu iskutallaabta sido?",
+      "options": [
+        "Simoonkii reer Kuranne",
+        "Yuusuf kii reer Arimataya",
+        "Butros",
+        "Yooxanaa"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Maxuu Ciise shan kun oo qof ku quudiyey?",
+      "options": [
+        "Maanna iyo wareen",
+        "5 xabbadood oo rooti ah iyo 2 kalluun ah",
+        "7 xabbadood oo rooti ah iyo dhawr kalluun oo yaryar",
+        "Rooti iyo khamri"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Nin iyo naagtee baa dhintay markii ay beenta ka sheegeen qiimaha cad dhul ah?",
+      "options": [
+        "Ananiyas iyo Safiira",
+        "Biriskiila iyo Akula",
+        "Axaab iyo Yesabel",
+        "Ibrahim iyo Saara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Yaa lagu tilmaamay 'ugaadhsade xoog badan' xagga Rabbiga hortiisa?",
+      "options": [
+        "Goliad",
+        "Nimrod",
+        "Cisow",
+        "Samsoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Xertiisa kee baa dhegta ka gooyay addoonkii boqorka?",
+      "options": [
+        "Yooxanaa",
+        "Yacquub",
+        "Butros",
+        "Yahuudah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Rasuulkee baa dhagax lagu dilay (shahiidkii ugu horreeyay)?",
+      "options": [
+        "Yacquub",
+        "Istefanos",
+        "Bawlos",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ninkee boqor ahaa oo u garqaaday laba naagood oo ilmo isku haystay?",
+      "options": [
+        "Daa'uud",
+        "Sauyuul",
+        "Suleymaan",
+        "Herodos"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Yaa ahayd Ismaaciil hooyadiis, oo ahaa Ibrahim wiilkiisii curad?",
+      "options": [
+        "Saara",
+        "Haajira",
+        "Qeturaah",
+        "Rebekah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kuma ahaa wadaadkii ugu horreeyay ee reer binu Israa'iil?",
+      "options": [
+        "Muuse",
+        "Haaruun",
+        "Eleasaar",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Maxay ahayd waxa uu taliyihii yaraa ee hodanka ahaa ka jeclaa Ciise?",
+      "options": [
+        "Qoyskiisa",
+        "Awoodiisa",
+        "Lacagtiisa/hantidiisa",
+        "Sumcaddiisa"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Yaa yiri kelmadda caanka ah ee, \"Ma waxaan ahay walaalkay ilaaliyihiisa?\"",
+      "options": [
+        "Haabiil",
+        "Qaabiil",
+        "Cisow",
+        "Walaalihii Yuusuf"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa reer binu Israa'iil u horseeday Dhulkii Ballanqaadka markii uu Muuse dhintay ka dib?",
+      "options": [
+        "Kaaleeb",
+        "Yashuuca",
+        "Haaruun",
+        "Gidcoon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Shaqadee ayuu qabtay wiilkii lumay markii ay lacagtii ka dhammaatay?",
+      "options": [
+        "Inuu doofaarro daajiyo",
+        "Inuu guryo dhiso",
+        "Kalluumeysiga",
+        "Baryada"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kuma ahaa guddoomiyihii Roomaanka ee Ciise ku xukumay dhimashada?",
+      "options": [
+        "Herodos Antipas",
+        "Biyatos Bontos",
+        "Kaysar Agoostos",
+        "Feeliks"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Waa maxay “Xukunka Dahabiga ah”?",
+      "options": [
+        "Rabbi Ilaahaaga ah ku jecel qalbigaaga oo dhan",
+        "Sidaad rabtaan inay dadku idiinku sameeyaan, idinkuna sidaas oo kale u sameeya iyaga",
+        "Rumeeya Sayidka Ciise",
+        "Sharrif aabbahaa iyo hooyadaa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Yaa Ciise ka soo sara kiciyey kuwii dhintay ka dib markii uu afar maalmood xabaasha ku jiray?",
+      "options": [
+        "Gabadhii Yaayiros",
+        "Wiilkii carmalka",
+        "Laasaro",
+        "Tabiita"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Maxaa ku dhacay boqor Herodos markii uu Ilaah ammaan siin waayay?",
+      "options": [
+        "Hillaac baa ku dhacay",
+        "Gooryaan baa cunay",
+        "Wuu indho beelay",
+        "Carshigiisii buu ka dhacay"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Yaa dubbihii dahabka ahaa u sameeyey reer binu Israa'iil inay caabudaan?",
+      "options": [
+        "Muuse",
+        "Haaruun",
+        "Yashuuca",
+        "Maryama"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Yaa Samuu'eel subkay inuu noqdo boqorkii labaad ee reer binu Israa'iil?",
+      "options": [
+        "Saulu",
+        "Daa'uud",
+        "Suleymaan",
+        "Yesay"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Maxay ahayd magaca munaaraddii uu Ilaah ku dhex qasay luqadaha?",
+      "options": [
+        "Munaaraddii Daa'uud",
+        "Munaaraddii Baabil",
+        "Munaaraddii Silo'am",
+        "Munaaraddii Shechem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Maxay ahayd magaca Ciise hooyadiis?",
+      "options": [
+        "Elisabed",
+        "Maryama",
+        "Maarta",
+        "Salomi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Nebigee ka cararay Ilaah oo raacay markab ku socday Tarsish?",
+      "options": [
+        "Yoonis",
+        "Caamoos",
+        "Miikaah",
+        "Hoosni"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kuma ahaa walaalkii Yacquub ee timaha badnaa?",
+      "options": [
+        "Laabaan",
+        "Cisow",
+        "Ismaaciil",
+        "Isxaaq"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ninkee curyaan ahaa oo Butros ku bogsiiyey Iriddii Quruxda badnayd?",
+      "options": [
+        "Nin dhalashadiisii curyaan ahaa",
+        "Tuug indha la'",
+        "Nin baras qaba",
+        "Nin dhego la'"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Yaa Ciise ugu yeeray “dawaco” (fox)?",
+      "options": [
+        "Biyatos",
+        "Herodos",
+        "Qayaafa",
+        "Yahuuda"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kuma ahayd Ruut sodohdeed?",
+      "options": [
+        "Orfa",
+        "Naomi",
+        "Maara",
+        "Xanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

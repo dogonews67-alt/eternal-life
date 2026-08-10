@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Clear Cache & Reload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            margin-top: 0;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 10px 5px;
+            background: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .btn:hover {
+            background: #45a049;
+        }
+
+        .info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .code {
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <h1>🔄 Clear Browser Cache</h1>
+
+        <div class="info">
+            <strong>Your browser is loading an old cached version of the script!</strong>
+            <br><br>
+            Current timestamp should be: <code>20260122180650</code>
+            <br>
+            But browser is loading: <code>20260121084500</code>
+        </div>
+
+        <h2>Quick Fixes:</h2>
+
+        <h3>1. Hard Refresh (Recommended)</h3>
+        <p>Press these keys on the app page:</p>
+        <div class="code">
+            Windows: <strong>Ctrl + Shift + R</strong><br>
+            Mac: <strong>Cmd + Shift + R</strong>
+        </div>
+
+        <h3>2. Clear Browser Cache</h3>
+        <p>Or use this button:</p>
+        <button class="btn" onclick="clearCacheAndReload()">Clear Cache & Reload App</button>
+
+        <h3>3. Open Fresh Tab</h3>
+        <a href="index.html" class="btn" target="_blank">Open App in New Tab</a>
+
+        <div class="info" style="margin-top: 30px; background: #fff3cd;">
+            <strong>⚠️ Note:</strong> After clearing, look for this in console:
+            <div class="code" style="margin-top: 10px;">
+                🔄 [NEW CODE] setPreferredLanguage called with: text_xxx
+            </div>
+            If you see this message, the fix is working! ✅
+        </div>
+    </div>
+
+    <script>
+        function clearCacheAndReload() {
+            // Clear localStorage
+            if (confirm('This will clear ALL app data including bookmarks. Continue?')) {
+                localStorage.clear();
+                sessionStorage.clear();
+
+                // Try to clear IndexedDB
+                indexedDB.deleteDatabase('biblereaderdb');
+                indexedDB.deleteDatabase('bibleStorage');
+
+                alert('Cache cleared! Click OK to reload the app.');
+
+                // Redirect with cache busting
+                window.location.href = 'index.html?nocache=' + Date.now();
+            }
+        }
+    </script>
+</body>
+
+</html>

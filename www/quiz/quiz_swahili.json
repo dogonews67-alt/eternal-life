@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Jaribio la Biblia",
+  "questions": [
+    {
+      "question": "Nani alijenga safina?",
+      "options": [
+        "Musa",
+        "Nuhu",
+        "Daudi",
+        "Sulemani"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni chakula gani kisicho cha kawaida alichokula Yohana Mbatizaji nyikani?",
+      "options": [
+        "Nzige na asali ya mwitu",
+        "Mkate na samaki",
+        "Tini na mizeituni",
+        "Kondoo na mimea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ni mtu gani aliyekuwa na nguvu sana kiasi cha kumuua simba kwa mikono yake mitupu?",
+      "options": [
+        "Daudi",
+        "Samsoni",
+        "Goliathi",
+        "Kalebu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Nani alikuwa na vazi la rangi nyingi ambalo ndugu zake walilionea wivu?",
+      "options": [
+        "Benyamini",
+        "Yusufu",
+        "Rubeni",
+        "Dani"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni bahari gani ambayo Musa aliigawanya ili kukimbia Wamisri?",
+      "options": [
+        "Bahari ya Chumvi",
+        "Galilaya",
+        "Bahari ya Shamu (Bahari Nyekundu)",
+        "Mediterania"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Nani alimezwa na samaki mkubwa?",
+      "options": [
+        "Yona",
+        "Petro",
+        "Paulo",
+        "Nuhu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni mwanamke gani aliyebadilika kuwa nguzo ya chumvi kwa sababu alitazama nyuma?",
+      "options": [
+        "Sara",
+        "Mke wa Lutu",
+        "Rebeka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alimshinda askari jitu Goliathi kwa kutumia kombeo?",
+      "options": [
+        "Sauli",
+        "Yonathani",
+        "Daudi",
+        "Samueli"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni mtu gani mfupi aliyepanda mkuyu ili amwone Yesu?",
+      "options": [
+        "Bartimayo",
+        "Zakayo",
+        "Mathayo",
+        "Nikodemo"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni mnyama gani aliyesema na nabii Balaamu?",
+      "options": [
+        "Simba",
+        "Kondoo",
+        "Punda",
+        "Ngamia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alikuwa muuaji wa kwanza katika Biblia?",
+      "options": [
+        "Kaini",
+        "Abeli",
+        "Seth",
+        "Lameki"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alitupwa katika tundu la simba lakini akanusurika?",
+      "options": [
+        "Danieli",
+        "Yusufu",
+        "Shadraka",
+        "Yeremia"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni mwamuzi gani aliyekuwa mwenye mkono wa kushoto aliyemuua mfalme mnene kwa upanga uliotago?",
+      "options": [
+        "Gideoni",
+        "Ehudi",
+        "Samsoni",
+        "Yeftha"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Nani alimsaliti Yesu kwa vipande 30 vya fedha?",
+      "options": [
+        "Petro",
+        "Yuda Iskariote",
+        "Ponsio Pilato",
+        "Kayafa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni kijana gani mdogo aliyemsikia Mungu akimuita jina lake usiku akiwa amelala?",
+      "options": [
+        "Daudi",
+        "Samueli",
+        "Isaka",
+        "Yusufu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni mwanafunzi gani aliyetembea juu ya maji kwenda kumlaki Yesu?",
+      "options": [
+        "Yakobo",
+        "Yohana",
+        "Petro",
+        "Andrea"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Mungu alituma nini kwa Waisraeli kula jangwani?",
+      "options": [
+        "Mkate",
+        "Kware",
+        "Mana",
+        "Tini"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni nani anayechukuliwa kuwa mtu mwenye nguvu zaidi katika Biblia?",
+      "options": [
+        "Goliathi",
+        "Samsoni",
+        "Boazi",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni malkia gani aliyewaokoa watu wake kutokana na mauaji ya kimbari?",
+      "options": [
+        "Ruthu",
+        "Esta",
+        "Yezebeli",
+        "Bathsheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alimkana Yesu mara tatu kabla ya jogoo kuwika?",
+      "options": [
+        "Tomaso",
+        "Yuda",
+        "Petro",
+        "Filipo"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni muujiza gani wa kwanza wa Yesu kwenye harusi huko Kana?",
+      "options": [
+        "Kumponya kipofu",
+        "Kugeuza maji kuwa divai",
+        "Kutembea juu ya maji",
+        "Kulisha watu elfu tano"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ni mji gani kuta zake zilianguka baada ya Waisraeli kuuzunguka mara saba?",
+      "options": [
+        "Yerusalemu",
+        "Yeriko",
+        "Ai",
+        "Babeli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Nani anajulikana kama 'Nabii anayelia'?",
+      "options": [
+        "Isaya",
+        "Yeremia",
+        "Ezekieli",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ni nani aliyekata nywele za Samsoni na kumsababishia kupoteza nguvu zake?",
+      "options": [
+        "Delila",
+        "Sara",
+        "Mikali",
+        "Abigaili"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kazi ya Mathayo ilikuwa nini kabla ya kuwa mwanafunzi wa Yesu?",
+      "options": [
+        "Mvuvi",
+        "Mshuru",
+        "Seremala",
+        "Mchungaji"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani alikuwa mtu wa kwanza kumwona Yesu baada ya kufufuka kwake?",
+      "options": [
+        "Petro",
+        "Yohana",
+        "Mariamu Magdalene",
+        "Mariamu mama yake"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ni malkia gani mwovu aliyeliwa na mbwa?",
+      "options": [
+        "Esta",
+        "Yezebeli",
+        "Athalia",
+        "Herodia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Nani aliwaficha wapelelezi wawili juu ya paa la nyumba yake?",
+      "options": [
+        "Ruthu",
+        "Rahabu",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Daudi alicheza chombo gani cha muziki ili kumtuliza Mfalme Sauli?",
+      "options": [
+        "Njuga",
+        "Kinubi",
+        "Filimbi",
+        "Ngoma"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alipofushwa akiwa njiani kuelekea Dameski?",
+      "options": [
+        "Petro",
+        "Stefano",
+        "Sauli (Paulo)",
+        "Barnaba"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni nabii gani aliyelishwa na kunguru?",
+      "options": [
+        "Elisha",
+        "Eliya",
+        "Isaya",
+        "Yeremia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani alimaliza miungu ya babake?",
+      "options": [
+        "Lea",
+        "Raheli",
+        "Rebeka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Nani alianguka kutoka dirishani na kufa wakati Paulo alipokuwa akihubiri muda mrefu?",
+      "options": [
+        "Timotheo",
+        "Eutiko",
+        "Tikiko",
+        "Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ni mtoto gani aliyekutwa kwenye kikapu katika mto Nile?",
+      "options": [
+        "Haruni",
+        "Musa",
+        "Yoshua",
+        "Samueli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Nani alikabiliana na malaika usiku kucha?",
+      "options": [
+        "Ibrahimu",
+        "Isaka",
+        "Yakobo",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alimwomba Mungu hekima badala ya utajiri au maisha marefu?",
+      "options": [
+        "Daudi",
+        "Sulemani",
+        "Sauli",
+        "Hezekia"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni mwanamke gani aliyeponywa kwa kugusa pindo la vazi la Yesu?",
+      "options": [
+        "Hakuna",
+        "Mwanamke aliyekuwa na mtiririko wa damu",
+        "Mwanamke kipofu",
+        "Mwanamke kiwete"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni mfalme gani aliyekuwa mwendawazimu na kula nyasi kama ng'ombe?",
+      "options": [
+        "Belshaza",
+        "Nebukadreza",
+        "Dario",
+        "Koreshi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ni mume na mke gani waliofariki kwa kumdanganya Roho Mtakatifu kuhusu pesa?",
+      "options": [
+        "Anania na Safira",
+        "Prisila na Akila",
+        "Ahabu na Yezebeli",
+        "Ibrahimu na Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Ni mwanafunzi gani anayejulikana kama 'Yule mwenye Shaka'?",
+      "options": [
+        "Petro",
+        "Tomaso",
+        "Filipo",
+        "Andrea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Nnjiwa alimletea Nuhu nini kwenye safina?",
+      "options": [
+        "Jani la tini",
+        "Tawi la mzeituni",
+        "Maua",
+        "Mdudu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alikuwa na wake 700 na masuria 300?",
+      "options": [
+        "Daudi",
+        "Sulemani",
+        "Rehoboamu",
+        "Ibrahimu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani aliuza mzaliwa wake wa kwanza kwa bakuli la supu?",
+      "options": [
+        "Yakobo",
+        "Esau",
+        "Yusufu",
+        "Isaka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni nabii gani aliyeifanya kichwa cha shoka kielee juu ya maji?",
+      "options": [
+        "Eliya",
+        "Elisha",
+        "Samueli",
+        "Nathani"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Nani alimtambua mtoto Yesu kama Masihi katika hekalu?",
+      "options": [
+        "Simeoni",
+        "Yusufu",
+        "Nikodemo",
+        "Petro"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Nani aliamuru jua na mwezi kusimama?",
+      "options": [
+        "Musa",
+        "Yoshua",
+        "Daudi",
+        "Gideoni"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ni mwanafunzi gani aliyekata sikio la mtumishi wa kuhani mkuu?",
+      "options": [
+        "Yakobo",
+        "Yohana",
+        "Petro",
+        "Yuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alipanda Mlima Sinai kupokea Amri Kumi?",
+      "options": [
+        "Haruni",
+        "Yoshua",
+        "Musa",
+        "Ibrahimu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Nani alikuwa mfalme wa kwanza wa Israeli?",
+      "options": [
+        "Daudi",
+        "Sauli",
+        "Sulemani",
+        "Samueli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ni tajiri gani aliyemzika Yesu katika kaburi lake jipya la kibinafsi?",
+      "options": [
+        "Nikodemo",
+        "Yusufu wa Arimatheyo",
+        "Simeoni",
+        "Lazaro"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ni nyoka wa aina gani aliyemuuma Paulo kwenye kisiwa cha Malta?",
+      "options": [
+        "Kobra",
+        "Nyoka wa sumu (Viper)",
+        "Chatu",
+        "Nge"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Mama yake Yohana Mbatizaji aliitwa nani?",
+      "options": [
+        "Mariamu",
+        "Elisabeti",
+        "Martha",
+        "Ana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani aliwashinda Wamidiani kwa wanaume 300 tu kwa kutumia mapigo ya tarumbeta na mitungi?",
+      "options": [
+        "Samsoni",
+        "Gideoni",
+        "Balaki",
+        "Yeftha"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ni wanaume gani watatu waliotupwa katika tanuru ya moto kwa sababu walikataa kuabudu sanamu ya dhahabu?",
+      "options": [
+        "Danieli",
+        "Shadraka, Meshaki na Abednego",
+        "Ezra na Nehemia",
+        "Paulo na Sila"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani alinawa mikono yake na kusema 'Mimi sina hatia' kwa damu ya Yesu?",
+      "options": [
+        "Herode",
+        "Kayafa",
+        "Ponsio Pilato",
+        "Yuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani anaitwa 'Rafiki wa Mungu'?",
+      "options": [
+        "Musa",
+        "Ibrahimu",
+        "Daudi",
+        "Nuhu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ni nabii gani aliyemezwa na samaki mkubwa?",
+      "options": [
+        "Yona",
+        "Mika",
+        "Nahumu",
+        "Amosi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Nani alitafsiri maandishi ukutani kwa Mfalme Belshaza?",
+      "options": [
+        "Yusufu",
+        "Danieli",
+        "Ezekieli",
+        "Isaya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ni mwanamke gani aliyekuwa mwamuzi katika Israeli?",
+      "options": [
+        "Ruthu",
+        "Debora",
+        "Esta",
+        "Mariamu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alijilaza juu ya mtoto aliyekufa mara tatu ili kumfufua?",
+      "options": [
+        "Eliya",
+        "Elisha",
+        "Petro",
+        "Paulo"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Ni mtoto gani wa Daudi aliyenaswa nywele zake kwenye mti na kufa?",
+      "options": [
+        "Sulemani",
+        "Absalomu",
+        "Adoniya",
+        "Amnoni"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Mungu alitumia nini kusema na Musa nyikani?",
+      "options": [
+        "Kichaka kinachowaka moto",
+        "Wingu",
+        "Upepo",
+        "Punda"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Nani alimsaidia mtu aliyejeruhiwa katika mfano wa Msamaria Mwema?",
+      "options": [
+        "Kuhani",
+        "Mlawi",
+        "Msamaria",
+        "Askari wa Kirumi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni nani mtu mwenye umri mkubwa zaidi katika Biblia (miaka 969)?",
+      "options": [
+        "Nuhu",
+        "Ibrahimu",
+        "Methusela",
+        "Enoki"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni mwanafunzi gani alianza kuzama alipokuwa akitembea juu ya maji?",
+      "options": [
+        "Yakobo",
+        "Yohana",
+        "Petro",
+        "Andrea"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni mji gani ambao Mungu aliuangamiza kwa moto na kiberiti kutoka mbinguni?",
+      "options": [
+        "Yeriko",
+        "Ninawi",
+        "Sodoma",
+        "Babeli"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani aliona ngazi ikifika mbinguni na malaika wakipanda na kushuka juu yake?",
+      "options": [
+        "Ibrahimu",
+        "Isaka",
+        "Yakobo",
+        "Yusufu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alikuwa mtu wa kwanza kuumbwa na Mungu?",
+      "options": [
+        "Kaini",
+        "Abeli",
+        "Adamu",
+        "Nuhu"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni mwanamke gani wa kwanza kuumbwa kutoka kwa ubavu wa Adamu?",
+      "options": [
+        "Sara",
+        "Hawa",
+        "Mariamu",
+        "Ruthu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni nabii gani aliyetupwa katika kisima kilichojaa matope?",
+      "options": [
+        "Isaya",
+        "Yeremia",
+        "Ezekieli",
+        "Danieli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ni mfalme gani anayechukuliwa kuwa mwenye hekima zaidi ya wote?",
+      "options": [
+        "Daudi",
+        "Sauli",
+        "Sulemani",
+        "Hezekia"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Waisraeli waliweka nini kwenye milango yao ili kuepuka pigo la kumi huko Misri?",
+      "options": [
+        "Damu ya mwana-kondoo",
+        "Mafuta",
+        "Maji",
+        "Majivu"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani aliamuru Yohana Mbatizaji auawe kwa kukatwa kichwa?",
+      "options": [
+        "Herode",
+        "Pilato",
+        "Sauli",
+        "Sulemani"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Ni mwanafunzi gani wa Yesu aliyekuwa daktari?",
+      "options": [
+        "Mathayo",
+        "Luka",
+        "Marko",
+        "Yohana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani alimsaidia Yesu kubeba msalaba?",
+      "options": [
+        "Simoni wa Kirene",
+        "Yusufu wa Arimatheyo",
+        "Petro",
+        "Yohana"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Yesu aliwapa nini watu elfu tano wale?",
+      "options": [
+        "Mana na kware",
+        "Mikate 5 na samaki 2",
+        "Mikate 7 na samaki wadogo wachache",
+        "Mkate na divai"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ni mume na mke gani walikufa baada ya kudanganya juu ya bei ya kipande cha ardhi?",
+      "options": [
+        "Anania na Safira",
+        "Prisila na Akila",
+        "Ahabu na Yezebeli",
+        "Ibrahimu na Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Nani ameelezwa kuwa 'mshindani mwenye nguvu' mbele ya Bwana?",
+      "options": [
+        "Goliathi",
+        "Nimrodi",
+        "Esau",
+        "Samsoni"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ni mwanafunzi gani aliyekata sikio la mtumishi wa mfalme?",
+      "options": [
+        "Yohana",
+        "Yakobo",
+        "Petro",
+        "Yuda"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni mtume gani aliyepigwa kwa mawe hadi kufa (shahidi wa kwanza)?",
+      "options": [
+        "Yakobo",
+        "Stefano",
+        "Paulo",
+        "Barnaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ni mfalme gani aliamua mzozo kati ya wanawake wawili juu ya mtoto?",
+      "options": [
+        "Daudi",
+        "Sauli",
+        "Sulemani",
+        "Herode"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Nani alikuwa mama ya Ishmaeli, mwana wa kwanza wa Ibrahimu?",
+      "options": [
+        "Sara",
+        "Hajiri",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Nani alikuwa kuhani mkuu wa kwanza wa Israeli?",
+      "options": [
+        "Musa",
+        "Haruni",
+        "Eleazari",
+        "Eli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kijana mtawala tajiri alipenda nini zaidi kuliko Yesu?",
+      "options": [
+        "Familia yake",
+        "Mamlaka yake",
+        "Pesa/mali zake",
+        "Sifa yake"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Nani alisema ule msemo maarufu, \"Je, mimi ni mlinzi wa ndugu yangu?\"",
+      "options": [
+        "Habili",
+        "Kaini",
+        "Esau",
+        "Ndugu za Yusufu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani aliwaongoza Waisraeli kuingia katika Nchi ya Ahadi baada ya kifo cha Musa?",
+      "options": [
+        "Kalebu",
+        "Yoshua",
+        "Haruni",
+        "Gideoni"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Mwana mpotevu alichukua kazi gani baada ya pesa zake kwisha?",
+      "options": [
+        "Kulisha nguruwe",
+        "Kujenga nyumba",
+        "Kuvua samaki",
+        "Kuombaomba"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Gavana wa Kirumi aliyemhukumu Yesu kifo alikuwa nani?",
+      "options": [
+        "Herode Antipa",
+        "Pontio Pilato",
+        "Kaisari Agusto",
+        "Feliki"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "“Sheria ya Dhahabu” ni nini?",
+      "options": [
+        "Mpende Bwana Mungu wako kwa moyo wako wote",
+        "Kama mnavyotaka watu wawafanyie ninyi, nanyi wafanyieni vivyo hivyo",
+        "Mwamini Bwana Yesu",
+        "Waheshimu baba yako na mama yako"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Yesu alimfufua nani kutoka kwa wafu baada ya kuwa kaburini kwa siku nne?",
+      "options": [
+        "Binti ya Yairo",
+        "Mwana wa mjane",
+        "Lazaro",
+        "Tabitha"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Nini kilimtokea Mfalme Herode alipokosa kumpa Mungu utukufu?",
+      "options": [
+        "Alipigwa na radi",
+        "Aliliwa na wadudu",
+        "Alipata upofu",
+        "Alianguka kutoka kwenye kiti chake cha enzi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Nani alitengeneza ndama wa dhahabu kwa ajili ya Waisraeli waabudu?",
+      "options": [
+        "Musa",
+        "Haruni",
+        "Yoshua",
+        "Miriamu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Nani aliyetiwa mafuta na Samweli kuwa mfalme wa pili wa Israeli?",
+      "options": [
+        "Sauli",
+        "Daudi",
+        "Sulemani",
+        "Yese"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jina la mnara ambao Mungu alichanganya lugha lilikuwa nini?",
+      "options": [
+        "Mnara wa Daudi",
+        "Mnara wa Babeli",
+        "Mnara wa Siloamu",
+        "Mnara huko Shekemu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jina la mama yake Yesu lilikuwa nini?",
+      "options": [
+        "Elisabeti",
+        "Mariamu",
+        "Marthu",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ni nabii yupi aliyemkimbia Mungu na kupanda meli kwenda Tarshishi?",
+      "options": [
+        "Yona",
+        "Amosi",
+        "Mika",
+        "Hosea"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ndugu wa Yakobo aliyekuwa na nywele nyingi alikuwa nani?",
+      "options": [
+        "Labani",
+        "Esau",
+        "Ishmaeli",
+        "Isaka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ni mtu yupi aliyekuwa kilema aliyetibiwa na Petro kwenye Lango Nzuri?",
+      "options": [
+        "Mtu aliyekuwa kilema tangu kuzaliwa",
+        "Ombaomba kipofu",
+        "Mwenye ukoma",
+        "Kiziwi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Nani aliyeelezwa na Yesu kama “mbweha” (fox)?",
+      "options": [
+        "Pilato",
+        "Herode",
+        "Kayafa",
+        "Yuda"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Mama mkwe wa Ruthi alikuwa nani?",
+      "options": [
+        "Orpa",
+        "Naomi",
+        "Mara",
+        "Hana"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

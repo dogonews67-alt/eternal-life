@@ -1,0 +1,365 @@
+{
+  "title": "IYE AINIPÊKUN",
+  "chapters": [
+    {
+      "title": "Abala",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>IYE AINIPÊKUN</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Iye Ainipẹkun</b> jẹ igbesi aye ti ko ni opin, ṣe eyi tumọ si pe <b>eniyan kii yoo ku?</b> O gbọdọ ku nipa ti ara, ṣugbọn nipa tẹmí o yoo <b>wa ni aye titilai</b> ni ọrun tabi jiya titilai ni ọrun apadi. Jẹ ki a jiroro ni ṣoki ni isalẹ lati loye koko yii daradara."
+        },
+        {
+          "type": "header",
+          "text": "Ẹlẹ́ṣẹ̀ ni gbogbo ènìyàn"
+        },
+        {
+          "id": "Para 1",
+          "text": "Ẹlẹ́ṣẹ̀ ni ènìyàn láti ìgbà ìbí rẹ̀ wá, nínú ayé rẹ̀ ó sì ń dá ẹ̀ṣẹ̀ nínú àwọn ìṣe rẹ̀, ìwà rẹ̀, gbígbọ́, sísọ̀rọ̀, rírí àti ríronú. Nínú Mátíù 5:28 Jésù sọ pé, 'Ṣùgbọ́n mo sọ fún yín pé ẹnikẹ́ni tí ó bá wo obìnrin kan pẹ̀lú ìfẹ́kúfẹ̀ẹ́ ti ṣe panṣágà pẹ̀lú rẹ̀ nínú ọkàn rẹ̀ tẹ́lẹ̀.' Ẹnikẹ́ni tí ó bá dá ẹ̀ṣẹ̀ ní àìmọ̀kọ́mọ̀ ni a kà sí ẹ̀ṣẹ̀ pẹ̀lú, kódà bí kò sí ẹni tí ó rí i. Ọ̀pọ̀ ènìyàn ń rò ó tí wọ́n sì ń sọ pé, \"Kí ni ẹ̀ṣẹ̀ tí mo dá?\" Kì í ṣe ẹ̀ṣẹ̀ láti pànìyàn, ṣe panṣágà, jalè tàbí jà lólè nìkan, ṣùgbọ́n pẹ̀lú píparọ́, tàn jẹ, gbéraga, jowú, wọ́ra, sọ̀rọ̀ ẹ̀hìn, àti ríronú ibi sí àwọn ẹlòmíràn jẹ́ ẹ̀ṣẹ̀ pẹ̀lú. Ní tòótọ́, gbogbo ènìyàn jẹ́ ẹlẹ́ṣẹ̀ láti ìgbà ìbí wọn wá."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=YOR' target='_blank'>Oniwasu 7:20</a> 'Nitori kò si olododo kan li aiye, ti nṣe rere, ti kò si dẹṣẹ.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:5&version=YOR' target='_blank'>Orin Dafidi 51:5</a> 'Kiyesi i, ninu ẹ̀ṣẹ li a gbé bi mi; ati ninu ẹ̀ṣẹ li iya mi si lóyún mi.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=YOR' target='_blank'>1 Johanu 5:17</a> 'Gbogbo aiṣododo ni ẹ̀ṣẹ'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=YOR' target='_blank'>Romu 3:23</a> 'Nitori gbogbo enia li o ti ṣẹ̀, ti nwọn si kuna ogo Ọlọrun;'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=YOR' target='_blank'>Romu 5:12</a> 'Nitorina, gẹgẹ bi ẹ̀ṣẹ ti ti ipa ọdọ enia kan wọ aiye, ati ikú nipa ẹ̀ṣẹ; bẹ̃li ikú si kọja sori enia gbogbo, lati ọdọ ẹniti gbogbo enia ti dẹṣẹ:'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=YOR' target='_blank'>Romu 6:23</a> 'Nitori ere ẹ̀ṣẹ ni ikú'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Gbogbo ènìyàn gbọ́dọ̀ kú nípa ti ara, ṣùgbọ́n nípa tẹ̀mí wọn yóò wà <b>láàyè títí láé -</b> yálà ní ọ̀run àpáàdì tàbí ní ọ̀run, nínú ìjìyà àìnípẹ̀kun <b>tàbí nínú ìyè àìnípẹ̀kun,</b> nínú ìjìyà àìnípẹ̀kun tàbí ayọ̀ àìnípẹ̀kun."
+        },
+        {
+          "id": "Para 3",
+          "text": "Gbogbo eniyan ti sẹ, ati iku jẹ daju fun gbogbo eniyan."
+        },
+        {
+          "type": "header",
+          "text": "Ọlọrun jẹ mimọ ati Ọrun jẹ mimọ, nitorina lati wọ Ọrun a gbọdọ jẹ mimọ."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=YOR' target='_blank'>Lefitiku 19:2</a> 'Sọ fun gbogbo ijọ awọn ọmọ Israeli, ki o si wi fun wọn pe, Ẹnyin o jẹ mimọ́: nitori mimọ́ li Emi Oluwa Ọlọrun nyin.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=YOR' target='_blank'>1 Korinti 6:9</a> 'Ẹnyin kò mọ̀ pe awọn alaiṣododo ki yio jogún ijọba Ọlọrun? Ki a má tan nyin jẹ:'"
+        },
+        {
+          "type": "header",
+          "text": "Nitorina, bawo ni eniyan ṣe le jẹ olododo tabi mimọ?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Heberu 9:22 'Ati ni kò fẹrẹ ṣai jẹ pe, nipa ofin li a <b>nfi ẹ̀jẹ sọ ohun gbogbo</b> di mimọ́; ati laisi titajẹsilẹ kò si idariji.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Lati gba idariji ninu ese ni lati jẹ mimọ tabi lati jẹ olododo."
+        },
+        {
+          "type": "header",
+          "text": "Kini idi ti ẹjẹ fi ṣe pataki?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=YOR' target='_blank'>Lefitiku 17:11</a> 'Nitori ẹmi ara mbẹ ninu ẹ̀jẹ, emi si fi i fun nyin lori pẹpẹ, lati ṣetu fun ọkàn nyin: nitori ẹ̀jẹ na ni nṣetu fun ọkàn.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Nitori igbesi aye wa ninu ẹjẹ, ko si ẹnikan ti o le san idiyele ti igbesi aye. Ati pe ko si eniyan ti o le fa igbesi aye gun paapaa fun iṣẹju kan nipasẹ agbara tirẹ. Jesu Kristi ṣii ọna fun irapada ẹda eniyan nipasẹ fifi ẹjẹ iyebiye Rẹ tabi Iye iyebiye Rẹ rubọ."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=YOR' target='_blank'>Heberu 9:12</a> 'Bẹ̃ni kì iṣe nipa ẹ̀jẹ ewurẹ ati ti ọmọ-malu, ṣugbọn nipa ẹ̀jẹ on tikalarẹ, o wọ ibi mimọ́ lẹ̃kanṣoṣo, lẹhin ti o ti ri irapada ainipẹkun gba fun wa.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jesu Kristi fi ifẹ Rẹ han nipa gbigbe igbesi aye Rẹ lelẹ fun gbogbo iran eniyan. Gẹgẹ bi Johanu 15:13 - 'Kò si ẹniti o ni ifẹ ti o tobi ju eyi lọ, pe ki eniyan fi ẹmi rẹ̀ lelẹ nitori awọn ọrẹ rẹ̀.' A ko le rii apẹẹrẹ miiran ninu itan-akọọlẹ agbaye ti iru ifẹ yii ayafi Jesu Kristi."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=YOR' target='_blank'>1 Johanu 1:7</a> 'Ṣugbọn bi awa ba nrin ninu imọlẹ, gẹgẹ bi on tikalarẹ ti wà ninu imọlẹ, awa niidapọ pẹlu ara wa, ati ẹ̀jẹ Jesu Kristi Ọmọ rẹ̀ ni <b>iwẹ̀ wa nù kuro ninu ẹ̀ṣẹ gbogbo.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=YOR' target='_blank'>1 Korinti 15:3</a> 'Nitori lakọkọ, mo fi eyi ti emi pẹlu ti gbà le nyin lọwọ, pe <b>Kristi kú nitori</b> ẹ̀ṣẹ wa gẹgẹ bi iwe-mimọ; Ati pe a sin i, ati pe o jinde ni ijọ kẹta gẹgẹ bi iwe-mimọ'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=YOR' target='_blank'>Ifihan 1:5</a> 'ati lati ọdọ Jesu Kristi, ẹniti iṣe ẹlẹri olotitọ, akọbi ninu awọn oku, ati ẹniti iṣe olori awọn ọba aiye. Ẹniti o fẹ wa, ti o <b>si wẹ̀ wa nù kuro ninu ẹ̀ṣẹ wa ninu ẹ̀jẹ rẹ̀,'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=YOR' target='_blank'>Matteu 9:2</a> 'Si kiyesi i, nwọn gbé ẹnikan ti o lẹsẹ npà tọ̀ ọ wá, o dubulẹ lori akete: nigbati Jesu ri igbagbọ́ wọn, o wi fun ẹniti o lẹsẹ npà pe, <b>Ọmọ, tute; a dari ẹ̀ṣẹ rẹ ji</b> ọ.'"
+        },
+        {
+          "id": "Para 7",
+          "text": "Ninu ọrọ yii Jesu dariji awọn <b>ẹṣẹ ti ẹlẹgba</b> taara, nitori Jesu le dariji ẹṣẹ eniyan, ati ni akoko kanna O kede ara Rẹ bi Ọlọrun, nitori ko si ẹnikan bikoṣe Ọlọrun ti o le dariji ẹṣẹ."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=YOR' target='_blank'>Iṣe Awọn Aposteli 10:43</a> 'Oun (Kristi) li gbogbo awọn woli jẹri si, pe, nipasẹ orukọ rẹ̀, ẹnikẹni ti o ba gba a gbọ yio ri idariji ẹ̀ṣẹ gbà.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=YOR' target='_blank'>Iṣe Awọn Aposteli 4:12</a> 'Kò si si igbala lọdọ ẹlomiran: nitori kò si orukọ miran labẹ ọrun ti a fifunni ninu eniyan, nipa eyiti a le fi gbalà wa.' Ayafi Jesu Kristi ti Nasareti."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Johanu 2:2 'On (Kristi) si <b>ni etutu fun ẹ̀ṣẹ wa: kì iṣe fun tiwa nikan, ṣugbọn fun ti araiye gbogbo pẹlu.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=YOR' target='_blank'>Johanu 3:16</a> 'Nitori Ọlọrun (Ẹlẹda) fẹ araiye (eda eniyan) tobẹ̃ gẹ, ti o fi Ọmọ bíbi rẹ̀ kanṣoṣo funni (Jesu Kristi), ki ẹnikẹni ti o ba gbà a gbọ má ba <b>ṣegbé, ṣugbọn ki o le ni iye ainipẹkun</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=YOR' target='_blank'>Johanu 1:12</a> 'Ṣugbọn iye awọn ti o gbà a (Jesu), awọn li o fi agbara fun lati di ọmọ Ọlọrun, ani awọn ti o gbà orukọ rẹ̀ gbọ́ (Jesu)'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Ọrọ naa 'awọn ọmọ Ọlọrun' kii ṣe ọrọ ti o rọrun, awọn ti o gbagbọ ti wọn si gba Jesu gẹgẹbi Oluwa wọn, a kà wọn si ilu ti Ọrun, a kà wọn si eniyan mimọ, gbogbo ẹṣẹ wọn ti wa ni idariji."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=YOR' target='_blank'>Romu 8:1-2</a> 'Nitorina nisisiyi engbi idalẹbi kò si fun awọn ti o wà ninu Kristi Jesu. Nitori ofin Ẹmi iye ninu Kristi Jesu sọ mi di ominira kuro lọwọ ofin ẹ̀ṣẹ ati ti ikú.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=YOR' target='_blank'>Romu 5:9</a> 'Melomelo pẹlu, nigbati a da wa lare nisisiyi nipa ẹ̀jẹ rẹ̀ (Jesu), li a o ti ipa rẹ̀ gbalà wa lowo ibinu Ọlọrun.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=YOR' target='_blank'>Romu 3:24</a> 'A si nda wọn lare lọfẹ nipa ore-ọfẹ rẹ̀, nipa idasilẹ ti o wà ninu Kristi Jesu:'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=YOR' target='_blank'>Johanu 14:6</a> 'Jesu wi fun u pe, Emi li ọ̀na, ati otitọ, ati iye: kò si ẹniti iwa sọdọ Baba (ẹniti o wa l’ọrun), bikoṣe nipasẹ mi.'"
+        },
+        {
+          "type": "header",
+          "text": "Nikan awon ti o gbagbo ninu Jesu Kristi, nikan ni won le wọ Ọrun, ti o ti wa ni a npe ni <b>Iye Ainipẹkun</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=YOR' target='_blank'>Johanu 3:15</a> 'Ki ẹnikẹni ti o ba gba a gbọ má ba <b>ṣegbé, ṣugbọn ki o le ni iye ainipẹkun</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=YOR' target='_blank'>Romu 6:23</a> 'Nitori ere ẹ̀ṣẹ ni ikú; ṣugbọn ẹbun Ọlọrun ni <b>iye ainipẹkun</b> ninu Jesu Kristi Oluwa wa.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=YOR' target='_blank'>Johanu 5:24</a> Jesu wipe - 'Lõtọ, lõtọ ni mo wi fun nyin, Ẹniti <b>o ba gbọ́ ọ̀rọ mi,</b> ti o si gba ẹniti o ran mi gbọ́'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=YOR' target='_blank'>Johanu 11:25-26</a> Jesu wi fun u pe, Emi li ajinde ati iye: ẹniti o ba gbà mi gbọ́, bi o tilẹ kú, yio yè: Ẹnikẹni ti o ba si wà láye ti o si gbà mi gbọ́, kì yio kú lai. <b>Iwọ gba eyi gbọ́ bi?</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=YOR' target='_blank'>Johanu 6:51</a> 'Emi ni onjẹ iye na ti o ti ọrun sọkalẹ wá: bi ẹnikẹni ba jẹ ninu onjẹ yi, yio yè <b>titi lai: ati onjẹ ti</b> emi o fifunni li ara mi, ti emi o fifunni nitori iye araiye.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jesu lo ọrọ na '<b>Iye Ainipẹkun</b>' ninu Ihinrere Johannu nipa awọn akoko 17, awọn akoko 12 O lo fun lọwọlọwọ, nikan ni igba 5 O lo fun ọjọ iwaju. Pupọ ninu wa ronu pe isemi ainipẹkun jẹ fun ọjọ iwaju nikan, ṣugbọn Bibeli sọ ni kedere pe o jẹ fun lọwọlọwọ ati fun ọjọ iwaju. Awon ti o wa pelu Jesu, awon ti won gba Jesu gbo ti won si gba Jesu gege bi Oluwa ati Olugbala won, won le so wipe <b>Iye Ainipẹkun</b> wa pelu won, won ti bukun fun won pelu Iye Ainipẹk."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=YOR' target='_blank'>1 Johanu 5:11</a> 'Ati eyi li ẹri na pe, Ọlọrun ti fun wa ni <b>iye ainipẹkun</b>, iye yi si wà ninu Ọmọ rẹ̀ (Kristi).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=YOR' target='_blank'>Johanu 17:3</a> 'Ati eyi ni <b>iye ainipẹkun</b>, ki nwọn ki o le mọ̀ ọ, Ọlọrun otitọ kanṣoṣo na, ati Jesu Kristi, ẹniti iwọ rán.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=YOR' target='_blank'>Johanu 12:50</a> Jesu wipe - 'Ati pe mo mọ̀ pe aṣẹ rẹ̀ (Ọlọrun) ni <b>iye ainipẹkun</b>: nitorina ohun ti emi nsọ, gẹgẹ bi Baba ti wi fun mi, bẹ̃ni mo sọ.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=YOR' target='_blank'>1 Johanu 5:20</a> 'Awa si mọ̀ pe Ọmọ Ọlọrun ti de, o si ti fun wa li oye, ki a le mọ̀ ẹniti iṣe otitọ, ati pe awa wà ninu ẹniti iṣe otitọ, ani ninu Ọmọ rẹ̀ Jesu Kristi. Eyi li Ọlọrun otitọ, ati <b>iye ainipẹkun</b>.'"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=YOR' target='_blank'>Johanu 6:47</a> 'Lõtọ, lõtọ ni mo wi fun nyin, Ẹniti o ba gbà mi gbọ́ (ninu Kristi) li o ni <b>iye ainipẹkun</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Kini o tumọ si lati gbagbọ?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Àwọn ẹ̀mí èṣù tún gba Jésù gbọ́, iyẹn kò túmọ̀ sí pé wọ́n máa <b>ní ìyè àìnípẹ̀kun. Jakọbu</b> 2:19 Iwọ gbagbọ pe Ọlọrun kan ni mbẹ; o ṣeun: awọn ẹmi èṣu pẹlu gbagbọ, nwọn si wariri."
+        },
+        {
+          "type": "header",
+          "text": "Ronupiwada ese rẹ, jẹwọ pe Ọlọrun jiji Jesu Kristi dide kuro ninu okus, kí o sì gba Jésù Kristi gẹ́gẹ́ bí Olùgbàlà àti Olúwa rẹ. - Eyi ni a npe ni gbigbagbọ ninu Jesu Kristi."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=YOR' target='_blank'>Romu 10:9-10</a> 'Pe, bi iwọ ba fi ẹnu rẹ jẹwọ Jesu li Oluwa, ti iwọ si gbagbọ́ ni inu rẹ pe, Ọlọrun ti ji i dide kuro ninu oku, a o gba ọ là. Nitori ọkàn li a fi igbagbọ́ si ododo; ẹnu li a si fi ijẹwọ si igbala.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=YOR' target='_blank'>Matteu 10:32-33</a> 'Nitorina ẹnikẹni ti o ba jẹwọ mi niwaju eniyan, on li emi o si jẹwọ pẹlu niwaju Baba mi ti nbẹ li ọrun. Ṣugbọn ẹnikẹni ti o ba sẹ́ mi niwaju eniyan, on li emi o sẹ́ pẹlu niwaju Baba mi ti nbẹ li ọrun.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Igbala tabi idariji ese ni kokoro si <b>iye ainipẹkun. <b>Jesu Kristi nikan ni o le gba eda eniyan la</b>,</b> nitori ko si ẹlomiran ni agbaye ti o rubọ ẹjẹ wọn ayafi Jesu Kristi, Jesu nikan ni o rubọ Ẹjẹ Mimọ Rẹ gẹgẹbi ẹbọ ikẹhin fun ẹda eniyan. Iyẹn ni idi ti O fi le gba gbogbo eniyan là."
+        },
+        {
+          "type": "header",
+          "text": "Pataki ti Jesu Kristi:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Laarin 1700 BC ati 400 BC ọpọlọpọ awọn asọtẹlẹ nipa Jesu Kristi, nipa ibimọ rẹ, nipa ijiya Rẹ, nipa iku Rẹ lori agbelebu, nipa ajinde Rẹ ni ọjọ kẹta lẹhin iku bbl Awọn ọjọgbọn ṣe iṣiro pe Jesu Kristi mu diẹ sii ju 300 awọn asọtẹlẹ Majẹmu Lailai ṣẹ. Paapaa lẹhin ajinde, Kristi gbe pẹlu awọn ọmọ-ẹhin o si waasu nipa ijọba ọrun, ati ni ọjọ 40th ti ajinde Rẹ o goke lọ si ọrun ni irisi ara Rẹ."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Yato si Kristi, ko si eniyan miiran ninu itan agbaye, ti o ti ji dide ti o si goke lọ si ọrun ni ti ara."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Loni, itan-akọọlẹ ti aye ni a kà pẹlu Kristi. O fẹrẹ to ida 88 ti awọn orilẹ-ede agbaye tọju Ọjọ-isimi bi isinmi ati ṣe akiyesi ọjọ ajinde Kristi, ọjọ iṣẹgun, iṣẹgun lori iku ati ẹṣẹ."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Ojuse wa kan soso ni lati wa aabo ninu Re, lati fi ẹnu wa jẹwọ pe Jesu ni Oluwa, lati gbagbọ ninu ọkan wa pe Ọlọrun ji Kristi dide kuro ninu okú, ati lati jẹ ọmọ-ẹhin Rẹ ati tẹle awọn ofin Rẹ ati rin ni ọna igbesi aye, lẹhinna dajudaju, oun yoo jogun ijọba ọrun."
+        },
+        {
+          "type": "header",
+          "text": "Pataki ti Bibeli Mimọ"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Mo ti mẹnuba nibi awọn itọkasi lati inu Bibeli Mimọ lati Ṣàlàyé nipa <b>Iye ainipẹkun</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Ati kilode ti Bibeli jẹ iwe ti o gbẹkẹle? Bibeli ni a kọ ni igba ọdun 1700 si 1800 nipasẹ awọn onkọwe oriṣiriṣi ti o ju 40 lọ ni awọn ọjọ oriṣiriṣi ati ni awọn aaye oriṣiriṣi."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Bibeli Mimo kii ṣe iwe kan ṣoṣo, o jẹ apapọ awọn iwe 66, Ṣaaju Kristi 39 awọn iwe ti a kọ ti a npe ni 'Majẹmu Lailai' ati Lẹhin Kristi 27 awọn iwe ti a kọ ti a npe ni 'Majẹmu Titun'. Idi ti kikọ Bibeli Mimọ fẹrẹ jẹ kanna fun gbogbo awọn onkọwe, ni lati ṣafihan imọ nipa Ọlọrun (Ọlọrun Baba, Ọlọrun Ọmọ Jesu Kristi, ati Ọlọrun Ẹmi Mimọ), lati ṣafihan iru iṣẹda ati itan-akọọlẹ ti ẹda eniyan. Pẹlupẹlu Bibeli ni a mọ si awọn ilana Ọlọrun, Awọn ofin, Itan, Asọtẹlẹ, ati Ifihan. Pẹlupẹlu Bibeli Mimọ ni a mọ si IWE <b>IYE AINIPẸKUN</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "Bibeli Mimọ ko kọ nipa eniyan kan tabi eniyan meji si mẹta; ṣugbọn ọ̀kẹ́ àìmọye eniyan ni o kọ ọ pẹlu ẹri itan ati idi ti gbogbo eniyan fẹrẹ jẹ kanna, nitorinaa MO le sọ pe Bibeli Mimọ jẹ Iwe ti a fihan ati Iwe igbẹkẹle."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=YOR' target='_blank'>2 Timoteu 3:16</a> 'Gbogbo iwe-mimọ ti o ni ismiisi Ọlọrun li o si ni ere fun ẹkọ, fun ibaniwi, fun itọni, fun ikọni ni ododo:'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=YOR' target='_blank'>Johanu 20:31</a> 'Ṣugbọn wọnyi li a kọ, ki ẹnyin ki o le gbagbọ́ pe, Jesu ni Kristi na, Ọmọ Ọlọrun; ati pe nipa igbagbọ́, ki ẹnyin ki o le ni iye (<b>Iye Ainipẹkun</b>) li orukọ rẹ̀.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "A kọ Bibeli fun gbogbo ẹda eniyan lati gba idariji awọn ẹṣẹ, igbala ati <b>iye ainipẹkun</b> nipasẹ igbagbọ ninu Jesu Kristi. A ko kọ Bibeli Mimọ fun orilẹ-ede kan pato, kilaasi kan pato, ede kan pato, tabi awọn eniyan awọ kan pato; ṣugbọn a kọ ọ fun awọn eniyan ti gbogbo ede, ti gbogbo ẹya, ti gbogbo àwọ̀ ati ti gbogbo orilẹ-ede lori ile aye. Loni Bibeli Mimọ ni a mọ si Iwe ti a tẹjade julọ, ati pe Bibeli Mimọ wa ni fere gbogbo ede pataki."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Igbesi aye ṣe iyebiye ati <b>Iye Ainipẹkun</b> jẹ iye owo. Ọlọrun ṣe eto pataki kan fun wa olukuluku lati ni <b>iye ainipẹkun</b> laisi idiyele eyikeyi. Nítorí náà, ẹ jẹ́ kí a ní Ìwàláàyè lọpọlọpọ ati Ainipekun. Ki a si pin iriri <b>iye ainipẹkun</b> wa pẹlu awọn ẹlòmíràn ki Oluwa wa si di ologo."
+        },
+        {
+          "id": "Blessing",
+          "text": "Ki Oluwa bukun fun o ni opolopo, ki o si ni ibukun pẹlu <b>iye ainipẹkun</b> ki o si jẹ ara ilu ti ijọba ỌRUN."
+        }
+      ],
+      "title": "Ọrọ Iṣaaju",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

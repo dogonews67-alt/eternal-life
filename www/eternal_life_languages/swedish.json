@@ -1,0 +1,365 @@
+{
+  "title": "EVIGT LIV",
+  "chapters": [
+    {
+      "title": "Omslag",
+      "isCover": true,
+      "verses": []
+    },
+    {
+      "pageNumber": 1,
+      "verses": [
+        {
+          "id": "BookTitle",
+          "text": "<h1 class='book-title'>EVIGT LIV</h1>"
+        },
+        {
+          "id": "Intro",
+          "text": "<b>Evigt liv</b> är ett liv utan slut, betyder det att människan aldrig <b>kommer att dö? Hon</b> måste dö fysiskt, men andligt kommer hon att <b>leva för evigt i</b> himlen eller lida för evigt i helvetet. Låt oss diskutera detta kort nedan för att förstå detta ämne tydligt."
+        },
+        {
+          "type": "header",
+          "text": "Människan är en syndare"
+        },
+        {
+          "id": "Para 1",
+          "text": "Människan är en syndare från födseln, och i livet syndar hon i sina handlingar, sitt beteende, i sitt hörande, talande, seende och tänkande. I Matteus 5:28 säger Jesus: 'Men jag säger er: Den som ser på en kvinna med begär har redan begått äktenskapsbrott med henne i sitt hjärta.' Den som begår en synd i okunnighet räknas också som syndare, även om ingen ser det. Många människor tänker och säger: \"Vad för synd har jag begått?\" Det är inte bara en synd att döda, begå äktenskapsbrott, stjäla eller råna, utan också att ljuga, bedra, vara stolt, avundsjuk, girig, skvallra och tänka ont om andra. I själva verket är alla syndare från födseln."
+        },
+        {
+          "id": "Ecc 7:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Ecclesiastes%207:20&version=B2000' target='_blank'>Predikaren 7:20</a> 'Det finns ingen rättfärdig människa på jorden som alltid gör det goda och aldrig syndar.'"
+        },
+        {
+          "id": "Psa 51:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Psalm%2051:7&version=B2000' target='_blank'>Psaltaren 51:7</a> 'I synd föddes jag, moderlig orenhet häftade vid mig när jag blev till.'"
+        },
+        {
+          "id": "1John 5:17",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:17&version=B2000' target='_blank'>1 Johannesbrevet 5:17</a> 'Alla orättfärdighet är synd,'"
+        },
+        {
+          "id": "Rom 3:23",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:23&version=B2000' target='_blank'>Romarbrevet 3:23</a> 'Alla har syndat och gått miste om härligheten från Gud,'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "verses": [
+        {
+          "id": "Rom 5:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:12&version=B2000' target='_blank'>Romarbrevet 5:12</a> 'Genom en enda människa kom synden in i världen, och genom synden döden, och så nådde döden alla människor därför att de alla syndade.'"
+        },
+        {
+          "id": "Rom 6:23a",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=B2000' target='_blank'>Romarbrevet 6:23</a> 'Syndens lön är döden,'"
+        },
+        {
+          "id": "Para 2",
+          "text": "Varje människa måste dö fysiskt, men andligt leva <b>för evigt - i</b> helvetet eller i himlen, i evigt straff eller <b>evigt liv</b>, i evigt lidande eller evig glädje."
+        },
+        {
+          "id": "Para 3",
+          "text": "Varje person har syndat, och döden är säker för alla."
+        },
+        {
+          "type": "header",
+          "text": "Gud är helig och himlen är helig, så för att komma in i himlen måste vi vara heliga."
+        },
+        {
+          "id": "Lev 19:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2019:2&version=B2000' target='_blank'>3 Mosebok 19:2</a> 'Tala till hela Israels menighet: Ni skall vara heliga, ty jag, Herren, er Gud, är helig.'"
+        },
+        {
+          "id": "1Cor 6:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%206:9&version=B2000' target='_blank'>1 Korinthierbrevet 6:9</a> 'Vet ni inte att inga orättfärdiga skall få ärva Guds rike? Bedra inte er själva:'"
+        },
+        {
+          "type": "header",
+          "text": "Så hur kan en person vara rättfärdig eller helig?"
+        },
+        {
+          "id": "Heb 9:22",
+          "text": "Hebreerbrevet 9:22 'Så renas enligt lagen nästan <b>allting med blod, och utan</b> att blod utgjuts ges ingen förlåtelse.'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "verses": [
+        {
+          "id": "Para 4",
+          "text": "Att bli förlåten från synd är att vara helig eller att vara rättfärdig."
+        },
+        {
+          "type": "header",
+          "text": "Varför är blod viktigt?"
+        },
+        {
+          "id": "Lev 17:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Leviticus%2017:11&version=B2000' target='_blank'>3 Mosebok 17:11</a> 'ty varelsernas liv är i blodet, och jag har gett er det för att ni skall stänka det på altaret och bringa försoning åt er själva; blodet ger försoning eftersom livet är i det.'"
+        },
+        {
+          "id": "Para 5",
+          "text": "Eftersom livaet är i blodet kan ingen betala livets pris. Och ingen människa kan förlänga livet ens ett ögonblick av egen kraft. Jesus Kristus öppnade vägen för mänsklighetens förlossning genom att offra sitt dyrbara blod eller sitt dyrbara Liv."
+        },
+        {
+          "id": "Heb 9:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Hebrews%209:12&version=B2000' target='_blank'>Hebreerbrevet 9:12</a> 'och gick en gång för alla in i helgedomen, inte med bockars och kalvars blod utan med sitt eget, och vann en evig förlossning.'"
+        },
+        {
+          "id": "Para 6",
+          "text": "Jesus Kristus visade sin kärlek genom att offra sitt liv för hela mänskligheten. Enligt Johannes 15:13 - 'Ingen har större kärlek än den som ger sitt liv för sina vänner.' Vi kan inte hitta något annat exempel i världshistorien på denna typ av kärlek utom Jesus Kristus."
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "verses": [
+        {
+          "id": "1John 1:7",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%201:7&version=B2000' target='_blank'>1 Johannesbrevet 1:7</a> 'Men om vi vandrar i ljuset, liksom han är i ljuset, då har vi gemenskap med varandra, och blodet från Jesus, <b>hans son, renar oss från all synd.'</b>"
+        },
+        {
+          "id": "1Cor 15:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20Corinthians%2015:3&version=B2000' target='_blank'>1 Korinthierbrevet 15:3</a> 'Bland det första jag förde vidare till er var detta som jag själv hade tagit emot: att <b>Kristus dog för</b> våra synder i enlighet med skrifterna, att han blev begravd, att han uppstod på tredje dagen i enlighet med skrifterna,'"
+        },
+        {
+          "id": "Rev 1:5",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Revelation%201:5&version=B2000' target='_blank'>Uppenbarelseboken 1:5</a> 'och från Jesus Kristus, det trovärdiga vittnet, den förstfödde från de döda och härskaren över jordens konungar. Han som älskar <b>oss och har löst oss från våra synder med sitt blod'</b>"
+        },
+        {
+          "id": "Matt 9:2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%209:2&version=B2000' target='_blank'>Matteus 9:2</a> 'Där kom de till honom med en lam som låg på en bår. När Jesus såg deras tro sade han till den lame: 'Var inte orolig, <b>mitt barn, <b>dina synder är förlåtna.'''</b></b>"
+        },
+        {
+          "id": "Para 7",
+          "text": "I detta uttalande förlåter Jesus <b>direkt den lame</b> mannens synder, eftersom Jesus kan förlåta människans synd, och samtidigt förklarar han sig vara Gud, eftersom ingen utom Gud kan förlåta synd."
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "verses": [
+        {
+          "id": "Acts 10:43",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%2010:43&version=B2000' target='_blank'>Apostlagärningarna 10:43</a> 'Om honom (Kristus) vittnar alla profeterna att var och en som tror på honom skall få syndernas förlåtelse genom hans namn.'"
+        },
+        {
+          "id": "Acts 4:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Acts%204:12&version=B2000' target='_blank'>Apostlagärningarna 4:12</a> 'Hos ingen annan finns frälsningen, och ingenstans bland människor under himlen finns något annat namn som kan rädda oss' utom Jesus Kristus från Nasaret."
+        },
+        {
+          "id": "1John 2:2",
+          "text": "1 Johannesbrevet 2:2 'Han <b>(Kristus) är det offer som sonar våra synder och inte bara våra utan hela världens.'</b>"
+        },
+        {
+          "id": "John 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:16&version=B2000' target='_blank'>Johannes 3:16</a> 'Så älskade Gud (Skaparen) världen (mänskligheten) att han gav den sin ende son (Jesus Kristus), för att de som tror på honom inte skall gå under utan ha <b>evigt liv</b>.'"
+        },
+        {
+          "id": "John 1:12",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%201:12&version=B2000' target='_blank'>Johannes 1:12</a> 'Men åt dem som tog emot honom (Jesus) gav han rätten att bli Guds barn, åt alla som tror på hans namn (Jesus),'"
+        },
+        {
+          "id": "Para 8",
+          "text": "Ordet 'Guds barn' är inte ett enkelt ord, de som trodde och accepterade Jesus som sin Herre, räknas som medborgare i himlen, räknas som heliga människor, alla deras synder är förlåtna."
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "verses": [
+        {
+          "id": "Rom 8:1-2",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%208:1-2&version=B2000' target='_blank'>Romarbrevet 8:1-2</a> 'Nu blir det alltså ingen fällande dom för dem som tillhör Kristus Jesus. Andens lag, som ger liv i Kristus Jesus, har gjort mig fri från syndens och dödens lag.'"
+        },
+        {
+          "id": "Rom 5:9",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%205:9&version=B2000' target='_blank'>Romarbrevet 5:9</a> 'När vi nu har gjorts rättfärdiga genom hans blod (Jesus), skall vi förvisso genom honom räddas från vreden.'"
+        },
+        {
+          "id": "Rom 3:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%203:24&version=B2000' target='_blank'>Romarbrevet 3:24</a> 'och de görs rättfärdiga genom hans nåd (Jesus), utan att ha förtjänat det, tack vare friköpningen i Kristus Jesus.'"
+        },
+        {
+          "id": "John 14:6",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2014:6&version=B2000' target='_blank'>Johannes 14:6</a> 'Jesus svarade: jag är vägen, sanningen och livet. Ingen kommer till Fadern (som är i himlen) utom genom mig.'"
+        },
+        {
+          "type": "header",
+          "text": "Endast de som tror på Jesus Kristus, bara de kan komma in i himlen, det kallas <b>evigt liv</b>."
+        },
+        {
+          "id": "John 3:15",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%203:15&version=B2000' target='_blank'>Johannes 3:15</a> 'för att de som tror på honom skall ha <b>evigt liv</b>.'"
+        },
+        {
+          "id": "Rom 6:23b",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%206:23&version=B2000' target='_blank'>Romarbrevet 6:23</a> 'Syndens lön är döden, men Guds gåva är <b>evigt liv</b> i Kristus Jesus, vår herre.'"
+        },
+        {
+          "id": "John 5:24",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%205:24&version=B2000' target='_blank'>Johannes 5:24</a> Jesus säger - 'Sannerligen, jag säger er: <b>den som hör mitt ord</b> och tror på honom som har sänt mig'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "verses": [
+        {
+          "id": "John 11:25-26",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2011:25-26&version=B2000' target='_blank'>Johannes 11:25-26</a> Jesus sade: 'Jag är uppståndelsen och livet. Den som tror på mig skall leva om han än dör, och den som lever och tror på mig skall aldrig <b>någonsin dö. Tror du detta?'</b>"
+        },
+        {
+          "id": "John 6:51",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:51&version=B2000' target='_blank'>Johannes 6:51</a> 'Jag (Kristus) är det levande brödet, som har kommit ner från himlen. Den som äter av det <b>brödet skall leva i evighet.</b> Brödet jag skall ge är mitt kött, jag ger det för att världen skall leva.'"
+        },
+        {
+          "id": "Para 9",
+          "text": "Jesus använde ordet '<b>Evigt liv</b>' i Johannesevangeliet omkring 17 gånger, 12 gånger använde han det för nutid, bara 5 gånger använde han det för framtiden. De flesta av oss tror att det eviga livet bara är för framtiden, men Bibeln säger tydligt att det är för både nutid och framtid. De som är helt med Jesus, de som trodde och accepterade Jesus som sin personliga Herre och Frälsare, de kan säga att <b>EVIGT LIV</b> är med dem, de är redan välsignade med <b>evigt liv</b>."
+        },
+        {
+          "id": "1John 5:11",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:11&version=B2000' target='_blank'>1 Johannesbrevet 5:11</a> 'Och detta är vittnesbördet: Gud har gett oss <b>evigt liv</b>, och det livet finns i hans son (Kristus).'"
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "verses": [
+        {
+          "id": "John 17:3",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2017:3&version=B2000' target='_blank'>Johannes 17:3</a> 'Och <b>detta är det eviga livet:</b> att de känner dig, den ende sanne Guden, och honom som du har sänt, Jesus Kristus.'"
+        },
+        {
+          "id": "John 12:50",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2012:50&version=B2000' target='_blank'>Johannes 12:50</a> Jesus sade - 'Och jag vet att hans (Gud) befallning är <b>evigt liv</b>. Vad jag talar talar jag därför så som Fadern har lärt mig.'"
+        },
+        {
+          "id": "1John 5:20",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=1%20John%205:20&version=B2000' target='_blank'>1 Johannesbrevet 5:20</a> 'Vi vet att Guds son har kommit och gett oss förstånd så att vi känner den Sanne, och vi lever i den Sanne, i hans son Jesus Kristus. Han är den <b>sanne Guden och det eviga livet.'</b>"
+        },
+        {
+          "id": "John 6:47",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%206:47&version=B2000' target='_blank'>Johannes 6:47</a> 'Sannerligen, jag säger er: den som tror (på Kristus) har <b>evigt liv</b>.'"
+        },
+        {
+          "type": "header",
+          "text": "Vad betyder det att tro?"
+        },
+        {
+          "id": "Para 10",
+          "text": "Demonerna tror också på Jesus, det betyder inte att de kommer att få <b>evigt liv</b>. Jakobsbrevet 2:19 Du tror att Gud är en. Det gör du rätt i. Också de onda andarna tror det, och darrar."
+        },
+        {
+          "type": "header",
+          "text": "Ångra din synd, bekänn att Gud uppväckte Jesus Kristus från de döda, och acceptera Jesus Kristus som din personliga frälsare och Herre. - det kallas att tro på Jesus Kristus."
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "verses": [
+        {
+          "id": "Rom 10:9-10",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Romans%2010:9-10&version=B2000' target='_blank'>Romarbrevet 10:9-10</a> 'Ty om du med din mun bekänner att Jesus är herre, och i ditt hjärta tror att Gud har uppväckt honom från de döda, skall du bli räddad. Hjärtats tro leder till rättfärdighet och munnens bekännelse till räddning.'"
+        },
+        {
+          "id": "Matt 10:32-33",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=Matthew%2010:32-33&version=B2000' target='_blank'>Matteus 10:32-33</a> 'Var och en som känns vid mig inför människorna, honom skall jag kännas vid inför min fader i himlen. Men den som förnekar mig inför människorna, honom skall jag förneka inför min fader i himlen.'"
+        },
+        {
+          "id": "Para 11",
+          "text": "Frälsning eller förlåtelse för synden är nyckeln till <b>evigt liv. Endast Jesus Kristus kan rädda mänskligheten</b>, eftersom ingen annan i världen offrade sitt blod utom Jesus Kristus, Jesus ensam offrade sitt heliga blod som ett slutgiltigt offer för mänskligheten. Det är därför han kan rädda hela mänskligheten."
+        },
+        {
+          "type": "header",
+          "text": "Vikten av Jesus Kristus:"
+        },
+        {
+          "id": "Para 12",
+          "text": "Det fanns många profetior om Jesus Kristus mellan 1700 f.Kr. och 400 f.Kr., om Hans födelse, om Hans straff, om Hans död på korset, om Hans uppståndelse på tredje dagen efter Hans död etc. Forskare uppskattar att Jesus Kristus uppfyllde mer än 300 av Gamla testamentets profetior. Även efter uppståndelsen, Kristus levde med lärjungarna och predikade om himmelriket, och på den 40:e dagen efter sin uppståndelse for han upp till himlen i sin kroppsliga form."
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "verses": [
+        {
+          "id": "Para 10_2",
+          "text": "Förutom Kristus finns det ingen annan person i världshistorien som har uppstått och stigit upp till himlen kroppsligen."
+        },
+        {
+          "id": "Para 10_3",
+          "text": "Idag räknas jordens historia med Kristus. Cirka 88 procent av världens länder håller söndag som helgdag och firar dagen för Kristi uppståndelse, segerns dag, segern över döden och synden."
+        },
+        {
+          "id": "Para 10_4",
+          "text": "Vår enda plikt är att ta vår tillflykt till Honom, att bekänna med vår mun att Jesus är Herren, att tro i våra hjärtan att Gud uppväckte Kristus från de döda, och att vara Hans lärjungar och följa Hans bud och vandra på livets väg, då kommer han/hon säkert att äga himmelriket."
+        },
+        {
+          "type": "header",
+          "text": "Den Heliga Bibelns betydelse"
+        },
+        {
+          "id": "Para 10_5",
+          "text": "Jag har här nämnt referenserna från Den Heliga Bibeln för att förklara om <b>Evigt liv</b>."
+        },
+        {
+          "id": "Para 10_6",
+          "text": "Och varför är Bibeln en pålitlig bok? Bibeln skrevs under en period av 1700 till 1800 år av mer än 40 olika författare under olika tider och på olika platser."
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "verses": [
+        {
+          "id": "Para 13",
+          "text": "Bibeln inte en enda bok, det är en kombination av 66 böcker, före Kristus skrevs 39 böcker som kallas 'Gamla testamentet' och efter Kristus skrevs 27 böcker som kallas 'Nya testamentet'. Syftet med att skriva Bibeln är nästan detsamma för alla författare, det är att uppenbara kunskapen om Guden (Gud Fader, Gud Sonen Jesus Kristus och Gud den Helige Ande), att uppenbara Skapelsens natur och mänsklighetens historia. Också Bibeln är känd som Guds instruktioner, lagar, historia, profetior och uppenbarelse. Också Bibeln är känd som BOKEN OM <b>EVIGT LIV</b>."
+        },
+        {
+          "id": "Para 14",
+          "text": "Bibeln är inte skriven av en enda eller 2-3 personer; men skriven av 40 olika personer med historiska bevis och syftet med alla är nästan detsamma, så jag kan säga att Bibeln är en bevisad och pålitlig bok."
+        },
+        {
+          "id": "2Tim 3:16",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=2%20Timothy%203:16&version=B2000' target='_blank'>2 Timotheosbrevet 3:16</a> 'Varje bok i skriften (Bibeln) är inspirerad av Gud och till nytta när man undervisar, vederlägger, vägleder och fostrar till ett rättfärdigt liv,'"
+        },
+        {
+          "id": "John 20:31",
+          "text": "<a href='https://www.biblegateway.com/passage/?search=John%2020:31&version=B2000' target='_blank'>Johannes 20:31</a> 'Men dessa (Bibeln) har tecknats ner för att ni skall tro att Jesus är Messias, Guds son, och för att ni genom att tro skall ha liv (<b>evigt liv</b>) i hans namn.'"
+        },
+        {
+          "id": "Para 15",
+          "text": "Bibeln är skriven för att hela mänskligheten ska få syndernas förlåtelse, frälsning och <b>evigt liv</b> genom tron på Jesus Kristus. Bibeln är inte bara skriven för ett specifikt land, en specifik klass, ett specifikt språk, en specifik hudfärg; Men den är skriven för människor av alla språk, alla stammar, alla färger och alla nationer på jorden. Idag är Bibeln känd som den mest tryckta boken, och Bibeln finns tillgänglig på nästan alla större språk."
+        }
+      ]
+    },
+    {
+      "verses": [
+        {
+          "id": "Back Cover",
+          "text": "Livet är så dyrbart och <b>evigt liv</b> är ovärderligt. Gud gjorde en speciell plan för att var och en av oss ska få <b>evigt liv</b> utan någon kostnad. Så låt oss ha ett överflödande och <b>evigt liv</b>. Och dela vår upplevelse av <b>evigt liv</b> med andra och må vår Herre bli ärad."
+        },
+        {
+          "id": "Blessing",
+          "text": "Må Herren välsigna dig rikligt, bli välsignad <b>med det eviga livet och</b> vara en medborgare i HIMMELENS rike."
+        }
+      ],
+      "title": "Förord",
+      "pageNumber": 12
+    },
+    {
+      "title": "Author",
+      "verses": [
+        {
+          "id": "AuthorInfo",
+          "text": "Dr. Bikash Ranjan Digal\nMBA(HR), M.Div., D.Min.\nEmail – bikashrd@gmail.com\nWhatsApp - +919178846554\nMinistering in South Asia region with the Digital and Audio Scriptures."
+        }
+      ],
+      "pageNumber": 13
+    }
+  ]
+}

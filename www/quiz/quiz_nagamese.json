@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Bible Quiz",
+  "questions": [
+    {
+      "question": "Kun Ark banaise?",
+      "options": [
+        "Moses",
+        "Noah",
+        "David",
+        "Solomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "John the Baptist ki alag khana khaise?",
+      "options": [
+        "Foring aru Mou",
+        "Ruti aru Maas",
+        "Dumur aru Olives",
+        "Mera aru Herbs"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun manuh iman strong asile je tai khali haat di lion mari dise?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliath",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kar coat bohut color laga asile juntu karone tai laga dinda khan jolos hoise?",
+      "options": [
+        "Benjamin",
+        "Joseph",
+        "Reuben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Moses kunto sagor bhag korise Egyptians pora polabo karone?",
+      "options": [
+        "Mora Sagor",
+        "Galilee",
+        "Lal Sagor",
+        "Mediterranean"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kak dangor maas gili dise?",
+      "options": [
+        "Jonah",
+        "Peter",
+        "Paul",
+        "Noah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun maiki pichete saikena nimok khunda hoise?",
+      "options": [
+        "Sarah",
+        "Lot laga maiki",
+        "Rebekah",
+        "Leah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun giant Goliath ke sling di harai dise?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun chutu manuh sycamore gach te uthise Jisu ke sabole?",
+      "options": [
+        "Bartimaeus",
+        "Zacchaeus",
+        "Matthew",
+        "Nicodemus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki juntu prophet Balaam logote kotha koise?",
+      "options": [
+        "Ekta Lion",
+        "Ekta Mera",
+        "Ekta Gada",
+        "Ekta Ut"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Bible te purthom murderer kun asile?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Seth",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kak lion laga ghaar te phelai dise kintu bachise?",
+      "options": [
+        "Daniel",
+        "Joseph",
+        "Shadrach",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun left-handed judge ekta mota roja ke lukai thaka sword di mari dise?",
+      "options": [
+        "Gideon",
+        "Ehud",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kun Jisu ke 30 silver piece karone thokise?",
+      "options": [
+        "Peter",
+        "Judas Iscariot",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun chutu lora rati te Isor tai laga naam mata hunise?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isaac",
+        "Joseph"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun pani uporte beray kena Jisu logote jaise?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Andrew"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Moru te Israelites ke khabole akash pora ki girise?",
+      "options": [
+        "Ruti",
+        "Quail",
+        "Manna",
+        "Dumur"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Bible te sobse strong manuh kun ase?",
+      "options": [
+        "Goliath",
+        "Samson",
+        "Boaz",
+        "Esau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun Rani Jewish manuh khan ke maribole plan pora bachai dise?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Jezebel",
+        "Bathsheba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Muruga nraka aagote kun tinta bar Jisu ke najane koi dise?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Peter",
+        "Philip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Cana saadi te Jisu ki miracle korise?",
+      "options": [
+        "Andha manuh bhal korise",
+        "Pani ke wine banaise",
+        "Pani uporte beraise",
+        "Ruti besi banaise"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Israelites ghuria pichete kun city laga wall giri jaise?",
+      "options": [
+        "Jerusalem",
+        "Jericho",
+        "Ai",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun 'Kandi thaka Prophet' asile?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Hosea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Delilah kar suli kati dise aru tai takot hari jaise?",
+      "options": [
+        "Samson",
+        "David",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Jisu pichete jabole aagote kun disciple tax collector asile?",
+      "options": [
+        "Luke",
+        "Matthew",
+        "Mark",
+        "John"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Jisu uthia pichete purthom manuh kun tai ke dikhise?",
+      "options": [
+        "Peter",
+        "John",
+        "Mary Magdalene",
+        "Tai laga ama Mary"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun biya Rani ke kukur khai dise?",
+      "options": [
+        "Esther",
+        "Jezebel",
+        "Athaliah",
+        "Herodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kun dui spy ke tai laga chat te lukai dise?",
+      "options": [
+        "Ruth",
+        "Rahab",
+        "Sarah",
+        "Deborah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Raja Saul ke shanti dibole David ki instrument bojaise?",
+      "options": [
+        "Trumpet",
+        "Harp/Lyre",
+        "Flute",
+        "Tambourine"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Damascus rasta te kun andha hoi jaise?",
+      "options": [
+        "Peter",
+        "Stephen",
+        "Saul (Paul)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun prophet ke kauwa (ravens) khana dise?",
+      "options": [
+        "Elisha",
+        "Elijah",
+        "Isaiah",
+        "Jeremiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun tai laga baba laga murti (idols) churi korise?",
+      "options": [
+        "Leah",
+        "Rachel",
+        "Rebekah",
+        "Dinah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kun khiriki pora girise kilekoile Paul besi der tak kotha koise?",
+      "options": [
+        "Timothy",
+        "Eutychus",
+        "Tychicus",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kun bacha ke basket te hali kena Nile nodi te phelai dise?",
+      "options": [
+        "Aaron",
+        "Moses",
+        "Joshua",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun rati te Isor (angel) logote juddo korise?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Esau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun Isor logote buddhi (wisdom) mangise?",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Hezekiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun maiki Jisu laga kapra chui kena bhal hoi jaise?",
+      "options": [
+        "Ekta leper",
+        "Bikar thaka maiki",
+        "Andha manuh",
+        "Lengra manuh"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun Raja pagol hoi kena ghas khaise?",
+      "options": [
+        "Belshazzar",
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kun Holy Spirit logote paisa karone micha kotha koise aru morise?",
+      "options": [
+        "Ananias aru Sapphira",
+        "Priscilla aru Aquila",
+        "Adam aru Eve",
+        "Ahab aru Jezebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Kun disciple Jisu ke biswaas kora nai (Doubting)?",
+      "options": [
+        "Peter",
+        "Thomas",
+        "Philip",
+        "Andrew"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Noah laga Ark te kopu (dove) ki anise?",
+      "options": [
+        "Dumur paat",
+        "Olive paat (branch)",
+        "Poka",
+        "Golap"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kar 700 maiki (wives) asile?",
+      "options": [
+        "David",
+        "Solomon",
+        "Rehoboam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun tai laga dangor odhikar (birthright) ek bati dali (stew) karone bechi dise?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Joseph",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun prophet kurhal (axe) pani uporte bhasai dise?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kun Jisu ke bacha thaka somoy te Messiah ase koi kena chinise?",
+      "options": [
+        "Simeon",
+        "Joseph",
+        "Nicodemus",
+        "Peter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kun Surjo aru Chand ke rukhi jabo koise?",
+      "options": [
+        "Moses",
+        "Joshua",
+        "David",
+        "Gideon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kun disciple High Priest laga noukar laga kaan kati dise?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun Mount Sinai te dos (10) Commandments anibole jaise?",
+      "options": [
+        "Aaron",
+        "Joshua",
+        "Moses",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Israel laga purthom Raja kun asile?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun dhoni manuh Jisu ke tai laga notun kabar (tomb) te rakhise?",
+      "options": [
+        "Nicodemus",
+        "Joseph of Arimathea",
+        "Simon of Cyrene",
+        "Lazarus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Malta island te Paul ke ki haap (snake) kamurise?",
+      "options": [
+        "Cobra",
+        "Viper",
+        "Python",
+        "Rattlesnake"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "John the Baptist laga ama kun asile?",
+      "options": [
+        "Mary",
+        "Elizabeth",
+        "Martha",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun khali 300 manuh loikena Midianites ke harai dise?",
+      "options": [
+        "Samson",
+        "Gideon",
+        "Barak",
+        "Jephthah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun tinjun manuh sona murti ke puja kora nai aru jui te phelai dise?",
+      "options": [
+        "Daniel",
+        "Shadrach, Meshach, aru Abednego",
+        "Ezra aru Nehemiah",
+        "Paul aru Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun Jisu ke moribo diso kintu 'Moi eku nai' koi kena haat dhoi loise?",
+      "options": [
+        "Herod",
+        "Caiaphas",
+        "Pontius Pilate",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kak 'Isor laga sathi' (Friend of God) koi?",
+      "options": [
+        "Moses",
+        "Abraham",
+        "David",
+        "Noah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun prophet ke dangor maas gili dise?",
+      "options": [
+        "Jonah",
+        "Micah",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun dewal te likha kotha porhi dise?",
+      "options": [
+        "Joseph",
+        "Daniel",
+        "Ezekiel",
+        "Isaiah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kun maiki Judge asile?",
+      "options": [
+        "Ruth",
+        "Deborah",
+        "Esther",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun ekta bacha uporte tin bar hute kena jibon anise?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Peter",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "David laga kun lora suli gach te phasi kena morise?",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Adonijah",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Moru (desert) te Isor Moses logote kotha kobole ki cholaise?",
+      "options": [
+        "Joli thaka ghas (Burning bush)",
+        "Badal",
+        "Hawa",
+        "Gada"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Good Samaritan kotha te, kun ghav laga manuh ke modot korise?",
+      "options": [
+        "Priest",
+        "Levite",
+        "Samaritan",
+        "Roman Sipahi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Bible te sobse bura manuh kun asile (969 years)?",
+      "options": [
+        "Noah",
+        "Adam",
+        "Methuselah",
+        "Enoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun disciple pani uporte berabo try korise kintu dubi jaise?",
+      "options": [
+        "James",
+        "John",
+        "Peter",
+        "Andrew"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Isor kun city jui di dhongsho kori dise?",
+      "options": [
+        "Jericho",
+        "Nineveh",
+        "Sodom",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun sapun te siri (ladder) dikhise juntu akash tak jaise?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Joseph"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Isor pora bana purthom manuh kun asile?",
+      "options": [
+        "Cain",
+        "Abel",
+        "Adam",
+        "Noah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun purthom maiki asile, Adam laga haddi pora bana?",
+      "options": [
+        "Sarah",
+        "Eve",
+        "Mary",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun prophet ke kada kua (muddy cistern) te phelai dise?",
+      "options": [
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kun sobse gyaani (wisest) Raja asile?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Hezekiah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Egypt te 10th plague bachibole Israelites khan dorja te ki lagais?",
+      "options": [
+        "Mera laga khun",
+        "Tel",
+        "Pani",
+        "Saa (Ashes)"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun bidhba (widow) ke ruti banabo koise last moinda di?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Isaiah",
+        "Jeremiah"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Babel te Isor manuh khan laga ki bodli kori dise?",
+      "options": [
+        "Chehera",
+        "Bhasha (Language)",
+        "Kapra",
+        "Naam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun Jisu ke baptism dise?",
+      "options": [
+        "Peter",
+        "Paul",
+        "John the Baptist",
+        "James"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun Lazaruz ke mora pora uthaise?",
+      "options": [
+        "Elijah",
+        "Elisha",
+        "Jesus",
+        "Paul"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun bagan (Garden) te Adam aru Eve thakise?",
+      "options": [
+        "Gethsemane",
+        "Eden",
+        "Olives",
+        "Babylon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun pathor laga tablet te 10 Commandments likhise?",
+      "options": [
+        "Moses",
+        "Isor (God)",
+        "Aaron",
+        "Joshua"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Prodigal Son kotha te, baba tai laga lora karone ki korise?",
+      "options": [
+        "Tai ke khedai dise",
+        "Tai ke mari dise",
+        "Dangor party dise",
+        "Tai ke ignore korise"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun Jisu ke tin bar 'Moi najane' koise?",
+      "options": [
+        "Judas",
+        "Peter",
+        "Thomas",
+        "John"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Stephen ke kineka mari dise?",
+      "options": [
+        "Sword di",
+        "Jui di",
+        "Pathor di (Stoning)",
+        "Cross te"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun 12 spies bhitor te khali duijun bhal khobor anise?",
+      "options": [
+        "Joshua aru Caleb",
+        "Moses aru Aaron",
+        "David aru Jonathan",
+        "Paul aru Silas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun maiki Jisu laga theng (feet) tel aru suli di sapha korise?",
+      "options": [
+        "Martha",
+        "Mary",
+        "Salome",
+        "Joanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun Pharisee Jisu logote rati te kotha kobole ahise?",
+      "options": [
+        "Nicodemus",
+        "Gamaliel",
+        "Joseph",
+        "Caiaphas"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kun sagor (sea) te Jisu tuphan (storm) rukhaise?",
+      "options": [
+        "Dead Sea",
+        "Red Sea",
+        "Sea of Galilee",
+        "Mediterranean"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Paul laga aagote naam ki asile?",
+      "options": [
+        "Simon",
+        "Saul",
+        "Levi",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun Isor ke koise 'Moi jabo, muke pothabi'?",
+      "options": [
+        "Jeremiah",
+        "Isaiah",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun Raja Jisu jonom time te sob bacha ke maribole koise?",
+      "options": [
+        "Herod",
+        "Pilate",
+        "Caesar",
+        "Pharaoh"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Bible te kotob (books) kiman ase?",
+      "options": [
+        "50",
+        "60",
+        "66",
+        "70"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "New Testament te kotob (books) kiman ase?",
+      "options": [
+        "20",
+        "27",
+        "39",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Old Testament te kotob (books) kiman ase?",
+      "options": [
+        "27",
+        "39",
+        "40",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun Ark of Covenant chui kena morise?",
+      "options": [
+        "Uzzah",
+        "David",
+        "Saul",
+        "Aaron"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Samson laga takot kote asile?",
+      "options": [
+        "Tai laga haat te",
+        "Tai laga suli te",
+        "Tai laga চোখ te",
+        "Tai laga kotha te"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jisu kun jagah te jonom hoise?",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Bethlehem",
+        "Egypt"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kun Jisu laga rasta banaise?",
+      "options": [
+        "Moses",
+        "Elijah",
+        "John the Baptist",
+        "Isaiah"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kun 'Father of Faith' ase?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Moses"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Pentecost din te ki ahise?",
+      "options": [
+        "Holy Spirit",
+        "Jui",
+        "Pani",
+        "Tuphan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 4
+    },
+    {
+      "question": "Kun Jisu logote Cross te morise?",
+      "options": [
+        "Dui chor (Thieves)",
+        "Soldiers",
+        "Disciples",
+        "Angels"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Revelation te notun city laga naam ki ase?",
+      "options": [
+        "New Babylon",
+        "New Rome",
+        "New Jerusalem",
+        "New Eden"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kun 'Alpha aru Omega' ase?",
+      "options": [
+        "Moses",
+        "David",
+        "Jesus",
+        "Paul"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    }
+  ]
+}

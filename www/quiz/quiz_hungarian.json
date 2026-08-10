@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Bibliai Kvíz",
+  "questions": [
+    {
+      "question": "Ki építette a bárkát?",
+      "options": [
+        "Mózes",
+        "Noé",
+        "Dávid",
+        "Salamon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Milyen szokatlan ételt evett Keresztelő János a pusztában?",
+      "options": [
+        "Sáskát és erdei mézet",
+        "Kenyeret és halat",
+        "Fügét és olajbogyót",
+        "Bárányt és füveket"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Melyik férfi volt olyan erős, hogy puszta kézzel ölt meg egy oroszlánt?",
+      "options": [
+        "Dávid",
+        "Sámson",
+        "Góliát",
+        "Káleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kinek volt tarka ruhája, amire a testvérei féltékenyek voltak?",
+      "options": [
+        "Benjámin",
+        "József",
+        "Rúben",
+        "Dán"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik tengert választotta ketté Mózes, hogy elmeneküljön az egyiptomiak elől?",
+      "options": [
+        "Holt-tenger",
+        "Galileai-tenger",
+        "Vörös-tenger",
+        "Földközi-tenger"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kit nyelt el egy nagy hal?",
+      "options": [
+        "Jónás",
+        "Péter",
+        "Pál",
+        "Noé"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Melyik asszony változott sóbálvánnyá, mert visszanézett?",
+      "options": [
+        "Sára",
+        "Lót felesége",
+        "Rebeka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki győzte le a parittyájával a hatalmas harcost, Góliátot?",
+      "options": [
+        "Saul",
+        "Jonatán",
+        "Dávid",
+        "Sámuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Melyik alacsony termetű ember mászott fel egy vadfügefára, hogy lássa Jézust?",
+      "options": [
+        "Bartimeus",
+        "Zákeus",
+        "Máté",
+        "Nikodémus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik állat beszélt Bálám prófétához?",
+      "options": [
+        "Egy oroszlán",
+        "Egy juh",
+        "Egy szamár",
+        "Egy teve"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki volt az első gyilkos a Bibliában?",
+      "options": [
+        "Káin",
+        "Ábel",
+        "Sét",
+        "Lámek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kit dobtak az oroszlánok vermébe, de túlélte?",
+      "options": [
+        "Dániel",
+        "József",
+        "Sidrák",
+        "Jeremiás"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik balkezes bíró ölt meg egy kövér királyt egy elrejtett karddal?",
+      "options": [
+        "Gedeon",
+        "Éhud",
+        "Sámson",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ki árulta el Jézust 30 ezüstpénzért?",
+      "options": [
+        "Péter",
+        "Júdás Iskariótes",
+        "Poncius Pilátus",
+        "Kajafás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik fiatal fiú hallotta, amint Isten a nevén szólítja éjszaka, miközben aludt?",
+      "options": [
+        "Dávid",
+        "Sámuel",
+        "Izsák",
+        "József"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik tanítvány járt a vízen, hogy találkozzon Jézussal?",
+      "options": [
+        "Jakab",
+        "János",
+        "Péter",
+        "András"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Mit küldött Isten az izraelitáknak eledelül a pusztában?",
+      "options": [
+        "Kenyeret",
+        "Fürjeket",
+        "Mannát",
+        "Fügét"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kit tartanak a Biblia legerősebb emberének?",
+      "options": [
+        "Góliát",
+        "Sámson",
+        "Boáz",
+        "Ézsau"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Melyik királynő mentette meg népét a népirtástól?",
+      "options": [
+        "Ruth",
+        "Eszter",
+        "Jezabel",
+        "Betsabé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki tagadta meg Jézust háromszor, mielőtt a kakas megszólalt?",
+      "options": [
+        "Tamás",
+        "Júdás",
+        "Péter",
+        "Fülöp"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Mi volt Jézus első csodája a kanai menyegzőn?",
+      "options": [
+        "Vak meggyógyítása",
+        "Víz borrá változtatása",
+        "Vízen járás",
+        "Ötezer ember megvendégelése"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Melyik város falai omlottak le azután, hogy az izraeliták hétszer megkerülték?",
+      "options": [
+        "Jeruzsálem",
+        "Jerikó",
+        "Ai",
+        "Babilon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki az, akit 'Síró prófétaként' ismernek?",
+      "options": [
+        "Ézsaiás",
+        "Jeremiás",
+        "Ezékiel",
+        "Hóseás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Ki vágta le Sámson haját, ami az ereje elvesztéséhez vezetett?",
+      "options": [
+        "Delila",
+        "Sára",
+        "Mikál",
+        "Abigél"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Mi volt Máté foglalkozása, mielőtt Jézus tanítványa lett?",
+      "options": [
+        "Halász",
+        "Vámszedő (adóbeszedő)",
+        "Ács",
+        "Pásztor"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki volt az első ember, aki látta Jézust a feltámadás után?",
+      "options": [
+        "Péter",
+        "János",
+        "Mária Magdolna",
+        "Mária, az anyja"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Melyik gonosz királynőt ették meg a kutyák?",
+      "options": [
+        "Eszter",
+        "Jezabel",
+        "Atália",
+        "Heródiás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ki rejtett el két kémet a háza tetején?",
+      "options": [
+        "Ruth",
+        "Ráháb",
+        "Sára",
+        "Debóra"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Milyen hangszeren játszott Dávid, hogy megnyugtassa Saul királyt?",
+      "options": [
+        "Trombita",
+        "Hárfa",
+        "Fuvola",
+        "Dob"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki vakult meg a damaszkuszi úton?",
+      "options": [
+        "Péter",
+        "István",
+        "Saulus (Pál)",
+        "Barnabás"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik prófétát etették a hollók?",
+      "options": [
+        "Elizeus",
+        "Illés",
+        "Ézsaiás",
+        "Jeremiás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki lopta el apja házi bálványait?",
+      "options": [
+        "Lea",
+        "Ráhel",
+        "Rebeka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Ki esett ki az ablakon és halt meg, miközben Pál hosszú ideig prédikált?",
+      "options": [
+        "Timóteus",
+        "Eutikhus",
+        "Tikhikus",
+        "Silás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Melyik csecsemőt találták meg egy kosárban a Nílus folyóban?",
+      "options": [
+        "Áron",
+        "Mózes",
+        "Józsué",
+        "Sámuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Ki birkózott egy angyallal egész éjjel?",
+      "options": [
+        "Ábrahám",
+        "Izsák",
+        "Jákób",
+        "Ézsau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki kért bölcsességet Istentől gazdagság vagy hosszú élet helyett?",
+      "options": [
+        "Dávid",
+        "Salamon",
+        "Saul",
+        "Ezékiás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik asszony gyógyult meg azáltal, hogy megérintette Jézus ruhájának szegélyét?",
+      "options": [
+        "Senki",
+        "A vérfolyásos asszony",
+        "A vak asszony",
+        "A béna asszony"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik király őrült meg és evett füvet, mint az ökör?",
+      "options": [
+        "Belsazár",
+        "Nebukadneccar",
+        "Dárius",
+        "Círus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Melyik házaspár halt meg, mert hazudtak a Szentléleknek a pénzről?",
+      "options": [
+        "Anániás és Szafira",
+        "Priszcilla és Akvila",
+        "Akháb és Jezabel",
+        "Ábrahám és Sára"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Melyik tanítványt nevezik 'Hitetlennek'?",
+      "options": [
+        "Péter",
+        "Tamás",
+        "Fülöp",
+        "András"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Mit hozott vissza a galamb Noénak a bárkába?",
+      "options": [
+        "Fügefa levelet",
+        "Olajágat",
+        "Virágot",
+        "Rovart"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kinek volt 700 felesége és 300 ágyasa?",
+      "options": [
+        "Dávid",
+        "Salamon",
+        "Roboám",
+        "Ábrahám"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki adta el elsőszülöttségi jogát egy tál lencséért?",
+      "options": [
+        "Jákób",
+        "Ézsau",
+        "József",
+        "Izsák"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik próféta lebegtette meg a víz felszínén a fejsze vasát?",
+      "options": [
+        "Illés",
+        "Elizeus",
+        "Sámuel",
+        "Nátán"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ki ismerte fel a gyermek Jézust a templomban, mint a Messiást?",
+      "options": [
+        "Simeon",
+        "József",
+        "Nikodémus",
+        "Péter"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Ki parancsolta meg a napnak és a holdnak, hogy álljanak meg?",
+      "options": [
+        "Mózes",
+        "Józsué",
+        "Dávid",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Melyik tanítvány vágta le a főpap szolgájának fülét?",
+      "options": [
+        "Jakab",
+        "János",
+        "Péter",
+        "Júdás"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki ment fel a Sínai-hegyre, hogy átvegye a Tízparancsolatot?",
+      "options": [
+        "Áron",
+        "Józsué",
+        "Mózes",
+        "Ábrahám"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ki volt Izrael első királya?",
+      "options": [
+        "Dávid",
+        "Saul",
+        "Salamon",
+        "Sámuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Melyik gazdag ember temette el Jézust a saját új sírjába?",
+      "options": [
+        "Nikodémus",
+        "Arimateai József",
+        "Simeon",
+        "Lázár"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Milyen kígyó marta meg Pált Málta szigetén?",
+      "options": [
+        "Kobra",
+        "Vipera",
+        "Piton",
+        "Skorpió"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Mi volt Keresztelő János anyjának a neve?",
+      "options": [
+        "Mária",
+        "Erzsébet",
+        "Márta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki győzte le a midianitákat 300 emberrel, kürtök fúvásával és korsók összetörésével?",
+      "options": [
+        "Sámson",
+        "Gedeon",
+        "Bálák",
+        "Jefta"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Melyik három embert dobták a tüzes kemencébe, mert nem voltak hajlandók leborulni egy aranybálvány előtt?",
+      "options": [
+        "Dániel",
+        "Sidrák, Misák és Abednégó",
+        "Ezdrás és Nehémiás",
+        "Pál és Silás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki mosta meg a kezeit, mondván: 'Ártatlan vagyok' Jézus vérétől?",
+      "options": [
+        "Heródes",
+        "Kajafás",
+        "Poncius Pilátus",
+        "Júdás"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kit neveznek 'Isten barátjának'?",
+      "options": [
+        "Mózes",
+        "Ábrahám",
+        "Dávid",
+        "Noé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Melyik prófétát nyelt el egy nagy hal?",
+      "options": [
+        "Jónás",
+        "Mikeás",
+        "Náhum",
+        "Ámos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ki magyarázta meg a falon lévő írást Belsazár királynak?",
+      "options": [
+        "József",
+        "Dániel",
+        "Ezékiel",
+        "Ézsaiás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Melyik asszony volt bíró Izraelben?",
+      "options": [
+        "Ruth",
+        "Debóra",
+        "Eszter",
+        "Mária"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki feküdt rá háromszor egy halott gyermekre, hogy életre keltse?",
+      "options": [
+        "Illés",
+        "Elizeus",
+        "Péter",
+        "Pál"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Dávid melyik fia akadt fenn a hajánál fogva egy fán és halt meg?",
+      "options": [
+        "Salamon",
+        "Absolon",
+        "Adonija",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Miben beszélt Isten Mózeshez a pusztában?",
+      "options": [
+        "Égő csipkebokorban",
+        "Felhőben",
+        "Szélben",
+        "Szamárban"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Ki segített a sebesült emberen az irgalmas samaritánus példázatában?",
+      "options": [
+        "Pap",
+        "Lévita",
+        "Samaritánus",
+        "Római katona"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki volt a legtovább élő ember a Bibliában (969 év)?",
+      "options": [
+        "Noé",
+        "Ábrahám",
+        "Metusélah",
+        "Énók"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik tanítvány kezdett merülni, miközben a vízen járt?",
+      "options": [
+        "Jakab",
+        "János",
+        "Péter",
+        "András"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik várost pusztította el Isten kénköves tüzzel az égből?",
+      "options": [
+        "Jerikó",
+        "Ninive",
+        "Szodoma",
+        "Babilon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki látott egy égig érő lajtorját, amin angyalok jártak fel és le?",
+      "options": [
+        "Ábrahám",
+        "Izsák",
+        "Jákób",
+        "József"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki volt az első ember, akit Isten teremtett?",
+      "options": [
+        "Káin",
+        "Ábel",
+        "Ádám",
+        "Noé"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Ki volt az első asszony, aki Ádám egyik oldalbordájából lett teremtve?",
+      "options": [
+        "Sára",
+        "Éva",
+        "Mária",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Melyik prófétát dobták egy sárral teli verembe?",
+      "options": [
+        "Ézsaiás",
+        "Jeremiás",
+        "Ezékiel",
+        "Dániel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Melyik királyt tartják a legbölcsebbnek mind közül?",
+      "options": [
+        "Dávid",
+        "Saul",
+        "Salamon",
+        "Ezékiás"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Mit kentek az izraeliták az ajtófélfáikra, hogy elkerüljék a tizedik csapást Egyiptomban?",
+      "options": [
+        "Bárányvért",
+        "Olajat",
+        "Vizet",
+        "Hamut"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki rendelte el Keresztelő János lefejezését?",
+      "options": [
+        "Heródes",
+        "Pilátus",
+        "Saul",
+        "Salamon"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Jézus tanítványai közül ki volt orvos?",
+      "options": [
+        "Máté",
+        "Lukács",
+        "Márk",
+        "János"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki segített Jézusnak vinni a keresztet?",
+      "options": [
+        "Cirenei Simon",
+        "Arimateai József",
+        "Péter",
+        "János"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Mivel lakatott jól Jézus ötezer embert?",
+      "options": [
+        "Mannával és fürjekkel",
+        "5 kenyérrel és 2 hallal",
+        "7 kenyérrel és néhány halacskával",
+        "Kenyérrel és borral"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Melyik házaspár halt meg, miután hazudtak egy föld vételáráról?",
+      "options": [
+        "Anániás és Szafira",
+        "Priszcilla és Akvila",
+        "Akháb és Jezabel",
+        "Ábrahám és Sára"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kit neveznek 'hatalmas vadásznak' az Úr előtt?",
+      "options": [
+        "Góliát",
+        "Nimród",
+        "Ézsau",
+        "Sámson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Melyik tanítvány vágta le a király szolgájának fülét?",
+      "options": [
+        "János",
+        "Jakab",
+        "Péter",
+        "Júdás"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik apostolt kövezték halálra (az első mártír)?",
+      "options": [
+        "Jakab",
+        "István",
+        "Pál",
+        "Barnabás"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Melyik király tett igazságot két asszony között, akik egy csecsemőért vitatkoztak?",
+      "options": [
+        "Dávid",
+        "Saul",
+        "Salamon",
+        "Heródes"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki volt Izmaelnek, Ábrahám elsőszülött fiának az anyja?",
+      "options": [
+        "Sára",
+        "Hágár",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Ki volt Izrael első főpapja?",
+      "options": [
+        "Mózes",
+        "Áron",
+        "Eleázár",
+        "Éli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Mit szeretett a gazdag ifjú jobban Jézusnál?",
+      "options": [
+        "A családját",
+        "A hatalmát",
+        "A pénzét/vagyonát",
+        "A hírnevét"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki mondta a híres mondatot: „Avagy őrizője vagyok-e én az én atyámfiának?”",
+      "options": [
+        "Ábel",
+        "Káin",
+        "Ézsau",
+        "József testvérei"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Ki vezette az izraelitákat az Ígéret Földjére Mózes halála után?",
+      "options": [
+        "Káleb",
+        "Józsué",
+        "Áron",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Milyen munkát vállalt a tékozló fiú, amikor elfogyott a pénze?",
+      "options": [
+        "Disznópásztorkodást",
+        "Házépítést",
+        "Halászatot",
+        "Koldulást"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Ki volt az a római helytartó, aki halálra ítélte Jézust?",
+      "options": [
+        "Heródes Antipász",
+        "Poncius Pilátus",
+        "Augusztus császár",
+        "Félix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Mi az „Aranyszabály”?",
+      "options": [
+        "Szeresd az Urat, a te Istenedet teljes szívedből",
+        "Amit akartok, hogy az emberek tegyenek veletek, ti is azt tegyétek velük",
+        "Higgy az Úr Jézusban",
+        "Tiszteld apádat és anyádat"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kit támasztott fel Jézus a halálból, miután négy napig a sírban volt?",
+      "options": [
+        "Jairus lányát",
+        "Az özvegy fiát",
+        "Lázárt",
+        "Tábithát"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Mi történt Heródes királlyal, amikor nem adott dicsőséget Istennek?",
+      "options": [
+        "Villámcsapás érte",
+        "Férgek ették meg",
+        "Megvakult",
+        "Leesett a trónjáról"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Ki készítette az aranyborjút az izraeliták számára, hogy imádják?",
+      "options": [
+        "Mózes",
+        "Áron",
+        "Józsué",
+        "Miriám"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kit kent fel Sámuel Izrael második királyává?",
+      "options": [
+        "Sault",
+        "Dávidot",
+        "Salamont",
+        "Isait"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hogy hívták azt a tornyot, ahol Isten összezavarta a nyelveket?",
+      "options": [
+        "Dávid tornya",
+        "Bábel tornya",
+        "Siloám tornya",
+        "Sekem tornya"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Hogy hívták Jézus anyját?",
+      "options": [
+        "Erzsébet",
+        "Mária",
+        "Márta",
+        "Szalómé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Melyik próféta menekült el Isten elől, és szállt hajóra Társis felé?",
+      "options": [
+        "Jónás",
+        "Ámósz",
+        "Mikeás",
+        "Hóseás"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Ki volt Jákob szőrös testvére?",
+      "options": [
+        "Lábán",
+        "Ézsau",
+        "Izmael",
+        "Izsák"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Melyik béna embert gyógyította meg Péter az Ékes-kapunál?",
+      "options": [
+        "Egy születésétől fogva sánta férfit",
+        "Egy vak koldust",
+        "Egy leprást",
+        "Egy siketet"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Kit nevezett Jézus „rókának”?",
+      "options": [
+        "Pilátust",
+        "Heródest",
+        "Kajafást",
+        "Júdást"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Ki volt Ruth anyósa?",
+      "options": [
+        "Orpa",
+        "Naomi",
+        "Mara",
+        "Hanna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

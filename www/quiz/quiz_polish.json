@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Quiz Biblijny",
+  "questions": [
+    {
+      "question": "Kto zbudował arkę?",
+      "options": [
+        "Mojżesz",
+        "Noe",
+        "Dawid",
+        "Salomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Jaki nietypowy pokarm jadł Jan Chrzciciel na pustyni?",
+      "options": [
+        "Szarańczę i miód leśny",
+        "Chleb i ryby",
+        "Figi i oliwki",
+        "Baraninę i zioła"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Który człowiek był tak silny, że zabił lwa gołymi rękami?",
+      "options": [
+        "Dawid",
+        "Samson",
+        "Goliat",
+        "Kaleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto posiadał kolorową szatę, o którą zazdrośni byli jego bracia?",
+      "options": [
+        "Beniamin",
+        "Józef",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Które morze rozdzielił Mojżesz, aby uciec przed Egipcjanami?",
+      "options": [
+        "Morze Martwe",
+        "Jezioro Galilejskie",
+        "Morze Czerwone",
+        "Morze Śródziemne"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kto został połknięty przez wielką rybę?",
+      "options": [
+        "Jonasz",
+        "Piotr",
+        "Paweł",
+        "Noe"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Która kobieta zamieniła się w słup soli, ponieważ obejrzała się za siebie?",
+      "options": [
+        "Sara",
+        "Żona Lota",
+        "Rebeka",
+        "Lea"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto pokonał olbrzymiego wojownika Goliata za pomocą procy?",
+      "options": [
+        "Saul",
+        "Jonatan",
+        "Dawid",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Który niski człowiek wspiął się na sykomorę, aby zobaczyć Jezusa?",
+      "options": [
+        "Bartymeusz",
+        "Zacheusz",
+        "Mateusz",
+        "Nikodem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jakie zwierzę przemówiło do proroka Balaama?",
+      "options": [
+        "Lew",
+        "Owca",
+        "Osioł",
+        "Wielbłąd"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto był pierwszym mordercą w Biblii?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Set",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto został wrzucony do lwiej jamy, ale przeżył?",
+      "options": [
+        "Daniel",
+        "Józef",
+        "Szadrach",
+        "Jeremiasz"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Który leworęczny sędzia zabił otyłego króla ukrytym mieczem?",
+      "options": [
+        "Gedeon",
+        "Ehud",
+        "Samson",
+        "Jefte"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto zdradził Jezusa za 30 srebrników?",
+      "options": [
+        "Piotr",
+        "Judasz Iskariota",
+        "Poncjusz Piłat",
+        "Kajfasz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Który młody chłopiec usłyszał, jak Bóg woła go po imieniu w nocy, gdy spał?",
+      "options": [
+        "Dawid",
+        "Samuel",
+        "Izaak",
+        "Józef"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto szedł po wodzie, aby spotkać się z Jezusem?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Piotr",
+        "Andrzej"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Co spadło z nieba, aby nakarmić Izraelitów na pustyni?",
+      "options": [
+        "Chleb",
+        "Przepiórki",
+        "Manna",
+        "Figi"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto jest znany jako najsilniejszy człowiek w Biblii?",
+      "options": [
+        "Goliat",
+        "Samson",
+        "Booz",
+        "Ezaw"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Która królowa uratowała naród żydowski przed spiskiem mającym na celu ich zgładzenie?",
+      "options": [
+        "Rut",
+        "Estera",
+        "Izebel",
+        "Batszeba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto trzykrotnie zaparł się Jezusa, zanim zapiał kogut?",
+      "options": [
+        "Tomasz",
+        "Judasz",
+        "Piotr",
+        "Filip"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Jakiego cudu dokonał Jezus na weselu w Kanie?",
+      "options": [
+        "Uzdrowił niewidomego",
+        "Zmienił wodę w wino",
+        "Szedł po wodzie",
+        "Rozmnożył chleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Mury którego miasta runęły po tym, jak Izraelici je okrążyli?",
+      "options": [
+        "Jerozolima",
+        "Jerycho",
+        "Aj",
+        "Babilon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto był „płaczącym prorokiem”?",
+      "options": [
+        "Izajasz",
+        "Jeremiasz",
+        "Ezechiel",
+        "Ozeasz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Komu Dalila obcięła włosy, przez co stracił on swą siłę?",
+      "options": [
+        "Samson",
+        "Dawid",
+        "Absalom",
+        "Saul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Który uczeń był poborcą podatkowym, zanim poszedł za Jezusem?",
+      "options": [
+        "Łukasz",
+        "Mateusz",
+        "Marek",
+        "Jan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto był pierwszą osobą, która zobaczyła Jezusa po Jego zmartwychwstaniu?",
+      "options": [
+        "Piotr",
+        "Jan",
+        "Maria Magdalena",
+        "Jego matka Maria"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Która zła królowa została zjedzona przez psy?",
+      "options": [
+        "Estera",
+        "Izebel",
+        "Atalia",
+        "Herodiada"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kto ukrył dwóch szpiegów pod łodygami lnu na dachu swojego domu?",
+      "options": [
+        "Rut",
+        "Rahab",
+        "Sara",
+        "Debora"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Na jakim instrumencie grał Dawid, aby uspokoić króla Saula?",
+      "options": [
+        "Trąbka",
+        "Harfa/Lira",
+        "Flet",
+        "Tamburyn"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto został porażony ślepotą w drodze do Damaszku?",
+      "options": [
+        "Piotr",
+        "Szczepan",
+        "Saul (Paweł)",
+        "Barnaba"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Którego proroka karmiły kruki?",
+      "options": [
+        "Elizeusz",
+        "Eliasz",
+        "Izajasz",
+        "Jeremiasz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto ukradł bożki domowe swojego ojca?",
+      "options": [
+        "Lea",
+        "Rachela",
+        "Rebeka",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto wypadł z okna, ponieważ Paweł zbyt długo nauczał?",
+      "options": [
+        "Tymoteusz",
+        "Eutychus",
+        "Tychik",
+        "Sylas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Które niemowlę zostało znalezione w koszu na Nilu?",
+      "options": [
+        "Aaron",
+        "Mojżesz",
+        "Jozue",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Kto walczył z Bogiem (lub aniołem) przez całą noc?",
+      "options": [
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "Ezaw"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto prosił Boga o mądrość zamiast długiego życia czy bogactwa?",
+      "options": [
+        "Dawid",
+        "Salomon",
+        "Saul",
+        "Ezechiasz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto dotknął frędzli płaszcza Jezusa i został uzdrowiony?",
+      "options": [
+        "Trędowaty",
+        "Kobieta cierpiąca na krwotok",
+        "Niewidomy",
+        "Sparaliżowany"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Który król oszalał i jadł trawę jak wół?",
+      "options": [
+        "Belszazar",
+        "Nabuchodonozor",
+        "Dariusz",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kto okłamał Ducha Świętego w sprawie pieniędzy i padł martwy?",
+      "options": [
+        "Ananiasz i Safira",
+        "Pryscylla i Akwila",
+        "Adam i Ewa",
+        "Achab i Izebel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto był „wątpiącym” uczniem?",
+      "options": [
+        "Piotr",
+        "Tomasz",
+        "Filip",
+        "Andrzej"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Co gołębica przyniosła z powrotem do arki Noego?",
+      "options": [
+        "Liść figowy",
+        "Gałązkę oliwną",
+        "Robaka",
+        "Różę"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto miał 700 żon i 300 nałożnic?",
+      "options": [
+        "Dawid",
+        "Salomon",
+        "Roboam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto sprzedał swoje pierworodztwo za miskę czerwonej soczewicy?",
+      "options": [
+        "Jakub",
+        "Ezaw",
+        "Józef",
+        "Izaak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Który prorok sprawił, że żelazna siekiera wypłynęła na powierzchnię wody?",
+      "options": [
+        "Eliasz",
+        "Elizeusz",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kto rozpoznał w Jezusie Mesjasza, gdy ten był jeszcze niemowlęciem?",
+      "options": [
+        "Symeon",
+        "Józef",
+        "Nikodem",
+        "Piotr"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kto rozkazał słońcu i księżycowi się zatrzymać?",
+      "options": [
+        "Mojżesz",
+        "Jozue",
+        "Dawid",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Który uczeń odciął ucho słudze arcykapłana?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Piotr",
+        "Judasz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto wstąpił na górę Synaj, aby otrzymać Dziesięć Przykazań?",
+      "options": [
+        "Aaron",
+        "Jozue",
+        "Mojżesz",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kto był pierwszym królem Izraela?",
+      "options": [
+        "Dawid",
+        "Saul",
+        "Salomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Który bogaty człowiek pochował Jezusa we własnym grobie?",
+      "options": [
+        "Nikodem",
+        "Józef z Arymatei",
+        "Szymon Cyrenejczyk",
+        "Łazarz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Jak nazywała się żmija, która ukąsiła Pawła na Malcie?",
+      "options": [
+        "Kobra",
+        "Żmija",
+        "Piton",
+        "Grzechotnik"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto był matką Jana Chrzciciela?",
+      "options": [
+        "Maria",
+        "Elżbieta",
+        "Marta",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto pokonał Madianitów mając tylko 300 ludzi, trąby i dzbany?",
+      "options": [
+        "Samson",
+        "Gedeon",
+        "Barak",
+        "Jefte"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto odmówił oddania pokłonu złotemu posągowi i został wrzucony do pieca?",
+      "options": [
+        "Daniel",
+        "Szadrach, Meszach i Abed-Nego",
+        "Ezdrasz i Nehemiasz",
+        "Paweł i Sylas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto umył ręce, aby ogłosić swoją niewinność w sprawie śmierci Jezusa?",
+      "options": [
+        "Herod",
+        "Kajfasz",
+        "Poncjusz Piłat",
+        "Judasz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto był znany jako „przyjaciel Boga”?",
+      "options": [
+        "Mojżesz",
+        "Abraham",
+        "Dawid",
+        "Noe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Który prorok został połknięty przez wieloryba (wielką rybę)?",
+      "options": [
+        "Jonasz",
+        "Micheasz",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Kto zinterpretował pismo na ścianie?",
+      "options": [
+        "Józef",
+        "Daniel",
+        "Ezechiel",
+        "Izajasz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Kim była kobieta sędzia, która prowadziła Izrael?",
+      "options": [
+        "Rut",
+        "Debora",
+        "Estera",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto przywrócił chłopca do życia, kładąc się na nim trzy razy?",
+      "options": [
+        "Eliasz",
+        "Elizeusz",
+        "Piotr",
+        "Paweł"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Który syn króla Dawida zaplątał się swymi długimi włosami w drzewo i został zabity?",
+      "options": [
+        "Salomon",
+        "Absalom",
+        "Adoniasz",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Przez co Bóg przemówił do Mojżesza na pustyni?",
+      "options": [
+        "Płonący krzew",
+        "Chmurę",
+        "Wicher",
+        "Osła"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "W przypowieści o miłosiernym Samarytaninie, kto pomógł rannemu człowiekowi?",
+      "options": [
+        "Kapłan",
+        "Lewita",
+        "Samarytanin",
+        "Rzymski żołnierz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto był najstarszym człowiekiem w Biblii, żyjąc 969 lat?",
+      "options": [
+        "Noe",
+        "Adam",
+        "Metiszelach",
+        "Henoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Który uczeń próbował iść po wodzie, ale zaczął tonąć?",
+      "options": [
+        "Jakub",
+        "Jan",
+        "Piotr",
+        "Andrzej"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Które miasto zniszczył Bóg ogniem i siarką z powodu jego niegodziwości?",
+      "options": [
+        "Jerycho",
+        "Niniwa",
+        "Sodoma",
+        "Babilon"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Komu śniła się drabina do nieba, po której wstępowali i schodzili aniołowie?",
+      "options": [
+        "Abraham",
+        "Izaak",
+        "Jakub",
+        "Józef"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto był pierwszym człowiekiem stworzonym przez Boga?",
+      "options": [
+        "Kain",
+        "Abel",
+        "Adam",
+        "Noe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Kto był pierwszą kobietą, stworzoną z żebra Adama?",
+      "options": [
+        "Sara",
+        "Ewa",
+        "Maria",
+        "Rut"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Który prorok został wrzucony do błotnistego zbiornika (lochu)?",
+      "options": [
+        "Izajasz",
+        "Jeremiasz",
+        "Ezechiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Kto był znany jako „najmądrzejszy król”, jaki kiedykolwiek żył?",
+      "options": [
+        "Dawid",
+        "Saul",
+        "Salomon",
+        "Ezechiasz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Czym Izraelici pomazali odrzwia swych domów, aby uniknąć 10. plagi w Egipcie?",
+      "options": [
+        "Krwią baranka",
+        "Oliwą",
+        "Wodą",
+        "Popiołem"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto nakazał wdowie, aby upiekła mu chleb z ostatniej odrobiny mąki i oliwy, jaką miała?",
+      "options": [
+        "Eliasz",
+        "Elizeusz",
+        "Samuel",
+        "Natan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Który uczeń był lekarzem?",
+      "options": [
+        "Mateusz",
+        "Łukasz",
+        "Marek",
+        "Jan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto pomógł Jezusowi nieść krzyż?",
+      "options": [
+        "Szymon Cyrenejczyk",
+        "Józef z Arymatei",
+        "Piotr",
+        "Jan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Czym Jezus nakarmił 5000 ludzi?",
+      "options": [
+        "Manną i przepiórkami",
+        "5 chlebami i 2 rybami",
+        "7 chlebami i kilkoma rybami",
+        "Chlebem i winem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Które małżeństwo zmarło z powodu kłamstwa na temat ceny swej ziemi?",
+      "options": [
+        "Ananiasz i Safira",
+        "Akwila i Pryscylla",
+        "Achab i Izebel",
+        "Abraham i Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Kto był gigantycznym myśliwym znanym jako „dzielny myśliwy przed Panem”?",
+      "options": [
+        "Goliat",
+        "Nimrod",
+        "Ezaw",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kto odciął ucho słudze arcykapłana w ogrodzie Getsemani?",
+      "options": [
+        "Jan",
+        "Jakub",
+        "Piotr",
+        "Judasz"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto był pierwszym chrześcijańskim męczennikiem ukamienowanym na śmierć?",
+      "options": [
+        "Jakub",
+        "Szczepan",
+        "Paweł",
+        "Barnaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Który król zaproponował przecięcie dziecka na pół, aby rozstrzygnąć spór między dwiema matkami?",
+      "options": [
+        "Dawid",
+        "Saul",
+        "Salomon",
+        "Herod"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Kim była Egipcjanka, która urodziła Abrahamowi pierwszego syna, Izmaela?",
+      "options": [
+        "Sara",
+        "Hagar",
+        "Ketura",
+        "Rebeka"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Kto był pierwszym arcykapłanem Izraela?",
+      "options": [
+        "Mojżesz",
+        "Aaron",
+        "Eleazar",
+        "Heli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Co bogaty młody dostojnik kochał bardziej niż Jezusa?",
+      "options": [
+        "Swoją rodzinę",
+        "Swoją władzę",
+        "Swoje pieniądze/posiadłości",
+        "Swoją reputację"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto wypowiedział słynne słowa: „Czyż jestem stróżem brata mego?”",
+      "options": [
+        "Abel",
+        "Kain",
+        "Ezaw",
+        "Bracia Józefa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kto wprowadził Izraelitów do Ziemi Obiecanej po śmierci Mojżesza?",
+      "options": [
+        "Kaleb",
+        "Jozue",
+        "Aaron",
+        "Gedeon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jaką pracę podjął syn marnotrawny, gdy skończyły mu się pieniądze?",
+      "options": [
+        "Pasienie świń",
+        "Budowanie domów",
+        "Rybołówstwo",
+        "Żebractwo"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Kto był rzymskim namiestnikiem, który skazał Jezusa na śmierć?",
+      "options": [
+        "Herod Antypas",
+        "Poncjusz Piłat",
+        "Cezar August",
+        "Feliks"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Czym jest „Złota Zasada”?",
+      "options": [
+        "Miłuj Boga całym swoim sercem",
+        "Wszystko, co byście chcieli, żeby wam ludzie czynili, i wy im czyńcie",
+        "Wierz w Pana Jezusa",
+        "Czcij swoich rodziców"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kogo Jezus wskrzesił z martwych po tym, jak przebywał w grobie cztery dni?",
+      "options": [
+        "Córkę Jaira",
+        "Syna wdowy",
+        "Łazarza",
+        "Tabitę"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Co stało się z królem Herodem, gdy nie oddał chwały Bogu?",
+      "options": [
+        "Został uderzony piorunem",
+        "Został zjedzony przez robaki",
+        "Oślepł",
+        "Spadł ze swojego tronu"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Kto zrobił złotego cielca, aby Izraelici go czcili?",
+      "options": [
+        "Mojżesz",
+        "Aaron",
+        "Jozue",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Kogo Samuel namaścił na drugiego króla Izraela?",
+      "options": [
+        "Saula",
+        "Dawida",
+        "Salomona",
+        "Jessego"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Jak nazywała się wieża, w której Bóg pomieszał języki?",
+      "options": [
+        "Wieża Dawida",
+        "Wieża Babel",
+        "Wieża Siloam",
+        "Wieża Sychem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto był matką Jezusa?",
+      "options": [
+        "Elżbieta",
+        "Maryja",
+        "Marta",
+        "Salome"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Który prorok uciekł przed Bogiem i wsiadł na statek do Tarszisz?",
+      "options": [
+        "Jonasz",
+        "Amos",
+        "Micheasz",
+        "Ozeasz"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Kto był owłosionym bratem Jakuba?",
+      "options": [
+        "Laban",
+        "Ezaw",
+        "Izmael",
+        "Izaak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Kim był sparaliżowany człowiek uzdrowiony przez Piotra przy bramie Pięknej?",
+      "options": [
+        "Człowiekiem chromym od urodzenia",
+        "Niewidomym żebrakiem",
+        "Trędowatym",
+        "Głuchym"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Kogo Jezus nazwał „lisem”?",
+      "options": [
+        "Piłata",
+        "Heroda",
+        "Kajfasza",
+        "Judasza"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Kto był teściową Rut?",
+      "options": [
+        "Orpa",
+        "Noemi",
+        "Mara",
+        "Anna"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "quizTitle": "Quiz Biblique",
+  "questions": [
+    {
+      "question": "Qui a construit l'arche ?",
+      "options": [
+        "Moïse",
+        "Noé",
+        "David",
+        "Salomon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Quelle nourriture inhabituelle Jean le Baptiste mangeait-il ?",
+      "options": [
+        "Sauterelles et miel",
+        "Pain et poisson",
+        "Figues et olives",
+        "Agneau et herbes"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Quel homme était si fort qu'il a tué un lion à mains nues ?",
+      "options": [
+        "David",
+        "Samson",
+        "Goliath",
+        "Caleb"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui avait un manteau de plusieurs couleurs qui rendait ses frères jaloux ?",
+      "options": [
+        "Benjamin",
+        "Joseph",
+        "Ruben",
+        "Dan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quelle mer Moïse a-t-il séparée pour échapper aux Égyptiens ?",
+      "options": [
+        "Mer Morte",
+        "Galilée",
+        "Mer Rouge",
+        "Méditerranée"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Qui a été avalé par un grand poisson ?",
+      "options": [
+        "Jonas",
+        "Pierre",
+        "Paul",
+        "Noé"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Quelle femme s'est changée en statue de sel pour avoir regardé en arrière ?",
+      "options": [
+        "Sara",
+        "La femme de Loth",
+        "Rébecca",
+        "Léa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a vaincu le géant guerrier Goliath avec une fronde ?",
+      "options": [
+        "Saül",
+        "Jonathan",
+        "David",
+        "Samuel"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Quel homme de petite taille est monté sur un sycomore pour voir Jésus ?",
+      "options": [
+        "Bartimée",
+        "Zachée",
+        "Matthieu",
+        "Nicodème"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel animal a parlé au prophète Balaam ?",
+      "options": [
+        "Un lion",
+        "Un mouton",
+        "Un âne",
+        "Un chameau"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui fut le premier meurtrier dans la Bible ?",
+      "options": [
+        "Caïn",
+        "Abel",
+        "Seth",
+        "Lamech"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a été jeté dans une fosse aux lions mais a survécu ?",
+      "options": [
+        "Daniel",
+        "Joseph",
+        "Schadrac",
+        "Jérémie"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel juge gaucher a tué un roi gras avec une épée cachée ?",
+      "options": [
+        "Gédéon",
+        "Éhoud",
+        "Samson",
+        "Jephthé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui a trahi Jésus pour 30 pièces d'argent ?",
+      "options": [
+        "Pierre",
+        "Judas Iscariote",
+        "Ponce Pilate",
+        "Caïphe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel jeune garçon a entendu Dieu l'appeler par son nom pendant la nuit alors qu'il dormait ?",
+      "options": [
+        "David",
+        "Samuel",
+        "Isaac",
+        "Joseph"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a marché sur l'eau pour rejoindre Jésus ?",
+      "options": [
+        "Jacques",
+        "Jean",
+        "Pierre",
+        "André"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Qu'est-ce qui est tombé du ciel pour nourrir les Israélites dans le désert ?",
+      "options": [
+        "Du pain",
+        "Des cailles",
+        "La manne",
+        "Des figues"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui est connu comme l'homme le plus fort de la Bible ?",
+      "options": [
+        "Goliath",
+        "Samson",
+        "Booz",
+        "Ésaü"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Quelle reine a sauvé le peuple juif d'un complot visant à les tuer ?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Jézabel",
+        "Bethsabée"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a nié connaître Jésus trois fois avant que le coq ne chante ?",
+      "options": [
+        "Thomas",
+        "Judas",
+        "Pierre",
+        "Philippe"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel miracle Jésus a-t-il accompli aux noces de Cana ?",
+      "options": [
+        "Guéri un aveugle",
+        "Changé l'eau en vin",
+        "Marché sur l'eau",
+        "Multiplié le pain"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Les murs de quelle ville sont tombés après que les Israélites en ont fait le tour ?",
+      "options": [
+        "Jérusalem",
+        "Jéricho",
+        "Aï",
+        "Babylone"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui était le « Prophète éploré » ?",
+      "options": [
+        "Ésaïe",
+        "Jérémie",
+        "Ézéchiel",
+        "Osée"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Qui a eu les cheveux coupés par Dalila, perdant ainsi sa force ?",
+      "options": [
+        "Samson",
+        "David",
+        "Absalom",
+        "Saül"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel disciple était collecteur d'impôts avant de suivre Jésus ?",
+      "options": [
+        "Luc",
+        "Matthieu",
+        "Marc",
+        "Jean"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui fut la première personne à voir Jésus après sa résurrection d'entre les morts ?",
+      "options": [
+        "Pierre",
+        "Jean",
+        "Marie de Magdala",
+        "Sa mère Marie"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Quelle reine méchante a été mangée par des chiens ?",
+      "options": [
+        "Esther",
+        "Jézabel",
+        "Athalie",
+        "Hérodias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Qui a caché deux espions sous des tiges de lin sur son toit ?",
+      "options": [
+        "Ruth",
+        "Rahab",
+        "Sara",
+        "Déborah"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "De quel instrument David jouait-il pour apaiser le roi Saül ?",
+      "options": [
+        "Trompette",
+        "Harpe/Lyre",
+        "Flûte",
+        "Tambourin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a été frappé d'aveuglement sur le chemin de Damas ?",
+      "options": [
+        "Pierre",
+        "Étienne",
+        "Saül (Paul)",
+        "Barnabas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel prophète a été nourri par des corbeaux ?",
+      "options": [
+        "Élisée",
+        "Élie",
+        "Ésaïe",
+        "Jérémie"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a volé les idoles (dieux) domestiques de son père ?",
+      "options": [
+        "Léa",
+        "Rachel",
+        "Rébecca",
+        "Dina"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui est tombé d'une fenêtre parce que Paul prêchait trop longtemps ?",
+      "options": [
+        "Timothée",
+        "Eutychus",
+        "Tychique",
+        "Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Quel bébé a été trouvé flottant dans un panier sur le Nil ?",
+      "options": [
+        "Aaron",
+        "Moïse",
+        "Josué",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Qui a lutté avec Dieu (ou un ange) toute la nuit ?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Ésaü"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui a demandé à Dieu la sagesse plutôt qu'une longue vie ou des richesses ?",
+      "options": [
+        "David",
+        "Salomon",
+        "Saül",
+        "Ézéchias"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui a touché le bord du vêtement de Jésus et a été guérie ?",
+      "options": [
+        "Un lépreux",
+        "Une femme souffrant d'hémorragies",
+        "Un aveugle",
+        "Un paralytique"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Quel roi est devenu fou et a mangé de l'herbe comme un bœuf ?",
+      "options": [
+        "Belshatsar",
+        "Nebucadnetsar",
+        "Darius",
+        "Cyrus"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Qui a menti au Saint-Esprit au sujet de l'argent et est tombé mort ?",
+      "options": [
+        "Ananias et Saphira",
+        "Priscille et Aquilas",
+        "Adam et Ève",
+        "Achab et Jézabel"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui était le disciple « qui doutait » ?",
+      "options": [
+        "Pierre",
+        "Thomas",
+        "Philippe",
+        "André"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qu'est-ce que la colombe a rapporté à l'arche de Noé ?",
+      "options": [
+        "Une feuille de figuier",
+        "Un rameau d'olivier",
+        "Un ver",
+        "Une rose"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui avait 700 femmes et 300 concubines ?",
+      "options": [
+        "David",
+        "Salomon",
+        "Roboam",
+        "Abraham"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a vendu son droit d'aînesse pour un bol de ragoût rouge ?",
+      "options": [
+        "Jacob",
+        "Ésaü",
+        "Joseph",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Quel prophète a fait flotter un fer de hache sur l'eau ?",
+      "options": [
+        "Élie",
+        "Élisée",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Qui a reconnu Jésus comme le Messie alors qu'il n'était qu'un bébé ?",
+      "options": [
+        "Siméon",
+        "Joseph",
+        "Nicodème",
+        "Pierre"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Qui a ordonné au soleil et à la lune de s'arrêter ?",
+      "options": [
+        "Moïse",
+        "Josué",
+        "David",
+        "Gédéon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Quel disciple a coupé l'oreille du serviteur du souverain sacrificateur ?",
+      "options": [
+        "Jacques",
+        "Jean",
+        "Pierre",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui est monté sur le mont Sinaï pour recevoir les dix commandements ?",
+      "options": [
+        "Aaron",
+        "Josué",
+        "Moïse",
+        "Abraham"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Qui fut le premier roi d'Israël ?",
+      "options": [
+        "David",
+        "Saül",
+        "Salomon",
+        "Samuel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Quel homme riche a enterré Jésus dans son propre tombeau ?",
+      "options": [
+        "Nicodème",
+        "Joseph d'Arimathée",
+        "Simon de Cyrène",
+        "Lazare"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Quel était le nom du serpent qui a mordu Paul sur l'île de Malte ?",
+      "options": [
+        "Cobra",
+        "Viper",
+        "Python",
+        "Serpent à sonnette"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui était la mère de Jean le Baptiste ?",
+      "options": [
+        "Marie",
+        "Élisabeth",
+        "Marthe",
+        "Anne"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a vaincu les Madianites avec seulement 300 hommes, des trompettes et des cruches ?",
+      "options": [
+        "Samson",
+        "Gédéon",
+        "Barak",
+        "Jephthé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui a refusé d'adorer l'image d'or et a été jeté dans une fournaise ?",
+      "options": [
+        "Daniel",
+        "Schadrac, Méschac et Abed-Nego",
+        "Esdras et Néhémie",
+        "Paul et Silas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui s'est lavé les mains pour clamer son innocence dans la mort de Jésus ?",
+      "options": [
+        "Hérode",
+        "Caïphe",
+        "Ponce Pilate",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui était connu comme l'« ami de Dieu » ?",
+      "options": [
+        "Moïse",
+        "Abraham",
+        "David",
+        "Noé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Quel prophète a été avalé par une baleine (grand poisson) ?",
+      "options": [
+        "Jonas",
+        "Michée",
+        "Nahum",
+        "Amos"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Qui a interprété l'écriture sur le mur ?",
+      "options": [
+        "Joseph",
+        "Daniel",
+        "Ézéchiel",
+        "Ésaïe"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 6
+    },
+    {
+      "question": "Qui était la femme juge qui dirigeait Israël ?",
+      "options": [
+        "Ruth",
+        "Déborah",
+        "Esther",
+        "Miriam"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui a redonné vie à un garçon en s'étendant sur lui trois fois ?",
+      "options": [
+        "Élie",
+        "Élisée",
+        "Pierre",
+        "Paul"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 8
+    },
+    {
+      "question": "Quel fils du roi David a eu ses longs cheveux coincés dans un arbre et a été tué ?",
+      "options": [
+        "Salomon",
+        "Absalom",
+        "Adonija",
+        "Amnon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "De quoi Dieu s'est-il servi pour parler à Moïse dans le désert ?",
+      "options": [
+        "Un buisson ardent",
+        "Un nuage",
+        "Un tourbillon",
+        "Un âne"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 1
+    },
+    {
+      "question": "Dans la parabole du Bon Samaritain, qui a aidé l'homme blessé ?",
+      "options": [
+        "Un prêtre",
+        "Un lévite",
+        "Un Samaritain",
+        "Un soldat romain"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui était l'homme le plus âgé de la Bible, ayant vécu 969 ans ?",
+      "options": [
+        "Noé",
+        "Adam",
+        "Metuschélah",
+        "Hénoch"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Quel disciple a essayé de marcher sur l'eau mais a commencé à couler ?",
+      "options": [
+        "Jacques",
+        "Jean",
+        "Pierre",
+        "André"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Quelle ville Dieu a-t-il détruite par le feu et le soufre à cause de sa méchanceté ?",
+      "options": [
+        "Jéricho",
+        "Ninive",
+        "Sodome",
+        "Babylone"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a fait un rêve concernant une échelle atteignant le ciel avec des anges qui montaient et descendaient ?",
+      "options": [
+        "Abraham",
+        "Isaac",
+        "Jacob",
+        "Joseph"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui fut le premier homme créé par Dieu ?",
+      "options": [
+        "Caïn",
+        "Abel",
+        "Adam",
+        "Noé"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Qui fut la première femme, créée à partir d'une côte d'Adam ?",
+      "options": [
+        "Sara",
+        "Ève",
+        "Marie",
+        "Ruth"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Quel prophète a été jeté dans une citerne boueuse (cachot) ?",
+      "options": [
+        "Ésaïe",
+        "Jérémie",
+        "Ézéchiel",
+        "Daniel"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui était connu comme le « roi le plus sage » ayant jamais vécu ?",
+      "options": [
+        "David",
+        "Saül",
+        "Salomon",
+        "Ézéchias"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 1
+    },
+    {
+      "question": "Qu'est-ce que les Israélites ont mis sur les poteaux de leurs portes pour éviter la 10e plaie en Égypte ?",
+      "options": [
+        "Du sang d'agneau",
+        "De l'huile d'olive",
+        "De l'eau",
+        "Des cendres"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a ordonné à une veuve de lui faire du pain avec son dernier peu de farine et d'huile ?",
+      "options": [
+        "Élie",
+        "Élisée",
+        "Samuel",
+        "Nathan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Quel disciple était médecin ?",
+      "options": [
+        "Matthieu",
+        "Luc",
+        "Marc",
+        "Jean"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a aidé Jésus à porter sa croix ?",
+      "options": [
+        "Simon de Cyrène",
+        "Joseph d'Arimathée",
+        "Pierre",
+        "Jean"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 5
+    },
+    {
+      "question": "Qu'est-ce que Jésus a donné à manger aux 5 000 personnes ?",
+      "options": [
+        "La manne et des cailles",
+        "5 pains et 2 poissons",
+        "7 pains et quelques poissons",
+        "Du pain et du vin"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel couple est mort pour avoir menti sur le prix de sa terre ?",
+      "options": [
+        "Ananias et Saphira",
+        "Aquilas et Priscille",
+        "Achab et Jézabel",
+        "Abraham et Sara"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 6
+    },
+    {
+      "question": "Qui était le chasseur géant connu comme un « vaillant chasseur devant l'Éternel » ?",
+      "options": [
+        "Goliath",
+        "Nimrod",
+        "Ésaü",
+        "Samson"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Qui a coupé l'oreille du serviteur du souverain sacrificateur dans le jardin de Gethsémané ?",
+      "options": [
+        "Jean",
+        "Jacques",
+        "Pierre",
+        "Judas"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui fut le premier martyr chrétien lapidé à mort ?",
+      "options": [
+        "Jacques",
+        "Étienne",
+        "Paul",
+        "Barnabas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Quel roi a proposé de couper un bébé en deux pour résoudre un conflit entre deux mères ?",
+      "options": [
+        "David",
+        "Saül",
+        "Salomon",
+        "Hérode"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Quelle était la femme égyptienne qui a enfanté le premier fils d'Abraham, Ismaël ?",
+      "options": [
+        "Sara",
+        "Agar",
+        "Ketura",
+        "Rébecca"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Qui était le premier souverain sacrificateur d'Israël ?",
+      "options": [
+        "Moïse",
+        "Aaron",
+        "Éléazar",
+        "Éli"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 5
+    },
+    {
+      "question": "Qu'est-ce que le jeune chef riche aimait plus que Jésus ?",
+      "options": [
+        "Sa famille",
+        "Son pouvoir",
+        "Son argent/ses biens",
+        "Sa réputation"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui a dit : « Suis-je le gardien de mon frère ? »",
+      "options": [
+        "Abel",
+        "Caïn",
+        "Ésaü",
+        "Les frères de Joseph"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui a conduit les Israélites dans la Terre Promise après la mort de Moïse ?",
+      "options": [
+        "Caleb",
+        "Josué",
+        "Aaron",
+        "Gédéon"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel travail le fils prodigue a-t-il pris quand il n'a plus eu d'argent ?",
+      "options": [
+        "Garder les pourceaux",
+        "Bâtir des maisons",
+        "Pêcher",
+        "Mendier"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui était le gouverneur romain qui a condamné Jésus à mort ?",
+      "options": [
+        "Hérode Antipas",
+        "Ponce Pilate",
+        "César Auguste",
+        "Félix"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qu'est-ce que la « Règle d'or » ?",
+      "options": [
+        "Aime Dieu de tout ton cœur",
+        "Fais aux autres ce que tu voudrais qu'ils te fassent",
+        "Crois au Seigneur Jésus",
+        "Honore tes parents"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui Jésus a-t-il ressuscité des morts après qu'il eut été dans le tombeau pendant quatre jours ?",
+      "options": [
+        "La fille de Jaïrus",
+        "Le fils de la veuve",
+        "Lazare",
+        "Tabitha"
+      ],
+      "correctAnswer": 2,
+      "difficulty": 2
+    },
+    {
+      "question": "Qu'est-il arrivé au roi Hérode quand il n'a pas rendu gloire à Dieu ?",
+      "options": [
+        "Il a été frappé par la foudre",
+        "Il a été mangé par des vers",
+        "Il est devenu aveugle",
+        "Il est tombé de son trône"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 9
+    },
+    {
+      "question": "Qui a fait un veau d'or pour que les Israélites l'adorent ?",
+      "options": [
+        "Moïse",
+        "Aaron",
+        "Josué",
+        "Marie"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    },
+    {
+      "question": "Qui Samuel a-t-il oint comme deuxième roi d'Israël ?",
+      "options": [
+        "Saül",
+        "David",
+        "Salomon",
+        "Isaï"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Quel était le nom de la tour où Dieu a confondu les langues ?",
+      "options": [
+        "Tour de David",
+        "Tour de Babel",
+        "Tour de Siloé",
+        "Tour de Sichem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui était la mère de Jésus ?",
+      "options": [
+        "Élisabeth",
+        "Marie",
+        "Marthe",
+        "Salomé"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 1
+    },
+    {
+      "question": "Quel prophète s'est enfui loin de Dieu et est monté sur un bateau pour Tarsis ?",
+      "options": [
+        "Jonas",
+        "Amos",
+        "Michée",
+        "Osée"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 2
+    },
+    {
+      "question": "Qui était le frère velu de Jacob ?",
+      "options": [
+        "Laban",
+        "Ésaü",
+        "Ismaël",
+        "Isaac"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 3
+    },
+    {
+      "question": "Qui était l'homme paralysé guéri par Pierre à la Belle Porte ?",
+      "options": [
+        "Un homme boiteux de naissance",
+        "Un mendiant aveugle",
+        "Un lépreux",
+        "Un sourd"
+      ],
+      "correctAnswer": 0,
+      "difficulty": 7
+    },
+    {
+      "question": "Qui Jésus a-t-il appelé un « renard » ?",
+      "options": [
+        "Pilate",
+        "Hérode",
+        "Caïphe",
+        "Judas"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 8
+    },
+    {
+      "question": "Qui était la belle-mère de Ruth ?",
+      "options": [
+        "Orpa",
+        "Noémi",
+        "Mara",
+        "Anne"
+      ],
+      "correctAnswer": 1,
+      "difficulty": 4
+    }
+  ]
+}
