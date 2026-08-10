@@ -7038,17 +7038,17 @@ function updateTokenCount() {
 }
 
 /**
- * Get remaining tokens for today
+ * Get remaining tokens for today (5 questions max per user)
  */
 function getRemainingTokens() {
-    return Math.max(0, 20 - chatState.tokensUsed);
+    return Math.max(0, 5 - chatState.tokensUsed);
 }
 
 /**
  * Check if user has tokens remaining
  */
 function checkTokenLimit() {
-    return chatState.tokensUsed < 20;
+    return chatState.tokensUsed < 5;
 }
 
 /**
@@ -7059,15 +7059,15 @@ function updateTokenDisplay() {
     if (!tokenCounter) return;
 
     const remaining = getRemainingTokens();
-    tokenCounter.textContent = `${remaining}/20 tokens`;
+    tokenCounter.textContent = `${remaining}/5 questions`;
 
     // Remove all state classes
     tokenCounter.classList.remove('high', 'medium', 'low');
 
-    // Add appropriate color class based on remaining tokens
-    if (remaining > 10) {
+    // Add appropriate color class based on remaining questions
+    if (remaining >= 4) {
         tokenCounter.classList.add('high');
-    } else if (remaining >= 5) {
+    } else if (remaining >= 2) {
         tokenCounter.classList.add('medium');
     } else {
         tokenCounter.classList.add('low');
@@ -7168,84 +7168,97 @@ function toggleChatHistoryPanel() {
 
 function renderChatHistoryList() {
     const list = document.getElementById('chatHistoryList');
+    const clearBtn = document.getElementById('clearHistoryBtn');
     if (!list) return;
 
     const allConversations = JSON.parse(localStorage.getItem('chatConversations') || '[]');
     list.innerHTML = '';
 
     if (allConversations.length === 0) {
-        list.innerHTML = '<p style="text-align:center; padding:20px; color:#888;">No history yet.</p>';
+        list.innerHTML = `
+            <div class="history-empty-state">
+                <div class="history-empty-icon">📜</div>
+                <div style="font-weight: 600;">No Conversation History</div>
+                <div style="font-size: 0.85em; opacity: 0.7;">Your past Bible AI chats will appear here.</div>
+            </div>
+        `;
+        if (clearBtn) clearBtn.style.display = 'none';
         return;
     }
 
+    if (clearBtn) clearBtn.style.display = 'flex';
+
     allConversations.forEach(conv => {
         const item = document.createElement('div');
-        item.className = 'history-item';
+        const isActive = conv.id === chatState.currentConversationId;
+        item.className = 'history-item' + (isActive ? ' active' : '');
 
-        const dateStr = new Date(conv.date).toLocaleString();
+        const dateStr = new Date(conv.date).toLocaleDateString(undefined, {
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+        const msgCount = (conv.messages || []).length;
 
         item.innerHTML = `
-            <div class="history-date">${dateStr}</div>
-            <div class="history-preview">${conv.preview}</div>
+            <div class="history-item-body">
+                <div class="history-item-top">
+                    <span class="history-date">${dateStr}</span>
+                    <span class="history-badge">${msgCount} ${msgCount === 1 ? 'msg' : 'msgs'}</span>
+                </div>
+                <div class="history-preview">${conv.preview || 'Conversation'}</div>
+            </div>
+            <button class="history-delete-btn" title="Delete conversation" onclick="deleteConversation('${conv.id}', event)">
+                🗑️
+            </button>
         `;
-        item.onclick = () => loadConversation(conv.id);
+        item.onclick = (e) => {
+            if (e.target.closest('.history-delete-btn')) return;
+            loadConversation(conv.id);
+        };
         list.appendChild(item);
     });
 }
 
-function loadConversation(id) {
-    // Save current before switching
-    saveCurrentConversation();
+function deleteConversation(id, event) {
+    if (event) event.stopPropagation();
 
-    const allConversations = JSON.parse(localStorage.getItem('chatConversations') || '[]');
-    const target = allConversations.find(c => c.id === id);
+    let allConversations = JSON.parse(localStorage.getItem('chatConversations') || '[]');
+    allConversations = allConversations.filter(c => c.id !== id);
+    localStorage.setItem('chatConversations', JSON.stringify(allConversations));
 
-    if (!target) return;
-
-    // Load State
-    chatState.currentConversationId = target.id;
-    chatState.history = target.messages || [];
-
-    // Re-render UI
-    const container = document.getElementById('chatHistory');
-    if (container) {
-        container.innerHTML = '';
-        chatState.history.forEach(msg => {
-            // Manually append without saving to state again (since it's already in state)
-            const div = document.createElement('div');
-            div.className = 'msg-' + msg.type;
-            if (msg.type === 'ai') {
-                const msgId = 'msg-hist-' + Math.random().toString(36).substr(2, 9);
-                div.id = msgId;
-                const contentHtml = msg.text.replace(/\n/g, '<br>');
-                div.innerHTML = `
-                    <div class="msg-content">${contentHtml}</div>
-                    <div class="msg-actions">
-                        <button class="report-btn" onclick="flagMessage('${msgId}')" title="Report Inappropriate Content">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line></svg>
-                            Report
-                        </button>
-                    </div>
-                `;
-            } else {
-                div.textContent = msg.text;
-            }
-            container.appendChild(div);
-        });
-        container.scrollTop = container.scrollHeight;
+    if (chatState.currentConversationId === id) {
+        startNewChat(true);
     }
 
-    // Close panel
-    toggleChatHistoryPanel();
+    renderChatHistoryList();
 }
 
+let clearConfirmTimeout = null;
 function clearAllChatHistory() {
-    if (confirm("Are you sure you want to delete all chat history?")) {
-        localStorage.removeItem('chatConversations');
-        renderChatHistoryList();
-        // Optionally clear current chat too?
-        startNewChat();
+    const clearBtn = document.getElementById('clearHistoryBtn');
+    if (!clearBtn) return;
+
+    if (!clearBtn.classList.contains('confirm-active')) {
+        clearBtn.classList.add('confirm-active');
+        clearBtn.innerHTML = '⚠️ Click again to confirm delete';
+        if (clearConfirmTimeout) clearTimeout(clearConfirmTimeout);
+        clearConfirmTimeout = setTimeout(() => {
+            clearBtn.classList.remove('confirm-active');
+            clearBtn.innerHTML = '🗑️ Clear All History';
+        }, 4000);
+        return;
     }
+
+    // Confirmed
+    if (clearConfirmTimeout) clearTimeout(clearConfirmTimeout);
+    clearBtn.classList.remove('confirm-active');
+    clearBtn.innerHTML = '🗑️ Clear All History';
+
+    localStorage.removeItem('chatConversations');
+    startNewChat(true);
+    renderChatHistoryList();
 }
 
 function updateChatStatusUI() {
@@ -7272,7 +7285,7 @@ async function sendChatMessage() {
 
     // Check token limit before processing
     if (!checkTokenLimit()) {
-        appendMessage("Daily limit reached! You've used all 20 tokens for today. Please try again tomorrow.", 'system');
+        appendMessage("Daily limit reached! You've used all 5 questions for today. Please try again tomorrow.", 'system');
         return;
     }
 

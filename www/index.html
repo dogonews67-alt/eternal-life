@@ -337,19 +337,21 @@
                 <div class="chat-status-bar">
                     <span id="chatStatusIndicator" class="chat-status offline"
                         title="Using Offline Search">Offline</span>
-                    <span id="tokenCounter" class="token-counter" title="Daily AI query limit">20/20 tokens</span>
+                    <span id="tokenCounter" class="token-counter" title="Daily AI question limit">5/5 questions</span>
                 </div>
 
                 <!-- Chat History Panel (Hidden Overlay) -->
                 <div id="chatHistoryPanel" class="chat-history-panel" style="display:none;">
                     <div class="panel-header">
-                        <h4>Conversation History</h4>
-                        <button onclick="toggleChatHistoryPanel()" class="icon-btn">❌</button>
+                        <h4>📜 Conversation History</h4>
+                        <button onclick="toggleChatHistoryPanel()" class="icon-btn" title="Close">✕</button>
                     </div>
                     <div id="chatHistoryList" class="history-list">
                         <!-- History items will be injected here -->
                     </div>
-                    <button onclick="clearAllChatHistory()" class="clear-history-btn">Clear All History</button>
+                    <div class="history-panel-footer">
+                        <button id="clearHistoryBtn" onclick="clearAllChatHistory()" class="clear-history-btn">🗑️ Clear All History</button>
+                    </div>
                 </div>
                 <div id="chatHistory" class="chat-history">
                     <div class="msg-system">Welcome! Ask a question and I will answer strictly according to the
@@ -835,7 +837,7 @@
     <script src="js/notifications.js" charset="UTF-8"></script>
     <!-- Core Logic -->
     <script src="js/missing_functions.js"></script> <!-- Restored Utility Functions -->
-    <script src="script.js?t=20260810133000" charset="UTF-8"></script>
+    <script src="script.js?t=20260810135000" charset="UTF-8"></script>
     <script src="scroll_restorer_assets/scroll_restorer.js?v=8" charset="UTF-8"></script>
     <script src="manna catch/manna_catch.js"></script>
     <script src="js/onboarding.js"></script>
