@@ -5808,13 +5808,15 @@ async function restoreBibleNavigation(scrollPosition = 0) {
         // Update the dropdowns to match
         updateBibleNavigationToolbar();
 
-        // Render the restored chapter with saved scroll position
-        const targetScroll = (typeof scrollPosition === 'number') ? scrollPosition : (state.savedScrollPosition || 0);
+        // Render the restored chapter with saved scroll position (if verse is specified, let highlightVerse scroll to it)
+        const targetScroll = (state.currentVerseNumber > 0) ? 0 : ((typeof scrollPosition === 'number') ? scrollPosition : 0);
         await renderChapter(targetScroll);
 
         // Restore verse highlight if a verse number was saved
         if (state.currentVerseNumber > 0) {
-            highlightVerse(state.currentVerseNumber);
+            setTimeout(() => {
+                highlightVerse(state.currentVerseNumber);
+            }, 200);
         }
     }
 
@@ -6018,36 +6020,21 @@ function highlightVerse(verseNumber) {
         // Scroll into view
         setTimeout(() => {
             const container = document.getElementById('scrollContainer');
-
-            // Check if scrollContainer is scrollable, or if we should scroll the window
-            const isScrollContainerScrollable = container && window.getComputedStyle(container).overflowY === 'auto' || window.getComputedStyle(container).overflowY === 'scroll';
-
-            if (container && isScrollContainerScrollable) {
-                const targetTop = targetElement.offsetTop;
-                const containerHeight = container.clientHeight;
-                // Center the verse
-                const scrollPosition = targetTop - (containerHeight / 2) + (targetElement.offsetHeight / 2);
-
-                console.log(`[highlightVerse] SCROLL DEBUG:
-                    Target OffsetTop: ${targetTop}
-                    Container Height: ${containerHeight}
-                    Element Height: ${targetElement.offsetHeight}
-                    Calculated ScrollPos: ${scrollPosition}
-                    Current ScrollTop: ${container.scrollTop}
-                `);
+            if (container && (container.scrollHeight > container.clientHeight)) {
+                const elementRect = targetElement.getBoundingClientRect();
+                const containerRect = container.getBoundingClientRect();
+                const currentScroll = container.scrollTop;
+                // Calculate exact vertical scroll offset relative to container viewport to center the verse
+                const targetScroll = currentScroll + (elementRect.top - containerRect.top) - (container.clientHeight / 2) + (elementRect.height / 2);
 
                 container.scrollTo({
-                    top: Math.max(0, scrollPosition),
+                    top: Math.max(0, targetScroll),
                     behavior: 'smooth'
                 });
             } else {
-                console.log("[highlightVerse] Defaulting to window scrollIntoView.");
-
-                // Let the browser handle standard scrolling
-                // center block is usually best for reading
                 targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
-        }, 300); // Increased timeout significantly for mobile debugging
+        }, 150);
 
         // Auto-remove highlight
         highlightTimeout = setTimeout(() => {
@@ -7748,11 +7735,11 @@ window.initApp = async function () {
             }
         }
 
-        // 5. Highlight Verse if needed (skip on notification launch)
-        if (state.currentVerseNumber > 0 && !window.isNotificationLaunch) {
+        // 5. Highlight Verse if needed for non-bible books (Bible mode handles its own highlight in restoreBibleNavigation)
+        if (state.currentVerseNumber > 0 && state.currentBookKey !== 'bible' && !window.isNotificationLaunch) {
             setTimeout(() => {
                 if (typeof highlightVerse === 'function') highlightVerse(state.currentVerseNumber);
-            }, 500);
+            }, 300);
         }
 
         // Update the book selector title to reflect the loaded book

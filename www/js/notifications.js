@@ -71,9 +71,11 @@ const Notifications = {
         // --- NEW: Ensure correct Bible is loaded before scheduling ---
         const currentLang = state.currentLang || 'text';
         if (typeof window.loadBibleForCurrentLanguage === 'function') {
-            const silent = true;
-            console.log(`[Notifications] Pre-loading Bible for language (silent): ${currentLang}`);
-            await window.loadBibleForCurrentLanguage(currentLang, false, null, silent);
+            if (!books['bible'] || !books['bible'].chapters || books['bible'].chapters.length === 0) {
+                const silent = true;
+                console.log(`[Notifications] Pre-loading Bible for language (silent): ${currentLang}`);
+                await window.loadBibleForCurrentLanguage(currentLang, false, null, silent);
+            }
         }
 
         // Android 13+ Permission Logic
