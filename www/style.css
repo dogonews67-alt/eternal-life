@@ -2844,6 +2844,8 @@ h2.chapter-title {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     background: var(--sidebar-bg);
     border: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
 }
 
 .game-card:hover {
@@ -2853,18 +2855,19 @@ h2.chapter-title {
 
 .game-card img {
     width: 100%;
-    height: auto;
+    aspect-ratio: 2.6 / 1;
     display: block;
     object-fit: cover;
 }
 
 .game-card-title {
-    padding: 15px;
+    padding: 14px 15px;
     text-align: center;
     font-weight: bold;
     font-size: 1.1rem;
     color: var(--text-color);
     background: var(--sidebar-bg);
+    margin-top: auto;
 }
 
 .game-badge {
