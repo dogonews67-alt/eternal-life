@@ -335,45 +335,37 @@ input {
     font-size: 1.1rem;
     color: var(--accent-color);
     display: flex;
-    /* Make logo-group and icon-group children display in a row */
     flex-direction: row;
-    /* Explicitly set to row for robustness */
     align-items: center;
-    gap: 15px;
-    /* Space between the Title group and the Icon group */
-    justify-content: space-between;
+    gap: 12px;
+    justify-content: flex-start;
+    flex-shrink: 0;
 }
 
 .utility-group {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
+    flex-shrink: 0;
 }
 
 .logo-group {
     display: flex;
     align-items: center;
-    gap: 5px;
-    white-space: normal;
-    /* Allow wrapping */
-    flex-shrink: 1;
-    overflow: hidden;
-    min-width: 0;
-    max-width: 65%;
-    /* Restrict width to ensure icons have space */
-    line-height: 1.1;
-    /* Tighten line height for stacked text */
-    flex-wrap: wrap;
-    /* Allow elements to wrap if needed */
+    gap: 6px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    line-height: 1.2;
 }
 
 #appTitle {
     display: inline-block;
-    word-break: break-word;
-    /* Ensure long words can break if absolutely necessary */
-    font-size: 0.95em;
-    /* Slightly smaller to help fit */
+    white-space: nowrap !important;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--accent-color);
     text-align: left;
+    letter-spacing: 0.3px;
 }
 
 .offline-badge {
@@ -1609,14 +1601,15 @@ h2.chapter-title {
 
 /* --- BIBLE NAVIGATION FIXES --- */
 
-/* Base styles - toolbar appears as its own row below header */
+/* Base styles - on desktop floats neatly to right, on mobile takes full width */
 .bible-navigation-toolbar {
     display: flex;
     flex-wrap: nowrap !important;
     align-items: center;
-    gap: 4px;
-    width: 100%;
-    padding: 4px 10px;
+    gap: 8px;
+    width: auto;
+    margin-left: auto;
+    padding: 0 5px;
     box-sizing: border-box;
     min-width: 0;
 }
@@ -1665,6 +1658,7 @@ h2.chapter-title {
         min-width: 0;
         padding: 4px 5px;
         width: 100%;
+        margin-left: 0;
         box-sizing: border-box;
     }
 
