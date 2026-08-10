@@ -2627,37 +2627,25 @@ async function renderChapter(scrollPosition = 0) {
         setTimeout(() => {
             // Special Cover Page Rendering
             if (chapter.isCover) {
-                dom.page.classList.add('cover-page-wrapper');
                 dom.page.innerHTML = `
                 <div class="cover-container">
-                    <div class="cover-card">
-                        <img src="the_eternal_life.png" alt="Cover" class="cover-image">
-                        <div class="cover-overlay-gradient"></div>
-                        <div class="cover-content">
-                            <h1 class="book-title-overlay">${book.title || 'Eternal Life'}</h1>
-                            <button class="cover-read-btn" onclick="changeChapter(1)" aria-label="Read Book">
-                                <span>Read Book</span>
-                                <span class="cover-btn-arrow">→</span>
-                            </button>
-                        </div>
-                    </div>
+                    <img src="the_eternal_life.png" alt="Cover" class="cover-image" onerror="this.style.display='none'">
+                    <h1 class="book-title-overlay">${book.title}</h1>
                 </div>
             `;
             } else if (state.currentBookKey === 'notes') {
-                dom.page.classList.remove('cover-page-wrapper');
                 // Special Notes Rendering
-                    let notesContent = localStorage.getItem('myReaderNotes') || chapter.verses[0].text;
-                    if (notesContent === "Add your notes here." && localStorage.getItem('myReaderNotes')) {
-                        notesContent = localStorage.getItem('myReaderNotes');
-                    }
-                    dom.page.innerHTML = `
-                    <h2 class="chapter-title">${chapter.title}</h2>
-                    <textarea id="notesTextarea" class="notes-textarea" placeholder="Write your notes here...">${notesContent}</textarea>
-                `;
-                } else {
-                    dom.page.classList.remove('cover-page-wrapper');
-                    // Standard Chapter Rendering
-                    let html = '';
+                let notesContent = localStorage.getItem('myReaderNotes') || chapter.verses[0].text;
+                if (notesContent === "Add your notes here." && localStorage.getItem('myReaderNotes')) {
+                    notesContent = localStorage.getItem('myReaderNotes');
+                }
+                dom.page.innerHTML = `
+                <h2 class="chapter-title">${chapter.title}</h2>
+                <textarea id="notesTextarea" class="notes-textarea" placeholder="Write your notes here...">${notesContent}</textarea>
+            `;
+            } else {
+                // Standard Chapter Rendering
+                let html = '';
                 if (chapter.title) {
                     html += `<h2 class="chapter-title">${chapter.title}</h2>`;
                 }
