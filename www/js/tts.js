@@ -1,7 +1,7 @@
 /**
  * =========================================================
- * Natural Human Text-to-Speech (TTS) Module for Eternal Life
- * Supports multi-language natural voice selection & sentence cadence
+ * Natural Human Text-to-Speech (TTS) Engine for Eternal Life
+ * Multi-language support with automatic voice matching & fallback
  * =========================================================
  */
 
@@ -12,171 +12,181 @@ const TextToSpeech = (function () {
     let availableVoices = [];
     let heartbeatTimer = null;
 
-    // Language code map (App language key -> BCP-47 Language Tag)
-    const LANG_CODE_MAP = {
-        'text': 'en-US',
-        'text_arabic': 'ar-SA',
-        'text_assamese': 'as-IN',
-        'text_bengali': 'bn-IN',
-        'text_burmese': 'my-MM',
-        'text_chinese': 'zh-CN',
-        'text_czech': 'cs-CZ',
-        'text_dogri': 'hi-IN',
-        'text_dutch': 'nl-NL',
-        'text_french': 'fr-FR',
-        'text_german': 'de-DE',
-        'text_gujarati': 'gu-IN',
-        'text_hebrew': 'he-IL',
-        'text_hindi': 'hi-IN',
-        'text_hungarian': 'hu-HU',
-        'text_igbo': 'ig-NG',
-        'text_indonesian': 'id-ID',
-        'text_italian': 'it-IT',
-        'text_japanese': 'ja-JP',
-        'text_kannada': 'kn-IN',
-        'text_korean': 'ko-KR',
-        'text_malayalam': 'ml-IN',
-        'text_manipuri': 'mni-IN',
-        'text_marathi': 'mr-IN',
-        'text_nagamese': 'as-IN',
-        'text_nepali': 'ne-NP',
-        'text_norwegian': 'nb-NO',
-        'text_odia': 'or-IN',
-        'text_oromo': 'om-ET',
-        'text_polish': 'pl-PL',
-        'text_portuguese': 'pt-BR',
-        'text_punjabi': 'pa-IN',
-        'text_romanian': 'ro-RO',
-        'text_russian': 'ru-RU',
-        'text_sanskrit': 'sa-IN',
-        'text_somali': 'so-SO',
-        'text_spanish': 'es-ES',
-        'text_swahili': 'sw-KE',
-        'text_swedish': 'sv-SE',
-        'text_tagalog': 'tl-PH',
-        'text_tamil': 'ta-IN',
-        'text_telugu': 'te-IN',
-        'text_thai': 'th-TH',
-        'text_turkish': 'tr-TR',
-        'text_ukrainian': 'uk-UA',
-        'text_urdu': 'ur-PK',
-        'text_vietnamese': 'vi-VN',
-        'text_yoruba': 'yo-NG'
+    // Language code map (App language key -> Primary BCP-47 Language Tag & Indic/Regional Fallbacks)
+    const LANG_CONFIG = {
+        'text':            { lang: 'en-US', fallbacks: ['en-GB', 'en-AU', 'en'] },
+        'text_arabic':     { lang: 'ar-SA', fallbacks: ['ar-EG', 'ar'] },
+        'text_assamese':   { lang: 'as-IN', fallbacks: ['bn-IN', 'hi-IN', 'en-IN'] },
+        'text_bengali':    { lang: 'bn-IN', fallbacks: ['bn-BD', 'hi-IN', 'en-IN'] },
+        'text_burmese':    { lang: 'my-MM', fallbacks: ['th-TH', 'en-US'] },
+        'text_chinese':    { lang: 'zh-CN', fallbacks: ['zh-TW', 'zh-HK', 'zh'] },
+        'text_czech':      { lang: 'cs-CZ', fallbacks: ['sk-SK', 'pl-PL', 'cs'] },
+        'text_dogri':      { lang: 'doi-IN', fallbacks: ['hi-IN', 'pa-IN', 'en-IN'] },
+        'text_dutch':      { lang: 'nl-NL', fallbacks: ['nl-BE', 'nl'] },
+        'text_french':     { lang: 'fr-FR', fallbacks: ['fr-CA', 'fr-BE', 'fr'] },
+        'text_german':     { lang: 'de-DE', fallbacks: ['de-AT', 'de-CH', 'de'] },
+        'text_gujarati':   { lang: 'gu-IN', fallbacks: ['hi-IN', 'mr-IN', 'en-IN'] },
+        'text_hebrew':     { lang: 'he-IL', fallbacks: ['he'] },
+        'text_hindi':      { lang: 'hi-IN', fallbacks: ['hi'] },
+        'text_hungarian':  { lang: 'hu-HU', fallbacks: ['hu'] },
+        'text_igbo':       { lang: 'ig-NG', fallbacks: ['en-NG', 'en-US'] },
+        'text_indonesian': { lang: 'id-ID', fallbacks: ['ms-MY', 'id'] },
+        'text_italian':    { lang: 'it-IT', fallbacks: ['it-CH', 'it'] },
+        'text_japanese':   { lang: 'ja-JP', fallbacks: ['ja'] },
+        'text_kannada':    { lang: 'kn-IN', fallbacks: ['te-IN', 'ta-IN', 'hi-IN', 'en-IN'] },
+        'text_korean':     { lang: 'ko-KR', fallbacks: ['ko'] },
+        'text_malayalam':  { lang: 'ml-IN', fallbacks: ['ta-IN', 'kn-IN', 'hi-IN', 'en-IN'] },
+        'text_manipuri':   { lang: 'mni-IN', fallbacks: ['bn-IN', 'as-IN', 'hi-IN', 'en-IN'] },
+        'text_marathi':    { lang: 'mr-IN', fallbacks: ['hi-IN', 'gu-IN', 'en-IN'] },
+        'text_nagamese':   { lang: 'as-IN', fallbacks: ['bn-IN', 'hi-IN', 'en-IN'] },
+        'text_nepali':     { lang: 'ne-NP', fallbacks: ['hi-IN', 'en-IN'] },
+        'text_norwegian':  { lang: 'nb-NO', fallbacks: ['no-NO', 'nn-NO', 'sv-SE', 'no'] },
+        'text_odia':       { lang: 'or-IN', fallbacks: ['bn-IN', 'hi-IN', 'en-IN'] },
+        'text_oromo':      { lang: 'om-ET', fallbacks: ['am-ET', 'en-US'] },
+        'text_polish':     { lang: 'pl-PL', fallbacks: ['pl'] },
+        'text_portuguese': { lang: 'pt-BR', fallbacks: ['pt-PT', 'pt'] },
+        'text_punjabi':    { lang: 'pa-IN', fallbacks: ['hi-IN', 'ur-PK', 'en-IN'] },
+        'text_romanian':   { lang: 'ro-RO', fallbacks: ['ro'] },
+        'text_russian':    { lang: 'ru-RU', fallbacks: ['uk-UA', 'ru'] },
+        'text_sanskrit':   { lang: 'sa-IN', fallbacks: ['hi-IN', 'mr-IN', 'en-IN'] },
+        'text_somali':     { lang: 'so-SO', fallbacks: ['ar-SA', 'en-US'] },
+        'text_spanish':    { lang: 'es-ES', fallbacks: ['es-MX', 'es-US', 'es'] },
+        'text_swahili':    { lang: 'sw-KE', fallbacks: ['sw-TZ', 'en-US'] },
+        'text_swedish':    { lang: 'sv-SE', fallbacks: ['da-DK', 'nb-NO', 'sv'] },
+        'text_tagalog':    { lang: 'tl-PH', fallbacks: ['fil-PH', 'en-US'] },
+        'text_tamil':      { lang: 'ta-IN', fallbacks: ['ta-LK', 'te-IN', 'hi-IN', 'en-IN'] },
+        'text_telugu':     { lang: 'te-IN', fallbacks: ['kn-IN', 'ta-IN', 'hi-IN', 'en-IN'] },
+        'text_thai':       { lang: 'th-TH', fallbacks: ['th'] },
+        'text_turkish':    { lang: 'tr-TR', fallbacks: ['tr'] },
+        'text_ukrainian':  { lang: 'uk-UA', fallbacks: ['ru-RU', 'pl-PL', 'uk'] },
+        'text_urdu':       { lang: 'ur-PK', fallbacks: ['ar-SA', 'hi-IN', 'ur'] },
+        'text_vietnamese': { lang: 'vi-VN', fallbacks: ['vi'] },
+        'text_yoruba':     { lang: 'yo-NG', fallbacks: ['en-NG', 'en-US'] }
     };
 
-    // Initialize voices
-    function initVoices() {
+    /**
+     * Refresh voices from the browser
+     */
+    function refreshVoices() {
         if ('speechSynthesis' in window) {
-            availableVoices = window.speechSynthesis.getVoices() || [];
-            if (window.speechSynthesis.onvoiceschanged !== undefined) {
-                window.speechSynthesis.onvoiceschanged = () => {
-                    availableVoices = window.speechSynthesis.getVoices() || [];
-                };
+            try {
+                availableVoices = window.speechSynthesis.getVoices() || [];
+            } catch (e) {
+                console.warn('[TTS] Failed to get voices:', e);
             }
         }
     }
 
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initVoices);
-    } else {
-        initVoices();
+    if ('speechSynthesis' in window) {
+        refreshVoices();
+        if (window.speechSynthesis.onvoiceschanged !== undefined) {
+            window.speechSynthesis.onvoiceschanged = () => {
+                refreshVoices();
+            };
+        }
     }
 
     /**
-     * Finds the best, most natural-sounding voice for a given BCP-47 language tag
+     * Resolves the best available voice and matching language code
+     * Prevents Chrome "language-unavailable" error by ensuring voice.lang matches utterance.lang
      */
-    function getBestNaturalVoice(langCode) {
+    function resolveVoiceAndLang(langKey) {
+        refreshVoices();
+
+        const config = LANG_CONFIG[langKey] || LANG_CONFIG['text'];
+        const targetLang = config.lang;
+        const fallbackLangs = config.fallbacks || [];
+        const allCandidates = [targetLang, targetLang.split('-')[0], ...fallbackLangs];
+
         if (!availableVoices || availableVoices.length === 0) {
-            if ('speechSynthesis' in window) {
-                availableVoices = window.speechSynthesis.getVoices() || [];
-            }
+            return { voice: null, lang: targetLang };
         }
 
-        if (!availableVoices || availableVoices.length === 0) return null;
-
-        const primaryLang = langCode.split('-')[0].toLowerCase();
-        const fullLang = langCode.toLowerCase().replace('_', '-');
-
-        // Filter voices matching the language
-        const matchingVoices = availableVoices.filter(voice => {
-            const vLang = (voice.lang || '').toLowerCase().replace('_', '-');
-            return vLang === fullLang || vLang.startsWith(primaryLang);
-        });
-
-        if (matchingVoices.length === 0) {
-            // Fallback to default or English natural voice if not found
-            return availableVoices.find(v => v.default) || availableVoices[0] || null;
-        }
-
-        // Keywords indicating high-quality / natural neural voices
         const naturalKeywords = [
             'natural', 'neural', 'google', 'premium', 'enhanced',
             'online', 'samantha', 'daniel', 'karen', 'serena',
             'microsoft', 'zira', 'david'
         ];
 
-        // Score voices to find the most human sounding one
-        let bestVoice = matchingVoices[0];
-        let bestScore = -1;
+        // Search for best matching voice across candidate languages in priority order
+        for (const candidate of allCandidates) {
+            const candLower = candidate.toLowerCase().replace('_', '-');
+            const candPrimary = candLower.split('-')[0];
 
-        matchingVoices.forEach(voice => {
-            let score = 0;
-            const nameLower = (voice.name || '').toLowerCase();
-            const langLower = (voice.lang || '').toLowerCase().replace('_', '-');
-
-            // Exact language match bonus
-            if (langLower === fullLang) score += 20;
-
-            // Natural keyword bonus
-            naturalKeywords.forEach(kw => {
-                if (nameLower.includes(kw)) score += 15;
+            const matches = availableVoices.filter(v => {
+                const vLang = (v.lang || '').toLowerCase().replace('_', '-');
+                return vLang === candLower || vLang.startsWith(candPrimary);
             });
 
-            // Local service / non-synthetic bonus
-            if (voice.localService) score += 5;
-            if (voice.default) score += 3;
+            if (matches.length > 0) {
+                // Score matching voices to pick the most natural one
+                let bestMatch = matches[0];
+                let bestScore = -1;
 
-            if (score > bestScore) {
-                bestScore = score;
-                bestVoice = voice;
+                matches.forEach(v => {
+                    let score = 0;
+                    const vName = (v.name || '').toLowerCase();
+                    const vLang = (v.lang || '').toLowerCase().replace('_', '-');
+
+                    if (vLang === candLower) score += 20;
+                    naturalKeywords.forEach(kw => {
+                        if (vName.includes(kw)) score += 15;
+                    });
+                    if (v.localService) score += 5;
+                    if (v.default) score += 3;
+
+                    if (score > bestScore) {
+                        bestScore = score;
+                        bestMatch = v;
+                    }
+                });
+
+                // IMPORTANT: Return the matched voice AND its actual supported lang code
+                return {
+                    voice: bestMatch,
+                    lang: bestMatch.lang || targetLang
+                };
             }
-        });
+        }
 
-        return bestVoice;
+        // Final Fallback: Use system default voice or first available voice
+        const fallbackVoice = availableVoices.find(v => v.default) || availableVoices[0];
+        return {
+            voice: fallbackVoice,
+            lang: fallbackVoice ? fallbackVoice.lang : targetLang
+        };
     }
 
     /**
-     * Cleans verse text for natural human reading (removes HTML, numbers, brackets)
+     * Cleans raw HTML text into clean, natural human narration
      */
-    function cleanTextForSpeech(rawText) {
-        if (!rawText) return '';
+    function cleanTextForSpeech(rawHtml) {
+        if (!rawHtml) return '';
 
-        // Create a temporary element to strip HTML
         const tempDiv = document.createElement('div');
-        tempDiv.innerHTML = rawText;
+        tempDiv.innerHTML = rawHtml;
 
-        // Remove verse numbers and speaker buttons
-        const verseNums = tempDiv.querySelectorAll('.verse-number, .verse-speaker-btn');
-        verseNums.forEach(el => el.remove());
+        // Remove verse numbers, speaker buttons, and badges
+        tempDiv.querySelectorAll('.verse-number, .verse-speaker-btn, .game-badge, script, style').forEach(el => el.remove());
 
         let text = tempDiv.textContent || tempDiv.innerText || '';
 
-        // Clean up formatting for natural cadence
+        // Natural cadence cleaning
         text = text
-            .replace(/[\r\n]+/g, ' ')               // Replace newlines with space
-            .replace(/^\s*\d+[\s:.]*/, '')          // Strip leading verse number like "16." or "16:"
+            .replace(/[\r\n]+/g, ' ')               // Replace newlines with single space
+            .replace(/^\s*\d+[\s:.]*/, '')          // Strip leading reference number
             .replace(/\[.*?\]/g, '')                // Remove bracketed footnotes
-            .replace(/\(.*?\)/g, '')                // Remove parenthetical cross-references if any
+            .replace(/\(.*?\)/g, '')                // Remove parenthetical notes
             .replace(/“|”|"/g, '"')                 // Normalize quotes
             .replace(/‘|’|'/g, "'")                 // Normalize apostrophes
-            .replace(/\s+/g, ' ')                   // Normalize spaces
+            .replace(/\s+/g, ' ')                   // Single spaces
             .trim();
 
         return text;
     }
 
     /**
-     * Stop active speech and clear all visual indicators
+     * Stop active speech and reset UI
      */
     function stop() {
         if (heartbeatTimer) {
@@ -188,7 +198,7 @@ const TextToSpeech = (function () {
             try {
                 window.speechSynthesis.cancel();
             } catch (e) {
-                console.warn('Error cancelling speech synthesis:', e);
+                console.warn('[TTS] Error cancelling speech:', e);
             }
         }
 
@@ -206,7 +216,7 @@ const TextToSpeech = (function () {
     }
 
     /**
-     * Toggle speech for a specific verse element
+     * Toggle speech for a clicked verse/paragraph
      */
     function toggleVerseSpeech(event, button) {
         if (event) {
@@ -215,44 +225,46 @@ const TextToSpeech = (function () {
         }
 
         if (!('speechSynthesis' in window)) {
-            alert('Text-to-Speech is not supported on this device/browser.');
+            alert('Text-to-Speech is not supported on this browser/device.');
             return;
         }
 
         const verseElement = button.closest('.verse');
         if (!verseElement) return;
 
-        // If this verse is already speaking, stop it
+        // If currently speaking this verse, stop it
         if (currentlySpeakingElement === verseElement) {
             stop();
             return;
         }
 
-        // Stop any currently running speech
+        // Stop any active speech first
         stop();
 
-        // Extract clean text to speak
+        // Extract clean text
         const textToSpeak = cleanTextForSpeech(verseElement.innerHTML);
-        if (!textToSpeak) return;
+        if (!textToSpeak) {
+            console.warn('[TTS] No text found to speak.');
+            return;
+        }
 
-        // Determine language code
+        // Get active language from app state
         const currentLangKey = (typeof state !== 'undefined' && state.currentLang) ? state.currentLang : 'text';
-        const langCode = LANG_CODE_MAP[currentLangKey] || 'en-US';
+        const { voice, lang } = resolveVoiceAndLang(currentLangKey);
+
+        console.log(`[TTS] Speaking in ${currentLangKey} (Locale: ${lang}, Voice: ${voice ? voice.name : 'Default'}): "${textToSpeak.substring(0, 40)}..."`);
 
         // Create utterance
         const utterance = new SpeechSynthesisUtterance(textToSpeak);
-        utterance.lang = langCode;
+        utterance.lang = lang;
+        if (voice) {
+            utterance.voice = voice;
+        }
 
         // Natural Human Cadence parameters
-        utterance.rate = 0.95;  // Comfortable, human conversational speed
-        utterance.pitch = 1.0; // Natural balanced pitch
+        utterance.rate = 0.95;  // Relaxed, conversational speed
+        utterance.pitch = 1.0; // Natural conversational pitch
         utterance.volume = 1.0;
-
-        // Select best natural voice
-        const bestVoice = getBestNaturalVoice(langCode);
-        if (bestVoice) {
-            utterance.voice = bestVoice;
-        }
 
         // Set visual states
         currentlySpeakingElement = verseElement;
@@ -261,21 +273,18 @@ const TextToSpeech = (function () {
         button.classList.add('is-speaking');
         currentUtterance = utterance;
 
-        // Handle speech events
+        // Event Listeners
         utterance.onend = function () {
+            console.log('[TTS] Speech finished.');
             stop();
         };
 
         utterance.onerror = function (e) {
-            console.warn('Speech synthesis utterance error:', e);
+            console.warn('[TTS] Speech utterance error:', e);
             stop();
         };
 
-        utterance.onpause = function () {
-            // keep state
-        };
-
-        // Chromium/Android WebView heartbeat to prevent 15-second cutoff bug
+        // Chromium Keep-Alive Heartbeat
         heartbeatTimer = setInterval(() => {
             if ('speechSynthesis' in window && window.speechSynthesis.speaking) {
                 window.speechSynthesis.pause();
@@ -283,10 +292,13 @@ const TextToSpeech = (function () {
             }
         }, 10000);
 
+        // Resume engine if paused (fixes Chrome/Android background suspension)
         try {
+            window.speechSynthesis.cancel();
+            window.speechSynthesis.resume();
             window.speechSynthesis.speak(utterance);
         } catch (err) {
-            console.error('Error starting speech:', err);
+            console.error('[TTS] Error invoking speech:', err);
             stop();
         }
     }
@@ -294,7 +306,7 @@ const TextToSpeech = (function () {
     return {
         toggleVerseSpeech: toggleVerseSpeech,
         stop: stop,
-        getBestNaturalVoice: getBestNaturalVoice
+        resolveVoiceAndLang: resolveVoiceAndLang
     };
 })();
 
