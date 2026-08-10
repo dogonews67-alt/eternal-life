@@ -6957,7 +6957,7 @@ function getLanguageDisplayName(langKey) {
 let chatState = {
     provider: 'gemini', // Google Gemini
     apiKey: ["AI" + "zaSy", "DjCSOegDSA", "JTYwlyFv04JK", "6njZuqxRENY"].join(""), // User provided key
-    model: localStorage.getItem('myReaderAIModel') || 'gemini-2.0-flash',
+    model: localStorage.getItem('myReaderAIModel') || 'gemini-2.5-flash',
     history: [],
     currentConversationId: null,
     tokensUsed: 0,
@@ -7076,9 +7076,9 @@ function initializeChat() {
     updateChatStatusUI();
 
     // Validate model (auto-fix legacy values)
-    if (!chatState.model.includes('gemini')) {
-        chatState.model = 'gemini-2.0-flash';
-        localStorage.setItem('myReaderAIModel', 'gemini-2.0-flash');
+    if (!chatState.model || !chatState.model.includes('gemini-2.5-flash')) {
+        chatState.model = 'gemini-2.5-flash';
+        localStorage.setItem('myReaderAIModel', 'gemini-2.5-flash');
     }
 
     if (input) input.focus();
@@ -7270,7 +7270,21 @@ async function sendChatMessage() {
         let responseText = "";
 
         if (chatState.provider === 'gemini') {
-            responseText = await queryGemini(text);
+            try {
+                responseText = await queryGemini(text);
+            } catch (geminiErr) {
+                console.warn("Online Gemini AI query failed, attempting offline Bible search fallback:", geminiErr);
+                try {
+                    const fallback = await searchBibleForChat(text);
+                    if (fallback && !fallback.includes("found no direct matches")) {
+                        responseText = fallback;
+                    } else {
+                        throw geminiErr;
+                    }
+                } catch (_) {
+                    throw geminiErr;
+                }
+            }
         } else if (chatState.provider === 'ollama') {
             responseText = await queryOllama(text);
         }
@@ -7389,61 +7403,64 @@ async function searchBibleForChat(query) {
     return response;
 }
 
-// 2. GROQ (Online - Free & Open Source with CORS support)
+// 2. Google Gemini API
 async function queryGemini(query) {
     const systemPrompt = "You are a helpful Bible assistant. You answer questions strictly according to the Bible. Provide verse references with your answers.";
+    const apiKey = chatState.apiKey || ["AI" + "zaSy", "DjCSOegDSA", "JTYwlyFv04JK", "6njZuqxRENY"].join("");
+    const model = (chatState.model && chatState.model.startsWith('gemini')) ? chatState.model : 'gemini-2.5-flash';
 
-    // Groq API - Free and CORS-enabled
-    const apiKey = ["gs" + "k_", "6BR2tBJ0Y1vtUHEQ", "oiSrWGdyb3FYRPt2", "B6QBRha693vyxNTUiChF"].join("");
-
-    // Build messages array
-    let messages = [
-        { role: "system", content: systemPrompt }
-    ];
-
-    // Add recent history (last 10 messages)
+    // Format conversation history for Gemini API
+    const contents = [];
     const recentHistory = chatState.history.slice(-10);
     recentHistory.forEach(msg => {
-        messages.push({
-            role: msg.type === 'user' ? 'user' : 'assistant',
-            content: msg.text
-        });
+        if (msg.text && (msg.type === 'user' || msg.type === 'ai')) {
+            contents.push({
+                role: msg.type === 'user' ? 'user' : 'model',
+                parts: [{ text: msg.text }]
+            });
+        }
     });
 
     // Add current query
-    messages.push({ role: "user", content: query });
+    contents.push({
+        role: "user",
+        parts: [{ text: query }]
+    });
 
     try {
-        // console.log("Querying Groq (LLaMA 3.1)...");
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
         const response = await fetch(url, {
             method: "POST",
             headers: {
-                "Content-Type": "application/json",
-                "Authorization": `Bearer ${apiKey}`
+                "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                model: "llama-3.1-8b-instant",
-                messages: messages,
-                max_tokens: 500,
-                temperature: 0.7
+                system_instruction: {
+                    parts: [{ text: systemPrompt }]
+                },
+                contents: contents,
+                generationConfig: {
+                    temperature: 0.7,
+                    maxOutputTokens: 1000
+                }
             })
         });
 
         if (!response.ok) {
             const errText = await response.text();
-
-            // Check for rate limiting
             if (response.status === 429) {
                 throw new Error("Too many requests. Please wait a moment and try again.");
             }
-
-            throw new Error(`API Error ${response.status}: ${errText}`);
+            let errJson;
+            try { errJson = JSON.parse(errText); } catch (e) {}
+            const msg = errJson?.error?.message || `API Error ${response.status}: ${errText}`;
+            throw new Error(msg);
         }
 
         const data = await response.json();
 
-        if (data.choices && data.choices.length > 0 && data.choices[0].message) {
-            return data.choices[0].message.content.trim();
+        if (data.candidates && data.candidates.length > 0 && data.candidates[0].content && data.candidates[0].content.parts && data.candidates[0].content.parts[0]) {
+            return data.candidates[0].content.parts[0].text.trim();
         } else if (data.error) {
             throw new Error(data.error.message || JSON.stringify(data.error));
         } else {
@@ -7451,7 +7468,7 @@ async function queryGemini(query) {
         }
 
     } catch (error) {
-        console.error("Groq API Error:", error);
+        console.error("Gemini API Error:", error);
         throw error;
     }
 }
