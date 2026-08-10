@@ -7406,7 +7406,18 @@ async function searchBibleForChat(query) {
 
 // 2. Google Gemini API
 async function queryGemini(query) {
-    const systemPrompt = "You are a helpful Bible assistant. You answer questions strictly according to the Bible. Provide verse references with your answers.";
+    // Detect current app language
+    const currentLangKey = (typeof state !== 'undefined' && state.currentLang) ? state.currentLang : (localStorage.getItem('preferredLanguage') || 'text');
+    const langName = (typeof getLanguageDisplayName === 'function') ? getLanguageDisplayName(currentLangKey) : 'English';
+
+    let systemPrompt = "You are a helpful, respectful Bible assistant in the Eternal Life app. You answer questions strictly according to the Holy Bible, providing accurate verse references.";
+
+    if (langName && langName.toLowerCase() !== 'english') {
+        systemPrompt += ` IMPORTANT INSTRUCTION: The user is currently reading the app in the ${langName} language. You MUST ALWAYS compose your entire response in the ${langName} language (${langName} script/alphabet), and cite Bible verses/passages according to the ${langName} Bible.`;
+    } else {
+        systemPrompt += " Respond in English with accurate Scripture verse citations.";
+    }
+
     const apiKey = chatState.apiKey || ["AI" + "zaSy", "DjCSOegDSA", "JTYwlyFv04JK", "6njZuqxRENY"].join("");
     const model = (chatState.model && chatState.model.startsWith('gemini')) ? chatState.model : 'gemini-2.5-flash';
 
