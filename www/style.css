@@ -1688,176 +1688,167 @@ h2.chapter-title {
     #bibleVerseSelector {
         flex: 0 0 auto;
     }
+}
 
-    /* --- BOOK SELECTOR SIDEBAR STYLES --- */
+/* --- BOOK SELECTOR SIDEBAR STYLES --- */
 
-    /* Base Sidebar/Modal Styles */
-    .sidebar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 100%;
-        width: 300px;
-        /* Default desktop/tablet width */
-        max-width: 85%;
-        /* Ensures it doesn't exceed screen width on small mobiles */
-        background: var(--sidebar-bg);
-        box-shadow: 2px 0 10px var(--modal-shadow);
-        z-index: 1000;
-        /* Start off-screen (closed) */
-        transform: translateX(-100%);
-        transition: transform var(--transition-speed) ease-in-out;
-        padding: 20px;
-        overflow-y: auto;
-        color: var(--text-color);
+/* Base Sidebar/Modal Styles (Applies to all screen sizes) */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 320px;
+    max-width: 85vw;
+    background: var(--sidebar-bg, #f4ecd8);
+    box-shadow: 2px 0 15px var(--modal-shadow, rgba(0, 0, 0, 0.25));
+    z-index: 1000;
+    transform: translateX(-100%);
+    transition: transform var(--transition-speed, 0.3s) ease-in-out;
+    padding: 24px 20px;
+    overflow-y: auto;
+    color: var(--text-color, #2c2416);
+    box-sizing: border-box;
+}
+
+.sidebar.open {
+    transform: translateX(0);
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 12px;
+}
+
+.sidebar-header h2 {
+    margin: 0;
+    color: var(--accent-color, #8b4513);
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.sidebar-header .close-btn {
+    font-size: 1.8rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-color, #2c2416);
+    padding: 4px 8px;
+    line-height: 1;
+    border-radius: 4px;
+    transition: opacity 0.2s;
+}
+
+.sidebar-header .close-btn:hover {
+    opacity: 0.7;
+}
+
+/* Book Selector Specific Link Styles */
+.book-link {
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    background: var(--bg-color, #fdfbf7);
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    text-decoration: none !important;
+    color: var(--text-color, #2c2416) !important;
+    font-size: 1.05rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.book-link:hover {
+    background: var(--sidebar-bg, #f4ecd8);
+    border-color: var(--accent-color, #8b4513);
+    transform: translateX(4px);
+}
+
+/* Style for the currently selected book */
+.book-link.active {
+    background: var(--accent-color, #8b4513) !important;
+    color: #ffffff !important;
+    font-weight: 700;
+    border-color: var(--accent-color, #8b4513);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.book-link.active .version-tag {
+    background: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+}
+
+/* --- BIBLE NAVIGATION CONTROLLER --- */
+.bible-nav-controller {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px 0;
+    gap: 15px;
+    justify-content: flex-start;
+}
+
+.bible-nav-select {
+    padding: 8px 12px;
+    border: 1px solid var(--accent-color);
+    border-radius: 5px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    cursor: pointer;
+}
+
+.bible-nav-select:hover,
+.bible-nav-select:focus {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+    border-color: var(--accent-color);
+}
+
+/* --- MOBILE OPTIMIZATIONS (Max Width 600px) --- */
+@media (max-width: 600px) {
+    .toolbar {
+        padding: 8px 5px;
     }
 
-    .sidebar.open {
-        /* Slide in (open) */
-        transform: translateX(0);
+    .icon-btn {
+        width: 38px;
+        height: 38px;
     }
 
-    .sidebar-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 20px;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-        padding-bottom: 10px;
+    .icon-btn svg {
+        width: 20px;
+        height: 20px;
     }
 
-    .sidebar-header h2 {
-        margin: 0;
-        color: var(--accent-color);
+    .utility-group {
+        gap: 5px;
     }
 
-    .sidebar-header .close-btn {
-        /* This font size controls the size of the '&times;' character */
-        font-size: 2rem;
-        background: none;
-        border: none;
-        cursor: pointer;
-        color: var(--text-color);
-        padding: 5px 10px;
-        /* Provides a large clickable area */
+    #appTitle {
+        font-size: min(1.4rem, 4vw, 1.1rem);
+        padding: 0 5px;
+        line-height: 1.2;
     }
 
-    /* Book Selector Specific Link Styles */
-    .book-link {
-        display: block;
-        padding: 15px;
-        margin-bottom: 10px;
-        background: var(--bg-color);
-        /* Lighter background for the link */
-        border: 1px solid rgba(0, 0, 0, 0.1);
-        border-radius: 5px;
-        text-decoration: none;
-        color: var(--text-color);
-        font-size: 1.1rem;
-        transition: background 0.2s, border-color 0.2s;
-        cursor: pointer;
-    }
-
-    .book-link:hover {
-        background: var(--sidebar-bg);
-        border-color: var(--accent-color);
-    }
-
-    /* Style for the currently selected book */
-    .book-link.active {
-        background: var(--accent-color);
-        color: white;
-        font-weight: bold;
-        border-color: var(--accent-color);
-    }
-
-    /* --- BIBLE NAVIGATION CONTROLLER --- */
-
-    /* Ensure the navigation bar takes full width and lays out its items */
     .bible-nav-controller {
-        display: flex;
-        /* Use flexbox to align book, chapter, verse selectors */
-        flex-wrap: wrap;
-        /* Allows selectors to wrap on smaller screens */
-        width: 100%;
-        /* Important: ensures it spans the full width */
-        padding: 10px 0;
-        /* Add some vertical padding */
-        gap: 15px;
-        /* Spacing between the dropdowns */
-        justify-content: flex-start;
-        /* Aligns selectors to the left */
+        padding: 5px 0;
+        gap: 8px;
     }
 
-    /* Style for the select elements themselves */
     .bible-nav-select {
-        padding: 8px 12px;
-        border: 1px solid var(--accent-color);
-        border-radius: 5px;
-        background-color: var(--bg-color);
-        /* Use a complementary color */
-        color: var(--text-color);
-        font-family: var(--font-family);
-        cursor: pointer;
-    }
-
-    .bible-nav-select:hover,
-    .bible-nav-select:focus {
-        background-color: var(--bg-color) !important;
-        color: var(--text-color) !important;
-        border-color: var(--accent-color);
-    }
-
-    /* --- MOBILE OPTIMIZATIONS (Max Width 600px) --- */
-    @media (max-width: 600px) {
-
-        /* 1. Reduce overall toolbar padding */
-        .toolbar {
-            padding: 8px 5px;
-            /* Very small padding to maximize space */
-        }
-
-        /* 2. Make icon buttons smaller on mobile */
-        .icon-btn {
-            /* Use a slightly smaller, touch-friendly size */
-            width: 38px;
-            height: 38px;
-        }
-
-        /* 3. Reduce the size of the icon (SVG) inside the button */
-        .icon-btn svg {
-            width: 20px;
-            height: 20px;
-        }
-
-        /* 4. Reduce spacing between utility buttons to save horizontal room */
-        .utility-group {
-            gap: 5px;
-        }
-
-        /* 5. Fluid App Title Sizing */
-        #appTitle {
-            /* Use min() to ensure the font size is never larger than 1.4rem,
-           but scales down relative to the viewport width (vw), with a minimum size of 1.1rem */
-            font-size: min(1.4rem, 4vw, 1.1rem);
-            padding: 0 5px;
-            /* Minimal padding for the title area */
-            line-height: 1.2;
-            /* Tighter line height for better vertical fit */
-        }
-
-        /* 6. Ensure the Bible navigation selectors are compact */
-        .bible-nav-controller {
-            padding: 5px 0;
-            gap: 8px;
-        }
-
-        .bible-nav-select {
-            flex-grow: 1;
-            min-width: 0;
-            padding: 6px 8px;
-            font-size: 0.9rem;
-        }
+        flex-grow: 1;
+        min-width: 0;
+        padding: 6px 8px;
+        font-size: 0.9rem;
     }
 }
 
