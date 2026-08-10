@@ -870,3 +870,12 @@ function handlePanelState(step) {
         }
     }
 }
+
+// Automatically check and show onboarding immediately on first run
+if (typeof document !== 'undefined') {
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', checkAndShowOnboarding);
+    } else {
+        checkAndShowOnboarding();
+    }
+}

@@ -7785,12 +7785,10 @@ window.initApp = async function () {
 
     // console.log("App initialization complete.");
 
-    // Show onboarding wizard for first-time users (delay allows WebView layout to settle)
-    setTimeout(() => {
-        if (typeof checkAndShowOnboarding === 'function') {
-            checkAndShowOnboarding();
-        }
-    }, 1500);
+    // Show onboarding wizard immediately for first-time users (no delay)
+    if (typeof checkAndShowOnboarding === 'function') {
+        checkAndShowOnboarding();
+    }
 }
 
 // Wrapper for existing calls to startAppLogic
