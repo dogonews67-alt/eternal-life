@@ -2,12 +2,11 @@
  * ====================================================================
  * Natural Human Text-to-Speech (TTS) Engine for Eternal Life (Option 1)
  * Features:
- *   - Strict verification: only shows speaker button when an authentic voice is installed for that language
- *   - Identical, consistent behavior across Mobile and PC
- *   - Rotating progressbar spinner while initializing voice
- *   - Smooth pulsating active stop button during narration
+ *   - Prioritizes modern, natural human female voices (Jenny, Aria, Google, Samantha, Zira)
+ *   - Strict verification: only shows speaker button when an authentic voice is installed
+ *   - Zero-delay Chromium/Android speech pipeline (no race condition cancel bug)
+ *   - Rotating progressbar spinner transitioning to pulsating stop button
  *   - Paragraph highlight synchronization (.verse-speaking)
- *   - Auto-resume and keep-alive for Chromium/Android speech engine
  * ====================================================================
  */
 
@@ -17,6 +16,7 @@ const TextToSpeech = (function () {
     let currentlySpeakingBtn = null;
     let availableVoices = [];
     let heartbeatTimer = null;
+    let loadingFallbackTimer = null;
 
     // Mapping for All 57 Languages with verified TTS voice availability
     const ALL_LANGUAGES_CONFIG = {
@@ -100,7 +100,6 @@ const TextToSpeech = (function () {
 
     /**
      * Option 1: Strictly check if an authentic voice for this language is available
-     * Returns false for unsupported dialects (Odia, Dogri, Sanskrit, etc.) on BOTH PC and Mobile
      */
     function isLanguageSupported(langKey) {
         if (!('speechSynthesis' in window)) return false;
@@ -119,7 +118,7 @@ const TextToSpeech = (function () {
             return config.hasTtsVoice === true;
         }
 
-        // Strict BCP-47 tag matching (avoids false-positive prefix matching like 'or' matching 'orm')
+        // Strict BCP-47 tag matching
         return availableVoices.some(voice => {
             const vLang = (voice.lang || '').toLowerCase().replace('_', '-');
             return vLang === targetLang || vLang === primaryLang || vLang.startsWith(primaryLang + '-');
@@ -127,7 +126,7 @@ const TextToSpeech = (function () {
     }
 
     /**
-     * Resolves the best available native voice for the given language
+     * Resolves the best available native human female voice
      */
     function getBestNativeVoice(langKey) {
         refreshVoices();
@@ -165,7 +164,7 @@ const TextToSpeech = (function () {
                 const vName = (v.name || '').toLowerCase();
                 const vLang = (v.lang || '').toLowerCase().replace('_', '-');
 
-                // Language Match Accuracy
+                // Exact language match
                 if (vLang === targetLang) score += 30;
 
                 // Priority 1: Modern Neural / Natural Online Engines
@@ -173,7 +172,7 @@ const TextToSpeech = (function () {
                     if (vName.includes(kw)) score += 50;
                 });
 
-                // Priority 2: Pleasant Natural Human Female Voices
+                // Priority 2: Natural Human Female Voices
                 femaleKeywords.forEach(kw => {
                     if (vName.includes(kw)) score += 40;
                 });
@@ -232,6 +231,11 @@ const TextToSpeech = (function () {
             heartbeatTimer = null;
         }
 
+        if (loadingFallbackTimer) {
+            clearTimeout(loadingFallbackTimer);
+            loadingFallbackTimer = null;
+        }
+
         if ('speechSynthesis' in window) {
             try {
                 window.speechSynthesis.cancel();
@@ -274,7 +278,7 @@ const TextToSpeech = (function () {
             return;
         }
 
-        // Stop any active speech first
+        // Stop previous speech cleanly
         stop();
 
         const textToSpeak = cleanTextForSpeech(verseElement.innerHTML);
@@ -285,7 +289,7 @@ const TextToSpeech = (function () {
         const nativeVoice = getBestNativeVoice(currentLangKey);
 
         if (!nativeVoice && !isLanguageSupported(currentLangKey)) {
-            alert(`No voice engine installed on your device for ${langConfig.label}. Please install the voice pack in your device settings.`);
+            alert(`No voice engine installed on your device for ${langConfig.label}.`);
             stop();
             return;
         }
@@ -304,7 +308,7 @@ const TextToSpeech = (function () {
             utterance.voice = nativeVoice;
             utterance.lang = nativeVoice.lang;
         } else {
-            utterance.lang = langConfig.lang;
+            utterance.lang = langConfig.lang || 'en-US';
         }
 
         // Natural human female conversational cadence & pitch
@@ -313,8 +317,19 @@ const TextToSpeech = (function () {
         utterance.volume = 1.0;
         currentUtterance = utterance;
 
-        // When audio starts, switch from spinner to pulsating stop button
+        // Smooth transition from loading spinner to pulsating stop button
+        loadingFallbackTimer = setTimeout(() => {
+            if (currentlySpeakingBtn && currentlySpeakingBtn.classList.contains('is-loading')) {
+                currentlySpeakingBtn.classList.remove('is-loading');
+                currentlySpeakingBtn.classList.add('is-speaking');
+            }
+        }, 250);
+
         utterance.onstart = function () {
+            if (loadingFallbackTimer) {
+                clearTimeout(loadingFallbackTimer);
+                loadingFallbackTimer = null;
+            }
             if (currentlySpeakingBtn) {
                 currentlySpeakingBtn.classList.remove('is-loading');
                 currentlySpeakingBtn.classList.add('is-speaking');
@@ -326,7 +341,10 @@ const TextToSpeech = (function () {
         };
 
         utterance.onerror = function (e) {
-            console.warn('[TTS] Speech utterance error:', e);
+            if (e && e.error === 'interrupted') {
+                return;
+            }
+            console.warn('[TTS] Speech utterance error:', e ? e.error : e);
             stop();
         };
 
@@ -336,11 +354,10 @@ const TextToSpeech = (function () {
                 window.speechSynthesis.pause();
                 window.speechSynthesis.resume();
             }
-        }, 10000);
+        }, 8000);
 
-        // Resume engine and speak
+        // Safe speech execution pipeline (prevents Chromium cancel-before-speak bug)
         try {
-            window.speechSynthesis.cancel();
             window.speechSynthesis.resume();
             window.speechSynthesis.speak(utterance);
         } catch (err) {
