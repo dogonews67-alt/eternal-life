@@ -7310,16 +7310,20 @@ function appendMessage(text, type) {
     const div = document.createElement('div');
     div.className = 'msg-' + type;
 
-    // Process formatting (bolding verses)
+    // Process formatting (bolding verses and markdown)
     if (type === 'ai') {
         const msgId = 'msg-' + Date.now();
         div.id = msgId;
 
-        // Simple formatter: *text* -> <b>text</b>
-        const contentHtml = text.replace(/\n/g, '<br>');
+        // Clean markdown formatter
+        let formatted = text
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/g, '<em>$1</em>')
+            .replace(/^\s*[\*\-]\s+(.*)$/gm, '• $1')
+            .replace(/\n/g, '<br>');
 
         div.innerHTML = `
-            <div class="msg-content">${contentHtml}</div>
+            <div class="msg-content">${formatted}</div>
             <div class="msg-actions">
                 <button class="report-btn" onclick="flagMessage('${msgId}')" title="Report Inappropriate Content">
                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line></svg>
@@ -7453,7 +7457,10 @@ async function queryGemini(query) {
                 contents: contents,
                 generationConfig: {
                     temperature: 0.7,
-                    maxOutputTokens: 1000
+                    maxOutputTokens: 4096,
+                    thinkingConfig: {
+                        thinkingBudget: 0
+                    }
                 }
             })
         });
