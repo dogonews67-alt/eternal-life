@@ -148,25 +148,42 @@ const TextToSpeech = (function () {
         });
 
         if (matches.length > 0) {
-            const naturalKeywords = [
-                'natural', 'neural', 'google', 'premium', 'enhanced',
-                'samantha', 'daniel', 'karen', 'serena', 'microsoft', 'zira', 'david'
+            const premiumKeywords = ['natural', 'neural', 'online'];
+            const femaleKeywords = [
+                'jenny', 'aria', 'samantha', 'zira', 'ava', 'karen',
+                'serena', 'allison', 'victoria', 'susan', 'cathy',
+                'stephanie', 'clara', 'emma', 'olivia', 'sophia',
+                'google uk english female', 'google us english', 'female'
             ];
+            const roboticKeywords = ['david', 'desktop', 'mark', 'espeak', 'robot', 'george', 'richard', 'sample'];
 
             let bestMatch = matches[0];
-            let bestScore = -1;
+            let bestScore = -999;
 
             matches.forEach(v => {
                 let score = 0;
                 const vName = (v.name || '').toLowerCase();
                 const vLang = (v.lang || '').toLowerCase().replace('_', '-');
 
-                if (vLang === targetLang) score += 20;
-                naturalKeywords.forEach(kw => {
-                    if (vName.includes(kw)) score += 15;
+                // Language Match Accuracy
+                if (vLang === targetLang) score += 30;
+
+                // Priority 1: Modern Neural / Natural Online Engines
+                premiumKeywords.forEach(kw => {
+                    if (vName.includes(kw)) score += 50;
                 });
-                if (v.localService) score += 5;
-                if (v.default) score += 3;
+
+                // Priority 2: Pleasant Natural Human Female Voices
+                femaleKeywords.forEach(kw => {
+                    if (vName.includes(kw)) score += 40;
+                });
+
+                // Penalty: Robotic Legacy SAPI Desktop Voices
+                roboticKeywords.forEach(kw => {
+                    if (vName.includes(kw)) score -= 60;
+                });
+
+                if (v.default && score >= 0) score += 5;
 
                 if (score > bestScore) {
                     bestScore = score;
@@ -290,9 +307,9 @@ const TextToSpeech = (function () {
             utterance.lang = langConfig.lang;
         }
 
-        // Natural conversational speed & pitch
-        utterance.rate = 0.95;
-        utterance.pitch = 1.0;
+        // Natural human female conversational cadence & pitch
+        utterance.rate = 0.96;
+        utterance.pitch = 1.05;
         utterance.volume = 1.0;
         currentUtterance = utterance;
 
