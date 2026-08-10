@@ -17,7 +17,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&family=Amiri:wght@400;700&family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@400;700&family=Noto+Sans+Oriya:wght@400;700&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=7">
+    <link rel="stylesheet" href="style.css?v=8">
     <link rel="stylesheet" href="scroll_restorer_assets/scroll_restorer.css?v=8">
     <link rel="stylesheet" href="manna catch/manna_catch.css">
     <link rel="stylesheet" href="css/onboarding.css">
@@ -319,7 +319,20 @@
         <button class="nav-btn prev-btn" id="prevBtn" onclick="changeChapter(-1)">&#10094;</button>
 
         <div class="book-wrapper">
-            <div id="bookPage" class="book-page">
+            <div id="bookPage" class="book-page cover-page-wrapper">
+                <div class="cover-container">
+                    <div class="cover-card">
+                        <img src="the_eternal_life.png" alt="Eternal Life Cover" class="cover-image">
+                        <div class="cover-overlay-gradient"></div>
+                        <div class="cover-content">
+                            <h1 class="book-title-overlay">Eternal Life</h1>
+                            <button class="cover-read-btn" onclick="changeChapter(1)" aria-label="Read Book">
+                                <span>Read Book</span>
+                                <span class="cover-btn-arrow">→</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
@@ -838,7 +851,7 @@
     <script src="js/tts.js?v=7" charset="UTF-8"></script>
     <!-- Core Logic -->
     <script src="js/missing_functions.js"></script> <!-- Restored Utility Functions -->
-    <script src="script.js?t=20260810151500" charset="UTF-8"></script>
+    <script src="script.js?t=20260810201000" charset="UTF-8"></script>
     <script src="scroll_restorer_assets/scroll_restorer.js?v=8" charset="UTF-8"></script>
     <script src="manna catch/manna_catch.js"></script>
     <script src="js/onboarding.js"></script>
